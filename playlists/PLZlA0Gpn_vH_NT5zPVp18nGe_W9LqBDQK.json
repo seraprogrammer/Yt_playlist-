@@ -1,0 +1,456 @@
+{
+  "playlistId": "PLZlA0Gpn_vH_NT5zPVp18nGe_W9LqBDQK",
+  "fetchedAt": "2025-03-22T19:32:53.166Z",
+  "items": [
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41NkI0NEY2RDEwNTU3Q0M2",
+      "title": "What Is React And Why You Need To Know It",
+      "description": "React is the most popular frontend framework and is needed for nearly every frontend web development job. Because of this, it is crucial that you understand what React is and how to use it. In this video I will breakdown exactly what React is, so you will have a clear understanding of what you need to learn. I will also breakdown how components work in general which is applicable to not only React, but any major frontend framework. Lastly, I will talk about the importance of React and why you need to learn React.\n\n\n🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\n\n🧠 Concepts Covered:\n\n- What React is\n- Why you should know React\n- How to break a website into components\n- How components work in React\n- What makes React special\n- How React handles state and re-rendering\n\n\n🌎 Find Me Here:\n\nMy Website: https://webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#React #WDS #WhatIsReact",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1wZoGFF_oi4/mqdefault.jpg",
+      "videoId": "1wZoGFF_oi4",
+      "publishedAt": "2019-08-23T15:34:07Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4yODlGNEE0NkRGMEEzMEQy",
+      "title": "React State Vs Props",
+      "description": "One of the most confusing topics when first learning React is when to use state vs props. They seem to both do very similiar things, and many times look like they are used interchangeably. In this video I will be explaining in depth the difference between state and props in React, so you can understand exactly when to use them. I will also be using specific examples to explain when to use state and when to use props.\n\n\n🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\n\n🧠 Concepts Covered:\n\n- State in React\n- Props in React\n- When to use state vs props in React\n- The difference between state and props in React\n- Where state is managed\n- Where props are managed\n\n\n🌎 Find Me Here:\n\nMy Website: https://webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#WebDevelopment #WDS #JavaScript",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IYvD9oBCuJI/mqdefault.jpg",
+      "videoId": "IYvD9oBCuJI",
+      "publishedAt": "2019-08-25T21:23:02Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4wMTcyMDhGQUE4NTIzM0Y5",
+      "title": "Build A Pokémon Application With React - Tutorial",
+      "description": "Building React applications doesn't have to be about building boring todo lists. In this video we will be creating a React Pokemon application using the latest features of React. This means we will utilize hooks for state and effects instead of classes. By the end of this video you will have a strong understanding of the basics for building out a React application that accesses external APIs.\n\n\n🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\n\n📚 Materials/References:\n\nArray Destructuring Tutorial: https://youtu.be/NIq3qLaHCIs\nGitHub Code: https://github.com/WebDevSimplified/React-Pokemon-Pagination\n\n🧠 Concepts Covered:\n\n- Creating a React application\n- useState hook\n- useEffect hook\n- How to use axios with React\n- How to organize React components\n\n\n🌎 Find Me Here:\n\nMy Website: https://webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#Pokemon #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o3ZUc7zH8BE/mqdefault.jpg",
+      "videoId": "o3ZUc7zH8BE",
+      "publishedAt": "2019-09-02T22:25:58Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41MjE1MkI0OTQ2QzJGNzNG",
+      "title": "Learn React Today Course Launch!",
+      "description": "My React course is finally live which means you can learn React today! Checkout the link below for a limited time discount on the course.\n\n🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today?coupon=LAUNCH25\nDiscount Code: LAUNCH-25\n\n\n🌎 Find Me Here:\n\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#React #WDS #LearnReactToday",
+      "thumbnailUrl": "https://i.ytimg.com/vi/518L3GYUf48/mqdefault.jpg",
+      "videoId": "518L3GYUf48",
+      "publishedAt": "2019-09-09T00:42:48Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4wOTA3OTZBNzVEMTUzOTMy",
+      "title": "Infinite Scrolling With React - Tutorial",
+      "description": "Infinite scrolling is incredibly common especially in social media applications, but it is intimidating to setup. In this video I will be breaking down exactly how to setup infinite scrolling and why it is much easier than it appears. Infinite scrolling is really just a fancy type of pagination that will paginate without the user needing to click a button. This means that we can setup simple pagination, but instead of hooking it up to a button we need to hook it up to scrolling. Setting up a JavaScript event on scroll is not very performant, though, so we will be using the amazing InteresectionObserver API to efficiently check for when the last element of our list is loaded.\n\n\n🚨 IMPORTANT:\n\nIf you want to learn React in depth checkout my full modern React course.\nhttps://courses.webdevsimplified.com/learn-react-today\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/React-Infinite-Scrolling\n\n\n🧠 Concepts Covered:\n\n- How to use React hooks\n- useEffect, useState, useRef, useCallback hooks\n- IntersectionObserver with React\n\n\n🌎 Find Me Here:\n\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#React #WDS #InfiniteScrolling",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NZKUirTtxcg/mqdefault.jpg",
+      "videoId": "NZKUirTtxcg",
+      "publishedAt": "2019-09-28T15:20:39Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4xMkVGQjNCMUM1N0RFNEUx",
+      "title": "Learn React In 30 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I will be covering all of the basics of React in only 30 minutes. We will cover create-react-app, components, state, props, rendering, event handling, and so much more. By the end of this video you will have a full understanding of the basics of React, but if you want to take your React knowledge to the next level checkout my full React course linked above for the best React learning experience on the web.\n\n\n📚 Materials/References:\n\nHow To Install Node.js: https://youtu.be/VShtPwEkDD0\nDestructoring Video: https://youtu.be/NIq3qLaHCIs\nGitHub Code: https://github.com/WebDevSimplified/Learn-React-In-30-Minutes\n\n\n🧠 Concepts Covered:\n\n- React function components\n- React hooks\n- State management in React\n- Prop drilling\n- How to use create-react-app\n\n\n🌎 Find Me Here:\n\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#Reactjs #WDS #JavaScript",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hQAHSlTtcmY/mqdefault.jpg",
+      "videoId": "hQAHSlTtcmY",
+      "publishedAt": "2019-10-20T21:28:38Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41MzJCQjBCNDIyRkJDN0VD",
+      "title": "Build A Currency Converter In React",
+      "description": "🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\n\nModern React is tough to learn which is why in this video I will be walking you through a beginner/intermediate level React project using hooks. This project will handle API calls, two way data binding, useEffect, useState, and much more so it is a great project for learning about all the basics of React. I will also be explaining my process from beginning to end so you can understand exactly what my thought process is the entire way.\n\n\n📚 Materials/References:\n\nDestructoring And Spread Operator Video: https://youtu.be/NIq3qLaHCIs\nGitHub Code: https://github.com/WebDevSimplified/React-Currency-Converter\n\n\n🧠 Concepts Covered:\n\n- How to useEffect\n- How to useState\n- How to setup two way data binding in React\n- Creating a React project\n- Using an API in React\n- Differences between state and props\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactProject #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XN5elYWiSuw/mqdefault.jpg",
+      "videoId": "XN5elYWiSuw",
+      "publishedAt": "2020-02-10T23:45:38Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5DQUNERDQ2NkIzRUQxNTY1",
+      "title": "How To Build A Flashcard Quiz With React",
+      "description": "🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I am going to show you how to build a flashcard quiz application using React while connecting to an external API. We are also going to explore some fancy animations with CSS which really make this application pop.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/React-Flashcard-App\nDestructoring Tutorial: https://youtu.be/NIq3qLaHCIs\n\n\n🧠 Concepts Covered:\n\n- How to connect to an API with React\n- The planning process of a React app\n- Efficient React re-rendering techniques\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJS #WDS #JavaScript",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hEtZ040fsD8/mqdefault.jpg",
+      "videoId": "hEtZ040fsD8",
+      "publishedAt": "2020-04-11T13:55:40Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy45NDk1REZENzhEMzU5MDQz",
+      "title": "Learn useState In 15 Minutes - React Hooks Explained",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useState hook. I also go over the basics of hooks as well so you can start using hooks in your own projects. This is the beginning of a series of React videos  where I cover all the important hooks in React.\n\nSkip Past General Hook Details: 4:22\n\n📚 Materials/References:\n\nuseState Blog Article: https://blog.webdevsimplified.com/2020-04/use-state\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to convert class state to function state with useState\n- How to use the useState hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useState",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O6P86uwfdR0/mqdefault.jpg",
+      "videoId": "O6P86uwfdR0",
+      "publishedAt": "2020-05-04T23:29:40Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5GNjNDRDREMDQxOThCMDQ2",
+      "title": "Learn useEffect In 13 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I cover everything you need to know about the useEffect hook. I compare this hook to the old way of doing things with lifecycle methods in class components so you can understand how to start using hooks effectively in your projects. This is part of a series of React videos where I cover all the important hooks in React.\n\n\n📚 Materials/References:\n\nuseState Video: https://youtu.be/O6P86uwfdR0\nuseEffect Blog Article: https://blog.webdevsimplified.com/2020-04/use-effect/\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to convert class lifecycle methods to function effects with useEffect\n- How to use the useEffect hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useEffect",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0ZJgIjIuY7U/mqdefault.jpg",
+      "videoId": "0ZJgIjIuY7U",
+      "publishedAt": "2020-05-04T23:42:58Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy40NzZCMERDMjVEN0RFRThB",
+      "title": "Learn useMemo In 10 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I cover everything you need to know about the useMemo hook. I go over all the main use cases for useMemo as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseMemo Blog Article: https://blog.webdevsimplified.com/2020-05/memoization-in-react\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to memoize values in React function components\n- How to use the useMemo hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useMemo",
+      "thumbnailUrl": "https://i.ytimg.com/vi/THL1OPn72vo/mqdefault.jpg",
+      "videoId": "THL1OPn72vo",
+      "publishedAt": "2020-05-26T23:24:17Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy45ODRDNTg0QjA4NkFBNkQy",
+      "title": "Learn useRef in 11 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useRef hook. I go over all the main use cases for useRef as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseRef Blog Article: https://blog.webdevsimplified.com/2020-05/use-ref\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to store values between renders in React function components\n- How to use the useRef hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useRef",
+      "thumbnailUrl": "https://i.ytimg.com/vi/t2ypzz6gJm0/mqdefault.jpg",
+      "videoId": "t2ypzz6gJm0",
+      "publishedAt": "2020-05-27T23:28:16Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41Mzk2QTAxMTkzNDk4MDhF",
+      "title": "Learn useContext In 13 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I cover everything you need to know about the useContext hook. I go over all the main use cases for useContext as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseContext Blog Article: https://blog.webdevsimplified.com/2020-06/use-context\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to use context values in React function components\n- How to use the useContext hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useContext",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5LrDIWkK_Bc/mqdefault.jpg",
+      "videoId": "5LrDIWkK_Bc",
+      "publishedAt": "2020-06-01T23:23:34Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5EQUE1NTFDRjcwMDg0NEMz",
+      "title": "Learn useReducer In 20 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useReducer hook. I go over all the main use cases for useReducer as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseReducer Blog Article: https://blog.webdevsimplified.com/2020-06/use-reducer\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to manage complex state in React function components\n- How to use the useReducer hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useReducer",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kK_Wqx3RnHk/mqdefault.jpg",
+      "videoId": "kK_Wqx3RnHk",
+      "publishedAt": "2020-07-02T13:15:53Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41QTY1Q0UxMTVCODczNThE",
+      "title": "Learn useCallback In 8 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useCallback hook. I go over all the main use cases for useCallback as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseCallback Blog Article: https://blog.webdevsimplified.com/2020-05/memoization-in-react\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to manage referential equality of functions in React\n- How to use the useCallback hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useCallback",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_AyFP5s69N4/mqdefault.jpg",
+      "videoId": "_AyFP5s69N4",
+      "publishedAt": "2020-07-08T23:58:17Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4yMUQyQTQzMjRDNzMyQTMy",
+      "title": "Learn Custom Hooks In 10 Minutes",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about creating your own custom hooks. I go over all the main use cases for custom hooks as well as many common mistakes that developers make when creating custom hooks. In this video I will cover two different examples of how custom hooks can best be used. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nCustom Hooks Blog Article: https://blog.webdevsimplified.com/2019-11/how-to-write-custom-hooks\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use custom hooks in React\n- How to create custom hooks in React\n- Best practices for custom hooks in React\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #CustomHooks",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6ThXsUwLWvc/mqdefault.jpg",
+      "videoId": "6ThXsUwLWvc",
+      "publishedAt": "2020-07-14T13:19:15Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy45RTgxNDRBMzUwRjQ0MDhC",
+      "title": "Learn React Portal In 12 Minutes By Building A Modal",
+      "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nReact is a complex library to use and the fact that everything is nested inside a component can make certain tasks much more difficult. One of those tasks is rendering popups and modals. It doesn't make sense for them to be rendered inside a component, but you need to access them inside a component. This would lead to a impossible problem to solve, but React thought of this for you. Portals are a way for you to render an element somewhere else while still having access to it in the component you are working on. They are a bit complex at first, though, so in this video I breakdown React portals step by step.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/React-Modal-Popup\nReact Portal Blog Article: https://blog.webdevsimplified.com/2019-12/how-to-use-react-portal\n\n\n🧠 Concepts Covered:\n\n- How to use portals in React\n- How to create a modal in React\n- Portal best practices\n- How events are handled in portals\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactPortal #WDS #ReactJs",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LyLa7dU5tp8/mqdefault.jpg",
+      "videoId": "LyLa7dU5tp8",
+      "publishedAt": "2020-07-25T14:36:42Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5ENDU4Q0M4RDExNzM1Mjcy",
+      "title": "How To Create A Messaging App With Socket.io And React",
+      "description": "🚨 IMPORTANT:\n\nGet started with Embold.io for free: https://embold.io/products/overview?utm_source=Youtube&utm_medium=Video&utm_campaign=Web_Dev_Simp_Sep20\nUse code US21F29A for 20% off a paid account (Only applicable in India)\n\nWhatsapp is an incredibly popular application, but the technology behind it is actually pretty simple. In this video I will show you how to create a messaging app similar to Whatsapp with React.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/Whatsapp-Clone\nuseRef Tutorial: https://youtu.be/t2ypzz6gJm0\nuseState Tutorial: https://youtu.be/O6P86uwfdR0\nuseContext Tutorial: https://youtu.be/5LrDIWkK_Bc\n\n\n🧠 Concepts Covered:\n\n- How to use Socket.io\n- How to create custom React hooks\n- How to create custom React contexts\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00:00 - Introduction\n00:00:34 - Demo\n00:02:20 - Code Setup\n00:03:51 - Login Page\n00:13:47 - Custom Local Storage Hook\n00:18:50 - Dashboard\n00:20:21 - Sidebar\n00:29:50 - Create Contact Modal\n00:36:01 - Contact Context\n00:41:18 - Contacts Sidebar\n00:43:01 - Conversation Modal\n00:48:43 - Conversation Context\n00:54:12 - Conversation Sidebar\n00:59:11 - Current Conversation Component\n01:04:50 - Send Message\n01:13:45 - Displaying Messages\n01:23:43 - Server Setup\n01:28:28 - Socket.io On Client\n01:37:26 - Outro\n\n\n#Reactjs #WDS #WhatsappClone",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tBr-PybP_9c/mqdefault.jpg",
+      "videoId": "tBr-PybP_9c",
+      "publishedAt": "2020-09-03T17:40:51Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4yMDhBMkNBNjRDMjQxQTg1",
+      "title": "How To Build A Photo Editor With React And CSS Filters",
+      "description": "🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nWho needs Photoshop when you build your own Photoshop clone with just a bit of CSS and React. In this video I will show you how to take advantage of the responsiveness of React combined with CSS filters to make a simple Photoshop clone.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/React-Photoshop-Clone\nuseState Tutorial: https://youtu.be/O6P86uwfdR0\n\n\n🧠 Concepts Covered:\n\n- How to use CSS filters\n- How to setup sliders in React\n- How to use CSS grid\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:33 - Demo\n01:17 - File Setup\n01:37 - HTML Structure\n04:29 - CSS\n10:19 - Sidebar\n11:45 - Siderbar CSS\n16:54 - Sidebar Functionality\n24:53 - Slider Functionality\n27:35 - Putting It All Together\n31:38 - Outro\n\n\n#ReactJS #WDS #JavaScript",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J243ncoInNE/mqdefault.jpg",
+      "videoId": "J243ncoInNE",
+      "publishedAt": "2020-09-09T21:54:05Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5GM0Q3M0MzMzY5NTJFNTdE",
+      "title": "How To Build CodePen With React",
+      "description": "🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nI love CodePen. It is perfect for prototyping project ideas and is a really cool idea. I like it so much I decided to see what it would take to create my own CodePen. In this video I will be showing you how to create a simple clone of the core functionality of CodePen using React.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/React-CodePen-Clone\n\n\n🧠 Concepts Covered:\n\n- How to create a text editor in React\n- How to render custom HTML/CSS/JavaScript\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:32 - Demo\n01:06 - Code Setup\n02:59 - HTML Setup\n05:34 - Editor Setup\n12:35 - CSS\n17:13 - CodePen Functionality\n21:10 - Open Close Button\n26:22 - Local Storage Hook\n30:14 - Outro\n\n\n#CodePen #WDS #ReactJS",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wcVxX7lu2d4/mqdefault.jpg",
+      "videoId": "wcVxX7lu2d4",
+      "publishedAt": "2020-09-16T15:03:43Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4zRjM0MkVCRTg0MkYyQTM0",
+      "title": "Junior Vs Senior Code - How To Write Better Code As A Web Developer - React",
+      "description": "🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nWriting code is easy. Writing clean code, though, is much harder. In this video I take a look at three different React code examples from a beginner, intermediate, and advanced web developer. The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/Noob-Vs-Pro-Code\nPass By Reference Vs Value: https://youtu.be/-hBJz2PPIVE\nDerived State Article: https://blog.webdevsimplified.com/2019-11/never-store-derived-state\n\n\n🧠 Concepts Covered:\n\n- How senior developers think\n- How to use React state properly\n- How to use React useEffect properly\n- What to think about when programming\n- The differences between senior and junior developers\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:36 - State Mistakes - Noob\n01:50 - State Mistakes - Advanced\n04:06 - State Mistakes - Pro\n06:34 - Effect Mistakes - Noob\n10:34 - Effect Mistakes - Advanced\n12:21 - Effect Mistakes - Pro\n14:27 - List Mistakes - Noob\n17:16 - List Mistakes - Advanced\n20:10 - List Mistakes - Pro\n21:36 - Outro\n\n\n#NoobVsPro #WDS #ReactCleanCode",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0yzoAbrjV6k/mqdefault.jpg",
+      "videoId": "0yzoAbrjV6k",
+      "publishedAt": "2020-09-25T16:13:33Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy45NzUwQkI1M0UxNThBMkU0",
+      "title": "How To Use Frontity To Create A Headless WordPress Theme With React",
+      "description": "🚨 IMPORTANT:\n\nCheckout Frontity: https://bit.ly/frontity-webdevsimplified\n\nFrontity is an incredible tool for creating headless WordPress sites using React. It takes all the pain of dealing with PHP and WordPress directly and wraps it up into a nice and easy to use container. In this video I will show you how to use Frontity to create a simple WordPress theme with React and also how to use React Spring to add custom page transitions to your WordPress site.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/Frontity-Blog\n\n\n🧠 Concepts Covered:\n\n- How to create a Frontity site\n- How to add page transitions in Frontity\n- Why React is so much nicer to work with for WordPress themes\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:41 - Demo\n01:13 - Create Initial Project\n04:50 - Frontity Packages Explained\n08:45 - Most Important Components\n09:44 - Modifying Styles\n10:43 - Page Transitions\n15:19 - Deployment\n18:22 - Outro\n\n\n#Frontity #WDS #HeadlessWordPress",
+      "thumbnailUrl": "https://i.ytimg.com/vi/whsYQ9fb64k/mqdefault.jpg",
+      "videoId": "whsYQ9fb64k",
+      "publishedAt": "2020-09-28T19:32:34Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5DNzE1RjZEMUZCMjA0RDBB",
+      "title": "React Authentication Crash Course With Firebase And Routing",
+      "description": "🚨 IMPORTANT:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nAuthentication is crucial for nearly every application. It can also be incredibly difficult to create a good authentication solution. This is where firebase comes in. Firebase makes it incredibly easy to create a secure authentication solution, and in this video I will be showing you how to setup firebase auth with React.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/React-Firebase-Auth\nuseContext Tutorial: https://youtu.be/5LrDIWkK_Bc\n\n\n🧠 Concepts Covered:\n\n- How to setup firebase auth\n- How to use firebase in React\n- How to setup secure Firebase in React\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:43 - Demo\n01:38 - Firebase Setup\n08:36 - Signup Component\n16:03 - Auth Context Setup\n20:20 - Signup Component Functionality\n25:28 - Auth Loading State\n27:11 - Routing Setup\n30:11 - Login Component\n32:32 - Marker 9\n35:44 - Dashboard Component\n39:15 - Logout Functionality\n41:02 - Private Routes\n43:38 - Password Reset\n49:17 - Profile Update\n55:46 - Outro\n\n\n#FirebaseAuth #WDS #ReactJS",
+      "thumbnailUrl": "https://i.ytimg.com/vi/PKwu15ldZ7k/mqdefault.jpg",
+      "videoId": "PKwu15ldZ7k",
+      "publishedAt": "2020-09-28T20:44:41Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "title": "Build A Voice Recognition Ecommerce App With Alan AI",
+      "description": "🚨 IMPORTANT:\n\nAlan AI: https://voice.alan.app/WebDevSimplified\nPromo Code: WEBDEVSIMPLIFIED\n\nVoice integration is the future of the web. It enables applications to be accessible to everyone and is very mobile friendly. In this video I show you how you can integrate Alan AI into your own applications incredibly easily.\n\n\n📚 Materials/References:\n\nStarting Code: https://github.com/WebDevSimplified/Alan-AI-Ecommerce/tree/starting-code\nFinal Code: https://github.com/WebDevSimplified/Alan-AI-Ecommerce\nuseCallback Tutorial: https://youtu.be/_AyFP5s69N4\n\n\n🧠 Concepts Covered:\n\n- Alan AI Integration\n- React Voice Interactions\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n02:21 - Starting Code\n03:29 - Alan Setup\n08:03 - Adding Alan To React\n22:05 - Open Cart Functionality\n24:42 - Close Cart Functionality\n26:59 - Add Item Functionality\n39:10 - Remove Item Functionality\n43:36 - Checkout Functionality\n46:54 - Outro\n\n\n#AlanAI #WDS #VoiceInteraction",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4xwruFAvEHA/mqdefault.jpg",
+      "videoId": "4xwruFAvEHA",
+      "publishedAt": "2020-11-24T17:42:19Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4yQUE2Q0JEMTk4NTM3RTZC",
+      "title": "How To Build A Google Drive Clone With Firebase",
+      "description": "This is a massive video. We cover everything you need to know about Firebase to create any app you can dream of. This includes, authentication, file storage, database storage, and so much more. This video has it all.\n\n\n📚 Materials/References:\n\nStarting GitHub Code: https://github.com/WebDevSimplified/React-Firebase-Auth\nFinal GitHub Code: https://github.com/WebDevSimplified/firebase-google-drive-clone\nReact Firebase Auth Tutorial: https://youtu.be/PKwu15ldZ7k\nuseReducer Tutorial: https://youtu.be/kK_Wqx3RnHk\nReact Portal Tutorial: https://youtu.be/LyLa7dU5tp8\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00:00 - Introduction\n00:00:36 - Demo\n00:03:45 - Modifying Existing Code\n00:09:34 - Navbar\n00:13:42 - Adding Folders\n00:29:06 - useFolder Hook\n00:52:16 - Folder View\n00:57:10 - Breadcrumbs\n01:12:33 - Firebase Rules\n01:17:49 - Add File Button\n01:33:02 - File View\n01:35:13 - Upload Progress Component\n01:45:51 - Handling Duplicates\n\n\n#React #WDS #Firebase",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6XTRElVAZ9Y/mqdefault.jpg",
+      "videoId": "6XTRElVAZ9Y",
+      "publishedAt": "2021-01-26T01:28:15Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5DMkU4NTY1QUFGQTYwMDE3",
+      "title": "How To Build A Google Docs Clone With React, Socket.io, and MongoDB",
+      "description": "Hostinger: https://www.hostinger.com/webdevsimplified\nUse coupon WEBDEVSIMPLIFIED for 10% off an yearly plan.\n\nGoogle docs revolutionized word documents with its collaborative features, but actually creating your own Google docs is not that hard. In this video I will show you how to create a complete Google Docs clone from scratch using ReactJS, Socket.io, MongoDB, and QuillJS.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/google-docs-clone\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\nuseEffect Video Tutorial: https://youtu.be/0ZJgIjIuY7U\nuseEffect Article: https://blog.webdevsimplified.com/2020-04/use-effect\nuseRef Video Tutorial: https://youtu.be/t2ypzz6gJm0\nuseRef Article: https://blog.webdevsimplified.com/2020-05/use-ref\nBox Model Video: https://youtu.be/rIO5326FgPE\nMedia Queries Video: https://youtu.be/yU7jJ3NbPdA\nMongoDB Install Video: https://youtu.be/wcx3f0eUiAw\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n01:23 - Project Overview\n03:53 - Project Setup\n05:36 - Setting Up Quill\n11:25 - CSS Styles\n20:36 - Server Setup\n25:45 - Transmitting Changes To Clients\n30:49 - Handling Multiple Documents\n39:50 - Persisting Documents\n\n\n#ReactJS #WDS #JavaScript",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iRaelG7v0OU/mqdefault.jpg",
+      "videoId": "iRaelG7v0OU",
+      "publishedAt": "2021-04-19T23:27:07Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy44Mjc5REFBRUE2MTdFRDU0",
+      "title": "Learn React PropTypes In 13 Minutes",
+      "description": "Learn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nWith React it is very easy to accidentally pass incorrect props to a component and worst of all it is difficult to track down where these bugs occur before deploying your code. This is where PropTypes come in. With PropTypes you can easily define exactly what the props should be for a component and it will notify you when those props are incorrect. In this video I will be going over everything you need to know about PropTypes so you can start writing less buggy React code immediately.\n\n\n📚 Materials/References:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\nPropTypes Article: https://blog.webdevsimplified.com/2020-12/react-prop-types\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:22 - Basic PropTypes\n07:48 - Advanced PropTypes\n\n\n#PropsTypes #WDS #ReactJS",
+      "thumbnailUrl": "https://i.ytimg.com/vi/cx0S8JyiVxc/mqdefault.jpg",
+      "videoId": "cx0S8JyiVxc",
+      "publishedAt": "2021-08-02T11:18:11Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy43NDhFRTgwOTRERTU4Rjg3",
+      "title": "5 Custom React Hooks You Need In Every Project",
+      "description": "There are infinite possibilities for React hooks, but not all hooks are created equal. In this video I will be going over 5 incredibly powerful hooks that you can use in any project that are also super quick to implement.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/useful-custom-react-hooks\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:32 - useToggle\n01:58 - useTimeout\n05:06 - useDebounce\n07:28 - useUpdateEffect\n09:10 - useArray\n\n\n#ReactHooks #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0c6znExIqRw/mqdefault.jpg",
+      "videoId": "0c6znExIqRw",
+      "publishedAt": "2021-09-06T17:27:26Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41QUZGQTY5OTE4QTREQUU4",
+      "title": "Save Hours Of Work With These 5 Custom React Hooks",
+      "description": "There are infinite possibilities for React hooks, but not all hooks are created equal. In this video I will be going over 5 incredibly powerful hooks that you can use in any project that are also super quick to implement.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/useful-custom-react-hooks\nPart 1: https://youtu.be/0c6znExIqRw\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:29 - usePrevious\n02:20 - useStateWithHistory\n06:33 - useStorage\n09:06 - useAsync\n11:18 - useFetch\n\n\n#ReactHooks #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/vrIxu-kfAUo/mqdefault.jpg",
+      "videoId": "vrIxu-kfAUo",
+      "publishedAt": "2021-09-13T11:28:52Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4zRDBDOEZDOUM0MDY5NEEz",
+      "title": "Make React Easy With These 5 Custom React Hooks",
+      "description": "There are infinite possibilities for React hooks, but not all hooks are created equal. In this video I will be going over 5 incredibly powerful hooks that you can use in any project that are also super quick to implement.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/useful-custom-react-hooks\nPart 1: https://youtu.be/0c6znExIqRw\nPart 2: https://youtu.be/vrIxu-kfAUo\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:32 - useScript\n01:48 - useDeepCompareEffect\n04:48 - useEventListener\n06:18 - useOnScreen\n08:18 - useWindowSize\n\n\n#ReactHooks #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ix_xeCuS4XA/mqdefault.jpg",
+      "videoId": "Ix_xeCuS4XA",
+      "publishedAt": "2021-10-02T12:19:53Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "title": "5 More Custom React Hooks You Need In Every Project",
+      "description": "There are infinite possibilities for React hooks, but not all hooks are created equal. In this video I will be going over 5 incredibly powerful hooks that you can use in any project that are also super quick to implement.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/useful-custom-react-hooks\nPart 1: https://youtu.be/0c6znExIqRw\nPart 2: https://youtu.be/vrIxu-kfAUo\nPart 3: https://youtu.be/Ix_xeCuS4XA\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:36 - useMediaQuery \n03:04 - useGeolocation\n05:14 - useStateWithValidation \n07:25 - useSize \n09:14 - useEffectOnce\n\n\n#ReactHooks #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/izXHsZ57UPs/mqdefault.jpg",
+      "videoId": "izXHsZ57UPs",
+      "publishedAt": "2021-10-08T19:05:42Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy42MTI4Njc2QjM1RjU1MjlG",
+      "title": "Every Big React App Needs These 5 Custom Hooks",
+      "description": "There are infinite possibilities for React hooks, but not all hooks are created equal. In this video I will be going over 5 incredibly powerful hooks that you can use in any project that are also super quick to implement.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/useful-custom-react-hooks\nPart 1: https://youtu.be/0c6znExIqRw\nPart 2: https://youtu.be/vrIxu-kfAUo\nPart 3: https://youtu.be/Ix_xeCuS4XA\nPart 4: https://youtu.be/izXHsZ57UPs\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:27 - useClickOutside\n01:43 - useDarkMode\n03:50 - useCopyToClipboard\n05:21 - useCookie\n07:01 - useTranslation\n\n\n#ReactHooks #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XEQ9nEHYIbw/mqdefault.jpg",
+      "videoId": "XEQ9nEHYIbw",
+      "publishedAt": "2021-10-11T19:54:50Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy45RjNFMDhGQ0Q2RkFCQTc1",
+      "title": "Save Hours Debugging With These React Hooks",
+      "description": "There are infinite possibilities for React hooks, but not all hooks are created equal. In this video I will be going over 5 incredibly powerful hooks that you can use in any project that are also super quick to implement.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/useful-custom-react-hooks\nPart 1: https://youtu.be/0c6znExIqRw\nPart 2: https://youtu.be/vrIxu-kfAUo\nPart 3: https://youtu.be/Ix_xeCuS4XA\nPart 4: https://youtu.be/izXHsZ57UPs\nPart 5: https://youtu.be/XEQ9nEHYIbw\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:20 - useOnlineStatus\n01:12 - useRenderCount\n02:37 - useDebugInformation\n05:57 - useHover\n07:04 - useLongPress\n\n\n#ReactHooks #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wvJPGUuEUPk/mqdefault.jpg",
+      "videoId": "wvJPGUuEUPk",
+      "publishedAt": "2021-10-21T18:40:54Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy40QTA3NTU2RkM1QzlCMzYx",
+      "title": "Learn useLayoutEffect In 5 Minutes",
+      "description": "Full React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useLayoutEffect hook. I also compare useLayoutEffect to useEffect so you can know when to use which hook.\n\n\n📚 Materials/References:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\nuseLayoutEffect Article: https://blog.webdevsimplified.com/2020-07/use-layout-effect\nuseEffect Video: https://youtu.be/0ZJgIjIuY7U\nuseEffect Article: https://blog.webdevsimplified.com/2020-04/use-effect\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - useLayoutEffect vs useEffect\n02:19 - When to use useLayoutEffect\n\n\n#ReactJs #WDS #useLayoutEffect",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wU57kvYOxT4/mqdefault.jpg",
+      "videoId": "wU57kvYOxT4",
+      "publishedAt": "2021-11-15T18:51:00Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5BRjJDODk5REM0NjkzMUIy",
+      "title": "The Perfect Beginner React Project",
+      "description": "Learn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nGetting started with React can be incredibly difficult, but having a simple project to start with can help immensely. In this video we will be creating a simple calculator in React that handles input changes, user interaction, and complex calculations. This is the perfect project for anyone getting started in React since it focuses on some of the most important React concepts, such as re-renders, state management, and breaking down your code into components.\n\n\n📚 Materials/References:\n\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\nGitHub Code: https://github.com/WebDevSimplified/react-calculator\nCSS Grid Tutorial: https://youtu.be/9zBsdzdE4sM\nBox Sizing Video: https://youtu.be/rIO5326FgPE\nuseReducer Video: https://youtu.be/kK_Wqx3RnHk\nuseReducer Article: https://blog.webdevsimplified.com/2020-06/use-reducer\nJavaScript Calculator Video: https://youtu.be/j59qQ7YWLxw\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:47 - HTML Setup\n03:15 - CSS Styles\n09:10 - Calculator Logic\n\n#ReactJS #WDS #ReactCalculator",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DgRrrOt0Vr8/mqdefault.jpg",
+      "videoId": "DgRrrOt0Vr8",
+      "publishedAt": "2021-11-19T12:18:19Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4xOTEzQzhBQzU3MDNDNjcz",
+      "title": "Do You Know Enough JavaScript To Learn React",
+      "description": "JavaScript Simplified Course: https://javascriptsimplified.com\n\nReact is hard to learn and it is made exponentially hard if you don't first master JavaScript. Most people try to jump into React as soon as possible, but by doing so they are setting themselves up for failure. It is important to take your time to learn all the JavaScript you need first and in this video I will be sharing with you exactly what you need to learn before learning React.\n\n\n📚 Materials/References:\n\nJavaScript Simplified Course: https://javascriptsimplified.com\nJavaScript Simplified Table of Contents: https://javascriptsimplified.com/beginner-table-of-contents\nReference vs Value Video: https://youtu.be/-hBJz2PPIVE\nReference vs Value Article:  https://blog.webdevsimplified.com/2021-03/js-reference-vs-value\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n01:00 - JavaScript Basics\n02:16 - Reference vs Value\n03:19 - Short Circuiting\n03:48 - Array Methods\n04:30 - Asynchronous Code\n05:30 - ES6 Concepts\n\n\n#React #WDS #JavaScript",
+      "thumbnailUrl": "https://i.ytimg.com/vi/JR9wsVYp8RQ/mqdefault.jpg",
+      "videoId": "JR9wsVYp8RQ",
+      "publishedAt": "2021-12-13T13:54:10Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5GNDg1Njc1QzZERjlFRjE5",
+      "title": "How To Create A Budget App With React",
+      "description": "Learn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nCreating CRUD apps in React is something that most beginners struggle with so in this video I will be explaining how I would go about creating a simple CRUD app built around budgeting. This is a fun project since it covers many intermediate and beginner level React concepts that all come together to create a complex project.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/react-budget-app\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:40 - Basic Component HTML/CSS\n05:10 - Budget Card Component HTML/CSS\n16:10 - Budget Context\n25:45 - useLocalStorage Hook\n28:55 - Adding Budgets\n38:08 - Adding Expenses\n45:08 - Uncategorized Budget Card\n47:55 - Total Budget Card\n50:28 - View/Edit/Delete Expenses\n\n\n#React #WDS #ReactProject",
+      "thumbnailUrl": "https://i.ytimg.com/vi/yz8x71BiGXg/mqdefault.jpg",
+      "videoId": "yz8x71BiGXg",
+      "publishedAt": "2022-01-10T16:10:12Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4zQzFBN0RGNzNFREFCMjBE",
+      "title": "React 18 useTransition Hook Crash Course",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nReact 18 recently had its official non-beta release and with it came multiple new React hooks. Of those hooks, the one I am most excited for is the useTransition hook. This hook helps increase the performance of your applications, increase the responsiveness of your application to users, and overall just make your application better. This video is all about how this new hook works.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nuseTransiton Article: https://blog.webdevsimplified.com/2022-04/use-transition\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - Why you need useTransition\n01:53 - How useTransition works\n03:00 - How to implement useTransition\n06:35 - When to use useTransition\n\n#useTransition #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/N5R6NL3UE7I/mqdefault.jpg",
+      "videoId": "N5R6NL3UE7I",
+      "publishedAt": "2022-05-11T17:08:47Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy45NkVENTkxRDdCQUFBMDY4",
+      "title": "React 18 useDeferredValue Hook Crash Course",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nReact 18 recently had its official non-beta release and with it came multiple new React hooks to help deal with concurrency and rendering slow content. One of those hooks is the useDeferredValue hook which is easy to use but difficult to understand. In this video I will help explain how this hook works so you can understand how and when to best use it.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nuseDeferredValue Article: https://blog.webdevsimplified.com/2022-05/use-deferred-value\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:40 - Why you need useDeferredValue\n01:59 - How useDeferredValue works\n02:45 - How to implement useDeferredValue\n\n\n#useDeferredValue #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jCGMedd6IWA/mqdefault.jpg",
+      "videoId": "jCGMedd6IWA",
+      "publishedAt": "2022-05-11T17:11:19Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5DNkMwRUI2MkI4QkI4NDFG",
+      "title": "How To Create A Navbar In React With Routing",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nNavbars are one of the most common components you will create in React. Creating a good navbar also teaches core concepts about how React and routing work together which makes this the perfect beginner project. In this video I will show you how to implement a navbar with routing both from scratch and with React Router.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/react-navbar\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:48 - Navbar HTML\n02:24 - Navbar CSS\n05:55 - Routing without React router\n12:30 - Routing with React router\n\n\n#React #WDS #Navbar",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SLfhMt5OUPI/mqdefault.jpg",
+      "videoId": "SLfhMt5OUPI",
+      "publishedAt": "2022-05-11T17:17:43Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5DRUQwODMxQzUyRTlGRkY3",
+      "title": "Learn useImperativeHandle In 10 Minutes",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe useImperativeHandle hook is one of the lesser used React hooks, but it serves a very important purpose when dealing with complex refs. In this video I go over 2 examples that explain how this hook works in both a simple and more complex real world example so you can truly master this hook.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:47 - How useImperativeHandle Works\n04:59 - Real World Example\n\n\n#useImperativeHandle #WDS #ReactHooks",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zpEyAOkytkU/mqdefault.jpg",
+      "videoId": "zpEyAOkytkU",
+      "publishedAt": "2022-06-03T19:53:35Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41MzY4MzcwOUFFRUU3QzEx",
+      "title": "How To Create An Advanced Shopping Cart With React and TypeScript",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\n\nShopping carts are one of the most common things you will build as a web developer, but there is a lot that goes into building a good shopping cart. In this video I will show you how to build a fully functional shopping cart using React, TypeScript, and Bootstrap. This is a great intermediate level project.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nLearn React Today Course: https://courses.webdevsimplified.com/learn-react-today\nGitHub Code: https://github.com/WebDevSimplified/react-ts-shopping-cart\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - Demo\n01:08 - Project Setup\n04:45 - Routing\n08:02 - Navbar\n15:35 - Store Page\n30:00 - Shopping Cart Context\n44:40 - Shopping Cart Component\n56:45 - useLocalStorage Hook\n\n\n#TypeScript #WDS #React",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lATafp15HWA/mqdefault.jpg",
+      "videoId": "lATafp15HWA",
+      "publishedAt": "2022-06-17T20:03:54Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4yQjZFRkExQjFGODk3RUFD",
+      "title": "The Perfect Hook For Debugging Custom React Hooks",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe useDebugValue hook is a very simple hook that serves one purpose, but it does that one thing very well. Because of its niche nature most people don’t learn it, but this hook can make debugging and building custom hooks a bit easier which is why I recommend learning it.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nuseDebugValue Blog Article: https://blog.webdevsimplified.com/2021-11/use-debug-value\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - What is the purpose of useDebugValue\n02:02 - Basic useDebugValue use case\n03:00 - Advanced useDebugValue use cases\n05:03 - Performance concerns\n\n\n#useDebugValue #WDS #ReactHooks",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pTF86K8JZBQ/mqdefault.jpg",
+      "videoId": "pTF86K8JZBQ",
+      "publishedAt": "2022-06-17T20:05:15Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4yQUJFNUVCMzVDNjcxRTlF",
+      "title": "Every Beginner React Developer Makes This Mistake With State",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nBy far one of the biggest beginner React mistakes I see is developers storing derived state. This is a huge problem that is incredibly hard to detect unless you know what you are looking for. In this video I will show you what the signs are of derived state so you can make sure you never store derived state.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nDerived State Blog Article: https://blog.webdevsimplified.com/2019-11/never-store-derived-state\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:48 - Derived state problem\n02:45 - How to fix the problem\n04:26 - Performance considerations\n\n\n#React #WDS #useState",
+      "thumbnailUrl": "https://i.ytimg.com/vi/tz0fDABt67g/mqdefault.jpg",
+      "videoId": "tz0fDABt67g",
+      "publishedAt": "2022-06-24T22:25:47Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy40QzRDOEU0QUYwNUIxN0M1",
+      "title": "The Easiest React Hook",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe useId hook is a very simple hook that serves one purpose, but it does that one thing very well. This hook was introduced in React 18 and mostly overlooked due to the other more widely used hooks that came with React 18, but that does not mean this hook is useless. This hook is the perfect hook for creating random unique ids in your component and is the easiest hook in React to learn.\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - Why this hook is needed\n02:25 - How to use the useId hook\n04:03 - querySelector gotcha\n05:08 - How to use the useId hook with multiple ids\n\n\n#React #WDS #useId",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_vwCKV7f_eA/mqdefault.jpg",
+      "videoId": "_vwCKV7f_eA",
+      "publishedAt": "2022-07-01T11:20:51Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy41RTNBREYwMkI5QzU3RkY2",
+      "title": "Junior vs Senior React Folder Structure - How To Organize React Projects",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nReact is an unopinionated framework, but with that freedom comes the difficulty of choosing how you want to structure your project. This is something many React developers of all skill levels struggle with so today I want to show you 3 different ways to lay out React projects of various sizes and complexities.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nGitHub Code: https://github.com/WebDevSimplified/react-folder-structure\nPure Functions Video: https://youtu.be/fYbhD_KMCOg\nPure Functions Article: https://blog.webdevsimplified.com/2020-09/pure-functions\nFacade Pattern Video: https://youtu.be/fHPa5xzbpaA\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:55 - Beginner\n03:50 - Intermediate\n09:41 - Advanced\n\n\n#ReactJS #WDS #ReactFolderStructure",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UUga4-z7b6s/mqdefault.jpg",
+      "videoId": "UUga4-z7b6s",
+      "publishedAt": "2022-07-11T12:21:34Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy5ENjI1QUI0MDI5NEQzODFE",
+      "title": "Learn React Router v6 In 45 Minutes",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nNearly every app in React needs to handle routing and by far the most popular library for handling routing is React Router. In this video I will break down everything you need to know about React Router v6 so you can master routing in your next project.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nReact Router Blog Article: https://blog.webdevsimplified.com/2022-07/react-router\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:45 - Basics\n06:18 - Router Types\n10:22 - Dynamic Routes\n13:40 - Route Specificity\n16:46 - Nested Routes\n28:54 - useRoutes Hooks\n30:32 - Link Component\n32:50 - NavLink Component\n35:57 - Navigate Component\n36:39 - useNavigate Hook\n39:07 - Search Parameters\n43:16 - Navigation State\n\n\n#ReactRouter #WDS #ReactJS",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ul3y1LXxzdU/mqdefault.jpg",
+      "videoId": "Ul3y1LXxzdU",
+      "publishedAt": "2022-08-01T18:28:18Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy44QzVGQUU2QjE2NDgxM0M4",
+      "title": "How To Build A Full Stack Nested Comments System",
+      "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nIf you are wanting to build a complex full stack project then this is the video for you. In this video we will be covering how to setup and connect a backend, database, and React frontend. This is a large and complex project, but is amazing for your resume.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nGitHub Code: https://github.com/WebDevSimplified/nested-comments\nPrisma Video: https://youtu.be/RebA5J-rlwg\nCors Video: https://youtu.be/PNtFSVU-YTI\nCors Article: https://blog.webdevsimplified.com/2021-05/cors\nReact Router Video: https://youtu.be/Ul3y1LXxzdU\nReact Router Article: https://blog.webdevsimplified.com/2022-07/react-router\nReact Context Video: https://youtu.be/5LrDIWkK_Bc\nReact Context Article: https://blog.webdevsimplified.com/2020-06/use-context\nRegular Expression Video: https://youtu.be/rhzKDrUiJVk\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00:00 - Introduction\n00:01:55 - Prisma database setup\n00:13:26 - Server setup\n00:21:01 - Connecting the client to the server\n00:30:57 - React Router setup\n00:33:19 - useAsync custom hook\n00:41:58 - Get post server route\n00:44:23 - Post context setup\n00:50:44 - Render comments\n01:09:30 - Comment form component\n01:15:45 - Create comment client logic\n01:19:15 - Create comment server logic\n01:21:21 - User authentication\n01:26:00 - Saving comments on the client\n01:30:15 - Comment reply logic\n01:34:35 - Update comment server logic\n01:38:00 - Update comment client logic\n01:42:53 - Delete comment server logic\n01:43:54 - Delete comment client logic\n01:46:23 - User permission UI\n01:48:38 - Like comments server logic\n01:57:55 - Like comments client logic\n\n\n#RedditClone #WDS #Fullstack",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lyNetvEfvT0/mqdefault.jpg",
+      "videoId": "lyNetvEfvT0",
+      "publishedAt": "2022-08-05T16:05:41Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4xMzgwMzBERjQ4NjEzNUE5",
+      "title": "This Is The Perfect Project For Your React/TypeScript Resume",
+      "description": "PropelAuth: https://bit.ly/PropelAuthWDS\n\nSelect components are one of the most important components you will use in React, but how exactly do you create a good select component. In this video I will breakdown how to create a select component in React using only TypeScript and no additional React libraries.\n\n\n📚 Materials/References:\n\nGitHub Code: https://github.com/WebDevSimplified/react-select\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:25 - Sponsor - PropelAuth\n01:12 - Setup\n02:14 - Single Select HTML\n11:05 - CSS\n20:13 - Single Select Logic\n29:08 - Multiselect Logic\n37:16 - Multiselect CSS\n39:45 - Keyboard Accessibility\n\n\n#ReactJS #WDS #ReactCustomSelect",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bAJlYgeovlg/mqdefault.jpg",
+      "videoId": "bAJlYgeovlg",
+      "publishedAt": "2022-09-19T19:57:42Z",
+      "channelTitle": "Web Dev Simplified"
+    },
+    {
+      "id": "UExabEEwR3BuX3ZIX05UNXpQVnAxOG5HZV9XOUxxQkRRSy4zMEQ1MEIyRTFGNzhDQzFB",
+      "title": "Are You Making This React State Mistake?",
+      "description": "React state is complex enough to understand how it works, but it is even harder to write good state code in React. I oftentimes see developers using global state for nearly everything in React and that leads to a ton of problems. In this video I talk about how local state is almost always better to use and how you can spot bad state practices.\n\n\n📚 Materials/References:\n\nLocal State Blog Article: https://blog.webdevsimplified.com/2019-12/always-prefer-local-state\nReact/TypeScript Nested Comments Video: https://youtu.be/lyNetvEfvT0\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:32 - Simple Example\n02:34 - Form Example\n07:00 - Handling Shared State\n\n\n#React #WDS #ReactState",
+      "thumbnailUrl": "https://i.ytimg.com/vi/NZqMVUEiDIw/mqdefault.jpg",
+      "videoId": "NZqMVUEiDIw",
+      "publishedAt": "2022-09-26T12:41:01Z",
+      "channelTitle": "Web Dev Simplified"
+    }
+  ]
+}
