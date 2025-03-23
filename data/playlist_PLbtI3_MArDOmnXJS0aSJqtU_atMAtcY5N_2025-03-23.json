@@ -1,0 +1,316 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "FoN62eNSB0eghXHqrq1ZxjsPhEU",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "a2asl7kcD61ZG-hjTJAIWjJIlhw",
+      "id": "UExidEkzX01BckRPbW5YSlMwYVNKcXRVX2F0TUF0Y1k1Ti41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-12-06T15:44:59Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Quick React Practice Task | Docs Mini App | React | Framer Motion",
+        "description": "🚀 Dive into the world of efficient documentation with our latest video showcasing a quick task implementation in a ReactJS-powered Docs App! 📝💻\n\nIn this tutorial, we guide you through the seamless integration of ReactJS to enhance your documentation application. Whether you're a seasoned developer or just starting with React, this video provides a step-by-step walkthrough of a specific task that will elevate the functionality and user experience of your Docs App.\n\nKey Highlights:\n1️⃣ ReactJS Magic: Explore the power of ReactJS as we demonstrate how to leverage its component-based architecture to streamline the development process.\n\n2️⃣ Task Walkthrough: Follow along as we tackle a specific task in the Docs App, breaking down the process into simple and understandable steps. From state management to UI updates, we cover it all!\n\n3️⃣ Code Deep Dive: Gain insights into the code as we explain each line and its significance in building a responsive and dynamic Docs App. Whether you're a beginner or an experienced developer, there's something for everyone.\n\n4️⃣ Enhanced User Experience: Discover how ReactJS enhances the overall user experience of your Docs App, making it more intuitive and user-friendly.\n\n🔗 Ready to take your Docs App to the next level? Click play and join us on this coding journey! Don't forget to like, share, and subscribe for more ReactJS tutorials and development tips. Happy coding! 🚀👩‍💻👨‍💻 #ReactJS #DocsApp #WebDevelopment #CodingTutorial #ReactMagic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/syHGmY75pfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/syHGmY75pfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/syHGmY75pfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/syHGmY75pfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/syHGmY75pfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmnXJS0aSJqtU_atMAtcY5N",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "syHGmY75pfs"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "syHGmY75pfs",
+        "videoPublishedAt": "2023-12-06T15:53:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kHSCrUD5-EOnw_uPUF-A6ytYr8w",
+      "id": "UExidEkzX01BckRPbW5YSlMwYVNKcXRVX2F0TUF0Y1k1Ti4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-12-13T11:05:55Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "[ GAMECHANGER 🚀 ] REACT JS BECOMES 100 TIMES EASY IF YOU FOLLOW THIS.",
+        "description": "🚀 Ready to embark on your journey into the world of React JS? Join us in this in-depth video where we cover everything you need to know before diving into learning React JS and explore the essential components that form the backbone of this powerful JavaScript library!\n\n🔍 Understanding React JS is crucial for modern web development, and we're here to guide you through the key concepts, best practices, and fundamental knowledge to set you on the path to success.\n\n📋 In the first part of the video, we'll walk you through the prerequisites, ensuring you have a solid foundation before tackling React JS. We'll discuss the basics of JavaScript, HTML, and CSS to ensure you're well-equipped for the exciting journey ahead.\n\n🧠 Once we've covered the essentials, we'll transition into a detailed exploration of React JS's main components. From understanding the concept of JSX (JavaScript XML) to the significance of components, props, and state, each crucial aspect will be demystified.\n\n🌐 Components are the building blocks of React applications, and we'll dissect each type, including functional components and class components. You'll gain a clear understanding of when to use each and how they contribute to creating dynamic and interactive user interfaces.\n\n⚛️ Dive deeper into the world of state and props, learning how they enable dynamic and efficient data management within your React applications. We'll provide real-world examples and hands-on demonstrations to reinforce your understanding.\n\n💡 Don't miss our tips and tricks for structuring your React projects effectively, managing state and props gracefully, and troubleshooting common issues encountered by developers.\n\n🚧 Whether you're a beginner looking to start your React JS journey or someone seeking a comprehensive refresher, this video is your go-to resource. Subscribe now, hit the notification bell, and let's master React JS together!\n\n#ReactJS #WebDevelopment #JavaScript #CodingTutorial #ReactComponents #LearnToCode #ProgrammingBasics #TechEducation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EaG3Zd04W5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EaG3Zd04W5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EaG3Zd04W5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EaG3Zd04W5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EaG3Zd04W5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmnXJS0aSJqtU_atMAtcY5N",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EaG3Zd04W5s"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "EaG3Zd04W5s",
+        "videoPublishedAt": "2023-12-13T12:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pN25454-cQLaAwh5pHIKdP4Qt-Q",
+      "id": "UExidEkzX01BckRPbW5YSlMwYVNKcXRVX2F0TUF0Y1k1Ti4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-12-23T14:50:44Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "ReactJs Crash Course: Master the Basics in One Video! Ignite Your Front-End Mastery Series!",
+        "description": "🚀 Welcome to the ultimate React JS crash course for beginners! In just 1.2\nhours, you'll embark on a coding journey that will empower you to build dynamic and interactive web applications from scratch. Whether you're new to programming or looking to enhance your web development skills, this comprehensive crash course will guide you through the essentials of React JS.\n\n⚛️ Join us as we dive into the core concepts of React JS, demystifying its powerful components, state management, and reactivity. With hands-on examples and step-by-step guidance, you'll quickly grasp the foundations of this popular JavaScript library.\n\n🎯 By the end of this crash course, you'll have the skills to craft modern, responsive, and user-friendly web apps that stand out in today's digital landscape. Get ready to unlock a world of possibilities with React JS!\n\n🔗 Dive into the world of web development now – hit that play button and let's learn React JS together in just 1.2 hours! Don't forget to like, subscribe, and ring the notification bell to stay updated on more exciting tutorials. Happy coding! 👨‍💻❤\n\nInstructor in this video: Harsh Sharma\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_c...\nFacebook: https://www.facebook.com/sheryians.co...\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-...\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#reactjs #javascript #webdevelopment #crashcourse #beginnerstutorial  #codingjourney #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xe8CkYZvCig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xe8CkYZvCig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xe8CkYZvCig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xe8CkYZvCig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xe8CkYZvCig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmnXJS0aSJqtU_atMAtcY5N",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xe8CkYZvCig"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "Xe8CkYZvCig",
+        "videoPublishedAt": "2023-12-23T15:40:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nNWPP1_tcwsflzNkQn9lJrZMzdA",
+      "id": "UExidEkzX01BckRPbW5YSlMwYVNKcXRVX2F0TUF0Y1k1Ti41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-02-06T15:36:19Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "ReactJS | Modern Animated Website | OCHI DESIGN | Awwwarded Website Clone",
+        "description": "Welcome to our dedicated educational channel! In this tutorial, we embark on an exciting journey into the world of animation using ReactJS, focusing on cloning the captivating design of Ochi Design https://ochi.design/ \nOur aim is to provide you with comprehensive insights and practical techniques to elevate your web development skills while respecting the original creators of https://ochi.design/ and ensuring no harm to any organization or individual.\n\nAt the core of our ethos is a commitment to ethical practices and responsible content creation. We undertake this tutorial with utmost respect for Ochi and its creators, solely for educational purposes and without any intention of causing harm or infringement.\n\nThroughout this tutorial, we meticulously recreate the animation effects and design elements of Ochi using ReactJS. Our goal is to empower you to learn and experiment with web animation techniques in a safe and supportive environment.\n\nWe want to emphasize that our tutorial is crafted with the highest standards of integrity and respect. We do not endorse any unauthorized use of copyrighted materials, and we encourage our viewers to always prioritize ethical considerations in their creative endeavors.\n\nWhether you're a seasoned developer looking to expand your skill set or a beginner eager to explore the possibilities of web animation, our channel is here to support your learning journey. Join us as we unravel the secrets of animation with ReactJS and pay homage to the inspiring design of Ochi.\n\nSubscribe to our channel to stay updated on future tutorials, tips, and insights to help you thrive in the dynamic field of web development. Let's learn, create, and innovate together, while upholding the values of integrity and respect.\n\nThank you for joining us on this educational adventure. Let's dive in and master animation with ReactJS while honoring the creativity of Ochi! 🎨👩‍💻\n\nInstructor in this video: Harsh Sharma\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_c...\nFacebook: https://www.facebook.com/sheryians.co...\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-...\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#reactjs #javascript #webdevelopment #crashcourse #beginnerstutorial  #codingjourney #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZXYSlxj0vU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZXYSlxj0vU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZXYSlxj0vU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AZXYSlxj0vU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AZXYSlxj0vU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmnXJS0aSJqtU_atMAtcY5N",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AZXYSlxj0vU"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "AZXYSlxj0vU",
+        "videoPublishedAt": "2024-02-06T15:52:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3kbmJGNjAf5N1v4AYDjho2Gpje8",
+      "id": "UExidEkzX01BckRPbW5YSlMwYVNKcXRVX2F0TUF0Y1k1Ti4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-08-25T13:06:26Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "[PROCESS BRAKDOWN] React Three Fiber | Cylinder Work Showcase",
+        "description": "Learn how to create a rotating cylinder with an image texture using React-3 Fiber, 3.js, and GSAP. Perfect for showcasing your work dynamically! Watch the full process breakdown and bring your 3D projects to life",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmnXJS0aSJqtU_atMAtcY5N",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9qQ8WxF-h8o"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "9qQ8WxF-h8o",
+        "videoPublishedAt": "2024-08-25T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3KVbHJh2xlCkNgTqn9QvC-sstfY",
+      "id": "UExidEkzX01BckRPbW5YSlMwYVNKcXRVX2F0TUF0Y1k1Ti4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-08-29T16:58:01Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "3D React.js Apple Mac Book Pro Landing Page",
+        "description": "In this project, we’re building a sleek, minimal landing page inspired by Apple’s design aesthetics. As you scroll, watch the 3D model of the MacBook Pro come to life, opening up to reveal the screen. This clean and modern page features smooth animations and a stylish gradient on the text, creating an experience just as polished as Apple’s own designs.\n\nModel & texture : https://drive.google.com/file/d/1I87xbiFwwGxiL-UAMeSzvw7gy3fJxHKo/view?usp=drive_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmnXJS0aSJqtU_atMAtcY5N",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yItOSReV_f0"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "yItOSReV_f0",
+        "videoPublishedAt": "2024-08-30T13:30:38Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 6,
+    "resultsPerPage": 50
+  }
+}
