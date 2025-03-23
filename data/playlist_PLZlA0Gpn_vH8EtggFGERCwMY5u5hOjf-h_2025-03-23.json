@@ -1,0 +1,979 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "eQduiXQsYv8x_K7mMfZ35S_68IQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "onFUqQTJzxuUDWClc7GBem6mWX4",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-05-04T23:29:40Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useState In 15 Minutes - React Hooks Explained",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useState hook. I also go over the basics of hooks as well so you can start using hooks in your own projects. This is the beginning of a series of React videos  where I cover all the important hooks in React.\n\nSkip Past General Hook Details: 4:22\n\n📚 Materials/References:\n\nuseState Blog Article: https://blog.webdevsimplified.com/2020-04/use-state\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to convert class state to function state with useState\n- How to use the useState hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useState",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6P86uwfdR0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6P86uwfdR0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6P86uwfdR0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O6P86uwfdR0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O6P86uwfdR0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O6P86uwfdR0"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "O6P86uwfdR0",
+        "videoPublishedAt": "2020-05-05T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-lOOj2Lw2hUvfFVUpKAskgeYy5Q",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-05-04T23:42:57Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useEffect In 13 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I cover everything you need to know about the useEffect hook. I compare this hook to the old way of doing things with lifecycle methods in class components so you can understand how to start using hooks effectively in your projects. This is part of a series of React videos where I cover all the important hooks in React.\n\n\n📚 Materials/References:\n\nuseState Video: https://youtu.be/O6P86uwfdR0\nuseEffect Blog Article: https://blog.webdevsimplified.com/2020-04/use-effect/\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to convert class lifecycle methods to function effects with useEffect\n- How to use the useEffect hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useEffect",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ZJgIjIuY7U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ZJgIjIuY7U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ZJgIjIuY7U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ZJgIjIuY7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ZJgIjIuY7U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0ZJgIjIuY7U"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "0ZJgIjIuY7U",
+        "videoPublishedAt": "2020-05-09T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "It44A5i2bsShc2zn9EWJxY2Jx8w",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-05-26T23:24:17Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useMemo In 10 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I cover everything you need to know about the useMemo hook. I go over all the main use cases for useMemo as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseMemo Blog Article: https://blog.webdevsimplified.com/2020-05/memoization-in-react\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to memoize values in React function components\n- How to use the useMemo hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useMemo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/THL1OPn72vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/THL1OPn72vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/THL1OPn72vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/THL1OPn72vo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/THL1OPn72vo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "THL1OPn72vo"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "THL1OPn72vo",
+        "videoPublishedAt": "2020-06-06T16:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XPKkpOInOrQncVX5fctvPOta-rY",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-05-27T23:28:16Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useRef in 11 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useRef hook. I go over all the main use cases for useRef as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseRef Blog Article: https://blog.webdevsimplified.com/2020-05/use-ref\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to store values between renders in React function components\n- How to use the useRef hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useRef",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t2ypzz6gJm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t2ypzz6gJm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t2ypzz6gJm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t2ypzz6gJm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t2ypzz6gJm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t2ypzz6gJm0"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "t2ypzz6gJm0",
+        "videoPublishedAt": "2020-06-09T16:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QZwsW_33Qg5K75qgkhAneKQ3XGU",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-06-01T23:23:34Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useContext In 13 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n1 Year Free Hosting: https://www.atlantic.net/webdevsimplified\nUse code KYLE for an additional $50\n\nIn this video I cover everything you need to know about the useContext hook. I go over all the main use cases for useContext as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseContext Blog Article: https://blog.webdevsimplified.com/2020-06/use-context\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to use context values in React function components\n- How to use the useContext hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useContext",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5LrDIWkK_Bc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5LrDIWkK_Bc"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "5LrDIWkK_Bc",
+        "videoPublishedAt": "2020-06-27T16:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xHOlCDojLGZgtofQf_Q0I1EPUMo",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-07-02T13:15:53Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useReducer In 20 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useReducer hook. I go over all the main use cases for useReducer as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseReducer Blog Article: https://blog.webdevsimplified.com/2020-06/use-reducer\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to manage complex state in React function components\n- How to use the useReducer hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useReducer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kK_Wqx3RnHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kK_Wqx3RnHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kK_Wqx3RnHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kK_Wqx3RnHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kK_Wqx3RnHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kK_Wqx3RnHk"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "kK_Wqx3RnHk",
+        "videoPublishedAt": "2020-07-04T16:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ILOAM5HiN-QD06zHnSkPX6nrTws",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-07-08T23:58:17Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useCallback In 8 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useCallback hook. I go over all the main use cases for useCallback as well as many common mistakes that developers make. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nuseCallback Blog Article: https://blog.webdevsimplified.com/2020-05/memoization-in-react\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use hooks in React\n- How to manage referential equality of functions in React\n- How to use the useCallback hook\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #useCallback",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_AyFP5s69N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_AyFP5s69N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_AyFP5s69N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_AyFP5s69N4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_AyFP5s69N4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_AyFP5s69N4"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "_AyFP5s69N4",
+        "videoPublishedAt": "2020-07-11T16:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dh4gAfW1rmAdgL2cId1NZrlsrnc",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-07-14T13:19:15Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn Custom Hooks In 10 Minutes",
+        "description": "🚨 IMPORTANT:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about creating your own custom hooks. I go over all the main use cases for custom hooks as well as many common mistakes that developers make when creating custom hooks. In this video I will cover two different examples of how custom hooks can best be used. This is part of a series of React videos where I cover all the important hooks in React.\n\n📚 Materials/References:\n\nCustom Hooks Blog Article: https://blog.webdevsimplified.com/2019-11/how-to-write-custom-hooks\nReact Hooks Playlist: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h\n\n\n🧠 Concepts Covered:\n\n- How to use custom hooks in React\n- How to create custom hooks in React\n- Best practices for custom hooks in React\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n#ReactJs #WDS #CustomHooks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ThXsUwLWvc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ThXsUwLWvc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ThXsUwLWvc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6ThXsUwLWvc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6ThXsUwLWvc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6ThXsUwLWvc"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "6ThXsUwLWvc",
+        "videoPublishedAt": "2020-07-14T16:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "go1A30EXoOj1CH0m_yjzSjmFupQ",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-11-15T18:51:00Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useLayoutEffect In 5 Minutes",
+        "description": "Full React Course: https://courses.webdevsimplified.com/learn-react-today\n\nIn this video I cover everything you need to know about the useLayoutEffect hook. I also compare useLayoutEffect to useEffect so you can know when to use which hook.\n\n\n📚 Materials/References:\n\nFull React Course: https://courses.webdevsimplified.com/learn-react-today\nuseLayoutEffect Article: https://blog.webdevsimplified.com/2020-07/use-layout-effect\nuseEffect Video: https://youtu.be/0ZJgIjIuY7U\nuseEffect Article: https://blog.webdevsimplified.com/2020-04/use-effect\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - useLayoutEffect vs useEffect\n02:19 - When to use useLayoutEffect\n\n\n#ReactJs #WDS #useLayoutEffect",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wU57kvYOxT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wU57kvYOxT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wU57kvYOxT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wU57kvYOxT4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wU57kvYOxT4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wU57kvYOxT4"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "wU57kvYOxT4",
+        "videoPublishedAt": "2021-11-16T17:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "imMriEKJQ0ut7txL8fodHpd5UxA",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-05-11T17:08:47Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "React 18 useTransition Hook Crash Course",
+        "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nReact 18 recently had its official non-beta release and with it came multiple new React hooks. Of those hooks, the one I am most excited for is the useTransition hook. This hook helps increase the performance of your applications, increase the responsiveness of your application to users, and overall just make your application better. This video is all about how this new hook works.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nuseTransiton Article: https://blog.webdevsimplified.com/2022-04/use-transition\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - Why you need useTransition\n01:53 - How useTransition works\n03:00 - How to implement useTransition\n06:35 - When to use useTransition\n\n#useTransition #WDS #React",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N5R6NL3UE7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N5R6NL3UE7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N5R6NL3UE7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N5R6NL3UE7I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N5R6NL3UE7I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N5R6NL3UE7I"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "N5R6NL3UE7I",
+        "videoPublishedAt": "2022-05-14T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7OKd3Qb5E4z3tAE09sr4HtVHjys",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-05-11T17:11:19Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "React 18 useDeferredValue Hook Crash Course",
+        "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nReact 18 recently had its official non-beta release and with it came multiple new React hooks to help deal with concurrency and rendering slow content. One of those hooks is the useDeferredValue hook which is easy to use but difficult to understand. In this video I will help explain how this hook works so you can understand how and when to best use it.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nuseDeferredValue Article: https://blog.webdevsimplified.com/2022-05/use-deferred-value\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:40 - Why you need useDeferredValue\n01:59 - How useDeferredValue works\n02:45 - How to implement useDeferredValue\n\n\n#useDeferredValue #WDS #React",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jCGMedd6IWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jCGMedd6IWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jCGMedd6IWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jCGMedd6IWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jCGMedd6IWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jCGMedd6IWA"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "jCGMedd6IWA",
+        "videoPublishedAt": "2022-05-31T16:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZHeC1vBaOdPI_PEkAr2QfaMZIDA",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-06-03T19:53:35Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useImperativeHandle In 10 Minutes",
+        "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe useImperativeHandle hook is one of the lesser used React hooks, but it serves a very important purpose when dealing with complex refs. In this video I go over 2 examples that explain how this hook works in both a simple and more complex real world example so you can truly master this hook.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:47 - How useImperativeHandle Works\n04:59 - Real World Example\n\n\n#useImperativeHandle #WDS #ReactHooks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpEyAOkytkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpEyAOkytkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpEyAOkytkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zpEyAOkytkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zpEyAOkytkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zpEyAOkytkU"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "zpEyAOkytkU",
+        "videoPublishedAt": "2022-06-07T16:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E4bPCaekyWas3L82u-q-8y90yDw",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-06-17T20:05:15Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "The Perfect Hook For Debugging Custom React Hooks",
+        "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe useDebugValue hook is a very simple hook that serves one purpose, but it does that one thing very well. Because of its niche nature most people don’t learn it, but this hook can make debugging and building custom hooks a bit easier which is why I recommend learning it.\n\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\nuseDebugValue Blog Article: https://blog.webdevsimplified.com/2021-11/use-debug-value\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - What is the purpose of useDebugValue\n02:02 - Basic useDebugValue use case\n03:00 - Advanced useDebugValue use cases\n05:03 - Performance concerns\n\n\n#useDebugValue #WDS #ReactHooks",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pTF86K8JZBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pTF86K8JZBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pTF86K8JZBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pTF86K8JZBQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pTF86K8JZBQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pTF86K8JZBQ"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "pTF86K8JZBQ",
+        "videoPublishedAt": "2022-06-18T16:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iWtUHYUO-Dvg8MuzHmLXjiXSdtw",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2022-07-01T11:20:51Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "The Easiest React Hook",
+        "description": "FREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe useId hook is a very simple hook that serves one purpose, but it does that one thing very well. This hook was introduced in React 18 and mostly overlooked due to the other more widely used hooks that came with React 18, but that does not mean this hook is useless. This hook is the perfect hook for creating random unique ids in your component and is the easiest hook in React to learn.\n\n📚 Materials/References:\n\nFREE React Hooks Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - Why this hook is needed\n02:25 - How to use the useId hook\n04:03 - querySelector gotcha\n05:08 - How to use the useId hook with multiple ids\n\n\n#React #WDS #useId",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_vwCKV7f_eA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_vwCKV7f_eA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_vwCKV7f_eA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_vwCKV7f_eA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_vwCKV7f_eA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_vwCKV7f_eA"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "_vwCKV7f_eA",
+        "videoPublishedAt": "2022-07-02T16:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g8q0GzSimyt3heK8DzoZk4MFV3s",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-02-17T19:48:26Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "New React useEffectEvent Hook Crash Course",
+        "description": "FREE React Hooks Simplified Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe newest React hook, useEffectEvent, is a really unique and interesting hook that make working with useEffect much easier. This is because it allows you to use variables, state, and props in your useEffect without having to declare them as dependencies for your useEffect.\n\n\n📚 Materials/References:\n\nFREE React Hooks Simplified Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:25 - Setup\n01:12 - Why Use useEffectEvent\n04:02 - useEffectEvent Explained\n06:36 - Common Mistakes\n\n\n#useEffectEvent #WDS #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZJUEzn10FI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZJUEzn10FI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZJUEzn10FI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZJUEzn10FI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZJUEzn10FI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NZJUEzn10FI"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "NZJUEzn10FI",
+        "videoPublishedAt": "2023-02-18T17:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hQdGMIQzS_7CnqCZpfHq0g3sY1c",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-02-23T12:59:59Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "This New React Hook Breaks All The Rules And I Love It",
+        "description": "FREE React Hooks Simplified Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\nThe newest React hook, use, is a really unique and interesting hook that breaks all the rules for hooks. This hook can be used conditionally and inside loops unlike any other hook. This hook also removes the need for many useEffect statements which I am a huge fan of.\n\n\n📚 Materials/References:\n\nFREE React Hooks Simplified Course: https://courses.webdevsimplified.com/react-hooks-simplified\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:30 - Setup\n01:43 - use Hook Implementation\n03:00 - Loading State (Suspense)\n04:14 - Error Handling\n05:27 - use Hook Rules\n\n\n#useHook #WDS #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdNF9FJWJ8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdNF9FJWJ8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdNF9FJWJ8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zdNF9FJWJ8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zdNF9FJWJ8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zdNF9FJWJ8o"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "zdNF9FJWJ8o",
+        "videoPublishedAt": "2023-02-25T17:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EM6tJMPXbwdidk_B28IvL2T6lY8",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-08-08T14:29:25Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "This New React Hook Changes How You Use Forms",
+        "description": "React Simplified Course: https://reactsimplified.com/?utm_source=youtube&utm_medium=video-description&utm_campaign=video-id-_tUdtt6H5CE\n\nReact recently announced a new experimental hook that makes working with forms so much easier. This hook solves issues related to double submitting forms, loading states, and so much more.\n\n\n📚 Materials/References:\n\nReact Simplified Course: https://reactsimplified.com/?utm_source=youtube&utm_medium=video-description&utm_campaign=video-id-_tUdtt6H5CE\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:57 - Traditional Solution\n02:45 - useFormStatus Solution\n\n\n#ReactJS #WDS #useFormStatus",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_tUdtt6H5CE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_tUdtt6H5CE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_tUdtt6H5CE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_tUdtt6H5CE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_tUdtt6H5CE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_tUdtt6H5CE"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "_tUdtt6H5CE",
+        "videoPublishedAt": "2023-08-08T16:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "faz3hmOmRqnp3VC-TfFhuGoPkz0",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-08-10T21:31:52Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "I Cannot Believe React Made A Hook For This",
+        "description": "React Simplified Course: https://reactsimplified.com/?utm_source=youtube&utm_medium=video-description&utm_campaign=video-id-M3mGY0pgFk0\n\nReact recently announced a new experimental hook that makes working with optimistic updates so much easier. This saves so much boilerplate code and gives your users a much better experience.\n\n\n📚 Materials/References:\n\nReact Simplified Course: https://reactsimplified.com/?utm_source=youtube&utm_medium=video-description&utm_campaign=video-id-M3mGY0pgFk0\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:34 - What are optimistic updates\n01:13 - Why optimistic updates are hard\n02:05 - useOptimistic hook basics\n06:38 - useOptimistic hook advanced\n\n\n#ReactJS #WDS #useOptimistic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3mGY0pgFk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3mGY0pgFk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3mGY0pgFk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M3mGY0pgFk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M3mGY0pgFk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M3mGY0pgFk0"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "M3mGY0pgFk0",
+        "videoPublishedAt": "2023-08-15T16:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NidJyJrf-H2Y2dxYwuSKD9YgVSU",
+      "id": "UExabEEwR3BuX3ZIOEV0Z2dGR0VSQ3dNWTV1NWhPamYtaC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-09-10T11:52:56Z",
+        "channelId": "UCFbNIlppjAuEX4znoulh0Cw",
+        "title": "Learn useActionState In 8 Minutes - React Hooks Simplified",
+        "description": "FREE React Hooks Simplified Course: https://courses.webdevsimplified.com/react-hooks-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id--aBKrvK5Vn8\n\nThe useActionState hook is an amazing hook that makes working with forms in React dead simple. All you need to do is create a function and call this hook and React takes care of everything else. In this video I will show you just how amazing this hook is and how you can use it in plain React as well as Next.js.\n\n\n📚 Materials/References:\n\nFREE React Hooks Simplified Course: https://courses.webdevsimplified.com/react-hooks-simplified/?utm_source=youtube&utm_medium=video-description&utm_term=video-id--aBKrvK5Vn8\n\n\n🌎 Find Me Here:\n\nMy Blog: https://blog.webdevsimplified.com\nMy Courses: https://courses.webdevsimplified.com\nPatreon: https://www.patreon.com/WebDevSimplified\nTwitter: https://twitter.com/DevSimplified\nDiscord: https://discord.gg/7StTjnR\nGitHub: https://github.com/WebDevSimplified\nCodePen: https://codepen.io/WebDevSimplified\n\n\n⏱️ Timestamps:\n\n00:00 - Introduction\n00:29 - Starting Code\n01:30 - useActionState Hook Basics In React\n05:26 - How To Use With Server Actions\n06:46 - Advanced Use Case\n\n\n#useActionState #WDS #ReactJS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-aBKrvK5Vn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-aBKrvK5Vn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-aBKrvK5Vn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-aBKrvK5Vn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-aBKrvK5Vn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Web Dev Simplified",
+        "playlistId": "PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-aBKrvK5Vn8"
+        },
+        "videoOwnerChannelTitle": "Web Dev Simplified",
+        "videoOwnerChannelId": "UCFbNIlppjAuEX4znoulh0Cw"
+      },
+      "contentDetails": {
+        "videoId": "-aBKrvK5Vn8",
+        "videoPublishedAt": "2024-09-10T16:00:00Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 19,
+    "resultsPerPage": 50
+  }
+}
