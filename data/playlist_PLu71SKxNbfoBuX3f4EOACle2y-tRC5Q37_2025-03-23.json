@@ -1,0 +1,2561 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "TEkaef0sQkSvGFApWi-OgdfNjXM",
+  "nextPageToken": "EAAaHlBUOkNESWlFREV6T0RBek1FUkdORGcyTVRNMVFUaw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m78ojxQSKhEJd9kDEl5Tyv4vUDQ",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-12-21T07:56:04Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Javascript for beginners | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hr5iLG7sUa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hr5iLG7sUa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hr5iLG7sUa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hr5iLG7sUa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hr5iLG7sUa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hr5iLG7sUa0"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "Hr5iLG7sUa0",
+        "videoPublishedAt": "2022-12-21T13:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hI8ZerDZmAR4ypfBOn5Em_kxaw4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-12-22T13:03:18Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Setting up environment in local machine for Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nAaiye, is video me locally environment setup krte h. Locally code execute krne ke liye.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cvoLc3deAdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cvoLc3deAdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cvoLc3deAdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cvoLc3deAdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cvoLc3deAdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cvoLc3deAdQ"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "cvoLc3deAdQ",
+        "videoPublishedAt": "2022-12-22T13:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cuU3RWvjDYau9Inhwm1cVdsjgZ4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-12-22T14:09:17Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Save and work on Github for Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-GoKoR6aLcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-GoKoR6aLcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-GoKoR6aLcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-GoKoR6aLcY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-GoKoR6aLcY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-GoKoR6aLcY"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "-GoKoR6aLcY",
+        "videoPublishedAt": "2022-12-22T15:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PDUA8SkNhI3-dgAkOpWbLv2K9GY",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-12-25T12:40:29Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Let, const and var ki kahani | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nIs video me hum dekhenge var, let and const ki kahani. \nWhy we don't use var anymore, aur kya h kahani uske piche ki ?\n\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yY0bKZNYmJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yY0bKZNYmJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yY0bKZNYmJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yY0bKZNYmJs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yY0bKZNYmJs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yY0bKZNYmJs"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "yY0bKZNYmJs",
+        "videoPublishedAt": "2022-12-25T13:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "53OO31HzC3oavm6gLdXIF4UF_BM",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-12-27T13:55:38Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Datatypes and ECMA standards | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube\nCode files and notes lo and star krte jaana repo pe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-9knnv97wSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-9knnv97wSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-9knnv97wSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-9knnv97wSc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-9knnv97wSc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-9knnv97wSc"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "-9knnv97wSc",
+        "videoPublishedAt": "2022-12-27T14:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8xyK7zTBEVxTAz8yllALBOORT2I",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-12-30T12:05:15Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Datatype conversion confusion | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X7hDBhd_L5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X7hDBhd_L5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X7hDBhd_L5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X7hDBhd_L5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X7hDBhd_L5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X7hDBhd_L5U"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "X7hDBhd_L5U",
+        "videoPublishedAt": "2022-12-30T13:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mb_q3dg2rfjGh7LtQF1rryjiGAk",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-01-17T16:53:40Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Why string to number conversion is confusing | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\ndescription me kuch khaas abhi h nhi, bs share krdo linkedin pe 😁",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N9el4APFtAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N9el4APFtAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N9el4APFtAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N9el4APFtAo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N9el4APFtAo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N9el4APFtAo"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "N9el4APFtAo",
+        "videoPublishedAt": "2023-01-17T16:59:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9aOgLP1HJXTzbmACFLivaWcpqh4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-01-17T17:07:44Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Comparison of datatypes in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nshare krdo linkedin pe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/giP2uXMlv4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/giP2uXMlv4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/giP2uXMlv4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/giP2uXMlv4c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/giP2uXMlv4c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "giP2uXMlv4c"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "giP2uXMlv4c",
+        "videoPublishedAt": "2023-01-17T17:18:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XHwqi_nNYadlY20S_RnOEqFZK3w",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-02-21T17:05:03Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Data types of javascript summary | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/suMvZWjjKbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/suMvZWjjKbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/suMvZWjjKbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/suMvZWjjKbo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/suMvZWjjKbo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "suMvZWjjKbo"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "suMvZWjjKbo",
+        "videoPublishedAt": "2023-02-21T17:09:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MmuqtZNoJ3jSqYZ-5Jwm1lR_FHA",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-02-21T18:04:23Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Stack and Heap memory in javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7gwc-1czolw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7gwc-1czolw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7gwc-1czolw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7gwc-1czolw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7gwc-1czolw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7gwc-1czolw"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "7gwc-1czolw",
+        "videoPublishedAt": "2023-02-22T15:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wWaRfNTNNqbHktZGPDpM0BWAK0w",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-02-23T18:45:49Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Strings in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fozwNnFunlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fozwNnFunlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fozwNnFunlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fozwNnFunlo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fozwNnFunlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fozwNnFunlo"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "fozwNnFunlo",
+        "videoPublishedAt": "2023-02-23T19:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q-Ex6kpp5zzcwtR2S_DI6BoV9E0",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-02-25T10:25:49Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Number and Maths in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_KqpeDc47Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_KqpeDc47Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_KqpeDc47Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_KqpeDc47Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_KqpeDc47Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_KqpeDc47Ro"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "_KqpeDc47Ro",
+        "videoPublishedAt": "2023-02-25T14:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ttfiC2iH6eczgFB27r_5RPzc5ro",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-03-01T12:46:31Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Date and time in depth in javascript | chair aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tGLCuoumaGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tGLCuoumaGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tGLCuoumaGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tGLCuoumaGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tGLCuoumaGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tGLCuoumaGY"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "tGLCuoumaGY",
+        "videoPublishedAt": "2023-03-01T14:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-4BMFeZeM7dZ8jfpbd3FcKDKF08",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-03-12T12:12:43Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Array in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nCode yaha milega:\nhttps://github.com/hiteshchoudhary/js-hindi-youtube",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cejBux2gtEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cejBux2gtEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cejBux2gtEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cejBux2gtEE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cejBux2gtEE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cejBux2gtEE"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "cejBux2gtEE",
+        "videoPublishedAt": "2023-03-12T14:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xsN-OZ8YDfjhHxyfXXYUcdL5vwA",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-04-24T15:28:06Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Array part 2 in Javascript Hindi | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m6azhgyCi-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m6azhgyCi-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m6azhgyCi-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/m6azhgyCi-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/m6azhgyCi-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "m6azhgyCi-k"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "m6azhgyCi-k",
+        "videoPublishedAt": "2023-04-24T15:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GORqeE2dLH-krNCUj2XYj8nWMro",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-04-24T15:30:17Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Objects in depth in javascript in hindi | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vVYOHmqQDCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vVYOHmqQDCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vVYOHmqQDCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vVYOHmqQDCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vVYOHmqQDCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vVYOHmqQDCU"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "vVYOHmqQDCU",
+        "videoPublishedAt": "2023-04-24T16:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rk7pY9vqKTCdAF3Dlh5rz7Fzl0o",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-04-24T15:32:11Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Objects in Javascript part 2 in Hindi | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4lb2pXWWXJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4lb2pXWWXJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4lb2pXWWXJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4lb2pXWWXJI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4lb2pXWWXJI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4lb2pXWWXJI"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "4lb2pXWWXJI",
+        "videoPublishedAt": "2023-04-24T16:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gSDne9FlmdZr3lIsTLghpJPw1e8",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-05-03T11:49:12Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Object de-structure and JSON API intro | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AViTh83k-IE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AViTh83k-IE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AViTh83k-IE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AViTh83k-IE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AViTh83k-IE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AViTh83k-IE"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "AViTh83k-IE",
+        "videoPublishedAt": "2023-05-03T13:43:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Jg0zP_hFnY9KESjuyxaTOFLn02I",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-05-05T15:04:40Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Functions and parameter in javascript | Hindi",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\n\"\"/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bn56WahG_t0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bn56WahG_t0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bn56WahG_t0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bn56WahG_t0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bn56WahG_t0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bn56WahG_t0"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "Bn56WahG_t0",
+        "videoPublishedAt": "2023-05-05T15:13:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sPmoTgJR4fbTX3wELEGbZzMk6N4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-05-05T18:36:27Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Functions with objects and array in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t7ZHPhgdA4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t7ZHPhgdA4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t7ZHPhgdA4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t7ZHPhgdA4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t7ZHPhgdA4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t7ZHPhgdA4U"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "t7ZHPhgdA4U",
+        "videoPublishedAt": "2023-05-05T18:39:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jHiHpr1HNxOeeEitReuTylHycCk",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-05-06T11:41:50Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Global and local scope in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cHHU0jXfjKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cHHU0jXfjKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cHHU0jXfjKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cHHU0jXfjKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cHHU0jXfjKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cHHU0jXfjKY"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "cHHU0jXfjKY",
+        "videoPublishedAt": "2023-05-06T11:54:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CTuSRu-tcSQ2uQ_IDCBsAW4uDRI",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-05-06T16:31:00Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Scope level and mini hoisting in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eWwge2YpHhc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eWwge2YpHhc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eWwge2YpHhc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eWwge2YpHhc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eWwge2YpHhc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eWwge2YpHhc"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "eWwge2YpHhc",
+        "videoPublishedAt": "2023-05-06T16:37:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vXQT3dj8GgK0E_O_Ylwq-aYBqn0",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-05-08T15:28:44Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "THIS and arrow function in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ksqBa8_txM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ksqBa8_txM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ksqBa8_txM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ksqBa8_txM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ksqBa8_txM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9ksqBa8_txM"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "9ksqBa8_txM",
+        "videoPublishedAt": "2023-05-08T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q_6LguJaC8jJr_yifE--9WSf_DY",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2023-05-13T16:48:09Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Immediately Invoked Function Expressions IIFE | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GAIbn16Iytc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GAIbn16Iytc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAIbn16Iytc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GAIbn16Iytc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GAIbn16Iytc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GAIbn16Iytc"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "GAIbn16Iytc",
+        "videoPublishedAt": "2023-05-13T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D5xnTXsbDqzS6ltzItdF28oI6c0",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2023-05-15T19:21:46Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "How does javascript execute code + call stack | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ByhtOgF6uYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ByhtOgF6uYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ByhtOgF6uYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ByhtOgF6uYM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ByhtOgF6uYM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ByhtOgF6uYM"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "ByhtOgF6uYM",
+        "videoPublishedAt": "2023-05-15T19:35:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ABZcH0YcOjU9xw6nKwLoT5HnG6w",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2023-05-16T11:18:49Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Control flow in javascript in 1 shot | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0P_YvC6Gg0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0P_YvC6Gg0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0P_YvC6Gg0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0P_YvC6Gg0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0P_YvC6Gg0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0P_YvC6Gg0c"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "0P_YvC6Gg0c",
+        "videoPublishedAt": "2023-05-16T13:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QIo_kgg-DwwbSRWJBkYjuKSjxIg",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2023-05-23T11:53:29Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "For loop with break and continue in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y1cpFsXrEgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y1cpFsXrEgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y1cpFsXrEgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y1cpFsXrEgY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y1cpFsXrEgY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y1cpFsXrEgY"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "Y1cpFsXrEgY",
+        "videoPublishedAt": "2023-05-23T13:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q8gHdsHPBh57E31o5WNmGNW-CWg",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2023-05-23T12:04:09Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "While and do while loop in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w3Q55-l47P0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w3Q55-l47P0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w3Q55-l47P0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w3Q55-l47P0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w3Q55-l47P0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w3Q55-l47P0"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "w3Q55-l47P0",
+        "videoPublishedAt": "2023-05-23T15:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CtyXvu356rgHl-g8PgmWVNaJ3Vg",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2023-05-24T08:17:41Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "High Order Array loops | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M0YImBHQsWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M0YImBHQsWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M0YImBHQsWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M0YImBHQsWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M0YImBHQsWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "M0YImBHQsWU"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "M0YImBHQsWU",
+        "videoPublishedAt": "2023-05-24T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "999x2JIvjcsgJENSP9wNRNG6Tvw",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2023-05-25T17:23:46Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Filter map and reduce in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9MfwYoWKKVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9MfwYoWKKVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9MfwYoWKKVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9MfwYoWKKVE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9MfwYoWKKVE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9MfwYoWKKVE"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "9MfwYoWKKVE",
+        "videoPublishedAt": "2023-05-25T17:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IPYImCOhjDkBdJcLVva5zz-rgQI",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2023-05-31T06:35:20Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "DOM introduction in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DcjNkHtDj8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DcjNkHtDj8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DcjNkHtDj8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DcjNkHtDj8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DcjNkHtDj8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DcjNkHtDj8A"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "DcjNkHtDj8A",
+        "videoPublishedAt": "2023-05-31T14:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HljJ16TWZ47qjndpR3rDrCNoiEU",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2023-06-03T13:05:58Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "All DOM selectors NodeList and HTMLCollection | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ab6K57WjWTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ab6K57WjWTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ab6K57WjWTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ab6K57WjWTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ab6K57WjWTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ab6K57WjWTE"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "Ab6K57WjWTE",
+        "videoPublishedAt": "2023-06-03T14:18:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xWDBJmGy9jwimDan6-lvEQvQWPI",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2023-06-09T17:12:33Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "How to create a new element in DOM | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xAvTgCsCHLs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xAvTgCsCHLs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xAvTgCsCHLs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xAvTgCsCHLs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xAvTgCsCHLs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xAvTgCsCHLs"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "xAvTgCsCHLs",
+        "videoPublishedAt": "2023-06-09T17:18:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tm-bW7lcvaDP4v4I8mp7RlsgOik",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2023-06-11T12:10:14Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Edit and remove elements in DOM | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VQlY-X_eeTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VQlY-X_eeTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VQlY-X_eeTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VQlY-X_eeTE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VQlY-X_eeTE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VQlY-X_eeTE"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "VQlY-X_eeTE",
+        "videoPublishedAt": "2023-06-11T12:45:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YAbguuWPbJE8FZG_OZFp99m8ElU",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2023-06-14T11:04:55Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Lets build 4 javascript projects for beginners | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EGqHVjU-fas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EGqHVjU-fas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EGqHVjU-fas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EGqHVjU-fas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EGqHVjU-fas/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EGqHVjU-fas"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "EGqHVjU-fas",
+        "videoPublishedAt": "2023-06-14T11:13:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZtWTZtkVxbLzYLwb4XCGW0m1gMs",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2023-06-28T10:26:06Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Events in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\n\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ALUMTa8BAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ALUMTa8BAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ALUMTa8BAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ALUMTa8BAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ALUMTa8BAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_ALUMTa8BAE"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "_ALUMTa8BAE",
+        "videoPublishedAt": "2023-06-28T10:27:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1kQXNhIaezrUWXHfiGcCPa48kK0",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2023-07-09T13:32:29Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Async Javascript fundamentals | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgt5oTD3rRc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgt5oTD3rRc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgt5oTD3rRc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgt5oTD3rRc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgt5oTD3rRc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zgt5oTD3rRc"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "zgt5oTD3rRc",
+        "videoPublishedAt": "2023-07-09T13:35:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uHKMHGmTHYZJ6L2cXY05BuabZjM",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2023-07-10T14:22:42Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "2 projects with Async JS | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/efrW5-IYoCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/efrW5-IYoCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/efrW5-IYoCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/efrW5-IYoCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/efrW5-IYoCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "efrW5-IYoCU"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "efrW5-IYoCU",
+        "videoPublishedAt": "2023-07-10T14:31:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9phvP-QeJhJMDMTcwq-Q81NPhE0",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2023-07-19T23:13:21Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "API request and V8 engine | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDPAcYdSse8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDPAcYdSse8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDPAcYdSse8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pDPAcYdSse8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pDPAcYdSse8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pDPAcYdSse8"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "pDPAcYdSse8",
+        "videoPublishedAt": "2023-07-13T19:04:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uCMrrEwnO0KocFLrxPLqRcVAeCo",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2023-07-19T20:56:10Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Promise in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJwRQgsu1Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJwRQgsu1Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJwRQgsu1Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NJwRQgsu1Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NJwRQgsu1Q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NJwRQgsu1Q8"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "NJwRQgsu1Q8",
+        "videoPublishedAt": "2023-07-19T21:02:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vpdccg0cPi9mrPf4oxbwO4kHiog",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2023-07-20T09:17:35Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Now you know fetch in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rive84an6Lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rive84an6Lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rive84an6Lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rive84an6Lc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rive84an6Lc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rive84an6Lc"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "Rive84an6Lc",
+        "videoPublishedAt": "2023-07-20T09:44:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yxbYF_jpCdX12CcJHS3lOG9O-CY",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2023-07-22T09:20:28Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Object Oriented in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pN-Qmv4zBcI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pN-Qmv4zBcI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pN-Qmv4zBcI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pN-Qmv4zBcI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pN-Qmv4zBcI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pN-Qmv4zBcI"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "pN-Qmv4zBcI",
+        "videoPublishedAt": "2023-07-22T09:35:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HZ_qu_tCGVR8GQArGHKx9JITQbc",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2023-07-22T11:51:32Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Magic of Prototype in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uMI5cNeHTOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uMI5cNeHTOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uMI5cNeHTOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uMI5cNeHTOc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uMI5cNeHTOc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uMI5cNeHTOc"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "uMI5cNeHTOc",
+        "videoPublishedAt": "2023-07-22T09:58:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XajbSxd1D2AWx-Dz1cKu-gupsp0",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2023-07-22T10:01:29Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Call and this in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-owpuf4lbyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-owpuf4lbyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-owpuf4lbyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-owpuf4lbyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-owpuf4lbyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-owpuf4lbyU"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "-owpuf4lbyU",
+        "videoPublishedAt": "2023-07-22T10:24:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QQj0_MMuwQNpZj-FxosFJAOO3b4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2023-07-22T11:24:05Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Class constructor and static | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6mVHkMpoMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6mVHkMpoMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6mVHkMpoMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u6mVHkMpoMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u6mVHkMpoMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u6mVHkMpoMk"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "u6mVHkMpoMk",
+        "videoPublishedAt": "2023-07-22T11:24:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6RjJv3msDu1ElXdF_hEvJXyWdac",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2023-07-22T11:25:40Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Bind in javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/75dMiOY_4ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/75dMiOY_4ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/75dMiOY_4ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/75dMiOY_4ac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/75dMiOY_4ac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "75dMiOY_4ac"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "75dMiOY_4ac",
+        "videoPublishedAt": "2023-07-22T11:34:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EcWNeTK22W-bEZ9IHHILnkcxfkQ",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2023-07-22T11:36:28Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Now you know Objects in Javascript | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jss2rL9kv6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jss2rL9kv6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jss2rL9kv6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jss2rL9kv6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jss2rL9kv6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jss2rL9kv6s"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "jss2rL9kv6s",
+        "videoPublishedAt": "2023-07-22T11:47:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WgEFPhx-i-Pgt4Ayxq4PMCpvyGU",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2023-07-22T13:43:09Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Getter Setter and Stack Overflow | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t6vLhF-iSxQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t6vLhF-iSxQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t6vLhF-iSxQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t6vLhF-iSxQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/t6vLhF-iSxQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t6vLhF-iSxQ"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "t6vLhF-iSxQ",
+        "videoPublishedAt": "2023-07-22T13:46:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SkA7tIrb_8fkzAwMTIMqrOm5Zl4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2023-07-25T18:47:47Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Lexical scoping and Closure | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VaH09NXQZ58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VaH09NXQZ58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VaH09NXQZ58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VaH09NXQZ58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VaH09NXQZ58/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VaH09NXQZ58"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "VaH09NXQZ58",
+        "videoPublishedAt": "2023-07-25T18:52:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hJvgJfi87PuLZrcWXjKAoydGcF4",
+      "id": "UEx1NzFTS3hOYmZvQnVYM2Y0RU9BQ2xlMnktdFJDNVEzNy5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2023-07-22T13:47:20Z",
+        "channelId": "UCNQ6FEtztATuaVhZKCY28Yw",
+        "title": "Javascript ends with a story | chai aur #javascript",
+        "description": "Visit https://chaicode.com for all related materials, community help, source code etc.\n#javascript #hindi \nSara code yaha milta h\nhttps://github.com/hiteshchoudhary/\n\nDiscord pe yaha paaye jaate h:\nhttps://hitesh.ai/discord\nInstagram pe yaha paaye jaate h:\nhttps://www.instagram.com/hiteshchoudharyofficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z9PINyinqwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z9PINyinqwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z9PINyinqwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z9PINyinqwo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z9PINyinqwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Chai aur Code",
+        "playlistId": "PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z9PINyinqwo"
+        },
+        "videoOwnerChannelTitle": "Chai aur Code",
+        "videoOwnerChannelId": "UCNQ6FEtztATuaVhZKCY28Yw"
+      },
+      "contentDetails": {
+        "videoId": "z9PINyinqwo",
+        "videoPublishedAt": "2023-07-22T13:50:45Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 51,
+    "resultsPerPage": 50
+  }
+}
