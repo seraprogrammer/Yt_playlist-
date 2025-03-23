@@ -1,0 +1,2561 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "jbP76PUK7occXvJW0TqgXkl4IV0",
+  "nextPageToken": "EAAaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2B2kjezDIqIEn4odU0awojOK0s0",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2023-09-07T18:16:03Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript tutorial for beginners 🌐",
+        "description": "#JavaScript #tutorial #course \n\n00:00:00 introduction\n00:01:12 VS Code\n00:01:30 website folder\n00:02:55 HTML setup\n00:04:09 Live Server extension\n00:05:00 HTML elements\n00:05:32 CSS properties\n00:06:11 script tag\n00:06:34 console.log()\n00:07:52 window.alert() \n00:08:33 comments\n00:09:26 document.getElementById()\n00:11:33 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ihy0QziLDf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ihy0QziLDf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ihy0QziLDf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ihy0QziLDf0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ihy0QziLDf0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ihy0QziLDf0"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "Ihy0QziLDf0",
+        "videoPublishedAt": "2023-10-14T18:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7ZfqQLAmo97PfpoPiPFrZ0w2aq8",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-08-24T23:01:23Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript VARIABLES are easy! 📦",
+        "description": "00:00:00 declaration & assignment\n00:01:51 numbers\n00:04:29 strings \n00:06:57 booleans\n00:09:24 exercises\n\n// variable = A container that stores a value.\n//                   Behaves as if it were the value it contains.\n\nlet fullName = \"Bro Code\";\nlet age = 25;\nlet isStudent = false;\n\ndocument.getElementById(\"p1\").textContent = `Your name is ${fullName}`;\ndocument.getElementById(\"p2\").textContent = `You are ${age} years old`;\ndocument.getElementById(\"p3\").textContent = `Enrolled: ${isStudent}`;",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbX0MIV7-Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbX0MIV7-Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbX0MIV7-Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nbX0MIV7-Ek/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nbX0MIV7-Ek/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nbX0MIV7-Ek"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "nbX0MIV7-Ek",
+        "videoPublishedAt": "2023-11-01T14:13:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OP5fzFctz-N8RqRKZh0F4L4z5k0",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-08-24T23:01:56Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript ARITHMETIC OPERATORS in 8 minutes! ➕",
+        "description": "00:00:00 arithmetic operators\n00:03:21 augmented assignment operators\n00:04:54 increment/decrement operators\n00:05:23 operator precedence\n00:07:51 conclusion\n\n// arithmetic operators = operands (values, variables, etc.)\n//                                         operators (+ - * /)\n//                                         ex. 11 = x + 5;\n\nlet students = 30;\n\n//students = students + 1;\n//students = students - 1;\n//students = students * 2;\n//students = students / 2;\n//students = students ** 2;\n//let extraStudents = students % 3;\n\nconsole.log(students);\n\n//students += 1;\n//students -= 1;\n//students *= 2;\n//students /= 2;\n//students **= 2;\n//students %= 2;\n\n//students++;\n//students--;\n\n/*\n    operator precedence\n    1. parenthesis ()\n    2. exponents\n    3. multiplication & division & modulo\n    4. addition & subtraction\n*/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FyGIKD2fxIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FyGIKD2fxIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FyGIKD2fxIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FyGIKD2fxIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FyGIKD2fxIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FyGIKD2fxIo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "FyGIKD2fxIo",
+        "videoPublishedAt": "2023-10-15T17:46:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CqlOtElRbFHkOSqWK4wCjeE4T64",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-08-24T23:01:56Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "How to accept JavaScript USER INPUT in 5 minutes 💬",
+        "description": "00:00:00 intro\n00:00:19 window prompt\n00:01:36 HTML textbox\n\n// How to accept user input\n\n// 1. EASY WAY = window prompt\n// 2. PROFESSIONAL WAY = HTML textbox\n\n// ------------------------- EASY WAY -------------------------\n// let username = window.prompt(\"What's your username?\");\n\n// console.log(username);\n\n// --------------------- PROFESSIONAL WAY ---------------------\nlet username;\n\ndocument.getElementById(\"mySubmit\").onclick = function(){\n    username = document.getElementById(\"myText\").value;\n    document.getElementById(\"myH1\").textContent = `Hello ${username}`\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JeXqaKeJSRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JeXqaKeJSRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JeXqaKeJSRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JeXqaKeJSRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JeXqaKeJSRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JeXqaKeJSRI"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "JeXqaKeJSRI",
+        "videoPublishedAt": "2023-10-15T17:57:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cQShcYcwpQu7Qkk1oLZjarF04-g",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-08-24T23:01:56Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript TYPE CONVERSION in 5 minutes! 💱",
+        "description": "// type conversion = change the datatype of a value to another\n//                                 (strings, numbers, booleans)\n\n// --------------- EXAMPLE 1 ---------------\nlet age = window.prompt(\"How old are you?\");\nage = Number(age);\nage+=1;\n\nconsole.log(age, typeof age);\n\n// --------------- EXAMPLE 2 ---------------\nlet x = \"pizza\";\nlet y = \"pizza\";\nlet z = \"pizza\";\n\nx = Number(x);\ny = String(y);\nz = Boolean(z);\n\nconsole.log(x, typeof x);\nconsole.log(y, typeof y);\nconsole.log(z, typeof z);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jLRnuVHwHKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jLRnuVHwHKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jLRnuVHwHKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jLRnuVHwHKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jLRnuVHwHKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jLRnuVHwHKk"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "jLRnuVHwHKk",
+        "videoPublishedAt": "2023-10-18T13:33:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iyrbHPUevmlz6WXxHh1r7ncTkfs",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2023-10-18T13:19:22Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript CONSTANTS are easy 🚫",
+        "description": "// const = a variable that can't be changed\n\nconst PI = 3.14159;\nlet radius;\nlet circumference;\n\n// PI = 420.69;\n\ndocument.getElementById(\"mySubmit\").onclick = function(){\n    radius = document.getElementById(\"myText\").value;\n    radius = Number(radius);\n    circumference = 2 * PI * radius;\n    document.getElementById(\"myH3\").textContent = circumference + \"cm\";\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3M53uhj0D4k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3M53uhj0D4k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3M53uhj0D4k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3M53uhj0D4k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3M53uhj0D4k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3M53uhj0D4k"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "3M53uhj0D4k",
+        "videoPublishedAt": "2023-10-18T13:44:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YVMdFdCjjMG_Pt_LRCXx3AKuBlg",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-08-26T14:14:59Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript COUNTER PROGRAM 🔢",
+        "description": "00:00:00 Intro\n00:00:27 HTML\n00:02:16 CSS\n00:05:58 JavaScript\n\n// COUNTER PROGRAM\nconst increaseBtn = document.getElementById(\"increaseBtn\");\nconst decreaseBtn = document.getElementById(\"decreaseBtn\");\nconst resetBtn = document.getElementById(\"resetBtn\");\nconst countLabel = document.getElementById(\"countLabel\");\nlet count = 0;\n\nincreaseBtn.onclick = function(){\n    count++;\n    countLabel.textContent = count;\n}\ndecreaseBtn.onclick = function(){\n    count--;\n    countLabel.textContent = count;\n}\nresetBtn.onclick = function(){\n    count = 0;\n    countLabel.textContent = count;\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uSJXZ3LkABE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uSJXZ3LkABE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uSJXZ3LkABE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uSJXZ3LkABE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uSJXZ3LkABE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uSJXZ3LkABE"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "uSJXZ3LkABE",
+        "videoPublishedAt": "2023-10-18T14:02:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ARk1D9Uly8G0_Lj8zREU95twXCA",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-08-25T16:31:50Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Why the Math object in JavaScript is useful 🧮",
+        "description": "// Math = built-in object that provides a\n//              collection of properties and methods\n\nlet x = 3;\nlet y = 2;\nlet z = 1;\n\n//console.log(Math.PI);\n//console.log(Math.E);\n\n//z = Math.round(x);\n//z = Math.floor(x);\n//z = Math.ceil(x);\n//z = Math.trunc(x);\n//z = Math.pow(x, y);\n//z = Math.sqrt(x);\n//z = Math.log(x);\n//z = Math.sin(x);\n//z = Math.cos(x);\n//z = Math.tan(x);\n//z = Math.abs(x);\n//z = Math.sign(x);\nlet max = Math.max(x, y, z);\nlet min = Math.min(x, y, z);\n\nconsole.log(min);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uy-1WNqecnI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uy-1WNqecnI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uy-1WNqecnI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uy-1WNqecnI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uy-1WNqecnI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uy-1WNqecnI"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "uy-1WNqecnI",
+        "videoPublishedAt": "2023-10-19T14:54:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KmPgNZHkylb-VG4SBkIJFbs0H_8",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-08-27T15:52:32Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Random number generator in JavaScript ⁉",
+        "description": "00:00:00 Math.random()\n00:02:57 random number generator\n00:06:37 multiple random numbers\n\n// RANDOM NUMBER GENERATOR\nconst myButton = document.getElementById(\"myButton\");\nconst label1 = document.getElementById(\"label1\");\nconst label2 = document.getElementById(\"label2\");\nconst label3 = document.getElementById(\"label3\");\nconst min = 1;\nconst max = 6;\nlet randomNum1;\nlet randomNum2;\nlet randomNum3;\n\nmyButton.onclick = function(){\n    randomNum1 = Math.floor(Math.random() * max) + min;\n    randomNum2 = Math.floor(Math.random() * max) + min;\n    randomNum3 = Math.floor(Math.random() * max) + min;\n    label1.textContent = randomNum1;\n    label2.textContent = randomNum2;\n    label3.textContent = randomNum3;\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K2upGO5Bb48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K2upGO5Bb48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K2upGO5Bb48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K2upGO5Bb48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K2upGO5Bb48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K2upGO5Bb48"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "K2upGO5Bb48",
+        "videoPublishedAt": "2023-10-20T13:48:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uZNFGVGZZ0-ZeRYFVMVbR0ZJDm4",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-08-28T13:47:29Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "If statements in JavaScript are easy 🤔",
+        "description": "00:00:00 example 1\n00:01:57 example 2\n00:02:53 booleans\n00:03:57 nested if AD\n00:07:01 else if\n00:10:07 == comparison operator\n00:11:06 project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PgUXiprlg1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PgUXiprlg1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PgUXiprlg1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PgUXiprlg1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PgUXiprlg1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PgUXiprlg1k"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "PgUXiprlg1k",
+        "videoPublishedAt": "2023-10-21T12:50:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SJbJYufxIUvGNb7ZbFHK-YBmJ84",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-08-31T14:01:06Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "The JavaScript checked property is easy ✅",
+        "description": "00:00:00 intro\n00:00:22 HTML checkbox\n00:01:13 HTML radiobuttons\n00:02:58 other HTML elements\n00:03:55 CSS\n00:04:39 JavaScript constants\n00:06:08 .onclick property\n00:06:31 .checked property\n00:09:49 conclusion\n\n// .checked = property that determines the checked state of an \n//                     HTML checkbox or radio button element\n\nconst myCheckBox = document.getElementById(\"myCheckBox\");\nconst visaBtn = document.getElementById(\"visaBtn\");\nconst masterCardBtn = document.getElementById(\"masterCardBtn\");\nconst payPalBtn = document.getElementById(\"payPalBtn\");\nconst mySubmit = document.getElementById(\"mySubmit\");\nconst subResult = document.getElementById(\"subResult\");\nconst paymentResult = document.getElementById(\"paymentResult\");\n\nmySubmit.onclick = function(){\n\n    if(myCheckBox.checked){\n        subResult.textContent = `You are subscribed!`;\n    }\n    else{\n        subResult.textContent = `You are NOT subscribed!`;\n    }\n\n    if(visaBtn.checked){\n        paymentResult.textContent = `You are paying with Visa`;\n    }\n    else if(masterCardBtn.checked){\n        paymentResult.textContent = `You are paying with MasterCard`;\n    }\n    else if(payPalBtn.checked){\n        paymentResult.textContent = `You are paying with PayPal`;\n    }\n    else{\n        paymentResult.textContent = `You must select a payment type`;\n    }\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SgxzJdqhyfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SgxzJdqhyfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SgxzJdqhyfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SgxzJdqhyfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SgxzJdqhyfw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SgxzJdqhyfw"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "SgxzJdqhyfw",
+        "videoPublishedAt": "2023-10-22T12:14:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bR-j1zjHzULBof-fIDymsmCLYog",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-08-29T10:46:59Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript TERNARY OPERATOR in 6 minutes!  ❓",
+        "description": "00:00:00 intro\n00:00:32 example 1\n00:02:37 example 2\n00:03:36 example 3\n00:04:30 example 4",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atS_A9HHAVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atS_A9HHAVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atS_A9HHAVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/atS_A9HHAVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/atS_A9HHAVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "atS_A9HHAVo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "atS_A9HHAVo",
+        "videoPublishedAt": "2023-10-23T13:54:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6kVmBQ16_2AMUBdmTw-swm6xYqk",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2023-10-24T13:31:52Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript SWITCHES in 6 minutes! 💡",
+        "description": "00:00:00 example 1\n00:03:28 break\n00:04:14 example 2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z2fcWdoph4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z2fcWdoph4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z2fcWdoph4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z2fcWdoph4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z2fcWdoph4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "z2fcWdoph4U"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "z2fcWdoph4U",
+        "videoPublishedAt": "2023-10-24T13:40:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SO9GyQLE17u1SvdkrcSaNoFepYs",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-08-31T16:03:26Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Useful JavaScript STRING METHODS 🧵",
+        "description": "00:00:00 intro\n00:00:28 .charAt()\n00:01:34 .indexOf()\n00:02:03 .lastIndexOf()\n00:02:15 .length\n00:02:40 .trim()\n00:03:13 .toUpperCase()\n00:03:22 .toLowerCase()\n00:03:28 .repeat()\n00:03:42 .startWith() \n00:05:00 .endsWith()\n00:05:18 .includes() \n00:05:43 .replaceAll()\n00:06:53 .padStart() \n00:07:35 .padEnd()\n00:07:45 conclusion\n\n// string methods = allow you to manipulate and work with text (strings)\n\nlet userName = \"Bro Code\";\nlet phoneNumber = \"123-456-7890\";\n\n//console.log(userName.length);\n//console.log(userName.charAt(0));\n//console.log(userName.indexOf(\"o\"));\n//console.log(userName.lastIndexOf(\"o\"));\n//userName = userName.trim();\n//userName = userName.toUpperCase();\n//userName = userName.toLowerCase();\n//userName = userName.repeat(3);\n//let result = userName.startsWith(\" \");\n//let result = userName.endsWith(\" \");\n//let result = userName.includes(\" \");\n//phoneNumber = phoneNumber.replaceAll(\"-\", \"\");\n//phoneNumber = phoneNumber.padStart(15, \"0\");\n//phoneNumber = phoneNumber.padEnd(15, \"0\");\n\nconsole.log(phoneNumber);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wssvLtVSFeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wssvLtVSFeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wssvLtVSFeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wssvLtVSFeI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wssvLtVSFeI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wssvLtVSFeI"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "wssvLtVSFeI",
+        "videoPublishedAt": "2023-10-27T14:29:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-v9wBXBV3blZ9Ig_LH7xEhqylLY",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2023-09-30T19:46:55Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript STRING SLICING in 8 minutes! ✂️",
+        "description": "// string slicing = creating a substring \n//                            from a portion of another string\n//                            string.slice(start, end)\n\n// ------------ EXAMPLE 1 ------------\nconst fullName = \"Bro Code\";\n\nlet firstName = fullName.slice(0, 3);\nlet lastName = fullName.slice(4, 8);\n\nconsole.log(firstName);\nconsole.log(lastName);\n\n// ------------ EXAMPLE 2 ------------\n\nconst email = \"Bro1@gmail.com\";\n\nlet username = email.slice(0, email.indexOf(\"@\"));\nlet extension = email.slice(email.indexOf(\"@\") + 1);\n\nconsole.log(username);\nconsole.log(extension);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sPPGd4Lfh3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sPPGd4Lfh3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sPPGd4Lfh3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sPPGd4Lfh3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sPPGd4Lfh3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sPPGd4Lfh3s"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "sPPGd4Lfh3s",
+        "videoPublishedAt": "2023-10-28T15:10:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZsINNguW6qpPTzHrtrwVbbJ7IHc",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5FQUY2Qzk4RUFDN0ZFRkZF",
+      "snippet": {
+        "publishedAt": "2023-12-17T22:42:53Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JS METHOD CHAINING in 5 minutes! ⛓",
+        "description": "#javascript #tutorial #course \n\n// Method Chaining = Calling one method after another\n//                                    in one continuous line of code.\n\nlet username = window.prompt(\"Enter your username: \");\n\n// ----- NO METHOD CHAINING -----\n/*\nusername = username.trim();\nlet letter = username.charAt(0);\nletter = letter.toUpperCase();\n\nlet extraChars = username.slice(1);\nextraChars = extraChars.toLowerCase();\nusername = letter + extraChars;\n\nconsole.log(username);\n*/\n\n// ----- METHOD CHAINING -----\n\nusername = username.trim().charAt(0).toUpperCase() + username.trim().slice(1).toLowerCase();\n\nconsole.log(username);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J4YhlDsNqeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J4YhlDsNqeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J4YhlDsNqeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J4YhlDsNqeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J4YhlDsNqeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "J4YhlDsNqeE"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "J4YhlDsNqeE",
+        "videoPublishedAt": "2023-12-19T13:25:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CKeHSLQZLYlIOXjBr39mKEAl6bQ",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-09-01T16:04:36Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript LOGICAL OPERATORS in 5 minutes ❗",
+        "description": "// logical operators =  used to combine or manipulate Boolean values \n//                                    (true or false)\n\n// AND = &&\n// OR  = ||\n// NOT = !",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ovWYhDVQiR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ovWYhDVQiR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ovWYhDVQiR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ovWYhDVQiR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ovWYhDVQiR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ovWYhDVQiR8"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "ovWYhDVQiR8",
+        "videoPublishedAt": "2023-10-29T15:35:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4jPkG8ZRDKyxJE81_GsqNdj2ePU",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-09-01T21:41:51Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript STRICT EQUALITY in 3 minutes! 🟰",
+        "description": "//   = assignment operator\n//  == comparison operator (compare if values are equal)\n// === strict equality operator (compare if values & datatype are equal)\n//  != inequality operator\n// !== strict inequality operator\n\nconst PI = 3.14;\n\nif(PI === \"3.14\"){\n    console.log(\"That is NOT Pi\");\n}\nelse{\n    console.log(\"That is Pi\");\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O7aUm0AuUy4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O7aUm0AuUy4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O7aUm0AuUy4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O7aUm0AuUy4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O7aUm0AuUy4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "O7aUm0AuUy4"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "O7aUm0AuUy4",
+        "videoPublishedAt": "2023-10-29T15:50:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p2ya5uxlpD7hf8bHdNqQzFnDCdk",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2023-09-08T15:33:09Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript WHILE LOOPS in 8 minutes! 🔁",
+        "description": "// while loop = repeat some code WHILE some condition is true\n\nlet loggedIn = false;\nlet username;\nlet password;\n\nwhile(!loggedIn){\n    username = window.prompt(`Enter your username`);\n    password = window.prompt(`Enter your password`);\n\n    if(username === \"myUsername\" && password === \"myPassword\"){\n        loggedIn = true;\n        console.log(\"You are logged in!\");\n    }\n    else{\n        console.log(\"Invalid credentials! Please try again\");\n    }\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TDUz9QcGPoE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TDUz9QcGPoE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TDUz9QcGPoE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TDUz9QcGPoE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TDUz9QcGPoE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TDUz9QcGPoE"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "TDUz9QcGPoE",
+        "videoPublishedAt": "2023-10-30T14:33:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GZdgxS56QeJI_IH85rVWYdB2aik",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-09-09T16:18:04Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript FOR LOOPS in 5 minutes! 🔂",
+        "description": "00:00:00 introduction\n00:00:15 increment\n00:02:50 decrement\n00:03:36 continue\n00:04:59 break\n00:05:21 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZOQYIWLngSU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZOQYIWLngSU"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "ZOQYIWLngSU",
+        "videoPublishedAt": "2023-11-01T14:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R4le_98OSthLQ-TBqx9az9LWRvk",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:52:49Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript NUMBER GUESSING GAME ↕",
+        "description": "JavaScript number guessing game exercise using loops",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/maB0r59KOUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/maB0r59KOUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/maB0r59KOUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/maB0r59KOUk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/maB0r59KOUk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "maB0r59KOUk"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "maB0r59KOUk",
+        "videoPublishedAt": "2023-11-02T16:40:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JzUH38fVFVK5UKVo9THrfGDsT3A",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-09-14T01:26:45Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript FUNCTIONS are easy! 📞",
+        "description": "00:00:00 introduction\n00:00:14 functions\n00:01:57 arguments/parameters\n00:04:40 return\n00:06:35 example 1\n00:07:33 example 2\n00:09:30 example 3\n00:11:45 conclusion\n\n// function = A section of reusable code.\n//                    Declare code once, use it whenever you want.\n//                    Call the function to execute that code.\n\nfunction happyBirthday(username, age){\n    console.log(`Happy birthday to you!`);\n    console.log(`Happy birthday to you!`);\n    console.log(`Happy birthday dear, ${username}`);\n    console.log(`Happy birthday to you!`);\n    console.log(`You are ${age} years old!`);\n}\n\nfunction add(x, y){\n    return x + y;\n}\n\nfunction subtract(x, y){\n    return x - y;\n}\n\nfunction multiply(x, y){\n    return x * y;\n}\n\nfunction divide(x, y){\n    return x / y;\n}\n\nfunction isEven(number){\n\n    return number % 2 === 0 ? true : false;\n}\n\nfunction isValidEmail(email){\n\n    return email.includes(\"@\") ? true : false;\n}\n\nconsole.log(happyBirthday(\"BroCode\", 25));\nconsole.log(isValidEmail(\"Bro@fake.com\"));",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HFaxylC7bUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HFaxylC7bUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HFaxylC7bUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HFaxylC7bUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HFaxylC7bUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HFaxylC7bUc"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "HFaxylC7bUc",
+        "videoPublishedAt": "2023-11-03T13:26:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W19gIV-wjg-388YsRIcqrkDMcUM",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-10-02T14:15:51Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript VARIABLE SCOPE in 5 minutes! 🏠",
+        "description": "// variable scope = where a variable is recognized\n//                               and accessible (local vs global)            \n\nlet x = 3; // global scope\n\nfunction1();\n\nfunction function1(){\n    let x = 1; // local scope\n    console.log(x);\n}\n\nfunction function2(){\n    let x = 2; // local scope\n    console.log(x);\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KyqmbIkZGIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KyqmbIkZGIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KyqmbIkZGIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KyqmbIkZGIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KyqmbIkZGIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KyqmbIkZGIo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "KyqmbIkZGIo",
+        "videoPublishedAt": "2023-11-04T13:49:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tvJOiddYLDxaBpS2omv902jWtNw",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-09-29T19:06:08Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript TEMPERATURE CONVERSION PROGRAM 🌡️",
+        "description": "#JavaScript #project #programming \n\n00:00:00 HTML\n00:04:20 CSS\n00:10:43 JavaScript\n\n// TEMPERATURE CONVERSION PROGRAM\n\nconst textBox = document.getElementById(\"textBox\");\nconst toFahrenheit = document.getElementById(\"toFahrenheit\");\nconst toCelsius = document.getElementById(\"toCelsius\");\nconst result = document.getElementById(\"result\");\nlet temp;\n\nfunction convert(){\n\n    if(toFahrenheit.checked){\n        temp = Number(textBox.value);\n        temp = temp * 9 / 5 + 32;\n        result.textContent = temp.toFixed(1) + \"°F\";\n    }\n    else if(toCelsius.checked){\n        temp = Number(textBox.value);\n        temp = (temp - 32) * (5/9);\n        result.textContent = temp.toFixed(1) + \"°C\";\n    }\n    else{\n        result.textContent = \"Select a unit\"; \n    }\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6xrTdpIAsb0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6xrTdpIAsb0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6xrTdpIAsb0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6xrTdpIAsb0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6xrTdpIAsb0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6xrTdpIAsb0"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "6xrTdpIAsb0",
+        "videoPublishedAt": "2023-11-04T13:58:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nGN26Ify1ybZc9j63dhHLcEW1As",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2023-10-03T16:09:46Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript ARRAYS in 8 minutes! 🗃",
+        "description": "00:00:00 arrays\n00:01:06 index\n00:02:16 array methods\n00:03:07 .length\n00:03:41 .indexOf\n00:04:33 iterate an array\n00:06:34 enhanced for loop\n00:07:18 sort\n00:07:29 reverse sort\n00:07:44 conclusion\n\n// array = a variable like structure that can \n//         hold more than 1 value\n\nlet fruits = [\"apple\", \"orange\", \"banana\", \"coconut\"];\n\n//fruits.push(\"coconut\");  //add an element\n//fruits.pop();            //removes last element\n//fruits.unshift(\"mango\"); //add element to beginning\n//fruits.shift();          //removes element from beginning\n\nlet numOfFruits = fruits.length;\nlet index = fruits.indexOf(\"coconut\");\n\n//console.log(fruits);\n//console.log(fruits[0]);\n//console.log(fruits[1]);\n//console.log(fruits[2]);\n//console.log(fruits[3]);\n\n//console.log(numOfFruits);\n//console.log(index);\n\n//fruits.sort();\n//fruits.sort().reverse();\n\nfor(let fruit of fruits){\n    console.log(fruit);\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yQ1fz8LY354/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yQ1fz8LY354/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yQ1fz8LY354/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yQ1fz8LY354/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yQ1fz8LY354/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yQ1fz8LY354"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "yQ1fz8LY354",
+        "videoPublishedAt": "2023-11-05T13:43:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zH4wHLOnA9q0cR4F39qSwBeinNs",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2023-10-28T14:57:43Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn 2D ARRAYS in JavaScript in 6 minutes! ⬜",
+        "description": "// 2D array = multi-dimensional array that stores a matrix\n//                    of data in rows and columns.\n//                    Useful for games, spreadsheets, or representing images \n\nconst matrix = [ [1, 2, 3], \n                            [4, 5, 6], \n                            [7, 8, 9]];\n\n//matrix[0][0] = 'X';\n//matrix[0][1] = 'O';\n//matrix[0][2] = 'X';\n\n//matrix[1][0] = 'O';\n//matrix[1][1] = 'X';\n//matrix[1][2] = 'O';\n\n//matrix[2][0] = 'X';\n//matrix[2][1] = 'O';\n//matrix[2][2] = 'X';\n\nfor(let row of matrix){\n    const rowString = row.join(' ');\n    console.log(rowString);\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SmJNeJuLmVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SmJNeJuLmVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SmJNeJuLmVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SmJNeJuLmVo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SmJNeJuLmVo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SmJNeJuLmVo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "SmJNeJuLmVo",
+        "videoPublishedAt": "2023-11-06T15:25:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HXVzz_Zq3TBNJuyAIdwCK93tdOA",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2023-10-04T15:02:59Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript SPREAD OPERATOR in 4 minutes! 📖",
+        "description": "// spread operator =  ... allows an iterable such as an\n//                                  array or string to be expanded\n//                                   in to separate elements\n//                                  (unpacks the elements)\n\n// ------------- EXAMPLE 1 -------------\nlet numbers = [1, 2, 3, 4, 5];\nlet maximum = Math.max(...numbers);\nlet minimum = Math.min(...numbers);\n\nconsole.log(maximum);\n\n// ------------- EXAMPLE 2 -------------\nlet username = \"Bro Code\";\nlet letters = [...username]; \n\nconsole.log(letters);\n\n// ------------- EXAMPLE 3 -------------\nlet fruits = [\"apple\", \"orange\", \"banana\"];\nlet vegetables = [\"carrots\", \"celery\", \"potatoes\"];\nlet foods = [...fruits, ...vegetables, \"eggs\", \"milk\"];\n\nconsole.log(foods);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RuDdltsfaVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RuDdltsfaVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RuDdltsfaVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RuDdltsfaVc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RuDdltsfaVc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RuDdltsfaVc"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "RuDdltsfaVc",
+        "videoPublishedAt": "2023-11-07T14:42:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NXRF5N5JxswwYkXusDy0IS3d6ng",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2023-10-29T15:08:33Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript REST PARAMETERS in 8 minutes! 🗄",
+        "description": "// rest parameters = (...rest) allow a function work with a variable\n//                                  number of arguments by bundling them into an array\n\n//                                  spread = expands an array into separate elements\n//                                  rest = bundles separate elements into an array\n\n00:00:00 example 1\n00:03:52 example 2\n00:06:07 example 3\n\n// -------- EXAMPLE 1 --------\nfunction openFridge(...foods){\n    console.log(...foods);\n}\nfunction getFood(...foods){\n    return foods;\n}\n\nconst food1 = \"pizza\";\nconst food2 = \"hamburger\";\nconst food3 = \"hotdog\";\nconst food4 = \"sushi\";\nconst food5 = \"ramen\";\n\nopenFridge(food1, food2, food3, food4, food5);\n\nconst foods = getFood(food1, food2, food3, food4, food5);\n\n// -------- EXAMPLE 2 --------\nfunction sum(...numbers){\n\n    let result = 0;\n    for(let number of numbers){\n        result += number;\n    }\n    return result;\n}\n\nfunction getAverage(...numbers){\n\n    let result = 0;\n    for(let number of numbers){\n        result += number;\n    }\n    return result / numbers.length;\n}\n\nconst average = getAverage(75, 100, 85, 90, 50);\n\nconsole.log(average);\n\n// -------- EXAMPLE 3 --------\nfunction combineStrings(...strings){\n    return strings.join(\" \");\n}\n\nconst fullName = combineStrings(\"Mr.\", \"Spongebob\", \"Squarepants\", \"III\");\n\nconsole.log(fullName);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ahwR1D_GAfc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ahwR1D_GAfc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ahwR1D_GAfc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ahwR1D_GAfc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ahwR1D_GAfc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ahwR1D_GAfc"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "ahwR1D_GAfc",
+        "videoPublishedAt": "2023-11-07T14:43:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CVDorUEllKETxeHrKt0L0Sxc8so",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2023-11-25T17:31:46Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Build this JavaScript Dice Roller program 🎲",
+        "description": "#JavaScript #tutorial #course \n\nThis is a project to reinforce learning of JavaScript functions, arrays, and random numbers.\n\n00:00:00 intro\n00:00:33 HTML\n00:02:44 CSS\n00:05:53 JavaScript\n00:13:03 more CSS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PXilNmL9U80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PXilNmL9U80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PXilNmL9U80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PXilNmL9U80/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PXilNmL9U80/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PXilNmL9U80"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "PXilNmL9U80",
+        "videoPublishedAt": "2023-11-25T17:54:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2bQX7_e_xiPa2HUxj3H0UfTnMGA",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2023-11-21T15:40:51Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Build a JavaScript random password generator 🔑",
+        "description": "#javascript #course  #tutorial \n\nThis is a project for beginners to generate pseudo-random passwords.\nObject-Oriented Programming is not included in this specific exercise.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1cdXwYEFDAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1cdXwYEFDAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1cdXwYEFDAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1cdXwYEFDAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1cdXwYEFDAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1cdXwYEFDAg"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "1cdXwYEFDAg",
+        "videoPublishedAt": "2023-11-29T15:48:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G1VmeC2iWcG88K1JyfBRrH0cXGg",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2023-10-06T14:53:47Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript CALLBACKS in 7 minutes! 🤙",
+        "description": "00:00:00 introduction\n00:00:50 example 1\n00:04:00 example 2\n\n// callback = a function that is passed as an argument\n//                    to another function.\n\n//                    used to handle asynchronous operations:\n//                    1. Reading a file\n//                    2. Network requests\n//                    3. Interacting with databases\n\n//                    \"Hey, when you're done, call this next.\"\n\nhello(goodbye);\n\nfunction hello(callback){\n    console.log(\"Hello!\");\n    callback();\n}\n\nfunction goodbye(){\n    console.log(\"Goodbye!\");\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2SPq-nb3NQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2SPq-nb3NQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2SPq-nb3NQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i2SPq-nb3NQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i2SPq-nb3NQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i2SPq-nb3NQ"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "i2SPq-nb3NQ",
+        "videoPublishedAt": "2023-11-08T16:13:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lkbEeyRVJCIzOv4uML4mnfZgja0",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2023-10-06T16:44:18Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript forEach() method in 8 minutes! ➿",
+        "description": "00:00:00 introduction\n00:00:18 example 1\n00:03:58 example 2\n00:07:37 conclusion\n\n// forEach() = method used to iterate over the elements \n//                     of an array and apply a specified function (callback)\n//                     to each element\n\n//                     array.forEach(callback)\n//                     element, index, array are provided\n\n// -------------- EXAMPLE 1 --------------\n\nconst numbers = [1, 2, 3, 4, 5];\n\nnumbers.forEach(cube);\nnumbers.forEach(display);\n\nfunction double(element, index, array){\n    array[index] = element * 2;\n}\n\nfunction triple(element, index, array){\n    array[index] = element * 3;\n}\n\nfunction square(element, index, array){\n    array[index] = Math.pow(element, 2);\n}\n\nfunction cube(element, index, array){\n    array[index] = Math.pow(element, 3);\n}\n\nfunction display(element){\n    console.log(element);\n}\n\n// -------------- EXAMPLE 2 --------------\n\nlet fruits = [\"apple\", \"orange\", \"banana\", \"coconut\"];\n\nfruits.forEach(capitalize);\nfruits.forEach(display);\n\nfunction upperCase(element, index, array){\n    array[index] = element.toUpperCase();\n}\n\nfunction lowercase(element, index, array){\n    array[index] = element.toLowerCase();\n}\n\nfunction capitalize(element, index, array){\n    array[index] = element.charAt(0).toUpperCase() + element.slice(1);\n}\n\n/*\nfunction display(element){\n    console.log(element);\n}\n*/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uOZWH0KEUs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uOZWH0KEUs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uOZWH0KEUs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uOZWH0KEUs4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uOZWH0KEUs4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uOZWH0KEUs4"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "uOZWH0KEUs4",
+        "videoPublishedAt": "2023-11-09T15:17:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lCMmEW6TtsWRUgoPXUL3HULzd1M",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2023-10-08T14:21:48Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript map() method in 7 minutes! 🗺️",
+        "description": "00:00:00 introduciton\n00:00:16 example 1\n00:02:13 example 2\n00:03:58 example 3\n\n// .map() = accepts a callback and applies that function \n//                 to each element of an array, then return a new array\n\n// ------------ EXAMPLE 1 ------------\nconst numbers = [1, 2, 3, 4, 5];\nconst squared = numbers.map(square);\nconst cubed = numbers.map(cube);\n\nconsole.log(cubed);\n\nfunction square(element){\n    return Math.pow(element, 2);\n}\n\nfunction cube(element){\n    return Math.pow(element, 3);\n}\n\n// ------------ EXAMPLE 2 ------------\nconst students = [\"Spongebob\", \"Patrick\", \"Squidward\", \"Sandy\"];\nconst studentsUpper = students.map(upperCase);\nconst studentsLower = students.map(lowerCase);\n\nconsole.log(studentsLower);\n\nfunction upperCase(element){\n    return element.toUpperCase();\n}\n\nfunction lowerCase(element){\n    return element.toLowerCase();\n}\n\n// ------------ EXAMPLE 3 ------------\nconst dates = [\"2024-1-10\", \"2025-2-20\", \"2026-3-30\"];\nconst formattedDates = dates.map(formatDates);\n\nconsole.log(formattedDates);\n\nfunction formatDates(element){\n    const parts = element.split(\"-\");\n    return `${parts[1]}/${parts[2]}/${parts[0]}`;\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xNQH1NbZQ0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xNQH1NbZQ0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xNQH1NbZQ0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xNQH1NbZQ0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xNQH1NbZQ0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xNQH1NbZQ0E"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "xNQH1NbZQ0E",
+        "videoPublishedAt": "2023-11-09T15:19:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZiTcbJdw2iDG9OeOOQwxHU1rXzI",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2023-10-09T13:29:55Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript filter() method in 6 minutes! 🚰",
+        "description": "// .filter() = creates a new array by filtering out\n//                 elements with a callback\n\n00:00:00 example 1\n00:02:13 example 2\n00:04:01 example 3\n\n// ----------- EXAMPLE 1 -----------\nlet numbers = [1, 2, 3, 4, 5, 6, 7];\nlet evenNums = numbers.filter(isEven);\nlet oddNums = numbers.filter(isOdd);\n\nconsole.log(oddNums);\n\nfunction isEven(element){\n    return element % 2 === 0;\n}\n\nfunction isOdd(element){\n    return element % 2 !== 0;\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VvSEKHKFvpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VvSEKHKFvpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VvSEKHKFvpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VvSEKHKFvpQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VvSEKHKFvpQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VvSEKHKFvpQ"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "VvSEKHKFvpQ",
+        "videoPublishedAt": "2023-11-10T15:55:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XmOiBagbZqoG75LawFzRCXZaPls",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2023-11-11T13:13:34Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript reduce() method in 5 minutes! ♻️",
+        "description": "// .reduce() = reduce the elements of an array\n//                     to a single value    \n\n// ----------- EXAMPLE 1 -----------\nconst prices = [5, 30, 10, 25, 15, 20];\nconst total = prices.reduce(sum);\n\nconsole.log(`$${total.toFixed(2)}`);\n\nfunction sum(accumulator, element){\n    return accumulator + element;\n}\n\n// ----------- EXAMPLE 2 -----------\nconst scores = [75, 50, 90, 80, 65, 95];\nconst maximum = scores.reduce(getMax);\nconst minimum = scores.reduce(getMin);\n\nconsole.log(maximum);\nconsole.log(minimum);\n\nfunction getMax(accumulator, element){\n    return Math.max(accumulator, element);\n}\n\nfunction getMin(accumulator, element){\n    return Math.min(accumulator, element);\n}",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iDWtuWkuj8g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iDWtuWkuj8g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iDWtuWkuj8g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iDWtuWkuj8g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iDWtuWkuj8g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iDWtuWkuj8g"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "iDWtuWkuj8g",
+        "videoPublishedAt": "2023-11-11T13:14:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AY4TuaAJzq3SeLzsUxbIXPOwK_U",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2023-10-10T21:01:22Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript FUNCTION EXPRESSIONS in 7 minutes! 🐣",
+        "description": "// function expressions = a way to define functions as\n//                                           values or variables\n\n//  1. Callbacks in asynchronous operations\n//  2. Higher-Order Functions\n//  3. Closures\n//  4. Event Listeners\n\nconst hello = function(){\n   console.log(\"Hello\");\n}\n\nhello();\n\nsetTimeout(function() {\n    console.log(\"Goodbye\");\n}, 3000);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jDqmFt03Gy0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jDqmFt03Gy0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jDqmFt03Gy0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jDqmFt03Gy0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jDqmFt03Gy0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jDqmFt03Gy0"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "jDqmFt03Gy0",
+        "videoPublishedAt": "2023-11-13T12:44:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mqJ5mzBSF9_rIckM0rNU6myxIfA",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2023-10-11T14:13:00Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript ARROW FUNCTIONS in 8 minutes! 🎯",
+        "description": "// arrow functions = a concise way to write function expressions\n//                                 good for simple functions that you use only once\n\n00:00:00 introduction\n00:00:35 example 1\n00:03:05 example 2\n00:04:24 example 3\n00:07:25 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fRRRkognpOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fRRRkognpOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fRRRkognpOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fRRRkognpOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fRRRkognpOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fRRRkognpOs"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "fRRRkognpOs",
+        "videoPublishedAt": "2023-11-13T13:02:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Mm96uMUdfaUim8Nt1bTm4lu1lu0",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2023-10-16T15:21:17Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript OBJECTS in 7 minutes! 🧍",
+        "description": "#JavaScript #tutorial #course \n\n// object = A collection of related properties and/or methods\n//                Can represent real world objects (people, products, places)\n//                object = {key:value,\n//                                 function()}\n\nconst person1 = {\n    firstName: \"Spongebob\",\n    lastName: \"Squarepants\",\n    age: 30,\n    isEmployed: true,\n    sayHello: function(){console.log(\"Hi! I am Spongebob!\")},\n    eat: function(){console.log(\"I am eating a Krabby Patty\")},\n}\n\nconsole.log(person1.firstName);\nperson1.sayHello();\nperson1.eat();",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lo7o91qLzxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lo7o91qLzxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lo7o91qLzxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lo7o91qLzxc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lo7o91qLzxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lo7o91qLzxc"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "lo7o91qLzxc",
+        "videoPublishedAt": "2023-11-14T15:52:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gFPI8Hn5ZSpTw-wxaYV1DT_fuTE",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2023-10-17T20:31:52Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "What is THIS in JavaScript? 👈",
+        "description": "#JavaScript #tutorial #course\n\n// this = reference to the object where THIS is used\n//           (the object depends on the immediate context)\n\nconst person1 = {\n    name: \"Spongebob\",\n    favFood: \"hamburgers\",\n    sayHello: function(){console.log(`Hi! I am ${this.favFood}`)},\n    eat: function(){console.log(`${this.name} is eating ${this.favFood}`)}\n}\nconst person2 = {\n    name: \"Patrick\",\n    favFood: \"pizza\",\n    sayHello: function(){console.log(`Hi! I am ${this.favFood}`)},\n    eat: function(){console.log(`${this.name} is eating ${this.favFood}`)}\n}\n\nperson1.eat();\nperson2.eat();",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jdlo8ZDt5Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jdlo8ZDt5Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jdlo8ZDt5Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jdlo8ZDt5Jg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jdlo8ZDt5Jg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jdlo8ZDt5Jg"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "Jdlo8ZDt5Jg",
+        "videoPublishedAt": "2023-11-15T16:24:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9MNat_vUEe8Aw4n-PvuAGp9xSHQ",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2023-10-18T12:53:03Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript CONSTRUCTORS in 5 minutes! 🛠",
+        "description": "#JavaScript #tutorial #course \n\n// constructor = special method for defining the\n//                          properties and methods of objects\n\nfunction Car(make, model, year, color){\n    this.make = make,\n    this.model = model,\n    this.year = year,\n    this.color = color,\n    this.drive = function(){console.log(`You drive the ${this.model}`)}\n}\n\nconst car1 = new Car(\"Ford\", \"Mustang\", 2024, \"red\");\nconst car2 = new Car(\"Chevrolet\", \"Camaro\", 2025, \"blue\");\nconst car3 = new Car(\"Dodge\", \"Charger\", 2026, \"silver\");\n\ncar1.drive();\ncar2.drive();\ncar3.drive();\n\nconsole.log(car1.make);\nconsole.log(car1.model);\nconsole.log(car1.year);\nconsole.log(car1.color);\n\nconsole.log(car2.make);\nconsole.log(car2.model);\nconsole.log(car2.year);\nconsole.log(car2.color);\n\nconsole.log(car3.make);\nconsole.log(car3.model);\nconsole.log(car3.year);\nconsole.log(car3.color);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WPmAu26LZKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WPmAu26LZKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WPmAu26LZKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WPmAu26LZKo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WPmAu26LZKo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WPmAu26LZKo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "WPmAu26LZKo",
+        "videoPublishedAt": "2023-11-16T16:36:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HjxTuSYY_HI8dt1yL-1seEYCKMI",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2023-10-20T13:26:50Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript CLASSES in 6 minutes! 🏭",
+        "description": "// class = (ES6 feature) provides a more structured and cleaner way to \n//               work with objects compared to traditional constructor functions\n//               ex. static keyword, encapsulation, inheritance\n\nclass Product{\n    constructor(name, price){\n        this.name = name;\n        this.price = price;\n    }\n\n    displayProduct(){\n        console.log(`Product: ${this.name}`);\n        console.log(`Price: $${this.price.toFixed(2)}`);\n    }\n\n    calculateTotal(salesTax){\n        return this.price + (this.price * salesTax);\n    }\n}\n\nconst salesTax = 0.05;\n\nconst product1 = new Product(\"Shirt\", 19.99);\nconst product2 = new Product(\"Pants\", 22.50);\nconst product3 = new Product(\"Underwear\", 100.00);\n\nproduct1.displayProduct();\n\nconst total = product1.calculateTotal(salesTax);\nconsole.log(`Total price (with tax): $${total.toFixed(2)}`);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U2vxAEiaVRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U2vxAEiaVRY"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "U2vxAEiaVRY",
+        "videoPublishedAt": "2023-11-17T17:38:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YSdOXvwO5UQF6UwYMOgQzpdShRo",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2023-10-22T14:34:18Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript STATIC keyword in 8 minutes! ⚡",
+        "description": "// static = keyword that defines properties or methods that belong \n//               to a class itself rather than the objects created\n//               from that class (class owns anything static, not the objects)\n\n// ------------ EXAMPLE 1 ------------\nclass MathUtil{\n    static PI = 3.14159;\n\n    static getDiameter(radius){\n        return radius * 2;\n    }\n    static getCircumference(radius){\n        return 2 * this.PI * radius;\n    }\n    static getArea(radius){\n        return this.PI * radius * radius;\n    }\n}\n\nconsole.log(MathUtil.PI);\nconsole.log(MathUtil.getDiameter(10));\nconsole.log(MathUtil.getCircumference(10));\nconsole.log(MathUtil.getArea(10));\n\n// ------------ EXAMPLE 2 ------------\n\nclass User{\n\n    static userCount = 0;\n\n    constructor(username){\n        this.username = username;\n        User.userCount++;\n    }\n\n    static getUserCount(){\n        console.log(`There are ${User.userCount} users online`);\n    }\n    sayHello(){\n        console.log(`Hello, my username is ${this.username}`);\n    }\n}\n\nconst user1 = new User(\"Spongebob\");\nconst user2 = new User(\"Patrick\");\nconst user3 = new User(\"Sandy\");\n\nuser1.sayHello();\nuser2.sayHello();\nuser3.sayHello();\nUser.getUserCount();",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOH4SAG3BoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOH4SAG3BoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOH4SAG3BoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UOH4SAG3BoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UOH4SAG3BoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UOH4SAG3BoQ"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "UOH4SAG3BoQ",
+        "videoPublishedAt": "2023-11-18T14:56:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oy_eOFTDs9QeTlwKY1oZRB6JKew",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2023-10-27T14:01:13Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript INHERITANCE in 7 minutes! 🐇",
+        "description": "// inheritance = allows a new class to inherit properties and methods \n//                         from an existing class. Helps with code reusability\n\nclass Animal{\n\n    alive = true;\n\n    eat(){\n        console.log(`This ${this.name} is eating`);\n    }\n    sleep(){\n        console.log(`This ${this.name} is sleeping`);\n    }\n}\n\nclass Rabbit extends Animal{\n\n    name = \"rabbit\";\n\n    run(){\n        console.log(`This ${this.name} is running`);\n    }\n}\n\nclass Fish extends Animal{\n\n    name = \"fish\";\n\n    swim(){\n        console.log(`This ${this.name} is swimming`);\n    }\n}\n\nclass Hawk extends Animal{\n    \n    name = \"hawk\";\n\n    fly(){\n        console.log(`This ${this.name} is flying`);\n    }\n}\n\nconst rabbit = new Rabbit();\nconst fish = new Fish();\nconst hawk = new Hawk();\n\nconsole.log(rabbit.alive);\nrabbit.eat();\nrabbit.sleep();\nrabbit.run();",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqUPa0D2N78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqUPa0D2N78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqUPa0D2N78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DqUPa0D2N78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DqUPa0D2N78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DqUPa0D2N78"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "DqUPa0D2N78",
+        "videoPublishedAt": "2023-11-19T16:59:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dR7VMddswxD14_PXKsyaVc3BgWE",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2023-11-06T15:13:16Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "The JavaScript SUPER keyword is super! 🦸‍♂️",
+        "description": "00:00:00 intro\n00:00:22 setup\n00:02:39 super constructor\n00:05:59 super methods\n00:09:03 conclusion\n\n// super = keyword is used in classes to call the constructor or\n//               access the properties and methods of a parent (superclass)\n//               this = this object\n//               super = the parent\n\nclass Animal{\n\n    constructor(name, age){\n        this.name = name;\n        this.age = age;\n    }\n\n    move(speed){\n        console.log(`The ${this.name} moves at a speed of ${speed}mph`);\n    }\n}\n\nclass Rabbit extends Animal{\n\n    constructor(name, age, runSpeed){\n        super(name, age);\n        this.runSpeed = runSpeed;\n    }\n\n    run(){\n        console.log(`This ${this.name} can run`);\n        super.move(this.runSpeed);\n    }\n}\n\nclass Fish extends Animal{\n    \n    constructor(name, age, swimSpeed){\n        super(name, age);\n        this.swimSpeed = swimSpeed;\n    }\n\n    swim(){\n        console.log(`This ${this.name} can swim`);\n        super.move(this.swimSpeed);\n    }\n}\n\nclass Hawk extends Animal{\n    \n    constructor(name, age, flySpeed){\n        super(name, age);\n        this.flySpeed = flySpeed;\n    }\n\n    fly(){\n        console.log(`This ${this.name} can fly`);\n        super.move(this.flySpeed);\n    }\n}\n\nconst rabbit = new Rabbit(\"rabbit\", 1, 25);\nconst fish = new Fish(\"fish\", 2, 12);\nconst hawk = new Hawk(\"hawk\", 3, 50);\n\nrabbit.run();\nfish.swim();\nhawk.fly();",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cto38GpvJgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cto38GpvJgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cto38GpvJgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cto38GpvJgg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cto38GpvJgg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Cto38GpvJgg"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "Cto38GpvJgg",
+        "videoPublishedAt": "2023-11-19T18:54:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b4GUxQsTMuh8X6qlIoMddqklLTg",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2023-11-08T19:31:48Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript GETTERS & SETTERS are awesome!!! 📐",
+        "description": "// getter = special method that makes a property readable\n// setter = special method that makes a property writeable\n\n// validate and modify a value when reading/writing a property\n\n00:00:00 intro\n00:01:42 example 1 setters\n00:04:10 example 1 getters\n00:07:16 example 2 \n00:08:31 example 2 setters\n00:11:15 example 2 getters\n00:12:48 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KQVCAnh6Afk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KQVCAnh6Afk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KQVCAnh6Afk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KQVCAnh6Afk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KQVCAnh6Afk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KQVCAnh6Afk"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "KQVCAnh6Afk",
+        "videoPublishedAt": "2023-11-19T22:26:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qJIjx_5SHxwaCMWoNHldSvGqwi0",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2023-11-01T02:02:46Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript DESTRUCTURING in 8 minutes! 💥",
+        "description": "00:00:00 intro\n00:00:21 swap the values of two variables \n00:01:11 swap two elements in an array\n00:02:34 assign array elements to variables\n00:03:47 extract values from objects\n00:06:11 destructuring in function parameters \n\n// destructuring =  extract values from arrays and objects,\n//                              then assign them to variables in a convenient way\n//                              [] = to perform array destructuring\n//                              {} = to perform object destructuring\n\n// ---------- EXAMPLE 1 ----------\n// SWAP THE VALUE OF TWO VARIABLES\n\nlet a = 1;\nlet b = 2;\n\n[a, b] = [b, a];\n\nconsole.log(a);\nconsole.log(b);\n\n// ---------- EXAMPLE 2 ----------\n// SWAP 2 ELEMENTS IN AN ARRAY\n\nconst colors = ['red', 'green', 'blue', 'black', 'white'];\n\n[colors[0], colors[4]] = [colors[4], colors[0]]\n\nconsole.log(colors);\n\n// ---------- EXAMPLE 3 ----------\n// ASSIGN ARRAY ELEMENTS TO VARIABLES\n\nconst [firstColor, secondColor, thirdColor, ...extraColors] = colors;\n\nconsole.log(firstColor);\nconsole.log(secondColor);\nconsole.log(thirdColor);\nconsole.log(extraColors);\n\n// ---------- EXAMPLE 4 ----------\n// EXTRACT VALUES FROM OBJECTS\n\nconst person1 = {\n  firstName: 'Spongebob',\n  lastName: 'Squarepants',\n  age: 30,\n  job: \"Fry cook\",\n};\nconst person2 = {\n  firstName: 'Patrick',\n  lastName: 'Star',\n  age: 34\n};\n\nconst {firstName, lastName, age, job=\"Unemployed\"} = person2;\n\nconsole.log(firstName);\nconsole.log(lastName);\nconsole.log(age);\nconsole.log(job);\n\n// ---------- EXAMPLE 5 ----------\n// DESTRUCTURING IN FUNCTION PARAMETERS\n\nfunction displayPerson({ firstName, lastName, age, job=\"Unemployed\" }) {\n    console.log(`name: ${firstName} ${lastName}`);\n    console.log(`age: ${age}`);\n    console.log(`job: ${job}`);\n}\n\ndisplayPerson(person1);\ndisplayPerson(person2);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UHZcJyVXtLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UHZcJyVXtLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UHZcJyVXtLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UHZcJyVXtLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UHZcJyVXtLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UHZcJyVXtLo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "UHZcJyVXtLo",
+        "videoPublishedAt": "2023-11-20T13:27:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zuTemro776NtTuegS-LtG4xy0s8",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2023-11-07T14:09:05Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript NESTED OBJECTS easy! 📫",
+        "description": "00:00:00 example 1\n00:04:24 example 2\n\n// nested objects = Objects inside of other Objects.\n//                               Allows you to represent more complex data structures\n//                               Child Object is enclosed by a Parent Object\n\n//                               Person{Address{}, ContactInfo{}}\n//                               ShoppingCart{Keyboard{}, Mouse{}, Monitor{}}  \n\nclass Person{\n\n    constructor(name, age, ...address){\n        this.name = name;\n        this.age = age;\n        this.address = new Address(...address);\n    }\n}\n\nclass Address{\n\n    constructor(street, city, country){\n        this.street = street;\n        this.city = city;\n        this.country = country;\n    }\n}\n\nconst person1 = new Person(\"Spongebob\", 30, \"124 Conch St.\", \n                                            \"Bikini Bottom\", \n                                            \"Int. Waters\");\n\nconst person2 = new Person(\"Patrick\", 37,   \"128 Conch St.\", \n                                            \"Bikini Bottom\", \n                                            \"Int. Waters\");\n\nconst person3 = new Person(\"Squidward\", 45, \"126 Conch St.\", \n                                            \"Bikini Bottom\", \n                                            \"Int. Waters\");\n\n\nconsole.log(person1.name);\nconsole.log(person1.age); \nconsole.log(person1.address);                                   \nconsole.log(person1.address.street);\nconsole.log(person1.address.city);\nconsole.log(person1.address.country);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b8gwYQ_V4K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b8gwYQ_V4K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b8gwYQ_V4K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b8gwYQ_V4K4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b8gwYQ_V4K4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b8gwYQ_V4K4"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "b8gwYQ_V4K4",
+        "videoPublishedAt": "2023-11-21T16:15:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vlg1OXwdlcwLsSw8mM-Npj7JcdQ",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2023-11-02T16:19:39Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "JavaScript ARRAYS of OBJECTS are easy! 🍎",
+        "description": "00:00:00 array of objects\n00:01:29 access object properties\n00:02:19 push()\n00:02:59 pop()\n00:03:11 splice()\n00:03:28 forEach()\n00:04:08 map()\n00:05:18 filter()\n00:07:09 reduce()\n\nconst fruits = [ {name: \"apple\", color: \"red\", calories: 95}, \n                          {name: \"orange\", color: \"orange\", calories: 45}, \n                          {name: \"banana\", color: \"yellow\", calories: 105}, \n                          {name: \"coconut\", color: \"white\", calories: 159}, \n                          {name: \"pineapple\", color: \"yellow\", calories: 37}];\n\n// Access properties of a fruit object\nconsole.log(fruits[0].calories);\n\n// Add a new fruit object\nfruits.push({ name: \"grapes\", color: \"purple\", calories: 62});\n\n// Remove the last fruit object\nfruits.pop();\n\n// Remove fruit objects by indices\nfruits.splice(1, 2);",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9078dAjcrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9078dAjcrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9078dAjcrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w9078dAjcrY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w9078dAjcrY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w9078dAjcrY"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "w9078dAjcrY",
+        "videoPublishedAt": "2023-11-21T16:33:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2cCYbISJMC875ARtM1THIv8cCkw",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2023-10-30T14:21:19Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn JavaScript SORTING in 6 minutes! 🗃",
+        "description": "// sort() = method used to sort elements of an array in place.\n//               Sorts elements as strings in lexicographic order, not alphabetical\n//               lexicographic = (alphabet + numbers + symbols) as strings",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CTHhlx25X-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CTHhlx25X-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CTHhlx25X-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CTHhlx25X-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CTHhlx25X-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CTHhlx25X-U"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "CTHhlx25X-U",
+        "videoPublishedAt": "2023-11-22T16:13:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JupVCvXv7WfA5-OlBVDA1gIilhc",
+      "id": "UExaUFpxMHJfUlpPTzF6a2dPNGJJZGZ1THBpekNlSFlLdi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2023-10-17T13:15:12Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "How to SHUFFLE AN ARRAY in 4 minutes! 🔀",
+        "description": "\"The Fisher–Yates shuffle is an algorithm for shuffling a finite sequence. The algorithm takes a list of all the elements of the sequence, and continually determines the next element in the shuffled sequence by randomly drawing an element from the list until no elements remain. The algorithm produces an unbiased permutation: every permutation is equally likely. The modern version of the algorithm takes time proportional to the number of items being shuffled and shuffles them in place.\"\n\n - Eberl, Manuel (2016). \"Fisher–Yates shuffle\". Archive of Formal Proofs. Retrieved 28 September 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FGAUekwri1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FGAUekwri1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FGAUekwri1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FGAUekwri1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FGAUekwri1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOO1zkgO4bIdfuLpizCeHYKv",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FGAUekwri1Q"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "FGAUekwri1Q",
+        "videoPublishedAt": "2023-11-22T16:17:08Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 80,
+    "resultsPerPage": 50
+  }
+}
