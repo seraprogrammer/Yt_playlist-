@@ -1,0 +1,2561 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "_F2mwCPfeR19IENtaQHXfea_Ikk",
+  "nextPageToken": "EAAaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PUdM-g1vnH_JEqiFg38PKpjdMbc",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-02-02T23:23:11Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#1 What is React and How it works - React Tutorial Bangla Series",
+        "description": "React JS - বর্তমান সময়ের সবচেয়ে popular web library. আপনাদের বারবার অনুরোধে আমি আমার চ্যানেলে এই ভিডিওটি দিয়ে React এর একটা Tutorial Series চালু করছি। এজন্য আমি একটি Playlist তৈরী করে দিয়েছি যেটার নাম হলো - \"Think in a React way'. Playlist এর লিংক নিচে দেয়া আছে। এই series এ আমি শুরু থেকে React JS এর fundamental ব্যাপার গুলো সহজ বাংলা ভাষায় বুঝানোর চেষ্টা করবো।\nএই ভিডিওতে আমি React কি, কেন আমরা React শিখবো এবং React এর fundamental concept টা বুঝানোর চেষ্টা করেছি উদাহরণ দিয়ে। আশা করি ভিডিওটি যেকোন একজন Beginner যার JavaScript সম্পর্কে basic ধারণা আছে, তার উপকারে আসবে। সেই সাথে এই playlist এর পরবর্তী video গুলো ধারাবাহিকভাবে follow করলে আশা করি আপনারা React JS বুঝতে পারবেন এবং কাজ করতে পারবেন।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\nReferences:\n👍 w3schools JS Tutorial - https://www.w3schools.com/js/DEFAULT.asp\n👍 Modern JS Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG\n👍 VS Code Live Server Plugin - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer\n👍 DOM Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_\n\n#reactjs #bangla_programming_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Xy-t8k_M4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Xy-t8k_M4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Xy-t8k_M4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Xy-t8k_M4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Xy-t8k_M4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Xy-t8k_M4A"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "5Xy-t8k_M4A",
+        "videoPublishedAt": "2021-02-03T14:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WD2c378MpJg2Psz1FjacWPfB1nY",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2021-02-09T10:31:56Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+        "description": "React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series\n\nReact JS এর ক্ষেত্রে আমরা বারবারই একটা fancy word শুনে থাকি, সেটা হলো Virtual DOM! যে myth টা মানুষের মধ্যে ঢুকে আছে সেটা হলো - Virtual DOM, আমাদের চির পরিচিত browser DOM এর থেকে অনেক fast এবং একারণে vanilla DOM এর থেকে React অনেক fast User Interface Render করে! আসলেই কি তাই? React কি শুধুই Performance achieve করার জন্যই Virtual DOM use করে? এই Video টি দেখলে আসলে কি হচ্ছে সেটা আপনারা বুঝতে পারবেন। সঠিক ধারণা পাবেন Virtual DOM সম্পর্কে যেটা যতদিন react নিয়ে কাজ করবেন, আপনাদের অনেক বেশি কাজে দিবে বলে আমার বিশ্বাস।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\nReferences:\n👍 Introduction to React JS - https://www.youtube.com/watch?v=5Xy-t8k_M4A\n👍 DOM Tutorial Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_\n👍 Prototype Video Tutorial - https://www.youtube.com/watch?v=Z45VQuHO_VA\n👍 Vue JS Intro Tutorial - https://www.youtube.com/watch?v=iIvN7upsLoA\n👍 Svelte Intro Tutorial - https://www.youtube.com/watch?v=DdFcbIsqPh8\n\n#reactjs #virtual_dom #bangla_programming_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2C5834qx0sA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2C5834qx0sA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2C5834qx0sA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2C5834qx0sA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2C5834qx0sA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2C5834qx0sA"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "2C5834qx0sA",
+        "videoPublishedAt": "2021-02-09T10:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NogJ--hh3q2IbS6biFh4hI7Lvy8",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-02-15T21:17:44Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#3 [Deprecated] ESLint, Formatting with Prettier & Project Setup - React Tutorial Bangla Series",
+        "description": "React ESLint, Formatting with Prettier, Editor & Project Setup - React Tutorial Bangla Series\n\nSingle Page React JS project - এর জন্য Facebook team আমাদেরকে create-react-app নামক একটি package দিয়েছে। এই ভিডিওতে আমি create-react-app package দিয়ে কিভাবে React application project setup করবেন সেটা দেখিয়েছি। সেই সাথে Editor Setup, Automatic Code Formatting & Linting Setup কিভাবে করবেন সেটাও ব্যাখ্যা করেছি। Code Formatting & Linting এর জন্য আমি ESLint, Prettier ব্যবহার করেছি এবং জনপ্রিয় Airbnb Style Guide follow করেছি।\nপরিশেষে, আমার এই series এ আমি পরবর্তীতে কোন কোন বিষয়ে Tutorial দিব সেটা নিয়েও একটা ধারণা দিয়েছি।\n\n✋ গুরুত্বপূর্ণ একটি ব্যাপার যেটি video তে বলা হয়নি - VS Code Editor এর bottom right corner এ যেখানে LF/CRLF লেখা আছে সেখানে অবশ্যই click করে LF করে নিবেন, নাহলে error আসবে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-3\" ]\n\nReferences:\n👍 create-react-app - https://reactjs.org/docs/create-a-new-react-app.html\n👍 React Introduction - https://youtu.be/5Xy-t8k_M4A\n👍 React Documentation - https://reactjs.org/docs/getting-started.html\n👍 yarn Package Manager - https://yarnpkg.com\n👍 Visual Studio Code Editor - https://code.visualstudio.com\n👍 ESLint - https://eslint.org\n👍 Prettier - https://prettier.io\n👍 Dracula Theme - https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #project_setup #bangla_programming_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ii8GaRjRoNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ii8GaRjRoNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ii8GaRjRoNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ii8GaRjRoNI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ii8GaRjRoNI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ii8GaRjRoNI"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "ii8GaRjRoNI",
+        "videoPublishedAt": "2021-02-16T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nyuhV_ep4XAnzSUdkywQ-cOtlXA",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2023-04-08T10:20:06Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "How to install React in 2023 - new react.dev Website",
+        "description": "Are you interested in learning React JS from scratch but not sure how to get started? In this video tutorial, I'll walk you through the process of installing React JS according to the brand new react.dev website. Whether you're a complete beginner or already have some coding experience, this step-by-step guide will help you set up your environment and start building React applications in no time.\n\nBy the end of this tutorial, you'll have a solid understanding of how to install and set up React JS, and be ready to start building your own React applications. Whether you want to create a simple website or a complex web app, React JS is a powerful tool that can help you achieve your goals. So, let's get started and learn how to install React JS today!\n\nMy complete React Tutorial series - https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://lwsbd.link/vst\n\n#learnwithsumit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DOC3MyuuWhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DOC3MyuuWhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DOC3MyuuWhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DOC3MyuuWhM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DOC3MyuuWhM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DOC3MyuuWhM"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "DOC3MyuuWhM",
+        "videoPublishedAt": "2023-04-08T12:52:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NxCkC2_5maWRWYKwGHEBw_8-hHc",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-02-16T23:06:14Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#4 React Prerequisites - React শিখতে কি কি জানা প্রয়োজন - React Tutorial Bangla Series",
+        "description": "React Prerequisites - React শিখতে কি কি জানা প্রয়োজন - Things to learn before react - React Tutorial Bangla Series\n\nএই ভিডিওতে আমি বলেছি কমপক্ষে ঠিক কতটুকু জানলে আপনি React নিয়ে কাজ করা শুরু করতে পারেন।সেই সাথে এই series এর আমার আগের ভিডিওতে setup করা project setup এর সাথে additional যে কাজটুকু আপনাদের করতে হবে সেটাও বলে দিয়েছি। আশা করি আপনারা এই video টি দেখে প্রয়োজনীয় step গুলো complete করে পরবর্তী video গুলো দেখবেন।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-4\" ]\n\nReferences:\n👍 w3schools JavaScript Tutorial Series - https://www.w3schools.com/js/DEFAULT.asp\n👍 React Introduction Video - https://www.youtube.com/watch?v=5Xy-t8k_M4A\n👍 React Virtual DOM Video - https://www.youtube.com/watch?v=2C5834qx0sA\n👍 React Project Setup Video - https://www.youtube.com/watch?v=ii8GaRjRoNI\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #project_setup #bangla_programming_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-oGMwOOHFyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-oGMwOOHFyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-oGMwOOHFyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-oGMwOOHFyk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-oGMwOOHFyk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-oGMwOOHFyk"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "-oGMwOOHFyk",
+        "videoPublishedAt": "2021-02-18T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fuYkCvMFz5XVPAbv3514JzHvNaU",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-02-17T23:31:09Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#5 React JSX Element & Rendering Elements -  React Tutorial Bangla Series",
+        "description": "React JSX Element & Rendering Elements -  What is JSX - React Tutorial Bangla Series\n\nএই ভিডিওতে আমি React এর core building block React element নিয়ে কথা বলেছি। সেই সাথে React element এর syntactic sugar JSX নিয়ে আলোচণা করেছি। এই video টি দেখলে আপনারা আরো ভাল করে ধারণা পাবেন যে React আসলে কিভাবে আমাদের বলে দেয়া declarative syntax কে simple JavaScript Object আকারে receive করে নিজের Virtual DOM তৈরী করে এবং finally ReacDOM package টা কিভাবে সেটাকে নিয়ে আসল DOM কে update করে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n\nReferences:\n👍 React Lesson 4 Video - https://www.youtube.com/watch?v=-oGMwOOHFyk\n👍 React Lesson 1 Video - https://www.youtube.com/watch?v=5Xy-t8k_M4A\n👍 My DOM Tutorial Series - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_\n👍 My Svelte Tutorial - https://www.youtube.com/watch?v=DdFcbIsqPh8\n👍 Babel JS - https://babeljs.io\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #jsx #rendering",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uj-Bt0pWEP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uj-Bt0pWEP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uj-Bt0pWEP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uj-Bt0pWEP4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uj-Bt0pWEP4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Uj-Bt0pWEP4"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "Uj-Bt0pWEP4",
+        "videoPublishedAt": "2021-02-18T08:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-nzGoqe18-dr8ve2_5TZBGASJo0",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-02-21T07:46:53Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#6  React Components and Props Core Concept  - React Tutorial Bangla Series",
+        "description": "React Components and Props Core Concept  - React Class Component - React functional component - React Tutorial Bangla Series\n\nএই ভিডিওতে আমি React JS এর one of the most important core building blocks - Component নিয়ে কথা বলেছি এবং সেই সাথে এই component এর বৈশিষ্ট্য props নিয়ে কথা বলেছি। এই video টি দেখলে দুই ধরণের component - Functional and Class Component নিয়ে আপনাদের আর কোন confusion থাকবেনা। সেই সাথে একেবারে ভিতর থেকে visualize করতে পারবেন এই component কোথা থেকে এলো এবং কিভাবে কাজ করে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/components-and-props.html\n👍 Previous Video - https://www.youtube.com/watch?v=Uj-Bt0pWEP4\n👍 React Virtual DOM - https://www.youtube.com/watch?v=2C5834qx0sA\n👍 My DOM Tutorial Series - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_\n👍 Object Destructuring - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 Class & Inheritance - https://www.youtube.com/watch?v=93Styj1K9fY\n👍 \"this\" keyword - https://www.youtube.com/watch?v=uZqyRJkTQog\n👍 JavaScript toLocaleTimeString() doc - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleTimeString\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #component #rendering",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xVx5VqfX75Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xVx5VqfX75Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xVx5VqfX75Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xVx5VqfX75Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xVx5VqfX75Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xVx5VqfX75Q"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "xVx5VqfX75Q",
+        "videoPublishedAt": "2021-02-21T08:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IhWNJVPTgFzkdv3C4VG-umZ4Kmw",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-02-28T07:23:56Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#7 React State & Lifecycle in Class Component - React Tutorial Bangla Series",
+        "description": "React State & Lifecycle in Class Component - React State Management - React Lifecycle Component - React Tutorial Bangla Series\n\nএই ভিডিওতে আমি state নিয়ে আলোচনা করেছি। state কি, react এ Class Component এ কিভাবে state management করা হয়, কিভাবে state change করে react এ component re-render করতে হয় এবং state manage করার সময় কি কি বিষয় খেয়াল করতে হয়, এগুলো নিয়ে আমি বিস্তারিত আলোচনা করেছি ।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-7\" ]\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/state-and-lifecycle.html\n👍 Previous Video - https://www.youtube.com/watch?v=xVx5VqfX75Q\n👍 ES6 import/export video - https://www.youtube.com/watch?v=pcN3PFnw2Q0\n👍 class Inheritance super keyword - https://www.youtube.com/watch?v=93Styj1K9fY\n👍 Primitive vs reference Values - https://www.youtube.com/watch?v=vK8fnE_-NI0\n👍 ES6 Spread Operator - https://www.youtube.com/watch?v=w8gXwrD-Kg4\n👍 Modern JavaScript Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #state_management #bangla_programming_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CzyspyBe7rk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CzyspyBe7rk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CzyspyBe7rk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CzyspyBe7rk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CzyspyBe7rk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CzyspyBe7rk"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "CzyspyBe7rk",
+        "videoPublishedAt": "2021-02-28T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3aDRvjSSOqL83qqyZL16rK8d7Rg",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-03-07T14:14:52Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#8 React Event Handling & Control Re Rendering - React Tutorial Bangla Series",
+        "description": "React Event Handling and Control Rendering - React Rendering Tutorial - React Event Handle Tutorial - React Tutorial Bangla Series\n\nএই video তে আমি React এ কিভাবে event handling করতে হয় সে সম্পর্কে আলোচনা করেছি। সেই সাথে normal HTML event এর সাথে এটার difference কি সেটাও বলেছি। Event Handling - এর callback handle করতে গিয়ে class Component এ \"this\" keyword নিয়ে বিশাল confusion তৈরী হয়। এই video পুরোটা মন দিয়ে দেখলে এই confusion চিরকালের জন্য clear হয়ে যাবে আপনাদের। শুধু তাই নয়, JavaScript এর রহস্যময় \"this\" keyword এর behavior আপনারা আরো ভালভাবে বুঝতে পারবেন।\nএরপরে React এর সবচেয়ে গুরুত্বপূর্ণ কিন্তু সবচেয়ে confusing \"Unnecessary Render Cycle\" সম্পর্কে আলোচনা করেছি। এই video দেখলে clearly বুঝতে পারবেন এই unnecessary re-render কিভাবে detect করবেন এবং প্রয়োজনে সেটা avoid করতে পারেন। একজন React Developer এর জন্য Video টি অত্যন্ত গুরুত্বপূর্ণ। তাই আশা থাকবে পুরো video টি আপনারা দেখবেন।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-8\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n1:34 - Event Handling\n06:57 - ESLint Warning Solution\n14:42 - \"this\" confusion & solution\n34:49 - Passing parameters\n37:30 - Detect & Control Re-render\n59:45 - My last words\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/handling-events.html\n👍 First React Video - https://www.youtube.com/watch?v=5Xy-t8k_M4A\n👍 Destructuring Tutorial - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 Modern JavaScript Playlist - https://www.youtube.com/watch?v=PWXkYBmlbB4&list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG\n👍 \"this\" keyword in normal function - https://www.youtube.com/watch?v=uZqyRJkTQog\n👍 \"this\" keyword in Arrow function - https://www.youtube.com/watch?v=UwrmEUCaAIY\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#react_bangla_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QLxjMwVu0xY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QLxjMwVu0xY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QLxjMwVu0xY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QLxjMwVu0xY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QLxjMwVu0xY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QLxjMwVu0xY"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "QLxjMwVu0xY",
+        "videoPublishedAt": "2021-03-07T14:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kHSg4yqqBm6DICbBv-O6Kc8Dwx4",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-03-15T02:07:55Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#9 React Conditional Rendering, List and Keys - React Tutorial Bangla Series",
+        "description": "React Conditional Rendering, List and Keys - React Tutorial Bangla Series\n\nএই video তে আমি দেখিয়েছি কিভাবে React এ আমরা কোন একটা particular condition এর উপর base করে component render করতে পারি। সেজন্য আমি কয়েকটি coding pattern দেখিয়েছি। যেমন - normal if/else ব্যবহার করে element variable এর মাধ্যমে, Logical ”&&” Operator ব্যবহার করে truthy/falsy value এর ক্ষেত্রে inline if/else এর মাধ্যমে, Conditional Operator যেমন ternary operator ব্যবহার করে inline if/else এর মাধ্যমে এবং simply “null” value return করে conditionally component render না করে আরেকটি pattern দেখিয়েছি। এরপরে কিভাবে React এ List component ব্যবহার করতে হয় এবং সেক্ষেত্রে Array.map( ) method এর ব্যবহার দেখিয়েছি। আশা করি video টি beginners দের উপকারে আসবে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-9\" ]\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/conditional-rendering.html\n👍 Ternary Operator Tutorial - https://www.youtube.com/watch?v=akkfVWWZEio\n👍 Truthy/Falsy Tutorial - https://www.youtube.com/watch?v=VPs3yHtN7Ss\n👍 Array.map() - https://www.youtube.com/watch?v=ZfrqGZTJuVQ\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#react_bangla_tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k_q-SCeYLJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k_q-SCeYLJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k_q-SCeYLJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/k_q-SCeYLJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/k_q-SCeYLJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "k_q-SCeYLJU"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "k_q-SCeYLJU",
+        "videoPublishedAt": "2021-03-15T08:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0_iEeluysyhX92xVzfbXimOZCTA",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-03-18T00:56:37Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#10 React Form Handling - Controlled vs Uncontrolled Component- React Tutorial Bangla Series",
+        "description": "React Form Handling - React form tutorial - React form handle - Controlled vs Uncontrolled Component- React Tutorial Bangla Series\n\nReact JS এ দুইভাবে Form এর input handle করা হয় - একটা হলো Controlled এবং আরেকটা হলো Uncontrolled. Controlled way তে Form handle করা মানে হলো input এর value এর control React Component কে দিয়ে দেয়া এবং state change এর মাধ্যমে value change handle করা। আর Uncontrolled way তে form handle করার মানে হলো traditional way তে মানে DOM এর মাধ্যমে default ভাবে handle করা। এই video তে এই concept টি detail এ বুঝিয়েছি। এছাড়া বিভিন্ন input element এর ক্ষেত্রে কিভাবে value change নিয়ে কাজ করা যায় সেটা clear করেছি। আশা করি video টি দেখলে concept টি পূর্ণরূপে আপনাদের কাছে পরিষ্কার হবে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-10\" ]\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/forms.html\n👍 React Introduction Tutorial - https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Event Handling in React - https://www.youtube.com/watch?v=QLxjMwVu0xY&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 React Class Component State Management- https://www.youtube.com/watch?v=CzyspyBe7rk&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hbLTt10nhOA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hbLTt10nhOA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hbLTt10nhOA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hbLTt10nhOA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hbLTt10nhOA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hbLTt10nhOA"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "hbLTt10nhOA",
+        "videoPublishedAt": "2021-03-18T08:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0zmRmzZKs5orXrzaUwehAz3yW4E",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-03-24T09:30:09Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#11 React Lifting State Up - React Tutorial Bangla Series",
+        "description": "React Lifting State Up - React Tutorial Bangla Series\n\nReact JS এ বিভিন্ন component কে একই changing data নিয়ে কাজ করতে হয় এবং সেই data change হলে সেই পরিবর্তন কে reflect করতে হয়। এই ক্ষেত্রে React Team recommend করে shared state কে component গুলোর নিকটবর্তী common ancestor এর কাছ থেকে নিয়ে আসা। এটা React এর খুবই common একটা pattern. এটা করলে সব component এর জন্য একটা “single source of truth” ensured হয় এবং React এর বিখ্যাত “Top Down Approach” অথবা “Uni-directional Data Flow” - এর মাধ্যমে খুব সুন্দর ভাবে স্বল্প সংখ্যক Stateful component এবং সর্বাধিক presentational component এর মাধ্যমে পুরো application এর component গুলোকে loosely coupled রাখা যায়।\nএই video তে আমি React এর documentation follow করে উদাহরণের মাধ্যমে এই বিষয়টি বুঝিয়ে বলার চেষ্টা করেছি। আশা করি beginners দের উপকারে আসবে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-11\" ]\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/lifting-state-up.html\n👍 React Introduction Tutorial - https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Event Handling in React - https://www.youtube.com/watch?v=QLxjMwVu0xY&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 React Class Component State Management- https://www.youtube.com/watch?v=CzyspyBe7rk&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 React Form Handling - https://www.youtube.com/watch?v=hbLTt10nhOA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #state_management",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7UpjUQJjWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7UpjUQJjWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7UpjUQJjWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v7UpjUQJjWY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v7UpjUQJjWY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v7UpjUQJjWY"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "v7UpjUQJjWY",
+        "videoPublishedAt": "2021-03-24T10:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WRAjHe0ypgQS5xEuhxBa7YzZOUE",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-03-31T08:31:47Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#12 React Composition vs Inheritance - React Tutorial Bangla Series",
+        "description": "React Composition vs Inheritance - React Tutorial Bangla Series\n\nএই series এর আগের video গুলোর মতোই এই video টিও একটি conceptual video. আপনারা জানেন আমি React JS এর documentation থেকে main concept গুলো যেগুলো React বলছে সেগুলোই বুঝানোর চেষ্টা করছি। সেখানে তারা বলছে, React এ component design করার সময়  OOP এর concept Inheritance ব্যবহার না করে Composition ব্যবহার করতে। কি এই Inheritance, composition technique টাই বা কি, কেন React আমাদের কে Inheritance ব্যবহার না করার পরামর্শ দিচ্ছে, গুরুত্বপূর্ণ এই ব্যাপার গুলোই আমি এই Video তে clear করার চেষ্টা করেছি। আশা করি যারা দেখবেন, নতুন কিছু জানবেন।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-12\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n01:12 - What is Inheritance\n05:28 - Inheritance Example\n17:49 - Problems with Inheritance\n21:24 - Solution with Composition\n36:52 - Final words\n39:25 - Outro\n\nReferences:\n👍 Documentation Link - https://reactjs.org/docs/composition-vs-inheritance.html\n👍 JavaScript Inheritance Tutorial - https://www.youtube.com/watch?v=93Styj1K9fY\n👍 w3schools Inheritance Documentation - https://www.w3schools.com/js/js_class_inheritance.asp\n👍 w3schools super keyword Documentation - https://www.w3schools.com/jsref/jsref_class_super.asp\n👍 Destructuring Tutorial - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 React Component & Props - https://www.youtube.com/watch?v=xVx5VqfX75Q\n👍 let vs const Tutorial - https://www.youtube.com/watch?v=6LvKgfLP8uU\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#reactjs #composition_vs_inheritance",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X0L0oHli4Ss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X0L0oHli4Ss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X0L0oHli4Ss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X0L0oHli4Ss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X0L0oHli4Ss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X0L0oHli4Ss"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "X0L0oHli4Ss",
+        "videoPublishedAt": "2021-03-31T09:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "t1QiDc5Q7WdEoxL3DATV2EO4N5A",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-04-07T01:50:51Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#13 React Higher Order Components (HOC) - React Tutorial Bangla Series",
+        "description": "React Higher Order Component (HOC) - React Tutorial Bangla Series\nচলমান React Tutorial Series - এ এই video তে আমি আলোচনা করেছি React - এর সবচেয়ে interesting topic - এর একটি - Higher Order  Component নিয়ে। আমি এই video তে ৩ টি part - এ এই topic টি cover করেছি। প্রথমে দেখবো কেন Higher Order Component - এর মতো একটা জিনিস আমাদের প্রয়োজন। এরপরে দেখবো Higher Order Component আসলে কি এবং সবশেষে উদাহরণের মাধ্যমে দেখবো - কিভাবে একটা Higher Order Component তৈরী করে ব্যবহার করতে হয়।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-13\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n00:33 - Editor Theme\n01:12 - Why Higher Order Component (HOC)\n09:32 - What is HOC\n12:35 - Create HOC\n15:55 - Use HOC\n20:19 - Benefits of HOC\n21:00 - Final words\n22:04 - Outro\n\nReferences:\n👍 Learn with Sumit VS Code Theme Introduction & Installation Video - https://www.youtube.com/watch?v=16QVp2oqOyI\n👍 Previous Video - Lesson 12- https://www.youtube.com/watch?v=X0L0oHli4Ss\n👍 Lesson 7 - React Stateful Class Component - https://www.youtube.com/watch?v=CzyspyBe7rk\n👍 Destructuring Tutorial - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 Lesson 11 Video - https://www.youtube.com/watch?v=v7UpjUQJjWY\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\n#react_bangla #higher_order_component",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tz1JhhWlJvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tz1JhhWlJvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tz1JhhWlJvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Tz1JhhWlJvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Tz1JhhWlJvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Tz1JhhWlJvA"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "Tz1JhhWlJvA",
+        "videoPublishedAt": "2021-04-07T08:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZVySXab5J6zASXk0qz7stXO-8Ms",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-04-13T07:04:26Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#14 React Render Props - React Tutorial Bangla Series",
+        "description": "React Render Props Pattern - React Tutorial Bangla Series\n\nএই video তে আমি React এর component এর common code sharing এর আরেকটি pattern Render Props নিয়ে আলোচনা করেছি। এর আগের video তে আমি similar problem এর সমাধান হিসেবে Higher Order Component pattern দেখিয়েছিলাম। এই video দেখলে আপনারা একই সমস্যার সমাধান কিভাবে Render Props দিয়ে করা যায় সেটা জানবেন।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-14\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n00:41 - Why Render Props\n05:01 - Discovering Render Prop\n10:05 - What is Render Prop\n10:67 - Problem Solution with Render Prop\n23:30 - Render props variation\n26:00 - Final words\n\nReferences:\n👍 Previous Video - Lesson 13 - https://www.youtube.com/watch?v=Tz1JhhWlJvA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Render Props React Documentation - https://reactjs.org/docs/render-props.html\n👍 Destructuring Tutorial - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 VS Code User Snippet Tutorial - https://www.youtube.com/watch?v=3iG1IBJHTgE\n👍 Theme Used - Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme [ Color Variant - Peace of the eye ]\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\n#reactjs #render_props",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cXDtc4Mjqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cXDtc4Mjqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cXDtc4Mjqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_cXDtc4Mjqo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_cXDtc4Mjqo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_cXDtc4Mjqo"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "_cXDtc4Mjqo",
+        "videoPublishedAt": "2021-04-13T08:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yt-1Gw7JKSERZKKXb3HLkoswfBk",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-04-25T14:46:32Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#15 React Context API - What is Context API - Why Context API - React Tutorial Bangla Series",
+        "description": "React Context API - What is Context API - Why Context API - React Tutorial Bangla Series\nএই video তে আমি React এর অন্যতম গুরুত্বপূর্ণ concept - Context API নিয়ে কথা বলেছি। এই video টি দেখলে Concept API কেন প্রয়োজন এবং এটা আসলে কিভাবে কাজ করে সেটা একদম পরিষ্কার ভাবে ধারণা পেয়ে যাবেন। ভিডিও টি আমার ৩ পর্বের Context API Tutorial এর প্রথম ভিডিও। এটা শেষ করে অবশ্যই পরের ভিডিওটি দেখতে ভুলবেন না। link নিচে দেয়া আছে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-15\" ]\n\nReferences:\n\n👍 Lesson 13 - HOC Pattern Tutorial - https://www.youtube.com/watch?v=Tz1JhhWlJvA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 14 - Render Props Pattern Tutorial - https://www.youtube.com/watch?v=_cXDtc4Mjqo&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Context API Documentation - https://reactjs.org/docs/context.html\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dl3oo2YFYac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dl3oo2YFYac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dl3oo2YFYac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dl3oo2YFYac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dl3oo2YFYac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dl3oo2YFYac"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "dl3oo2YFYac",
+        "videoPublishedAt": "2021-04-25T15:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uZVM5Yr2ovFhr4-b1g1e5hB00dI",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-04-25T15:11:06Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#16 React Context API - How to use React Context API - React Tutorial Bangla Series",
+        "description": "React Context API - How to use React Context API - React Tutorial Bangla Series\n\nএই video তে আমি React Context API  নিজে বানিয়ে দেখিয়েছি যেটা দেখলে আপনারা বুঝতে পারবেন context api আসলে কি করে। এভাবে হয়তো কেউ আপনাদের কে context API বুঝায়নি এর আগে! ভিডিও টি আমার ৩ পর্বের Context API Tutorial এর দ্বিতীয় ভিডিও। এটা শেষ করে অবশ্যই পরের ভিডিওটি দেখতে ভুলবেন না। link নিচে দেয়া আছে। এছাড়া প্রথম video টির link ও নিচে পাবেন।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-15\" ]\n\nReferences:\n\n👍 Part 1 Video - Lesson 15 - What & why Context API - https://www.youtube.com/watch?v=dl3oo2YFYac&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 13 - HOC Pattern Tutorial - https://www.youtube.com/watch?v=Tz1JhhWlJvA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 14 - Render Props Pattern Tutorial - https://www.youtube.com/watch?v=_cXDtc4Mjqo&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Context API Documentation - https://reactjs.org/docs/context.html\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uNGzqgeFQZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uNGzqgeFQZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uNGzqgeFQZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uNGzqgeFQZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uNGzqgeFQZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uNGzqgeFQZc"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "uNGzqgeFQZc",
+        "videoPublishedAt": "2021-04-25T15:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tC-XGZnTLjmgOpKivNS1FTdSrKo",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-04-25T15:01:39Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#17 React Context API - contextType & useContext hook - React Tutorial Bangla Series",
+        "description": "React Context API - contextType & useContext hook - React Tutorial Bangla Series\nএই video তে আমি React এর Context API  - এর গুরুত্ত্বপূর্ণ কিছু বৈশিষ্ট্য দেখিয়েছি এবং সেটা দেখাতে গিয়ে class component এবং function component এর ক্ষেত্রে context API ব্যবহারের alternative pattern গুলো যেমন contextType static property এবং useContext hook নিয়েও আলোচনা করেছি। এই ভিডিওটি আমার ৩ পর্বের React Context API Tutorial এর তৃতীয় video. আগের দুইটি video এর লিংক নিচে দেয়া আছে।\n\n👍  সম্পূর্ণ Playlist Link - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-15\" ]\n\nReferences:\n\n👍 Part 1 Video - Lesson 15 - What & why Context API - https://www.youtube.com/watch?v=dl3oo2YFYac&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Part 2 Video - Lesson 16 - How to use Context API - https://www.youtube.com/watch?v=dl3oo2YFYac&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 13 - HOC Pattern Tutorial - https://www.youtube.com/watch?v=Tz1JhhWlJvA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 14 - Render Props Pattern Tutorial - https://www.youtube.com/watch?v=_cXDtc4Mjqo&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Context API Documentation - https://reactjs.org/docs/context.html\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ibka_018IFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ibka_018IFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ibka_018IFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ibka_018IFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ibka_018IFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ibka_018IFI"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "ibka_018IFI",
+        "videoPublishedAt": "2021-04-25T15:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eGlqpJrElw09OWlU5GPNe5iwGfI",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-05-09T01:51:39Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#18 React Hooks Bangla - What is React Hook - React Hook Introduction - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - What is React Hook - React Hook Introduction - React Tutorial Bangla Series\nএই ভিডিওতে আমি React এর Hooks নিয়ে প্রাথমিক ধারণা দিয়েছি। সেটা করতে গিয়ে আমি আলোচনা করেছি - hook কি, কেন hook আসলো, এসে কি সমস্যার সমাধান করলো এবং সেই সাথে এটাও আলোচনা করেছি কেন এতোদিন আমি old school React মানে Class Component দিয়ে আপনাদের কে React এর concept বুঝিয়েছিলাম। এই Video এর মাধ্যমে আমরা Modern React এর stateful function component এ land করলাম। আশা করি React Hook এর introduction হিসেবে এবং hook সম্পর্কে প্রাথমিক ধারণা পেতে video টি আপনাদের কে সহায়তা করবে। এছাড়া video টি বানানোর মূল উদ্দেশ্য hooks নিয়ে যে ভীতিটা সবার মধ্যে কাজ করে, সেটা কাটানো। আশা করি সেই উদ্দেশ্য সফল হয়েছে।\n\nReferences:\n\n👍 Complete React Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 7 - https://www.youtube.com/watch?v=CzyspyBe7rk&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 8 - Event Handling in React - https://www.youtube.com/watch?v=QLxjMwVu0xY&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 13 - Higher Order Component - https://www.youtube.com/watch?v=Tz1JhhWlJvA&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 14 - Render Props pattern - https://www.youtube.com/watch?v=_cXDtc4Mjqo&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Theme Used - Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HHttzJuecas/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HHttzJuecas/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HHttzJuecas/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HHttzJuecas/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HHttzJuecas/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HHttzJuecas"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "HHttzJuecas",
+        "videoPublishedAt": "2021-05-09T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PN0uhMpjXKX-biBbmxy8BxqDPPg",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-05-10T05:16:59Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#19 React Hooks Bangla - React useState hook Bangla - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - React useState hook Bangla - React Tutorial Bangla Series\nএই video তে আমি React এর useState() hook নিয়ে detail আলোচনা করেছি। কিভাবে useState() hook কাজ করে, কিভাবে এটা ব্যবহার করতে হয়, এটা ব্যবহারের সীমাবদ্ধতা কি আছে, কি কি নিয়ম মানতে হয় এবং শুধু তাই নয়, কিভাবে এটা কাজ করে সেটা বুঝানোর জন্য আমি নিজে useState hook বানিয়ে দেখিয়েছি একেবারে raw JavaScript ব্যবহার করে। আশা করি video দেখলে useState hook - এর সাথে সাথে, React - এর hook system এর উপরই একটা solid foundation পেয়ে যাবেন আপনারা।\n\n👍 Complete React Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-19\" ]\n\nReferences:\n\n👍 Lesson 7 - State & Lifecycle - https://www.youtube.com/watch?v=CzyspyBe7rk&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Lesson 8 - Event Handling in React - https://www.youtube.com/watch?v=QLxjMwVu0xY&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Array & Object Destructuring - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 How to use Context API - https://www.youtube.com/watch?v=uNGzqgeFQZc\n👍 Spread Operator Tutorial - https://www.youtube.com/watch?v=w8gXwrD-Kg4\n\n👍  Editor Theme: Learn with Sumit VS Code theme - Peace of the mind\n👍  Font Used - Operator Mono with Font ligatures\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n0:54 - class to function component with useState\n09:15 - How useState works\n11:53 - My own useState hook implementation\n23:56 - Rules of hooks\n24:49 - useState with object/array\n29:44 - useState with previous state\n36:52 - Important final words\n41:03 - Outro\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\n#reactjs #useState",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6tni9ZhMcPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6tni9ZhMcPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6tni9ZhMcPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6tni9ZhMcPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6tni9ZhMcPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6tni9ZhMcPM"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "6tni9ZhMcPM",
+        "videoPublishedAt": "2021-05-10T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KaX83-6ovll9Gavbb7cxGGfyjmY",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-05-14T03:42:12Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#20 React Hooks Bangla - React useEffect hook Bangla - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - React useEffect hook Bangla - React Tutorial Bangla Series\nএই video তে আমি React এর useEffect() hook নিয়ে detail আলোচনা করেছি। Side effects বলতে আসলে কি বুঝায়, কিভাবে useEffect() hook কাজ করে, কিভাবে এটা ব্যবহার করতে হয়,  কি কি নিয়ম মানতে হয় ইত্যাদি নিয়ে উদাহরণ সহ বিস্তারিত আলোচনা করেছি। আশা করি video দেখলে useEffect() নামক এই গুরুত্বপূর্ণ এবং powerful React Hook সম্পর্কে আপনাদের সমস্ত confusion clear হয়ে যাবে।\n\n👍 Complete React Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-20\" ]\n\n\nReferences:\n\n👍 useState() hook - https://www.youtube.com/watch?v=6tni9ZhMcPM&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Introduction to React Hooks - https://www.youtube.com/watch?v=HHttzJuecas&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 State & Lifecycle - https://www.youtube.com/watch?v=CzyspyBe7rk&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Event Handling in React - https://www.youtube.com/watch?v=QLxjMwVu0xY&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Object Destructuring - https://www.youtube.com/watch?v=UXxg2ncX4gU\n👍 How to use Context API - https://www.youtube.com/watch?v=uNGzqgeFQZc\n\n👍  Editor Theme: Learn with Sumit Official VS Code theme\n👍  Font Used - Operator Mono with Font ligatures\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n0:41 - What are Side Effects\n04:04 - Why useEffect()\n06:03 - Side Effects - Class Component\n12:21 - useEffect - every render\n16:57 - useEffect - render conditionally\n21:27 - useEffect - only once\n24:35 - useEffect - cleanup\n31:18 - Things to note\n34:00 - Final words\n37:06 - Outro\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vVwCyii5GJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vVwCyii5GJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vVwCyii5GJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vVwCyii5GJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vVwCyii5GJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vVwCyii5GJk"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "vVwCyii5GJk",
+        "videoPublishedAt": "2021-05-14T09:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UpyCzm12TY_uymCl6_IeEANZORo",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-06-06T00:29:37Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#21 React Hooks Bangla - React useCallback & useMemo hook Bangla - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - React useCallback & useMemo hook Bangla - React Tutorial Bangla Series\nএই video তে আমি React এর useCallback() এবং useMemo() hook নিয়ে detail আলোচনা করেছি। এই hooks দুটি মূলত functional component এর performance optimization করতে সাহায্য করে। এছাড়া এই video তে আমি functional component এ React.memo() Higher Order Function এর ব্যবহারও বুঝিয়েছি। আশা করি video টি দেখলে powerful এই React Hooks গুলো সম্পর্কে আপনাদের সমস্ত confusion clear হয়ে যাবে।\n\n👍 Complete React Playlist - https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-21\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n0:44 - Why React.memo()\n9:41 - Why useCallback()\n12:56 - Using useCallback()\n17:23 - Why useMemo()\n23:13 - using useMemo()\n25:25 - Summary\n26:19 - Final words\n26:41 - Outro\n\nReferences:\n\n👍 useState() hook - https://www.youtube.com/watch?v=6tni9ZhMcPM&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Introduction to React Hooks - https://www.youtube.com/watch?v=HHttzJuecas&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 State & Lifecycle - https://www.youtube.com/watch?v=CzyspyBe7rk&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Primitive vs Reference Values - https://www.youtube.com/watch?v=vK8fnE_-NI0\n👍 useEffect Tutorial - https://www.youtube.com/watch?v=vVwCyii5GJk\n👍 Higher Order Component Tutorial - https://www.youtube.com/watch?v=Tz1JhhWlJvA\n👍 Beautiful Article on this topic by one of Learn with Sumit subscribers - Kazi Mashry - https://kazi-mashry.medium.com/react-hook-usecallback-bcbd4e6b3aca\n\nTheme Used: Learn with Sumit Peace of the Eye (Dracula Version) theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n\n#useCallback #useMemo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZHNf6MXhFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZHNf6MXhFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZHNf6MXhFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iZHNf6MXhFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iZHNf6MXhFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iZHNf6MXhFM"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "iZHNf6MXhFM",
+        "videoPublishedAt": "2021-06-06T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HCxwPlxACDIVXksDJ9Sym589yRo",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-06-11T22:49:11Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#22 React Hooks Bangla - React useRef hook Bangla - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - React useRef hook Bangla - React Tutorial Bangla Series\nএই video তে আমি React এর আরেকটি hook - useRef নিয়ে আলোচনা করেছি। সেটা করতে গিয়ে forwardRef সম্পর্কেও বিস্তারিত বলেছি। মূলত useRef hook টি ব্যবহার করার হয় DOM Node ধরতে এবং DOM Related Operation গুলো React এর way তে handle করতে। আশা করি video টি আপনাদের উপকারে আসবে।\n\n👍 Complete React Playlist - https://lwsbd.link/react\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-22\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n0:32 - Why useRef()\n5:16 - How to use useRef()\n11:24 - Why forwardRef\n14:43 - How to use forwardRef\n17:38 - useRef as a storage\n26:08 - Final words\n26:43 - Outro\n\nReferences:\n\n👍 React series first video - https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 DOM Playlist - https://lwsbd.link/dom\n👍 useEffect Tutorial - https://www.youtube.com/watch?v=vVwCyii5GJk\n👍 Higher Order Component Tutorial - https://www.youtube.com/watch?v=Tz1JhhWlJvA\n👍 forwardRef Documentation - https://reactjs.org/docs/forwarding-refs.html\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXkyogEPiqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXkyogEPiqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXkyogEPiqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXkyogEPiqQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sXkyogEPiqQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sXkyogEPiqQ"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "sXkyogEPiqQ",
+        "videoPublishedAt": "2021-06-12T08:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NBN7iVZScfXFC7CRtr1eb3J5VSM",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-06-16T13:05:40Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#23 React Hooks Bangla - React useReducer hook Bangla - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - React useReducer hook Bangla - React Tutorial Bangla Series\nএই video তে আমি React এর useReducer() hook নিয়ে আলোচনা করেছি। যেহেতু এই hook টিকে React এর সবচেয়ে কঠিন hook বলা হয় তাই এটা নিয়ে অনেক গুলো উদাহরণ দিয়ে আমি বিস্তারিত আলোচনা করেছি। শুধু তাই নয় এই useReducer() hook টি জনপ্রিয় state management library Redux এর concept এর একটা foundation বলে আমি মনে করি। আশা করি video টি আপনাদের উপকারে আসবে।\n\n👍 Complete React Playlist - https://lwsbd.link/react\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-23\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n0:46 - Concept\n10:51 - Example 1 - state & action as primitive value\n20:55 - Example 2 - state & action as object\n31:55 - Example 3 - multiple useReducer\n37:06 - Example 4 - useReducer with useContext\n43:25 - Example 5 - useReducer with useEffect\n1:02:16 - useState vs useReducer\n1:06:18 - Final words\n1:07:09 - Outro\n\nReferences:\n\n👍 useState Tutorial - https://www.youtube.com/watch?v=6tni9ZhMcPM&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 Context API Tutorial - https://www.youtube.com/watch?v=dl3oo2YFYac&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 useContext Tutorial - https://www.youtube.com/watch?v=ibka_018IFI&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 useEffect Tutorial - https://www.youtube.com/watch?v=vVwCyii5GJk\n👍 Array.reduce Tutorial - https://www.youtube.com/watch?v=zThtzWgMtjM\n👍 Primitive Value - https://www.youtube.com/watch?v=vK8fnE_-NI0\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BNB-Q5yI-_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BNB-Q5yI-_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BNB-Q5yI-_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BNB-Q5yI-_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BNB-Q5yI-_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BNB-Q5yI-_o"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "BNB-Q5yI-_o",
+        "videoPublishedAt": "2021-06-16T15:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hgxbVlLFZfz06YsdWA2YLUsWoyc",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-06-20T03:16:28Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#24 React Hooks Bangla - React custom hook Bangla Tutorial - React Tutorial Bangla Series",
+        "description": "React Hooks Bangla - React custom hook Bangla Tutorial - React Tutorial Bangla Series\nএই video তে আমি আলোচনা করেছি React এর custom hook নিয়ে। বিভিন্ন built-in hook এর পাশাপাশি আমরা আমাদের প্রয়োজন মতো React - এ custom hook বানিয়ে নিতে পারি এবং সেটাকে ব্যবহার করে re-usable functionality achieve করতে পারি। আশা করি tutorial টি আপনাদের উপকারে আসবে।\n\n👍 Complete React Playlist - https://lwsbd.link/react\n👍  Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-24\" ]\n\nReferences:\n\n👍 useState Tutorial - https://www.youtube.com/watch?v=6tni9ZhMcPM&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr\n👍 useEffect Tutorial - https://www.youtube.com/watch?v=vVwCyii5GJk\n👍 useCallback Tutorial - https://www.youtube.com/watch?v=iZHNf6MXhFM\n👍 window.addEventListener Docs - https://www.w3schools.com/jsref/met_document_addeventlistener.asp\n👍 window.removeEventListener Docs - https://www.w3schools.com/jsref/met_element_removeeventlistener.asp\n👍 Primitive vs Reference Value - https://www.youtube.com/watch?v=vK8fnE_-NI0\n👍 JavaScript Closure Tutorial - https://www.youtube.com/watch?v=9acXwUkddZI\n👍 Higher Order Component Tutorial - https://www.youtube.com/watch?v=Tz1JhhWlJvA\n👍 Render Props Tutorial - https://www.youtube.com/watch?v=_cXDtc4Mjqo\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CALpSpnlef0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CALpSpnlef0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CALpSpnlef0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CALpSpnlef0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CALpSpnlef0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CALpSpnlef0"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "CALpSpnlef0",
+        "videoPublishedAt": "2021-06-20T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2EHEas4f301yY7QVgMhIBPAJ8OI",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-06-25T12:27:19Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#25 Styling React Components - Stylesheets Inline Style & CSS Modules - React Tutorial Bangla Series",
+        "description": "Styling React Components - Stylesheets Inline Style & CSS Modules - React Tutorial Bangla Series\nIn this React Tutorial Bangla series, I have explained about Styling in React. You will understand how we can style React components with stylesheets, inline style and css modules.\n\n❒ Complete React Playlist - https://lwsbd.link/react\n❒ Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-25\" ]\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n1:31 - Concept\n3:46 - Stylesheets\n7:43 - CSS Modules\n14:51 - Inline Style\n26:22 - Final words\n28:24 - Outro\n\nReferences:\n\n👍  Array.join Documentation - https://www.w3schools.com/jsref/jsref_join.asp\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WUBBGU-IILw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WUBBGU-IILw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WUBBGU-IILw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WUBBGU-IILw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WUBBGU-IILw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WUBBGU-IILw"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "WUBBGU-IILw",
+        "videoPublishedAt": "2021-06-25T15:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-R2vXkWXRUs1SHRlAlgtpqDRQIo",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-07-03T13:49:35Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#26 React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series",
+        "description": "React Styled Components Tutorial - React Styling - CSS in JS - React Tutorial Bangla Series\nIn this React Bangla Tutorial, I have explained about Styled Components in React and thereby learn how to inject CSS in JS. You will understand how we can style React components with styled components and achieve css modularity and completely separate logic from styles.\n\n❒ Complete React Playlist - https://lwsbd.link/react\n❒ Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-26\" ]\n❒ Theme used - Learn with Sumit VS Code Theme - Peace of the Eye color variant - https://lwsbd.link/vst\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:58 - Intro\n0:59 - What is Styled Component\n1:53 - Example Setup\n3:58 - Installation\n4:54 - Container\n19:07 - Passing Props to Styled Component\n22:46 - Nested CSS\n30:54 - Why Styled Component\n32:18 - Styling Custom Component\n41:13 - Global Style\n46:18 - Task for you - ThemeProvider\n50:58 - Final words\n53:31 - Outro \n\nReferences:\n\n👍  Styled Components Documentation - https://styled-components.com/docs\n👍  Styling React Component Previous Tutorial - https://lwsbd.link/rstyle\n👍  Tagged Template Literal Tutorial - https://www.youtube.com/watch?v=ws_XgqikD6o&list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG\n👍  VS Code Styled Components Plugin - https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components\n👍  Render Props Tutorial - https://lwsbd.link/rp\n👍  SASS Tutorial - https://lwsbd.link/sass\n👍  Higher Order Component - https://lwsbd.link/hoc\n👍  Context API Tutorial - https://lwsbd.link/ctx\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\n#reactjs #styled-components",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RqwnR2osQqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RqwnR2osQqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RqwnR2osQqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RqwnR2osQqc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RqwnR2osQqc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RqwnR2osQqc"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "RqwnR2osQqc",
+        "videoPublishedAt": "2021-07-03T15:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kwrokcTRcOUoDtblwbLfHDhgOvo",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-07-13T08:20:11Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#27 [Deprecated] React Router DOM Complete Guide - React Tutorial Bangla Series",
+        "description": "React Router Tutorial Bangla - React Router DOM Complete Guide\nIn this video, I explained React Router DOM according to its Documentation. If you have never used React Router before and want to achieve navigation in your react application, then this tutorial is for you. This tutorial is exclusively in Bangla language.\n\nNote: Please note that, react router dom package was updated to version 6 with lots of breaking changes. So following this tutorial might lead to confusion and lot of syntaxes shown in this tutorial might not work. I have a dedicated tutorial on React Router version 6 which you must follow after watching this tutorial. Here it is : https://lwsbd.link/rr6\n\n❒ Complete React Playlist - https://lwsbd.link/react\n❒ Project Github Repository Link - https://github.com/learnwithsumit/think-in-a-react-way [ branch - \"lesson-27\" ]\n❒ React Router DOM new v6 Tutorial - https://lwsbd.link/rr6\n❒ Theme used - Learn with Sumit VS Code Theme - Shades of Grey color variant - https://lwsbd.link/vst\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n\n0:00 - Intro\n0:40 - What is React Router\n2:35 - Installation\n3:45 - Router & Route\n8:48 - Exact path match\n9:53 - Linking with Navbar\n15:35 - Style Link with NavLink\n18:18 - Not found Route\n19:35 - Switch\n21:34 - Dynamic link\n28:44 - Passing props\n33:04 - Redirection\n37:48 - React Router Hooks\n43:35 - Final words\n44:47 - Outro \n\nReferences:\n\n👍  React Router DOM Documentation - https://reactrouter.com/web/guides/quick-start\n👍  Styling React Component Tutorial - https://lwsbd.link/rstyle\n👍  Render Props Tutorial - https://lwsbd.link/rp\n👍  React Hooks Tutorial - https://lwsbd.link/rhooks\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme\n\n#reactjs #react_router",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vOdW8JsmB5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vOdW8JsmB5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vOdW8JsmB5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vOdW8JsmB5c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vOdW8JsmB5c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vOdW8JsmB5c"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "vOdW8JsmB5c",
+        "videoPublishedAt": "2021-07-13T15:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "H4piMPg7Gy4H_Yx4g6otSxNm2Gw",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:33:31Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#28 React Project Tutorial - Quiz Application with Firebase - Part 1",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 1\n\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W3zMJxCUJAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W3zMJxCUJAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W3zMJxCUJAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W3zMJxCUJAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W3zMJxCUJAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "W3zMJxCUJAA"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "W3zMJxCUJAA",
+        "videoPublishedAt": "2021-09-04T08:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WYTKRq_-7yuiF-gu_GmXkSKAgQg",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:40:06Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#29 React Project Tutorial - Quiz Application with Firebase - Part 2",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 2\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BIsKWtNmFs0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BIsKWtNmFs0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BIsKWtNmFs0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BIsKWtNmFs0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BIsKWtNmFs0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BIsKWtNmFs0"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "BIsKWtNmFs0",
+        "videoPublishedAt": "2021-09-04T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ufoFKTamUIXsvX34OvWQzGYEDa4",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:42:00Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#30 React Project Tutorial - Quiz Application with Firebase - Part 3",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 3\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KkF0xaMFoJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KkF0xaMFoJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KkF0xaMFoJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KkF0xaMFoJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KkF0xaMFoJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KkF0xaMFoJY"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "KkF0xaMFoJY",
+        "videoPublishedAt": "2021-09-04T08:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TCrvGOWltEq-ZzyZNpif2wTwEmc",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:44:57Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#31 React Project Tutorial - Quiz Application with Firebase - Part 4",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 4\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xuhlsOVVfks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xuhlsOVVfks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xuhlsOVVfks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xuhlsOVVfks/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xuhlsOVVfks/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xuhlsOVVfks"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "xuhlsOVVfks",
+        "videoPublishedAt": "2021-09-04T08:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ANMEp2dYZDx5r2BXVybq77ttt-g",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:46:41Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#32 React Project Tutorial - Quiz Application with Firebase - Part 5",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 5\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S27o8rIy3dk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S27o8rIy3dk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S27o8rIy3dk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S27o8rIy3dk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S27o8rIy3dk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S27o8rIy3dk"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "S27o8rIy3dk",
+        "videoPublishedAt": "2021-09-04T08:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OBxYB5tttFJKI3ixrPBRHLNefx0",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:48:14Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#33 React Project Tutorial - Quiz Application with Firebase - Part 6",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 6\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wGBOvtLixCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wGBOvtLixCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wGBOvtLixCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wGBOvtLixCU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wGBOvtLixCU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wGBOvtLixCU"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "wGBOvtLixCU",
+        "videoPublishedAt": "2021-09-04T08:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y3YF4-3EU_SMJd8_unI8Dbm_IlE",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:50:02Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#34 React Project Tutorial - Quiz Application with Firebase - Part 7",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 7\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTQYTkrEU9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTQYTkrEU9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTQYTkrEU9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTQYTkrEU9M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTQYTkrEU9M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YTQYTkrEU9M"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "YTQYTkrEU9M",
+        "videoPublishedAt": "2021-09-04T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nK9IzTgIYqbwvQGAqDr1L0j3zcw",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:51:37Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#35 React Project Tutorial - Quiz Application with Firebase - Part 8",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 8\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QztelPPR0-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QztelPPR0-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QztelPPR0-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QztelPPR0-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QztelPPR0-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QztelPPR0-0"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "QztelPPR0-0",
+        "videoPublishedAt": "2021-09-04T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fWVydZiinjBdh87m_U9JMKoz5CM",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:53:22Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#36 React Project Tutorial - Quiz Application with Firebase - Part 9",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 9\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4E1BGGhoInY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4E1BGGhoInY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4E1BGGhoInY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4E1BGGhoInY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4E1BGGhoInY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4E1BGGhoInY"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "4E1BGGhoInY",
+        "videoPublishedAt": "2021-09-04T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W1Lsc4MSQfyjNZDx5zSq3PfB6Os",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:54:58Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#37 React Project Tutorial - Quiz Application with Firebase - Part 10",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 10\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0pdBa8dVqNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0pdBa8dVqNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0pdBa8dVqNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0pdBa8dVqNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0pdBa8dVqNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0pdBa8dVqNQ"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "0pdBa8dVqNQ",
+        "videoPublishedAt": "2021-09-04T08:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "spDonJkGNGIOeZZrccTpn1nIqLc",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-09-03T12:43:04Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#38 React Project Tutorial - Quiz Application with Firebase - Part 11",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 11\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IeFpqc0I-fk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IeFpqc0I-fk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IeFpqc0I-fk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IeFpqc0I-fk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IeFpqc0I-fk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IeFpqc0I-fk"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "IeFpqc0I-fk",
+        "videoPublishedAt": "2021-09-04T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g83SJJ7pWqmO0y5OCSabbbbhHB8",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-09-03T00:56:39Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#39 React Project Tutorial - Quiz Application with Firebase - Part 12",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 12\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jCZrhX3zKHk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jCZrhX3zKHk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jCZrhX3zKHk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jCZrhX3zKHk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jCZrhX3zKHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jCZrhX3zKHk"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "jCZrhX3zKHk",
+        "videoPublishedAt": "2021-09-04T08:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LW2bWm0UR1oqWacm96CGCtVDhUk",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-09-03T12:45:21Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#40 React Project Tutorial - Quiz Application with Firebase - Part 13",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 12\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcSgAFZqIK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcSgAFZqIK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcSgAFZqIK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KcSgAFZqIK0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KcSgAFZqIK0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KcSgAFZqIK0"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "KcSgAFZqIK0",
+        "videoPublishedAt": "2021-09-04T08:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0tx3mIF-c_Zoi7RpQlbHIZBViEI",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-09-03T12:51:42Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#41 React Project Tutorial - Quiz Application with Firebase - Part 14",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 14\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fdG2pq5hQYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fdG2pq5hQYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fdG2pq5hQYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fdG2pq5hQYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fdG2pq5hQYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fdG2pq5hQYY"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "fdG2pq5hQYY",
+        "videoPublishedAt": "2021-09-04T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yyhggRpsC5NYebmiki6cHovg0rU",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2021-09-03T12:53:41Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#42 React Project Tutorial - Quiz Application with Firebase - Part 15",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 15\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ngXw9L-j9AI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ngXw9L-j9AI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ngXw9L-j9AI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ngXw9L-j9AI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ngXw9L-j9AI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ngXw9L-j9AI"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "ngXw9L-j9AI",
+        "videoPublishedAt": "2021-09-04T08:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qW1iXBTJSdorCxEQrhmxz6Db-Iw",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2021-09-03T13:00:19Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#43 React Project Tutorial - Quiz Application with Firebase - Part 16",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 16\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/apU72laFS68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/apU72laFS68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/apU72laFS68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/apU72laFS68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/apU72laFS68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "apU72laFS68"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "apU72laFS68",
+        "videoPublishedAt": "2021-09-04T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w4NPvUENOHtWZD8OnH5ac2hPGdQ",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2021-09-03T13:02:31Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#44 React Project Tutorial - Quiz Application with Firebase - Part 17",
+        "description": "Complete React Project developed with create-react-app package and Google Firebase as back-end Database & Authentication - Part 17\n\n👍 Github Repository - https://github.com/learnwithsumit/react-quiz\n👍 Complete Playlist - https://lwsbd.link/react\n👍 Theme used for VS Code - Learn with Sumit Theme - Vintage variant\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zxi30kuC42k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zxi30kuC42k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zxi30kuC42k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zxi30kuC42k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zxi30kuC42k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zxi30kuC42k"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "Zxi30kuC42k",
+        "videoPublishedAt": "2021-09-04T08:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IawQHo5bgYCV9bJKhXsMOrOGaME",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2021-11-07T23:01:27Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#45 React Router DOM v6 Bangla Tutorial - Breaking Changes - React Router 6 vs 5",
+        "description": "In this React Router DOM v6 Bangla tutorial, you will learn how to install react router dom 6, what are the breaking changes in react router 6, difference between react router 6 vs 5, how to upgrade from react router v5 to react router v6. \nPreviously, I provided a detail Bangla Tutorial on React Router DOM but that was based on React Router version 5. You will get that tutorial link from below.\n\n👍 React Tutorial Series in Bangla: https://lwsbd.link/react\n👍 GitHub Repository: https://github.com/learnwithsumit/think-in-a-react-way [ branch: lesson-45]\n\n** You will get the source code of the initial React Router DOM v5 example shown in the video from the same repository - branch: router-5\n\nReferences:\n\n👍 React Router DOM Version 5 Tutorial: https://youtu.be/vOdW8JsmB5c\n👍 React Router - Upgrade guide - https://reactrouter.com/docs/en/v6/upgrading/v5\n👍 React First Tutorial -  https://lwsbd.link/react\n👍 Render Props Pattern: https://lwsbd.link/rp\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://lwsbd.link/vst",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/34tjWL9wi4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/34tjWL9wi4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/34tjWL9wi4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/34tjWL9wi4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "34tjWL9wi4g"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "34tjWL9wi4g",
+        "videoPublishedAt": "2021-11-08T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P4paLJz3EGNgVT3T5IPhbLVLUJY",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2021-12-31T22:55:57Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "#46 React Router v6 Private Route Tutorial",
+        "description": "In this video, I have described how we can setup private route in React Router version 6.\n\n▤ GitHub Repository: https://github.com/learnwithsumit/think-in-a-react-way [ checkout branch lesson-46 ]\n\n▤ Starting Boilerplate Code with react-router-dom v5 - https://github.com/learnwithsumit/think-in-a-react-way [ checkout branch private-router-5 ]\n\n▤ Complete Playlist - https://lwsbd.link/react\n\nReferences:\n\n▣ React Router v6 Tutorial - https://youtu.be/34tjWL9wi4g\n▣ React Hooks Tutorial - https://youtu.be/HHttzJuecas\n▣ Shorter version of this tutorial - https://fb.watch/afjFDNzoF2\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://lwsbd.link/vst\n\n#learnwithsumit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/99RWZsEITx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/99RWZsEITx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/99RWZsEITx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/99RWZsEITx4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/99RWZsEITx4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "99RWZsEITx4"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "99RWZsEITx4",
+        "videoPublishedAt": "2022-01-01T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qdnb9J871vf7PMKg78ZeoQZ9EG4",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2022-01-11T08:04:20Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "React 18 new features - What's new in React",
+        "description": "React 18 will include out-of-the-box improvements (like automatic batching), new APIs (like startTransition), and a new streaming server renderer with built-in support for React.lazy. In this video, I have tried to explain 3 of the coolest features of React that would revolutionize the way we build React applications.  \n\n▣ This video is highly inspired by the amazing review video by \"evening kid\" - https://youtu.be/bpVRWrrfM1M. I tried to explain the same with my own words in Bengali language.\n\nReferences:\n\n▣ Introducing React 18 - https://github.com/reactwg/react-18/discussions/4\n▣ Installing React 18 Release Candidate (RC) - https://github.com/reactwg/react-18/discussions/9\n▣ Automatic Batching - https://github.com/reactwg/react-18/discussions/21\n▣ New Suspense SSR Architecture - https://github.com/reactwg/react-18/discussions/37\n▣ Transitions in React 18 - https://github.com/reactwg/react-18/discussions/41\n▣ Transitions in React 18 - https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html\n\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://lwsbd.link/vst\n\n#react18 #learnwithsumit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K8pzpxfES4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K8pzpxfES4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K8pzpxfES4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K8pzpxfES4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K8pzpxfES4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K8pzpxfES4U"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "K8pzpxfES4U",
+        "videoPublishedAt": "2022-01-11T08:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mF-wUVnnTvt90ZGH0T81GRzWjEQ",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2022-05-10T10:33:19Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+        "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।\n\n🚀 আমার সম্পূর্ণ রিয়্যাক্ট সিরিজ - https://lwsbd.link/react\n\nReferences:\n\n▢ React useState hook - https://youtu.be/6tni9ZhMcPM\n▢ React useEffect hook - https://youtu.be/vVwCyii5GJk\n▢ React useCallback and useMemo hook - https://youtu.be/iZHNf6MXhFM\n▢ React useState hook - https://youtu.be/6tni9ZhMcPM\n▢ React useState hook - https://youtu.be/6tni9ZhMcPM\n\n\nচ্যাপ্টারস:\n\n0:00 - Intro\n0:42 - Naming components\n3:31 - Named export\n6:10 - Using useState correctly\n12:35 - useState - infinite loop\n18:23 - useEffect - infinite loop\n21:58 - Ternary operator alternative\n23:48 - Immutable state updates\n29:51 - Rendering list with index\n37:30 - Wrong optimization\n\n🔥 ভিডিওতে ব্যবহৃত VS Code থিম - Learn with Sumit VS Code Theme (Professional color variant)\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://lwsbd.link/vst\n\n#learnwithsumit #react",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6O4s7v28nlw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6O4s7v28nlw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6O4s7v28nlw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6O4s7v28nlw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6O4s7v28nlw"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "6O4s7v28nlw",
+        "videoPublishedAt": "2022-05-10T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8ebKwCTj59l7E8tJ7WRV3VFZXps",
+      "id": "UExIaVo0bTh2Q3A5TTZIVlF2N2EzNmNwOExLenlISWVQci41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2022-06-28T15:31:54Z",
+        "channelId": "UCFM3gG5IHfogarxlKcIHCAg",
+        "title": "4 ways to fetch fetch data from API in React (Bangla) | fetch axios swr and react-query",
+        "description": "In this video, I have explained 4 ways to fetch fetch data from API in React (Bangla) using fetch API,  axios, swr and react-query.\n\n🚀 GitHub Repository - https://github.com/learnwithsumit/react-fetch\n🚀 React Playlist - https://lwsbd.link/react\n\nReferences:\n\n👍 React 18 Tutorial - https://youtu.be/K8pzpxfES4U\n\n\n▬ Contents of this video  ▬▬▬▬▬▬▬▬▬▬\n0:00 - Intro\n00:21 - fetch API\n07:35 - axios\n20:42 - react-query\n35:07 - Final words\n36:55 - Outro\n\n\nকোন প্রশ্ন থাকলে comment section এ comment করতে পারেন। সেই সাথে আমাদের একটি Facebook Group আছে। সেখানেও আপনার প্রশ্ন করতে পারেন। সব প্রয়োজনীয় link নিচে দেয়া হলো - \n\n👍 Facebook Group - https://www.facebook.com/groups/learnwithsumit\n👍 Like our Facebook Page - https://www.facebook.com/LetsLearnwithSumit\n👍 Follow our GitHub Profile - https://github.com/learnwithsumit\n👍 Follow us at Instagram - https://www.instagram.com/learnwithsumit\n👍 Follow me at - https://www.facebook.com/sumit.analyzen\n👍 Learn with Sumit Official VS Code Theme - https://lwsbd.link/vst\n\n#learnwithsumit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7exOfIAKuWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7exOfIAKuWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7exOfIAKuWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7exOfIAKuWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7exOfIAKuWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "playlistId": "PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7exOfIAKuWU"
+        },
+        "videoOwnerChannelTitle": "Learn with Sumit - LWS - Bangladesh",
+        "videoOwnerChannelId": "UCFM3gG5IHfogarxlKcIHCAg"
+      },
+      "contentDetails": {
+        "videoId": "7exOfIAKuWU",
+        "videoPublishedAt": "2022-06-28T16:03:26Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 56,
+    "resultsPerPage": 50
+  }
+}
