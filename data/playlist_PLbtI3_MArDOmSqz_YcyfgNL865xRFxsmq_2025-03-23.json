@@ -1,0 +1,1455 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "WbCLqkwPSZQPvlfxnSHEIEnj8I8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rg67U336FtY1KMHiactSgSF_w20",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2023-05-30T12:09:07Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "[REALITY🎙️] Hidden Truths: Unspoken Facts About JavaScript in India 💀",
+        "description": "Prepare to have your mind blown as we unveil the unspoken facts about JavaScript in India in our riveting podcast! Join us as we peel back the layers and shed light on the lesser-known aspects of this powerful programming language. From untold stories to hidden challenges, we leave no stone unturned. If you're a JavaScript enthusiast or simply curious about the under-discussed side of web development, this is the podcast you've been waiting for. Get ready to dive deep and discover the untold truths about JavaScript in India!\n\n In our thought-provoking podcast, we uncover the hidden stories, challenges, and triumphs that often go unmentioned. Brace yourself for a journey beyond the surface, as we shed light on the lesser-known aspects of JavaScript in the Indian web development scene. Whether you're a seasoned developer or simply curious, this captivating podcast will challenge your assumptions and broaden your horizons. Don't miss out on this eye-opening exploration - hit that play button and let the revelations begin! 🎧💡🌐\n\nInstructor in this video: Harsh Sharma\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#3danimation #threejs #html #html5 #htmlcss #javascript #cssanimationtutorial #javascriptprojects #frontend #frontenddeveloper \n#frontendwebdeveloper",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_aRVrGQZy14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_aRVrGQZy14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_aRVrGQZy14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_aRVrGQZy14/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_aRVrGQZy14/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_aRVrGQZy14"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "_aRVrGQZy14",
+        "videoPublishedAt": "2023-05-30T15:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4kKou4E2IYc2UN5oeG26dcSLO-Q",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2023-05-30T19:46:22Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🎙️[GAMECHANGER]  FUTURE OF INDIAN WEB DEVELOPMENT 🚀 | Don't Miss Out! 🔥",
+        "description": "Welcome to our captivating podcast where we dive deep into the ever-evolving world of web development in India! Join us as we explore the state of modern web development and reveal the secrets behind creating cutting-edge websites. From the latest frameworks to the most effective design practices, we've got you covered. Tune in now to unlock the future of web development!\n\n🌐 Ready to witness the revolution in Indian web development? Look no further! Our thrilling podcast takes you on an exhilarating exploration of the state of modern web development in India. Discover the secrets to crafting jaw-dropping websites that leave a lasting impression. We delve into the latest trends, tools, and techniques that are reshaping the digital landscape. Get ready to level up your skills and stay ahead of the curve. Don't miss out on this epic journey into the future of web development! Hit that play button and let's embark on an unforgettable adventure together! 🎧💻💡\n\nInstructor in this video: Harsh Sharma\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#3danimation #threejs #html #html5 #htmlcss #javascript #cssanimationtutorial #javascriptprojects #frontend #frontenddeveloper \n#frontendwebdeveloper",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fUQU8dsqjUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fUQU8dsqjUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fUQU8dsqjUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fUQU8dsqjUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fUQU8dsqjUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fUQU8dsqjUM"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "fUQU8dsqjUM",
+        "videoPublishedAt": "2023-05-28T18:02:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YMz5qrW1aoQpZEsZKsOiclLgpus",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2023-06-03T15:03:05Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Indian Internship Scams: Don't Make This Mistake! | Protect Yourself!",
+        "description": "Unmasking the shocking reality of internship scams in India, this video reveals how unscrupulous companies are preying on vulnerable students. Learn about their deceitful tactics, from charging money under the guise of \"paid internships\" to withholding compensation altogether. Arm yourself with knowledge and protect your future by understanding the red flags and staying one step ahead of these cunning scams.\n\nInstructor in this video: Adarsh Gupta and Harsh Sharma\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#internship #fraud #scamalertreviews #beware #scammer #scam #bewareofscams #internshipforstudents #internships",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s-QhpuToH3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s-QhpuToH3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s-QhpuToH3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s-QhpuToH3U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s-QhpuToH3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s-QhpuToH3U"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "s-QhpuToH3U",
+        "videoPublishedAt": "2023-06-04T15:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "m77ZVaDiRz0LrTpRE6cFoI2JkmE",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2023-06-23T08:25:11Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "[EXTREME FOCUS 🔥] Development or Competitive Coding with JS ? | Sheryians Coding School",
+        "description": "🔥 Get ready for an EPIC JavaScript showdown as we delve into the ultimate dilemma: Should you focus on development or conquer competitive coding challenges with JS? 🎮💻\n\n\nIn this mind-blowing video, we bring you the expert insights, strategies, and secrets to help you make the right choice! 🌟⚡️\n\n\nJoin our panel of JS gurus as they engage in a heated debate, exploring the pros and cons of diving deep into development projects versus sharpening your skills by tackling mind-bending coding questions. 💡🔍\n\n\nDiscover the golden path that leads to true JavaScript mastery and unlock the keys to dominating the coding world. Will you choose to build innovative applications or rise to the top of coding competitions? 🚀🏆\n\n\nWhether you're a passionate developer or a fierce coding competitor, this video is a MUST-WATCH! Don't miss out on the adrenaline-fueled journey that awaits you. 😱💥\n\n\nPrepare for mind-blowing revelations, expert tips, and jaw-dropping discussions that will take your JS skills to unimaginable heights. Get ready to level up like never before! ⚡️💪\n\n\nSo, are you ready to decide your fate? Brace yourself for the ultimate battle of Development or Competitive Questions with JS! 🎯✨\n\n\n🎬 Don't forget to hit that subscribe button and turn on notifications to join the coding revolution. It's time to unlock your full potential with JavaScript! 🔥💻\n\n\nInstructor in this video: Harsh Sharma\n\n\nVisit our website: https://www.sheryians.com/\n\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n\n#javascript #javascriptbasics #javascripttutorial #frontenddevelopment #programming #coding  #webdevelopment #javascriptcode #learnjavascript #codingjourney",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yjzX0CM7mCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yjzX0CM7mCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yjzX0CM7mCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yjzX0CM7mCA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yjzX0CM7mCA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yjzX0CM7mCA"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "yjzX0CM7mCA",
+        "videoPublishedAt": "2023-06-23T14:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "K6-gyvVtQPUdruwQP-_OeytqHsA",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2023-09-14T12:08:06Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "College Major Myths Busted: Are You Making This Mistake? 🤔🎓",
+        "description": "We reveal the crucial mistake many students unknowingly make. Discover the real strategies to pick the perfect major that aligns with your passions and career goals. Don't miss out on the key insights that can shape your academic journey and future success. Join us for a revealing discussion that could change your life! Subscribe for more valuable tips on navigating college and achieving your dreams. 📚✨\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#collegelife #mythsbusted #careeradvice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0osFxrHk50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0osFxrHk50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0osFxrHk50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n0osFxrHk50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n0osFxrHk50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n0osFxrHk50"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "n0osFxrHk50",
+        "videoPublishedAt": "2023-09-14T14:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "htOKx7y48R7bvbd6xZyGPraYVUU",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2023-10-30T15:06:40Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Is Front-End Enough to Get a Job? | QnA 🤔",
+        "description": "Join us for an engaging Q&A session as Harsh Sharma, the Founder & CEO of Sheryians Coding School, addresses students' questions and offers valuable insights into the world of coding and education. Get ready for an informative and inspiring conversation!\n\nInstructor in this video: Harsh Sharma & Adarsh Gupta\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#sheryians #qna #webdevelopment #coding #codingindia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/celL0VGFgos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/celL0VGFgos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/celL0VGFgos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/celL0VGFgos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/celL0VGFgos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "celL0VGFgos"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "celL0VGFgos",
+        "videoPublishedAt": "2023-10-30T15:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "skZCDW08MCgZOxcKiW8wH9lQ8Es",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2023-11-25T15:35:30Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🧑🏻‍💻7 Days Discipline | JS, Life, Attitude, Interview & Perspective | Sheryians Coding School",
+        "description": "Welcome to Sheryians Coding School's transformative journey! 🚀 Join us for \"7 Days Discipline\" where we master JavaScript, cultivate a winning attitude, ace interviews, and shift perspectives. Elevate your coding game and life in just one week! 🌟\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #dicipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cTTsOB35Z60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cTTsOB35Z60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cTTsOB35Z60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cTTsOB35Z60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cTTsOB35Z60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cTTsOB35Z60"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "cTTsOB35Z60",
+        "videoPublishedAt": "2023-11-25T15:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j0qxsgVYjG3mgPrz0WOW3bvP1rI",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2023-11-28T09:15:43Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🧑🏻‍💻Day 2 | JS, Life, Attitude, Interview & Perspective | Sheryians Coding School",
+        "description": "Welcome to Sheryians Coding School's transformative journey! 🚀 Join us for \"7 Days Discipline\" where we master JavaScript, cultivate a winning attitude, ace interviews, and shift perspectives. Elevate your coding game and life in just one week! 🌟\n\nThis is Day 2.\n\nToday's website - https://www.lifeofabusker.dk/en\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #discipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TuBZp0igUcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TuBZp0igUcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TuBZp0igUcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TuBZp0igUcs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TuBZp0igUcs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TuBZp0igUcs"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "TuBZp0igUcs",
+        "videoPublishedAt": "2023-11-28T14:30:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_-YZs7ZtW1tXfAQu4ogikqAtG6o",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2023-11-29T09:28:10Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🧑🏻‍💻Day 3 | JS, Life, Attitude, Interview & Perspective | Sheryians Coding School",
+        "description": "Welcome to Sheryians Coding School's transformative journey! 🚀 Join us for \"7 Days Discipline\" where we master JavaScript, cultivate a winning attitude, ace interviews, and shift perspectives. Elevate your coding game and life in just one week! 🌟\n\nThis is Day 3.\n\nToday's website - https://meadlight.com/en\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #discipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQev2qCxxHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQev2qCxxHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQev2qCxxHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OQev2qCxxHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OQev2qCxxHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OQev2qCxxHo"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "OQev2qCxxHo",
+        "videoPublishedAt": "2023-11-29T14:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vZ2tMQvMTzwj3i8h0FmkITSBuro",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2023-11-30T13:31:45Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🧑🏻‍💻Day 4 | JS, Life, Attitude, Interview & Perspective | Sheryians Coding School",
+        "description": "Welcome to Sheryians Coding School's transformative journey! 🚀 Join us for \"7 Days Discipline\" where we master JavaScript, cultivate a winning attitude, ace interviews, and shift perspectives. Elevate your coding game and life in just one week! 🌟\n\nThis is Day 4.\n\nToday's website - https://simondaufresne.com/\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #discipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B9ZLDN-G_X0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B9ZLDN-G_X0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B9ZLDN-G_X0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B9ZLDN-G_X0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B9ZLDN-G_X0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B9ZLDN-G_X0"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "B9ZLDN-G_X0",
+        "videoPublishedAt": "2023-11-30T14:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jyi7P-4HMrr6FOIhHOsv3n7_2bM",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2023-12-01T14:07:57Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🧑🏻‍💻Day 5 | JS, Life, Attitude, Interview & Perspective | Sheryians Coding School",
+        "description": "Welcome to Sheryians Coding School's transformative journey! 🚀 Join us for \"7 Days Discipline\" where we master JavaScript, cultivate a winning attitude, ace interviews, and shift perspectives. Elevate your coding game and life in just one week! 🌟\n\nThis is Day 5.\n\nToday's website - https://showcase.refokus.com/\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #discipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nPgvmybIVvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nPgvmybIVvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nPgvmybIVvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nPgvmybIVvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nPgvmybIVvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nPgvmybIVvM"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "nPgvmybIVvM",
+        "videoPublishedAt": "2023-12-01T14:30:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8C11sn0oblCiqQzZzZiFndXwcDM",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2023-12-02T12:31:07Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Unveiling the Reality: Anxiety in Tech and Industry Manipulation",
+        "description": "🔍 Dive deep into the heart of the tech industry with our latest video as we unravel the layers of anxiety prevalent in the coding world. 🌐 From tight deadlines to demanding work environments, we explore the factors contributing to the rising stress levels among tech professionals.\n\n🕵️‍♂️ Join us in this candid conversation as we shed light on how the coding industry may be influenced and manipulated by a handful of major players. 💼 Are there hidden dynamics shaping the tech landscape? What impact does this manipulation have on the well-being of those powering the digital age?\n\n🌐 Our expert panel dissects the challenges faced by developers, engineers, and tech enthusiasts, offering insights into the often overlooked aspects of the industry. 🚀 Whether you're a seasoned professional, a coding enthusiast, or just curious about the inner workings of the tech world, this video provides a thought-provoking exploration of the current state of affairs.\n\n🗣️ Share your experiences and thoughts in the comments below. Let's foster a community dialogue about mental health in the tech industry and discuss potential solutions for a healthier, more sustainable future.\n\n👁️‍🗨️ Don't forget to like, subscribe, and hit the notification bell to stay updated on our deep dives into the tech realm. Together, let's navigate the complexities and challenges, working towards a more inclusive, mindful, and resilient tech community! 🌈💙💻 #TechAnxiety #CodingIndustry #TechManipulation #MentalHealthInTech #IndustryInsights\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #discipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qmFlsYStOcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qmFlsYStOcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qmFlsYStOcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qmFlsYStOcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qmFlsYStOcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qmFlsYStOcg"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "qmFlsYStOcg",
+        "videoPublishedAt": "2023-12-02T13:30:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SFRtrYZvoUJcJF11jJKF3ek0Fhs",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2023-12-03T13:37:26Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🧑🏻‍💻Day 6 | JS, Life, Attitude, Interview & Perspective | Sheryians Coding School",
+        "description": "Welcome to Sheryians Coding School's transformative journey! 🚀 Join us for \"7 Days Discipline\" where we master JavaScript, cultivate a winning attitude, ace interviews, and shift perspectives. Elevate your coding game and life in just one week! 🌟\n\nThis is Day 6.\n\nToday's website - https://wonderland.studio/\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n#sheryians #coding #discipline #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K9lVnav2Gec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K9lVnav2Gec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K9lVnav2Gec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K9lVnav2Gec/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K9lVnav2Gec/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K9lVnav2Gec"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "K9lVnav2Gec",
+        "videoPublishedAt": "2023-12-03T14:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SYQ4qL9WMBRChGXmNrEobjp9jcE",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2024-02-24T14:03:20Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "4 Months Proven Strategy for Placements🔥| Avoid these mistakes",
+        "description": "Link to Question Sheet: https://drive.google.com/file/d/16QOfIYtXIplb5Rn2M9Qpmj5-ZX8YUCrx/view?usp=sharing\n\nFront-End Domination Course:\nhttps://sheryians.com/courses/courses-details/Front-End%20Domination:%20Create%20Anything%20with%20Code\nUse coupon : YT15  to avail discount.\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n\n\n\n#placements  #finalyearstudents #webdevelopment #programming #itjobs #campusplacements #roadmaps #placementroadmap #palcementguide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/afsMDotwJzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/afsMDotwJzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/afsMDotwJzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/afsMDotwJzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/afsMDotwJzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "afsMDotwJzg"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "afsMDotwJzg",
+        "videoPublishedAt": "2024-02-24T14:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DVj2EDL_SczEVeaN2UOnpo-MN40",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2024-03-04T14:52:44Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "You Are Not Yet Ready | Placements | Open Source",
+        "description": "Link to Hitesh's Video: \nhttps://www.youtube.com/watch?v=EKRdobRY-fc\nLink to Mehul's Video: \nhttps://www.youtube.com/watch?v=-w_eDnIdU9M\n\n\"You Are Not Yet Ready\" for placements is a concise statement indicating that an individual lacks the necessary qualifications, skills, or experience required for securing employment opportunities or internships. This feedback is often provided by mentors, educators, or employers during the recruitment process, highlighting areas where the individual needs further development or improvement.\n\nFront-End Domination Course:\nhttps://sheryians.com/courses/courses-details/Front-End%20Domination:%20Create%20Anything%20with%20Code\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n\n#placements  #finalyearstudents #webdevelopment #programming #itjobs #campusplacements #roadmaps #placementroadmap #palcementguide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/60SRAWmMXyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/60SRAWmMXyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/60SRAWmMXyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/60SRAWmMXyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/60SRAWmMXyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "60SRAWmMXyc"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "60SRAWmMXyc",
+        "videoPublishedAt": "2024-03-04T15:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HvztInJNnUhhnAzFhjqu-_xS2uE",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2024-03-15T14:20:54Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Massive Layoffs Coming | Impact of Devin.Ai in India",
+        "description": "In this video, we dive into the unsettling news regarding Devin.Ai and the looming threat of massive layoffs. As the tech industry navigates through uncertain times, Devin.Ai, a prominent player in artificial intelligence, is facing significant restructuring that could affect countless employees.\n\nJoin us as we unravel the reasons behind these impending job cuts, the potential impact on the company's future, and most importantly, what it means for the workforce. Our expert panel offers insights, analysis, and strategies to help those impacted navigate through this challenging period.\n\nWhether you're an employee, investor, or simply curious about the state of the tech industry, this video is a must-watch. Stay informed, stay prepared, and join the conversation as we unpack the latest developments surrounding Devin.Ai's massive layoffs.\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#webdesign #animationtutorials #webdevelopment #css #coding #javascript #webdesign #codeeffects #codingtips #webdevtricks #webanimation #webdevinspiration #webdevelopercommunity #webdesigner #codinglife #codenewbie #codingtutorial #frontendmagic #codingjourney #webcode #css3 #javascriptanimation #htmlhacks #devcommunity #programmerlife #codelearning #animationdemo #webtipsandtricks #codingchallenge #learnprogramming #devtalk #codercommunity #creativecoding #codersofinstagram #codingworld #webappdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bAGCKpGMhCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bAGCKpGMhCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bAGCKpGMhCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bAGCKpGMhCk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bAGCKpGMhCk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bAGCKpGMhCk"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "bAGCKpGMhCk",
+        "videoPublishedAt": "2024-03-15T15:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "swC8bYKPjagYvoDy-8XwixdPofU",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2024-04-18T09:46:33Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Frameworks & Libraries vs Templating Engines: Pointless Comparisons!",
+        "description": "Re-Imagine: https://reimagine.sheryians.com/\n\nInstructor in this video: Harsh Sharma\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#backenddevelopment #nodejs #backenddeveloper #webdevelopment #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BoJ2ik0xDGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BoJ2ik0xDGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BoJ2ik0xDGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BoJ2ik0xDGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BoJ2ik0xDGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BoJ2ik0xDGQ"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "BoJ2ik0xDGQ",
+        "videoPublishedAt": "2024-04-18T10:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wajNlI_zEBo-ClcenwnTe8skVNM",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2024-04-28T07:47:25Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Upcoming Plans of 2024 and FAQs | Sheryians Coding School",
+        "description": "Front-End Domination Course:\nhttps://sheryians.com/courses/courses-details/Front-End%20Domination:%20Create%20Anything%20with%20Code\n\nVisit our website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n\n\n\n#placements  #finalyearstudents #webdevelopment #programming #itjobs #campusplacements #roadmaps #webdevelopment #webdevlopmentroadmap #palcementguide",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CxRfMpjwpqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CxRfMpjwpqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CxRfMpjwpqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CxRfMpjwpqI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CxRfMpjwpqI"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "CxRfMpjwpqI",
+        "videoPublishedAt": "2024-04-28T14:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FMkNoKrVeYGVvV7rlh1dmB_JRRU",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2024-05-02T08:46:12Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "[GAMECHANGER🔥] Logic Making in Programming | Sheryians",
+        "description": "Instructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YTFFXJejOpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YTFFXJejOpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YTFFXJejOpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YTFFXJejOpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YTFFXJejOpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YTFFXJejOpg"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "YTFFXJejOpg",
+        "videoPublishedAt": "2024-05-02T08:46:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fssCMnZCfotOb_hrJAtb2h6Vvso",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2024-05-08T09:40:35Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🚀 [MINDSET HACK] Achieve Consistency with Obsession & Discipline!",
+        "description": "Instructor in this video: Harsh Sharma\n\n00:01 Achieve consistency through obsession\n01:06 Consistency requires obsession and discipline\n02:44 Achieve consistency with obsession and discipline\n03:50 Balanced health and nutrition are essential for sustained motivation and success.\n05:01 Consistency is key for productivity\n06:13 Train for greatness with consistency and discipline.\n07:42 Become extremely great at one thing for guaranteed success.\n09:17 Consistency and positivity in business mindset\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s6VjHQQFtY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s6VjHQQFtY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s6VjHQQFtY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s6VjHQQFtY8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s6VjHQQFtY8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "s6VjHQQFtY8"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "s6VjHQQFtY8",
+        "videoPublishedAt": "2024-05-08T14:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WnMHF0zT7zPXMHdPiXJ4jB4Y8F0",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2024-06-01T13:22:09Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Private video",
+        "description": "This video is private.",
+        "thumbnails": {},
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MHLEBq4ZS_A"
+        }
+      },
+      "contentDetails": {
+        "videoId": "MHLEBq4ZS_A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pZgATqfFh_1kAvpu9vS0GAOpOhA",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2024-06-19T14:29:06Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Reimagine Q&A: India’s Web Dev Battle for ₹150,000 🤑 – Don’t Miss Out! 💻 ❌",
+        "description": "Re-Imagine: https://reimagine.sheryians.com/\n\nRe-imagine | Web Dev Hackathon checkout this video:\nhttps://www.youtube.com/watch?v=wy7cROuMUzo\n\nWelcome to Reimagine | The Web, India's premier web development competition! In this video, we delve into the details of this exciting event, where web developers across India showcase their skills and creativity.\n\n🏆 Prize Pool: ₹150,000! 🏆\n- First Prize: ₹75,000 🥇\n- Second Prize: ₹50,000 🥈\n- Third Prize: ₹25,000 🥉\n\nHost: Sarthak Sharma\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/kytVVuEjUJ\nPeace ✌️\n\n#webdevelopment #india #hackathon #competition #reimagine #coding #techevent",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VhcSUlYUzWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VhcSUlYUzWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VhcSUlYUzWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VhcSUlYUzWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VhcSUlYUzWg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VhcSUlYUzWg"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "VhcSUlYUzWg",
+        "videoPublishedAt": "2024-06-19T14:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WW_MiaTwI2ZcNyeSmo-MumwSD0E",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2024-07-07T10:14:07Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🚨 INDIAN STUDENTS ALERT: Avoid These Internship Scams‼️",
+        "description": "🌐 Back End Domination: https://bit.ly/4ascbwD\n\nInstructor in this video: Adarsh Gupta\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#internship #jobs #scammer #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4StfEf-_OpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4StfEf-_OpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4StfEf-_OpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4StfEf-_OpE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4StfEf-_OpE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4StfEf-_OpE"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "4StfEf-_OpE",
+        "videoPublishedAt": "2024-07-07T14:50:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zKxiOIUgLNR6_BlrcHbiDGN-f-c",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2024-07-19T13:25:50Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Are College Assignments Worth It? | Harsh Reality of Tier 3 Colleges",
+        "description": "Are college assignments really necessary for learning? Or are they just a waste of time and energy? In this eye-opening video, we explore the dark side of college assignments and how they hinder students from truly developing their skills. We interview several students who share their frustrations and struggles with assignments, revealing how they are often seen as obstacles to their learning journey. And if that's not enough, we uncover a disturbing truth about what colleges do with the completed assignments - selling them to garbage collectors for a profit! With stunning cinematic shots and thought-provoking commentary, this video will make you think twice about the value of assignments in education.\n\nPioneers · City & Vine\nMusic  Publisher: SHOUT! Music Publishing\nComposer: Ryan Taubert\nSong Link: https://www.youtube.com/watch?v=jZV4oW3UiK0\n\nVisit our website: https://sheryians.com/\n\nSocials:\nInstagram: https://www.instagram.com/sheryians_coding_school/\nFacebook: https://www.facebook.com/sheryians.community\nTelegram: https://t.me/sheryiansCommunity\nLinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\nDiscord: https://discord.gg/Au3TquBarQ\nPeace ✌️",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rwK0PoZVhlk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rwK0PoZVhlk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rwK0PoZVhlk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rwK0PoZVhlk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rwK0PoZVhlk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rwK0PoZVhlk"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "rwK0PoZVhlk",
+        "videoPublishedAt": "2024-07-19T14:00:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eZE3VG9mj-lYVUAxnKdDPLOwofk",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2024-08-04T12:15:40Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🚨 Job Scam Alert for Students : Avoid These IT Companies‼️",
+        "description": "🌐 Level-up your Tech Skills : https://sheryians.com/courses\n\nInstructor in this video: Adarsh Gupta\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#internship #jobs #scammer #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0sWepLoMO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0sWepLoMO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0sWepLoMO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w0sWepLoMO0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w0sWepLoMO0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w0sWepLoMO0"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "w0sWepLoMO0",
+        "videoPublishedAt": "2024-08-04T13:30:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qI_YSoPnQpPLjZnwGA4jwM_Yoh0",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2024-08-24T11:38:40Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Unfiltered Baatcheet | Tips",
+        "description": "Chat about why students should focus on understanding code rather than memorizing it, the importance of building modern, complex websites with animations, and staying ahead by learning automation and AI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_VDZgYeI9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_VDZgYeI9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_VDZgYeI9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_VDZgYeI9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_VDZgYeI9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "i_VDZgYeI9g"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "i_VDZgYeI9g",
+        "videoPublishedAt": "2024-08-24T11:38:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zWlGe1X3l04rU32ZN_FJMRAFxuw",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2024-10-28T15:23:42Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Want a remote Job? ( WATCH THIS 🤯 )",
+        "description": "Looking for remote jobs in 2024? In this video, I break down the top companies offering remote work opportunities and share actionable tips on how you can land a remote job this year. Whether you’re a fresh graduate or an experienced professional looking for more flexibility, this guide will help you understand where to look, what skills you need, and how to prepare for remote job interviews.\n\n🔍 Topics Covered:\n\n • Top companies hiring remote workers in 2024\n • Essential skills for remote jobs\n • How to ace remote job interviews\n • Where to find remote job openings (websites and resources)\n • Proven tips for landing a remote job\n\n🚀 Why Remote Jobs?\nThe demand for remote work is higher than ever. Companies are shifting towards flexible work environments, and this is your chance to take advantage of it. Whether you’re a developer, marketer, designer, or in any other field, there’s a remote job out there for you.\n\n📈 Who Is This For?\n\n • Coders and developers looking for remote opportunities\n • Fresh graduates entering the job market\n • Professionals seeking work-life balance through remote jobs\n • Anyone interested in securing a remote job in tech or other industries",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9IwaS3nOnrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9IwaS3nOnrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9IwaS3nOnrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9IwaS3nOnrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9IwaS3nOnrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9IwaS3nOnrs"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "9IwaS3nOnrs",
+        "videoPublishedAt": "2024-10-28T15:24:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lZV1JGo39QzXLztuzw7FYT-e2Mk",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2024-11-06T12:46:40Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "I mastered 3D websites in 6 months and you can too, watch this!",
+        "description": "Subscribe to Sheryians Coding School for more must-know coding tutorials! 💻\n\nStay tuned for more updates and make sure to explore the upcoming courses at https://sheryians.com/\n\nInstructor in this video: Harsh Sharma\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace out ✌\n\n#sheryianscodingschool #sheryians #threejs #3js #creativewebdevelopment #webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ckL9Js0ZfQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ckL9Js0ZfQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ckL9Js0ZfQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ckL9Js0ZfQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ckL9Js0ZfQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ckL9Js0ZfQU"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "ckL9Js0ZfQU",
+        "videoPublishedAt": "2024-11-06T14:21:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wkuABm1tLbxekFAwKCLWljmQIR0",
+      "id": "UExidEkzX01BckRPbVNxel9ZY3lmZ05MODY1eFJGeHNtcS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2024-11-08T12:49:19Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "E-Commerce App Won’t Get you Placed? (I don’t think so )",
+        "description": "Subscribe to Sheryians Coding School for more must-know coding tutorials! 💻\n\nStay tuned for more updates and make sure to explore the upcoming courses at https://sheryians.com/\n\nInstructor in this video: Harsh Sharma\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_c...\n📘 Facebook: https://www.facebook.com/sheryians.co...\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-...\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace out ✌\n\n#sheryianscodingschool #sheryians #threejs #3js #creativewebdevelopment #webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/arn6ZdQqwZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/arn6ZdQqwZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/arn6ZdQqwZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/arn6ZdQqwZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/arn6ZdQqwZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOmSqz_YcyfgNL865xRFxsmq",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "arn6ZdQqwZc"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "arn6ZdQqwZc",
+        "videoPublishedAt": "2024-11-08T14:30:03Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 29,
+    "resultsPerPage": 50
+  }
+}
