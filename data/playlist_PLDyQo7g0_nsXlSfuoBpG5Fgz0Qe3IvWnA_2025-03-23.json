@@ -1,0 +1,2551 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "ODQG0NS3OhobHIau04jsPmaf8lQ",
+  "nextPageToken": "EAAaHlBUOkNESWlFRFpET1RreVFUTkNOVVZDTmpCRU1EZw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YRT4DZ0cl-m7V5Jxu9e0CRCHHbI",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Getting Started With Javascript | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nGetting Started With Javascript | Learn Javascript For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe will also look at VSCode as our main text editor with some simple extensions that are going to help us write better/easier code.\n\nGetting started connecting our Javascript with our HTML page and writing our first javascript code.\n\nThings covered in this video:\n\nWhat we can do with Javascript.\nHow to connect Javascript to our HTML page.\nSimple javascript devtools.\nGetting started writing simple javascript code.\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2nZiB1JItbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2nZiB1JItbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nZiB1JItbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2nZiB1JItbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2nZiB1JItbY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2nZiB1JItbY"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "2nZiB1JItbY",
+        "videoPublishedAt": "2019-01-23T21:27:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EMna6S4MeRWLETjQ8uK_WXwN8bo",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Variables & Data Types | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nGetting Started With Javascript | Learn Javascript For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe will also cover how to create a variable and what types of data we can include inside one. We will also cover the different type of variables available in javascript from var,let to const. \n\nThings covered in this video:\n\nHow to create a simple variable.\nHow to use strings, numbers and booleans in javascript.\nDifferences between var let and const.\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/edlFjlzxkSI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/edlFjlzxkSI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/edlFjlzxkSI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/edlFjlzxkSI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/edlFjlzxkSI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "edlFjlzxkSI"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "edlFjlzxkSI",
+        "videoPublishedAt": "2019-01-23T21:27:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S5eQ9Odc0-4CZ_fSeRhQM8qklPM",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Functions & Parameters | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nGetting Started With Javascript | Learn Javascript For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe will also cover how to create functions and use them to write clean and scoped code in javascript. After we are going to create a simple function that is going to take a string and uppercase it for us once we invoke the function.\n\nFinally we are going to look at 3 different ways of writing a function. The ES6 being my favourite, arrow function.\n\nThings covered in this video:\n\nHow to create a function in javascript.\nDifferent types of functions we can use.\nHow to add parameters in functions.\n\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xjAu2Y2nJ34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xjAu2Y2nJ34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xjAu2Y2nJ34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xjAu2Y2nJ34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xjAu2Y2nJ34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xjAu2Y2nJ34"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "xjAu2Y2nJ34",
+        "videoPublishedAt": "2019-01-23T21:29:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lIR_TmCuisTvrNfzJF0FjvV9rKs",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript String Concatenation | Javascript Tutorial For Beginners | ES6 Tutorial",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript String Concatenation | Javascript Tutorial For Beginners | Javascript ES6\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe will cover how to do string concatenation in javascript with the \" + \" operator, we will also fix issues on when to use single or double quotes in strings. \n\nFinally we will take a look at the ES6 way of doing concatenations in javascript using the ${} syntax.\n\nThings covered in this video:\n\nHow to do simple string concatenations .\nDifferences in using single quotes vs double quotes in strings.\nConcatenating strings with numbers.\nES6 string concatenation .\n\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Q8BAZffbz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Q8BAZffbz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Q8BAZffbz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9Q8BAZffbz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9Q8BAZffbz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9Q8BAZffbz8"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "9Q8BAZffbz8",
+        "videoPublishedAt": "2019-01-26T13:40:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GpxOk822H8Zbom39i6Lv0HNAJ3g",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript If Else Statements | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript If Else Statements | Javascript Tutorial For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe will cover the basic of if statements, if else and else statements in javascript. How to use the different types of operators in our if statement.\n\nThings covered in this video:\n\nHow to create an if, else statement in javascript.\nWhen to use == or ===.\nThe && operator and || operator.\n\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_5SgikgFf0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_5SgikgFf0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_5SgikgFf0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_5SgikgFf0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_5SgikgFf0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_5SgikgFf0U"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "_5SgikgFf0U",
+        "videoPublishedAt": "2019-01-27T16:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1VMNoneZJ8ZaCXRt71GLI0DI6fE",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Arrays | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript Arrays | Javascript Tutorial For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe will also cover the basics of arrays and where to use them. The popular ones include using pop method to remove a value from the end of the array, push method to add a value to the end of the array. Shift is used to remove a value from the beginning of the array and unshift adds a value.\n\nWe are also going to take a look on what types of values we can store inside the array. How to access each value by its index and modify them as well.\n\nThings covered in this video:\n\nBasics of javascipt arrays.\nHow to add and remove values inside of an array.\nHow to modify a specific value of an array.\nHow to access each value.\n\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8FmBEN0XZyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8FmBEN0XZyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8FmBEN0XZyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8FmBEN0XZyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8FmBEN0XZyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8FmBEN0XZyI"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "8FmBEN0XZyI",
+        "videoPublishedAt": "2019-01-29T13:22:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "S9xtQdwr3Qyf_Lt6bfYT-8BQb_o",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Objects and Keyword This | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript Objects and Keyword This | Javascript Tutorial For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nIf you want to learn how to create objects in javascript you have come to the right place. We will also be looking at the confusing this keyword in javascript that alot of people find confusing.\n\nThings covered in this video:\n\nJavascript this keyword,\nHow to create javascript objects.\nHow to attach methods to javascript objects.\n\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qs3F-z6ridc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qs3F-z6ridc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qs3F-z6ridc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qs3F-z6ridc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qs3F-z6ridc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qs3F-z6ridc"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "qs3F-z6ridc",
+        "videoPublishedAt": "2019-01-30T22:02:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i_ZTVAWUDkt3WledTaLlfh9wSNY",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript For Loop and While Loop | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript For Loop and While Loop | Javascript Tutorial For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nWe are going to take a look on how to create a foor loop, the modern and easy way using ES6. Another loop we can use is a while loop that takes a condition and it is going to run until the statement inside the while loop becomes false.\n\nThings covered in this video:\n\nHow to create a for loop in javascript.\nHow to create a while loop in javascript.\n\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/leMzF0esu38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/leMzF0esu38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/leMzF0esu38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/leMzF0esu38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/leMzF0esu38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "leMzF0esu38"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "leMzF0esu38",
+        "videoPublishedAt": "2019-01-30T22:03:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VpmWQcGt_4JdGVXY61DpGE_MXFQ",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Dom Manipulation | Javascript Tutorial For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript Dom Manipulation | Javascript Tutorial For Beginners\n\nIn this video series we are going to learn modern javascript from scratch. This video is recommended for anyone wanting to learn javascript the modern way with ES2015. No previous programming knowledge is required, so this video series will help you learn javascript as your first programming language.\n\nIn this final video we are going to take everything we learning is this beginner javascript series so far and we are going to use our knowledge to add a bit of movement to our html page.\n\n\nThings covered in this video:\n\nHow to grab elements from our HTML.\nHow to add classes in javascript.\nCreate a todo list type app in vanilla javascript.\n\n📔 Materials used in this video:\n\nVSCode: https://code.visualstudio.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wiozYyXQEVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wiozYyXQEVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wiozYyXQEVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wiozYyXQEVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wiozYyXQEVk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wiozYyXQEVk"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "wiozYyXQEVk",
+        "videoPublishedAt": "2019-01-30T22:03:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9bwB78U7c5KDDaTfXq_HKTaitIs",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "The Creative Javascript Course Trailer",
+        "description": "Sign up and be the first to know when it drops!\nhttps://developedbyed.com/\n\nI am incredibly happy to announce after months of work my Javascript Course that features some incredibly fun projects that we are going to build. From beginner all the way to having awesome javascript projects that can be added in your portofolio.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l6yUf_R78gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l6yUf_R78gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l6yUf_R78gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l6yUf_R78gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l6yUf_R78gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l6yUf_R78gY"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "l6yUf_R78gY",
+        "videoPublishedAt": "2020-03-31T17:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3PIYZ8TOrVQrlomWMWFhDr6_9E0",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2018-12-05T22:08:55Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Vanilla Javascript Smooth Scroll Tutorial",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nHere is a quick tutorial on how to do the smooth scroll effect in vanilla javascript. Browser support is really good for the request animation animation so I wouldn't worry about it too much. Hope you guys enjoy this Javascript tutorial.\nLinks: \nEase functions : http://www.gizma.com/easing/\nRequest time frame : https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame\n\n-~-~~-~~~-~~-~-\nFollow my Twitter:\nhttps://twitter.com/DevEd94\n\nPlease watch: \"Should You Become A Software Engineer?\" \nhttps://www.youtube.com/watch?v=V_kTl0eIJ4A\n\n\n-~-~~-~~~-~~-~-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oUSvlrDTLi4"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "oUSvlrDTLi4",
+        "videoPublishedAt": "2018-05-27T16:31:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZBBOaivcWbPh7hHx6hy2usg0kKw",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2018-12-05T22:08:55Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Visual effect in vanilla javascript tutorial",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nWe are going to keep this vanilla javascript tutorials going. For today we are going to explore how to do visual effects in vanilla javascript. A modern and simple way to do animations on scroll.\n\n-~-~~-~~~-~~-~-\nFollow my Twitter:\nhttps://twitter.com/DevEd94\n\nPlease watch: \"Should You Become A Software Engineer?\" \nhttps://www.youtube.com/watch?v=V_kTl0eIJ4A\n\n\n-~-~~-~~~-~~-~-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C_JKlr4WKKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C_JKlr4WKKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C_JKlr4WKKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C_JKlr4WKKs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C_JKlr4WKKs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C_JKlr4WKKs"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "C_JKlr4WKKs",
+        "videoPublishedAt": "2018-06-02T17:39:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6H4FOFGKGjryVkmoAMaUqFy9-V4",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2018-12-05T22:08:55Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "How To Create An Image Slider In HTML, CSS & Javascript",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nToday we are going to build an image carousel similar to the one in bootstrap. However this one is going to be built in pure html css and javascript. For any questions or problems you might be having, make sure to leave it down bellow.\n\n-~-~~-~~~-~~-~-\nFollow my Twitter:\nhttps://twitter.com/DevEd94\n\nPlease watch: \"Should You Become A Software Engineer?\" \nhttps://www.youtube.com/watch?v=V_kTl0eIJ4A\n\n\n-~-~~-~~~-~~-~-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KcdBOoK3Pfw"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "KcdBOoK3Pfw",
+        "videoPublishedAt": "2018-06-30T17:25:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mnGn4he3ODa0qaJiyfIC98kr0HM",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2018-12-05T22:08:55Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nMy take on making a responsive navigation bar in 2018 with media queries and a sprinkle of animations and javascript. In this tutorial we are going to learn media queries, keyframe animations, basic javascript toggling, building a burger menu and more!\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n-~-~~-~~~-~~-~-\nFollow my Twitter:\nhttps://twitter.com/DevEd94\n\nPlease watch: \"Should You Become A Software Engineer?\" \nhttps://www.youtube.com/watch?v=V_kTl0eIJ4A\n\n\n-~-~~-~~~-~~-~-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gXkqy0b4M5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gXkqy0b4M5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gXkqy0b4M5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gXkqy0b4M5g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gXkqy0b4M5g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gXkqy0b4M5g"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "gXkqy0b4M5g",
+        "videoPublishedAt": "2018-08-29T14:02:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "12uk4YAMyomvPM8wD-1OYLR9wb4",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS43NERCMDIzQzFBMERCMEE3",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "The Ultimate Javascript Animation Course Trailer",
+        "description": "AVAILABLE NOW, LIMITED PRICE!\nhttps://developedbyed.com/p/the-ultimate-javascript-animation-course?coupon_code=EARLYBIRD\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ybWsJuwwz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ybWsJuwwz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ybWsJuwwz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8ybWsJuwwz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8ybWsJuwwz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8ybWsJuwwz8"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "8ybWsJuwwz8",
+        "videoPublishedAt": "2021-12-16T20:33:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EZx2zL8A1_ZzbdgsWKOkpFZqFbM",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2019-01-06T21:15:57Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Weather App With Vanilla Javascript Tutorial | Javascript For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nBuild A Weather App With Vanilla Javascript Tutorial | Javascript For Beginners\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n\nToday I wanted to focus more on building an actual project using vanilla javascript. This video is intended for those who are looking on creating their first projects using javascript or you might be here from freecodecamp with their javascript weather app project.\n\nWe are going to be using darksky api to pull all the necessary weather information you need. Darksky can be used free for up to 1000 api calls, so it is great for a demo project. \n\nThis project is great if you want to extend your knowledge with vanilla javascript by building a real world weather app.\n\n📔 Materials used in this video:\n\nDarksky API : https://darksky.net\nIcons : https://darkskyapp.github.io/skycons/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wPElVpR1rwA"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "wPElVpR1rwA",
+        "videoPublishedAt": "2019-01-06T21:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4nq3VQiBfU04lELCndQvpThHeVk",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2019-01-11T20:22:17Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Simple Form Animation With Javascript Tutorial | HTML Forms | Learn Javascript",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nSimple Form Animation With Javascript Tutorial | HTML Forms | Learn Javascript\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\nToday we are going to use Javascript to add some animations to our html forms. You can use this to create simple html login forms or registration forms. Including animation for form validation using html and javascript.\n\nWe are also going to learn how to structure all your inputs and icons inside each form group. Taking the data from a form and submitting it will come in a later tutorial.\n\nThis video is made for people who want to learn more about HTML Forms and Javascript in very easy steps.\n\n📔 Materials used in this video:\n\nFont Awesome: https://fontawesome.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wc5k2AMPED0"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "wc5k2AMPED0",
+        "videoPublishedAt": "2019-01-11T20:36:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3hGhJIves3Qt18n_PL7DWHuYQnU",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2019-02-24T19:11:03Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "How to create a CSS Preloader Animation With Javascript Tutorial | Javascript Preloader Tutorial",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nHow to create a CSS Preloader Animation With Javascript Tutorial | Javascript Preloader Tutorial\n\nToday we are going to take a look at creating a simple css animation that you can add to your website as a preloader.\n\nThe benefits of creating a css preloader or css loading page, is that it gives your users a visual representation rather then staring at a page slowly loading.\n\nWe are going to learn how to create this css preloader by using the plane animation (rather than a circular loading spinner animation) and after we are going to learn how to remove it with javascript.\n\n📔 Materials used in this video:\n\nImages in the video:   https://www.dropbox.com/sh/86c3w6cs1itbaok/AABM7rlTPvA9I3RyLWZ3Ox40a?dl=0\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nCheck out Julian: https://soundcloud.com/julian_avila\nRock Angel by Joakim Karud https://soundcloud.com/joakimkarud\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZNhuzyeD-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZNhuzyeD-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZNhuzyeD-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NZNhuzyeD-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NZNhuzyeD-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NZNhuzyeD-Y"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "NZNhuzyeD-Y",
+        "videoPublishedAt": "2019-02-24T19:11:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iw0LnzUtp3k0r3tZF49gUcC_6Ec",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2019-03-20T15:27:57Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Meditation App With Javascript HTML & CSS!",
+        "description": "Check out my courses here!\nhttps://developedbyed.com\n\nI am super excited to bring you another vanilla javascript project that we are going to build from scratch!\n\nWe will be creating a meditation/ambient sounds app that a user can enjoy by picking the amount of time to listen to and choose different ambient sounds.\n\nWe will take a look at working and manipulating music and video with javascript and how to build out a timer.\nFeel free to add this project to your portofolio if you wish!\n\nLets build out a meditation app with html css and javascript!\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n📕 Things covered in this video:\n \n-Working with audio tag and video tag in HTML\n-How to change sounds with javascript\n-Manipulating video with javascript\n-Creating a javascript project for your portofolio\n\n📔 Materials used in this video:\n\n https://github.com/DevEdwin/meditation-app\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nOutro: \nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nMusic By: https://soundcloud.com/lakeyinspired\n\nIntro:\nDj Quads\nTrack Name: \"Every Morning\"\nMusic By: Dj Quads @ https://soundcloud.com/aka-dj-quads\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oMBXdZzYqEk"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "oMBXdZzYqEk",
+        "videoPublishedAt": "2019-03-20T15:27:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J3JQ3WHiI9godsm6dZPuE2c83jc",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2019-04-03T14:27:50Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Music App With Javascript Tutorial",
+        "description": "Check out my courses here!\nhttps://developedbyed.com\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n#javascript #webdevelopment #css\n\nToday we are going to learn how to create a music app from scratch with vanilla javascript, css and html.\n\nIn this vanilla javascript project we are going to take a look at how we can implement an audio track and add different sounds to it.\n\nThis project is recommended for anyone interested in learning beginner web development projects/javascript projects from scratch.\n\n📕 Things covered in this video:\n \n- How to add sounds to the audio track\n- How to play sounds in javascript\n- Adding dynamic colors to our animations.\n\n📔 Materials used in this video:\n\nStarter Files: https://github.com/DevEdwin/vanilla-js-beatmaker\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nOutro: \nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nMusic By: https://soundcloud.com/lakeyinspired\n\nIntro:\nDj Quads\nTrack Name: \"Every Morning\"\nMusic By: Dj Quads @ https://soundcloud.com/aka-dj-quads\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2VJlzeEVL8A"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "2VJlzeEVL8A",
+        "videoPublishedAt": "2019-04-03T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "azlrltDA5UJAZERCBhIqd6Bjbcs",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-04-10T16:12:20Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Beginner Vanilla Javascript Project Tutorial",
+        "description": "Get The Full Javascript Course Here!\nhttps://developedbyed.com/\n\nIn this episode we are going to cover a small project of the full Creative Javascript Course, a todo list in vanilla js.\nWe are going to put together all the fundamental javascript techniques including local storage.\nCheck out the javascript course in the link above to create more complex javascript projects and understand complex topics.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ttf3CEsEwMQ"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "Ttf3CEsEwMQ",
+        "videoPublishedAt": "2020-04-11T12:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8em1A0JjQA5ResQRI0-bopr7Kz0",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-10-23T13:11:34Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Awesome 3D ANIMATION Javascript Tutorial!",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nGood morning my gorgeous friends! In todays episode we will take a look on how we can create a super easy 3d effect using javascript. We are going to be creating a 3d animation using mouse events. \nI am also super excited to announce that the React course is coming very very soon.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nFiles - https://github.com/developedbyed/3d-card-effect\nSong - https://chillhop.com/?p=9563\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XK7T3mY1V-w"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "XK7T3mY1V-w",
+        "videoPublishedAt": "2020-10-23T15:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tg9gvETtV1oJ2Ln1CrTxQ-sN7LY",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "How To Create A Modal In Javascript and CSS",
+        "description": "Today we are going to learn how to create a simple modal in javascript and css. Feel free to edit the modal the way you want. This tutorial does not use Bootstrap or any other css frameworks or javascript frameworks.\n\n-~-~~-~~~-~~-~-\nFollow my Twitter:\nhttps://twitter.com/DevEd94\n\nPlease watch: \"Should You Become A Software Engineer?\" \nhttps://www.youtube.com/watch?v=V_kTl0eIJ4A\n\n\n-~-~~-~~~-~~-~-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KjQ8uvAt9kQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KjQ8uvAt9kQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KjQ8uvAt9kQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KjQ8uvAt9kQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KjQ8uvAt9kQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KjQ8uvAt9kQ"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "KjQ8uvAt9kQ",
+        "videoPublishedAt": "2018-06-18T14:16:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "anNX2BcgH-gAXC_f_X-5M86gxsk",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "How To Create An Image Slider In HTML, CSS & Javascript",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nToday we are going to build an image carousel similar to the one in bootstrap. However this one is going to be built in pure html css and javascript. For any questions or problems you might be having, make sure to leave it down bellow.\n\n-~-~~-~~~-~~-~-\nFollow my Twitter:\nhttps://twitter.com/DevEd94\n\nPlease watch: \"Should You Become A Software Engineer?\" \nhttps://www.youtube.com/watch?v=V_kTl0eIJ4A\n\n\n-~-~~-~~~-~~-~-",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KcdBOoK3Pfw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KcdBOoK3Pfw"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "KcdBOoK3Pfw",
+        "videoPublishedAt": "2018-06-30T17:25:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5LqrT_5KkrMwy-5zkzSm27WBW7s",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Weather App With Vanilla Javascript Tutorial | Javascript For Beginners",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nBuild A Weather App With Vanilla Javascript Tutorial | Javascript For Beginners\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n\nToday I wanted to focus more on building an actual project using vanilla javascript. This video is intended for those who are looking on creating their first projects using javascript or you might be here from freecodecamp with their javascript weather app project.\n\nWe are going to be using darksky api to pull all the necessary weather information you need. Darksky can be used free for up to 1000 api calls, so it is great for a demo project. \n\nThis project is great if you want to extend your knowledge with vanilla javascript by building a real world weather app.\n\n📔 Materials used in this video:\n\nDarksky API : https://darksky.net\nIcons : https://darkskyapp.github.io/skycons/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wPElVpR1rwA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wPElVpR1rwA"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "wPElVpR1rwA",
+        "videoPublishedAt": "2019-01-06T21:15:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FdMqPX8Lw96Ob1-sD5vlLztSmHU",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Simple Form Animation With Javascript Tutorial | HTML Forms | Learn Javascript",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nSimple Form Animation With Javascript Tutorial | HTML Forms | Learn Javascript\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\nToday we are going to use Javascript to add some animations to our html forms. You can use this to create simple html login forms or registration forms. Including animation for form validation using html and javascript.\n\nWe are also going to learn how to structure all your inputs and icons inside each form group. Taking the data from a form and submitting it will come in a later tutorial.\n\nThis video is made for people who want to learn more about HTML Forms and Javascript in very easy steps.\n\n📔 Materials used in this video:\n\nFont Awesome: https://fontawesome.com/\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wc5k2AMPED0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wc5k2AMPED0"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "wc5k2AMPED0",
+        "videoPublishedAt": "2019-01-11T20:36:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xmxKTlFH4SK2Pn2541C0XiLIIqk",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Rock Paper Scissors Game Tutorial | Web Development Tutorial",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nJavascript Rock Paper Scissors Game Tutorial | Web Development Tutorial\n\nToday we are going to learn how to make a rock paper and scissors game in javascript similar to the one on freecodecamp but with a bit more movement and animation!\n\nWe are going to cover the rock paper scissor game with vanilla javascript, by creating small functions to abstract our code based on what it does.\n\nThis project is great if you want to practice your vanilla javascript skills by building a rock paper scissors game.\nInspired from freecodecamp rock paper scissor javascript game.\n\n📔 Materials used in this video:\n\nRock Paper Scissor Icons: https://github.com/DevEdwin/rock-paper-scissor\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWPtKtYEsN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWPtKtYEsN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWPtKtYEsN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qWPtKtYEsN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qWPtKtYEsN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qWPtKtYEsN4"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "qWPtKtYEsN4",
+        "videoPublishedAt": "2019-02-03T17:24:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3evDh2okRZTND8agZ1UuloqkrgU",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "GSAP Animation Tutorial | Create Awesome Animations With Javascript",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com\n\nGSAP Animation Tutorial | Create Awesome Animations With Javascript\n\nWe are going to cover how to create some pretty cool animations in javascript with a library called GSAP.\n\nWe can use GSAP to create more complex animations by sequencing them with TimelineLite. We are gain the benefits of cross browser support and high performance.\n\nGSAP is one of my favourite libraries to use to animate in javascript. You can use it to animate basic css properties, morph shapes, animate lines and so much more.\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n\n📔 Materials used in this video:\n\nImages in the video:   https://www.dropbox.com/sh/3w83snqzhutfuza/AADhInqaizWKCHDh8zUoSsSpa?dl=0\n\nTweenLite , TimelineLite and CSS Plugins:\nhttps://cdnjs.com/libraries/gsap\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nCheck out Julian: https://soundcloud.com/julian_avila\nRock Angel by Joakim Karud https://soundcloud.com/joakimkarud\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5RyrIPCs47A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5RyrIPCs47A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5RyrIPCs47A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5RyrIPCs47A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5RyrIPCs47A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5RyrIPCs47A"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "5RyrIPCs47A",
+        "videoPublishedAt": "2019-03-03T16:57:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IHXztHTXQCzxl6Hk1qVm_cvdmZg",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "ES6 Javascript Tutorial For Beginners | ES6 Crash Course",
+        "description": "Check out my courses here!\nhttps://developedbyed.com\n\nES6 Javascript Tutorial For Beginners | ES6 Crash Course\n\nThis is a crash course of all the new features in javascript (ES6). We are going to take a look at all the new features, we will be writing\nall the code in old vanilla javascript and then we will refactor everything to ES6.\n\nThis course covers topics like arrow functions, the difference between a normal function and arrow functions, why not to use var and switch to\nconst and let variables, object deconstruction, default parameters, switching from constructor functions to classes, promises and more.\n\nI highly reccomend you take this course if you are a bit familiar with javascript and you want to learn all the modern features available \nin ES6, also known as ECMA Script 2015.\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n📕 Things covered in this video:\n \n- let and const variables\n- arrow functions\n- concatination\n- classes\n- destructuring \n- default parameters\n- object literals\n- forEach, map and filter\n\n📔 Materials used in this video:\n\n VSCode\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nOutro: \nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nMusic By: https://soundcloud.com/lakeyinspired\n\nIntro:\nDj Quads\nTrack Name: \"Every Morning\"\nMusic By: Dj Quads @ https://soundcloud.com/aka-dj-quads\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WZQc7RUAg18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WZQc7RUAg18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WZQc7RUAg18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WZQc7RUAg18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WZQc7RUAg18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WZQc7RUAg18"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "WZQc7RUAg18",
+        "videoPublishedAt": "2019-03-16T18:30:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0la1oDlFDLBxKRaAP4MnBMp7rLI",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Meditation App With Javascript HTML & CSS!",
+        "description": "Check out my courses here!\nhttps://developedbyed.com\n\nI am super excited to bring you another vanilla javascript project that we are going to build from scratch!\n\nWe will be creating a meditation/ambient sounds app that a user can enjoy by picking the amount of time to listen to and choose different ambient sounds.\n\nWe will take a look at working and manipulating music and video with javascript and how to build out a timer.\nFeel free to add this project to your portofolio if you wish!\n\nLets build out a meditation app with html css and javascript!\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n📕 Things covered in this video:\n \n-Working with audio tag and video tag in HTML\n-How to change sounds with javascript\n-Manipulating video with javascript\n-Creating a javascript project for your portofolio\n\n📔 Materials used in this video:\n\n https://github.com/DevEdwin/meditation-app\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nOutro: \nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nMusic By: https://soundcloud.com/lakeyinspired\n\nIntro:\nDj Quads\nTrack Name: \"Every Morning\"\nMusic By: Dj Quads @ https://soundcloud.com/aka-dj-quads\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oMBXdZzYqEk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oMBXdZzYqEk"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "oMBXdZzYqEk",
+        "videoPublishedAt": "2019-03-20T15:27:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uydUQKaHL-1nLfE59YW6h7NFT-Y",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Music App With Javascript Tutorial",
+        "description": "Check out my courses here!\nhttps://developedbyed.com\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n#javascript #webdevelopment #css\n\nToday we are going to learn how to create a music app from scratch with vanilla javascript, css and html.\n\nIn this vanilla javascript project we are going to take a look at how we can implement an audio track and add different sounds to it.\n\nThis project is recommended for anyone interested in learning beginner web development projects/javascript projects from scratch.\n\n📕 Things covered in this video:\n \n- How to add sounds to the audio track\n- How to play sounds in javascript\n- Adding dynamic colors to our animations.\n\n📔 Materials used in this video:\n\nStarter Files: https://github.com/DevEdwin/vanilla-js-beatmaker\n\n❤Become a patreon for exclusive videos and more!\nhttps://www.patreon.com/dev_ed\n\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/DevEdwin\n\n🎵 Music:\n\nOutro: \nLAKEY INSPIRED - Me 2 (Feat. Julian Avila)\nMusic By: https://soundcloud.com/lakeyinspired\n\nIntro:\nDj Quads\nTrack Name: \"Every Morning\"\nMusic By: Dj Quads @ https://soundcloud.com/aka-dj-quads\n\nCreative Commons — Attribution-ShareAlike 3.0 Unported— CC BY-SA 3.0 \nhttp://creativecommons.org/licenses/b...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2VJlzeEVL8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2VJlzeEVL8A"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "2VJlzeEVL8A",
+        "videoPublishedAt": "2019-04-03T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UQzfRTAzor6HUYp8kAqlPyLFNGU",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Top 5 Javascript Things You Should Know!",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nIn this episode we are going to take a look at the top 5 concepts you should know in javascript.\n\nThese concepts are good to learn after you are comfortable with the basic syntax of javascript and you want to dive deeper into what is happening under the hood.\n\nWe are going to take a look at things like how hoisting works, visualizing how our javascript code runs with the call stack.\nA basic overview of callbacks and async await (deserves its own episode).\n\n📕 Things covered in this video:\n - Javascript Hoisting\n - Call Stack\n - IIFE\n - Scope\n  - Event Loop, Web Api's and callback queue\n - Callbacks, async-await\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/DevEdwin\n\n#javascript #webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v0QTqHXiVNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v0QTqHXiVNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v0QTqHXiVNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v0QTqHXiVNw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v0QTqHXiVNw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v0QTqHXiVNw"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "v0QTqHXiVNw",
+        "videoPublishedAt": "2019-07-03T17:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PrHsigFUDbaz8Rd0FR2nFT-wYvE",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Animations - Design & Build A Website Crash Course",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com/\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\nThis is the final part of the series where we will implement all the dynamic stuff with javascript.\n\nWe will also we using GSAP timelinemax and tweenmax to add all the javascript animations.\n\nYou can find the source files and images on patreon for free.\n\n\n🛴 Follow me on:\n\nTwitter: https://twitter.com/deved94\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/DevEdwin\n\n#javascript #animations",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-elJSImGPAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-elJSImGPAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-elJSImGPAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-elJSImGPAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-elJSImGPAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-elJSImGPAE"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "-elJSImGPAE",
+        "videoPublishedAt": "2019-08-17T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tN5lklruL1TkLgVEF92tlEYEP28",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Build A Javascript OCR App Tutorial",
+        "description": "Check out my courses and become more creative!\nhttps://developedbyed.com/\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\nToday we are building a new exciting javascript project!\nWe will be using OCR (optical character recognition) to recognize an image and extract all the text from it.\n\nWe will be using a few packages such as express, multer and tesseract.js. At the end we will convert our image into a pdf.\n\nIf you feel like you need more practice with node.js or you just want some project ideas I highly recommend you to follow this tutorial!\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#javascript #ocr",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1I3tcALTlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1I3tcALTlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1I3tcALTlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a1I3tcALTlc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a1I3tcALTlc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a1I3tcALTlc"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "a1I3tcALTlc",
+        "videoPublishedAt": "2019-09-18T12:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "78EC-yI5ohyTOo0CPH5hFD1ZLsc",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Fullpage Animations With Javascript Tutorial",
+        "description": "Check out my courses!\nhttps://developedbyed.com/\n\nIn this episode we are going to learn some javascript and animations!\nWe are going to take a look at gsap and fullpage js to create some fluid transitions between different sections in our websites.\n\nIf you are a beginner in javascript or you want to learn some javascript animations I highly recommend you to follow along!\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#javascript #programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gE-Yuu2eEio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gE-Yuu2eEio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gE-Yuu2eEio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gE-Yuu2eEio/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gE-Yuu2eEio/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gE-Yuu2eEio"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "gE-Yuu2eEio",
+        "videoPublishedAt": "2019-10-06T12:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZOe4_VIu3oL_Lgk82Ab9-UIxPwQ",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Apple Airpod Pro Javascript Animation Tutorial",
+        "description": "My new HTML5 & CSS3 COURSE IS OUT NOW!\nhttps://developedbyed.com/\n\nI am excited to bring you a javascript tutorial today. I always enjoyed apples product presentation pages on their website.\nOne cool thing they did was they animated a sequence of pictures or video based on the users scroll.\nSo in this episode we are going to create a javascript animation that animates a video based on scroll just like the one on airpod pro.\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\nAll the code will be available on patreon.\nFILES: https://www.patreon.com/posts/31251043\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#javascript #programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wLUJ9VNzZXo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wLUJ9VNzZXo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wLUJ9VNzZXo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wLUJ9VNzZXo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wLUJ9VNzZXo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wLUJ9VNzZXo"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "wLUJ9VNzZXo",
+        "videoPublishedAt": "2019-11-02T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KJNy1qXEmE--wYlYBkDnNIS1ytA",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Top 10 Javascript Tricks You Didn't Know!",
+        "description": "Click on the link below to get 2 months FREE access to Skillshare premium\nhttps://skl.sh/deved12\n\nIn this episode we will cover 10 tips and tricks that you might not know you can do in Javascript. We will also take a look at a lot of tricks in javascript ES6 and also beginner level javascript tricks that you might've not know.\n\nGet My latest HTML and CSS Course Here:\nhttps://developedbyed.com/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mNJ06S60B9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mNJ06S60B9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mNJ06S60B9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mNJ06S60B9k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mNJ06S60B9k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mNJ06S60B9k"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "mNJ06S60B9k",
+        "videoPublishedAt": "2019-12-13T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pbJUWSQDg5WdSc5cpGLYOeoJWmw",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Vanilla Javascript Text Animation Tutorial",
+        "description": "Click on the link below to get 2 months FREE access to Skillshare premium\nhttps://skl.sh/deved16\n\nToday we are going to have some fun creating this javascript text animation effect that you can make it custom to do whatever you want. You can create a color shift animation or a text pop up animation.\nFrom what I've searched, I only found this javascript effect being made using a library such as gsap, so I thought that we should do a vanilla javascript version for the funz!\n\nGet My latest HTML and CSS Course Here:\nhttps://developedbyed.com/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GUEB9FogoP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GUEB9FogoP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GUEB9FogoP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GUEB9FogoP8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GUEB9FogoP8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GUEB9FogoP8"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "GUEB9FogoP8",
+        "videoPublishedAt": "2019-12-28T13:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VIAKZsyGEcsktdZoBsgLVgk52SE",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Javascript Animated Navbar Tutorial",
+        "description": "Have you every wanted to create an awesome animated navbar with javascript? no? oh well...this is akward.\n\nAll jokes aside we will be looking at making a navbar with html and css and then using the intersection observer in javascript to help us create this effect.\n\nGet my courses here\nhttps://developedbyed.com/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLc8NB2JyxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLc8NB2JyxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLc8NB2JyxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RLc8NB2JyxE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RLc8NB2JyxE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RLc8NB2JyxE"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "RLc8NB2JyxE",
+        "videoPublishedAt": "2020-01-04T13:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eZ3vxOQZqaSAjcie9Qm1p8RNAP8",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Create 3D Animation With Javascript Tutorial!",
+        "description": "Purchase the full course here! \nhttps://developedbyed.com/\n\nIn this episode we are going to be using Three.js to create and add 3D models to our websites. With the 3D model loaded in our website we can start animating it, adding lights, textures and anything we want to it!\n\nFull Code Here - https://www.patreon.com/posts/33008649\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#javascript #programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tsMHONmUkvI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tsMHONmUkvI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tsMHONmUkvI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tsMHONmUkvI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tsMHONmUkvI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tsMHONmUkvI"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "tsMHONmUkvI",
+        "videoPublishedAt": "2020-01-10T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f4cNFXnzZ9FuvUS7QA_CBtrnGX8",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Awesome Cursor Animation With CSS  & Javascript!",
+        "description": "Today we are going to take a look on different ways we can use the cursor to interact with our website.\nWe will be writing custom css and javascript to create some animations.\n\nCheck out my course here! \nhttps://developedbyed.com/\n\nAll the code will be available on patreon.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n#programming #animations",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TpwpAYi-p2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TpwpAYi-p2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TpwpAYi-p2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TpwpAYi-p2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TpwpAYi-p2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TpwpAYi-p2w"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "TpwpAYi-p2w",
+        "videoPublishedAt": "2020-02-07T14:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "e1ylBp8owYkNUWEqSQXPikehiBI",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await).",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nWe are getting closer and closer to launching the Creative Javascript Course. I wanted to share a small portion of the Async Javascript chapter of the course where we will learn everything there is to know about how async code works in javascript.\nWe are going to take a look at all the popular ways async code is being run such as callbacks, promises and the new async await.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8gHHBlbziw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8gHHBlbziw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8gHHBlbziw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_8gHHBlbziw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_8gHHBlbziw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_8gHHBlbziw"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "_8gHHBlbziw",
+        "videoPublishedAt": "2020-03-28T16:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CwUhyRz_emH3WUQNw4pEH6Mok9s",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Beginner Vanilla Javascript Project Tutorial",
+        "description": "Get The Full Javascript Course Here!\nhttps://developedbyed.com/\n\nIn this episode we are going to cover a small project of the full Creative Javascript Course, a todo list in vanilla js.\nWe are going to put together all the fundamental javascript techniques including local storage.\nCheck out the javascript course in the link above to create more complex javascript projects and understand complex topics.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\nMicrophones I Use\nAudio-Technica AT2020 - https://geni.us/Re78 (Amazon)\nDeity V-Mic D3 Pro - https://geni.us/y0HjQbz (Amazon)\nBEHRINGER Audio Interface - https://geni.us/AcbCpd9 (Amazon)\n\nCamera Gear\nFujifilm X-T3 - https://geni.us/7IM1 (Amazon)\nFujinon XF18-55mmF2.8-4 - https://geni.us/sztaN (Amazon)\n\nPC Specs\nKingston SQ500S37/480G 480GB - https://geni.us/s7HWm (Amazon)\nGigabyte GeForce RTX 2070 - https://geni.us/uRw71gN (Amazon)\nAMD Ryzen 7 2700X - https://geni.us/NaBSC (Amazon)\nCorsair Vengeance LPX 16GB - https://geni.us/JDqK1KK (Amazon)\nASRock B450M PRO4 - https://geni.us/YAtI (Amazon) \nDeepCool ATX Mid Tower - https://geni.us/U8xJY (Amazon)\nDell Ultrasharp U2718Q 27-Inch 4K - https://geni.us/kXHE (Amazon)\nDell Ultra Sharp LED-Lit Monitor 25 2k - https://geni.us/bilekX (Amazon)\nLogitech G305 - https://geni.us/PIjyn (Amazon)\nLogitech MX Keys Advanced - https://geni.us/YBsCVX0 (Amazon)\n\nDISCLAIMERS:\nI am a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.\n\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ttf3CEsEwMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ttf3CEsEwMQ"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "Ttf3CEsEwMQ",
+        "videoPublishedAt": "2020-04-11T12:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Yp8aZ_rm0Jnbi8KAMlB7wsmhZ3M",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Fluid Image Pop Up Javascript Tutorial",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nGet some awesome Apparel\nhttps://teespring.com/stores/developedbyed\n\nFluid Image Pop Up Javascript Tutorial\nIn today's episode we will learn how to do a basic but very important effect in javascript, which is a pop up modal for images.\nThis is a very simple javascript modal effect so I highly recommend you to follow along. \n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4SQXOA8Z-lo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4SQXOA8Z-lo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4SQXOA8Z-lo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4SQXOA8Z-lo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4SQXOA8Z-lo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4SQXOA8Z-lo"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "4SQXOA8Z-lo",
+        "videoPublishedAt": "2020-06-26T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6YvpjF0JKL0hXDVsZ8dNeNhQFdo",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Awesome 3D ANIMATION Javascript Tutorial!",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nGood morning my gorgeous friends! In todays episode we will take a look on how we can create a super easy 3d effect using javascript. We are going to be creating a 3d animation using mouse events. \nI am also super excited to announce that the React course is coming very very soon.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nFiles - https://github.com/developedbyed/3d-card-effect\nSong - https://chillhop.com/?p=9563\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XK7T3mY1V-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XK7T3mY1V-w"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "XK7T3mY1V-w",
+        "videoPublishedAt": "2020-10-23T15:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bAZSxn9Dl3hIcjzNM1mHcyl5Spo",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Simple Javascript Countdown Tutorial",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nHave you ever wanted to implement a super simple javascript countdown to your website? No? okay goodbye\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rib69h2DOxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rib69h2DOxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rib69h2DOxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rib69h2DOxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rib69h2DOxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Rib69h2DOxg"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "Rib69h2DOxg",
+        "videoPublishedAt": "2021-05-07T13:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fLNzjp8SwE1SWcVZcj4X5Amn0Rw",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Awesome Full Page Scroll Effect Tutorial!",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nIn todays episode we are going to cover CSS Scroll Snapping and all the wonderful things we can do with it. From a shopping gallery section to a full page scroll animation without using any Javascript!\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\nMisha, Jussi Halme - Got It https://chll.to/49e410b5\nMisha, Jussi Halme - Festa https://chll.to/ee1a4e75\nMisha, Jussi Halme - Take Your Time https://chll.to/a91dd010\nMiddle School, Henry Gritton - Solstice https://chll.to/05cb59d7f\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/htw4iKMYzEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/htw4iKMYzEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/htw4iKMYzEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/htw4iKMYzEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/htw4iKMYzEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "htw4iKMYzEc"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "htw4iKMYzEc",
+        "videoPublishedAt": "2021-06-16T15:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rt7-OSBmfTg1szs1CYrquM5J550",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Awesome Vanilla JavaScript Memory Card Game Tutorial",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nIn this episode, we're going to build an awesome vanilla JavaScript memory game with an added card flip animation. \n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tlb4tv4mC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tlb4tv4mC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tlb4tv4mC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-tlb4tv4mC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-tlb4tv4mC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-tlb4tv4mC4"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "-tlb4tv4mC4",
+        "videoPublishedAt": "2021-10-01T17:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JB-2HfZ4uxWNcxrsBGWJIKcAMfI",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Cool Title Animation with JavaScript Tutorial",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nDo you like javascript animations? Hope ya do, cause we are going to be building a title animation with javascript using the gsap library.\n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z4a6QwahTdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z4a6QwahTdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z4a6QwahTdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Z4a6QwahTdQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Z4a6QwahTdQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z4a6QwahTdQ"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "Z4a6QwahTdQ",
+        "videoPublishedAt": "2021-10-08T13:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Nqon2-A2QWNOjHghHXjkO5JYA8",
+      "id": "UExEeVFvN2cwX25zWGxTZnVvQnBHNUZnejBRZTNJdlduQS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2022-09-26T16:13:13Z",
+        "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+        "title": "Beautiful Chart Animation with Chart Js Tutorial",
+        "description": "Check out my courses to become a PRO!\nhttps://developedbyed.com/\n\nDo you like data and want to display it with beautifully animated charts? In this episode we are going to learn how to build charts with javascript using chart.js. \n\n🎁Support me on Patreon for exclusive episodes, discord and more!\nhttps://www.patreon.com/dev_ed\n\n🛴 Follow me on:\nTwitch: https://www.twitch.tv/developedbyed\nTwitter: https://twitter.com/developedbyed\nInstagram: https://www.instagram.com/developedbyed/\nGithub: https://github.com/developedbyed/\n\n#programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fqARSwfsV9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fqARSwfsV9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fqARSwfsV9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fqARSwfsV9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fqARSwfsV9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "developedbyed",
+        "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fqARSwfsV9w"
+        },
+        "videoOwnerChannelTitle": "developedbyed",
+        "videoOwnerChannelId": "UClb90NQQcskPUGDIXsQEz5Q"
+      },
+      "contentDetails": {
+        "videoId": "fqARSwfsV9w",
+        "videoPublishedAt": "2021-10-15T14:15:03Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 58,
+    "resultsPerPage": 50
+  }
+}
