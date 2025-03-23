@@ -1,0 +1,1133 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "6MXPRkCF4gJMf4ejg0DqalM-x04",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "71GOqwE8mYh84oJ8AlJok1ZLMZM",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:51:03Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini",
+        "description": "Namaste JavaScript is a pure in-depth JavaScript Course released for Free on Youtube. It will cover the core concepts of JavaScript in detail and everything about how JS works behind the scenes inside the JavaScript engine.\n\nHere's in full Playlist of this course - https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP\nDon't miss any video and watch it in sequence.  🙏\n\nNamaste Javascript Video tutorials will dive deep into JavaScript and the internals of how code is executed under the hood. If you understand the core fundamentals of JavaScript, it will help you become a better developer. You will exactly know how things are working and won't run into unexpected errors.\n\nNamaste JavaScript Video Course will be 100% free and will be released on Youtube. The playlist will be updated with new JavaScript tutorial videos every week. The plan is to cover all the important concepts in JS including the tricky ones like Closures, Prototypal Inheritance, Promise, Event Loop.\n\nNamaste JavaScript course videos will also focus on things that are asked in the interviews. So if you're preparing for a Frontend Developer Interview or Web Developer Interview. This will be the best place to get a good grasp of JS internals.\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pN6jk0uUrD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pN6jk0uUrD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pN6jk0uUrD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pN6jk0uUrD8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pN6jk0uUrD8"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "pN6jk0uUrD8",
+        "videoPublishedAt": "2020-10-18T08:33:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jQAHaTiVBJy33WswrSO6vXS_BiI",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:51:37Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "How JavaScript Works 🔥& Execution Context | Namaste JavaScript Ep.1",
+        "description": "Understanding how JavaScript works behind the scenes, inside the JS Engine will make you a better developer. This video covers details about Execution Context Creation and its 2 phases: Memory Allocation Phase and the Code Execution phase.\n\nThis video also answers questions about- \nIs Javascript Single-threaded or multi-threaded? \nIs JS Synchronous or asynchronous?\n\nMany JavaScript developers are confused about these small concepts. They mess up their heads reading a lot of JS blogs and articles here and there. To help everyone, here's a JS video tutorial with all the info here at once.\n\nProducts I use while making videos - http://google.peek.link/2pba\n\nTopics Covered: \n00:00 - Introduction to how JS works behind the scenes\n00:15 - Execution Context in JS\n00:42 - Variable Environment of Execution Context \n01:35 - Thread of Execution in JavaScript\n02:11 - Is JavaScript synchronous or asynchronous?\n02:32 - Is JavaScript a single-threaded language or multi-threaded?\n03:19 - Recap of Execution Context Components\n04:00 - Teaser of the next video - How code is executed in JS?\n04:15 - Thank you for watching Namaste JavaScript 🙏\n\nEverything is covered in the video with all detail, so watch it till the end. 😇 \n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZvbzSrg0afE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZvbzSrg0afE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZvbzSrg0afE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZvbzSrg0afE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZvbzSrg0afE"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "ZvbzSrg0afE",
+        "videoPublishedAt": "2020-10-19T11:52:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dvQDAvklICEe9CpJIRGMUq4PslA",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:58:39Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "How JavaScript Code is executed? ❤️& Call Stack | Namaste JavaScript Ep. 2",
+        "description": "Understand how the code is executed in JavaScript. How an Execution Context is created and how the Call Stack works. Behind the scenes, there are a lot of things happening in JS Engine when the code is executed. All core fundamentals are covered in this video with examples.\n\nWith this code example in the video, you'll understand how things are working under the hood of javascript when code is executed. You'll get to know what exactly happens when you invoke a function in JavaScript. This js tutorial covers various underlying core fundamentals in depth.\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics Covered:\n00:00 - What happens when you run JavaScript Code?\n00:32 - Code Example for Execution Context Creation\n01:03 - Global Execution Context Creation\n01:20 - Memory Allocation Phase & Code Execution Phase\n05:56 - Function Invocation and Execution Context Creation\n11:15 - What happens while executing return statement \n16:35 - Recap of Code Execution synchronously\n19:26 - Call Stack in JavaScript\n22:21 - Other names of the Call Stack in JS\n23:10 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iLWTnMzWtj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iLWTnMzWtj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iLWTnMzWtj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iLWTnMzWtj4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iLWTnMzWtj4"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "iLWTnMzWtj4",
+        "videoPublishedAt": "2020-10-20T09:11:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yqLA9dBjW8_ot4jtJKhNji6sk9s",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:53:32Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Hoisting in JavaScript 🔥(variables & functions) | Namaste JavaScript Ep. 3",
+        "description": "Hoisting in JavaScript is the most famous Interview Question. And it is also one of the most misunderstood concepts in JS. This video will cover in-depth knowledge and fundamentals behind variable and function hoisting.\n\nHoisting as a core concept relies on the way how Execution Context is created. In the first phase i.e. the Memory Allocation Phase all the variables and functions are allocated memory, even before any code is executed. All the variables are assigned undefined at this point in time in the local memory. \n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics Covered: \n00:00 - Introduction to Hoisting in JavaScript (with examples)\n00:54 - Variable and Function Hoisting in JS\n03:02 - Definition of Hoisting \n03:52 - Functions Hoisting Behind the Scenes\n04:37 - Diving Deep under the hood of the JavaScript code\n13:37 - Summary and Interview tip\n14:12 - Demo of Call Stack in the Browser\n18:23 - Teaser of the next video - How functions work in JavaScript?\n18:38 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fnlnw8uY6jo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fnlnw8uY6jo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fnlnw8uY6jo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fnlnw8uY6jo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fnlnw8uY6jo"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "Fnlnw8uY6jo",
+        "videoPublishedAt": "2020-10-21T08:12:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_B3ZyDVk-w3JHE61l1hY-3mO-ZI",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:54:33Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "How functions work in JS ❤️ & Variable Environment | Namaste JavaScript Ep. 4",
+        "description": "Understand how Functions work behind the scenes in JavaScript.What happens when a function is executed/invoked inside the JS Engine. This video covers an in-depth analysis of function execution and its variable environments.\n\nWhenever a function is invoked in JavaScript a functional Execution Context is created and memory is allocated. Once the memory is allocated to the variables and functions, then the code is executed synchronously, one line at a time. Let's check all that with examples in the video :\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics covered:\n00:00 - Introduction -  Function Invocation and Variable Environment in JS\n02:43 - Deep Dive Explanation of the code of function Invocation\n04:16 - How the Call stack works behind the scenes in JS\n14:57 - Demo of Variable Environment and Call Stack in Browser\n20:39 - Summary of JS fundamentals covered\n21:08 - Teaser of next video - Shortest JavaScript Program\n21:16 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gSDncyuGw0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gSDncyuGw0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gSDncyuGw0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gSDncyuGw0s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gSDncyuGw0s"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "gSDncyuGw0s",
+        "videoPublishedAt": "2020-10-22T08:34:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iLSlHV3f1yPJ-hvx_JvOKDCUWYk",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:57:23Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "SHORTEST JS Program 🔥window & this keyword | Namaste JavaScript Ep. 5",
+        "description": "Let's check out the Shortest Program in JavaScript and more about the window and this keyword. Understand how the Global Execution Context is created, global object, and this keyword is created in JS. We'll also talk about what happens under the hood of the JS Engine when you execute this shortest code in the browser. \n\nJavaScript Engine creates a global object whenever you run any JS code. In the case of browsers, this global object is known as `window`, check out the video to see the demo of this global object created by the browser. \n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics Covered:\n00:00 - Introduction to the Shortest JavaScript Program\n00:19 - Behind the Scenes of the shortest JavaScript Program\n00:39 - Global Execution Context and window object in JavaScript\n01:40 - Introduction to this keyword in browser\n04:38 - Code example of variables and functions in Global Memory Space\n07:53 - Teaser - undefined vs. not defined in JS\n08:03 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QCRpVw2KXf8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QCRpVw2KXf8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QCRpVw2KXf8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QCRpVw2KXf8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QCRpVw2KXf8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QCRpVw2KXf8"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "QCRpVw2KXf8",
+        "videoPublishedAt": "2020-10-23T08:03:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3B8mzYkywT8NUDPtMfRTm4LAXGY",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2020-10-18T02:58:14Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "undefined vs not defined in JS 🤔 | Namaste JavaScript Ep. 6",
+        "description": "undefined is a special keyword in JavaScript and `undefined !== not defined`. JS is a loosely typed language (weakly typed language). This video covers an in-depth analysis of the undefined keyword and mistakes you should avoid while using this keyword. It is a special keyword in JS and it acts as a placeholder for variables until they are assigned any value in them.\n\nUnderstand the difference between undefined and not defined in JS. Many developers assume that undefined is exactly the same as not defined, but that's not true. undefined is a value in JavaScript and in fact, it also takes up memory space. So watch this video to understand everything in deep.\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics Covered:\n00:00 - Introduction to undefined in JavaScript\n00:29 - Code Example of undefined in JS\n02:02 - Code Example of not defined in JS\n04:33 - undefined vs not defined demo using code\n07:46 - JS is a loosely typed language a.k.a weakly typed language\n08:42 - Mistake you should not make while using undefined\n10:17 - Teaser of next video - The Scope Chain\n10:30 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7iF6G3EyIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7iF6G3EyIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7iF6G3EyIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B7iF6G3EyIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B7iF6G3EyIk"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "B7iF6G3EyIk",
+        "videoPublishedAt": "2020-10-24T06:59:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XPW5b3uWgs9wUsWdU_JdZMebv6g",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-10-27T04:08:25Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "The Scope Chain, 🔥Scope & Lexical Environment | Namaste JavaScript Ep. 7",
+        "description": "Diving deep into Scope, Lexical Environment, and The Scope Chain in JavaScript with a lot of code examples and visuals. This is a HOT interview topic and this video cover everything that happens under the hood. The video is a little long but I REQUEST YOU  to watch it fully, this concept will help us in later videos. 🙏\n\nAlong with Code Examples, I've shown all these concepts visually so that it helps you better understand. And not only these, but I also covered a proper demo of Scope and The Scope chain in Browser. That's amazing, do watch it. You'll definitely fall in love with The Scope Chain in JS. ❤️\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics covered : \n00:00 - Introduction - Scope and the Lexical Environment\n00:27 - Code Example for understanding Scope\n03:31 - Understanding the meaning of Scope \n04:22 - Diving deep into code & behind the scenes\n07:09 - Introduction to Lexical Environment\n07:42 - What is the meaning of `Lexical`?\n08:36 - Lexical Environment definition\n08:43 - Understanding Lexical Environment visually\n10:41 - How Scope and  Lexical Environment works in JavaScript\n13:10 - The Scope Chain in JavaScript \n14:15 - Quick Revision of Scope, Lexical Environment and the Scope Chain\n15:27 - Browser Demo of Lexical Environment & The Scope Chain\n18:23 - Teaser - Deep dive into let & const and their Scope & Hoisting in JS\n19:14 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uH-tVP8MUs8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uH-tVP8MUs8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uH-tVP8MUs8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uH-tVP8MUs8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uH-tVP8MUs8"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "uH-tVP8MUs8",
+        "videoPublishedAt": "2020-10-27T09:22:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vVK5H1zWuzdaiOqNz2RvJWdDxPc",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2020-11-05T04:56:01Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "let & const in JS 🔥Temporal Dead Zone | | Namaste JavaScript Ep. 8",
+        "description": "let & const in JavaScript behave differently when they are Hoisted. Understanding the difference between var, let and const in JS will help you write better code. const and let are in  a Temporal Dead Zone until they are initialized some value. You might encounter SyntaxError, TypeError or ReferenceError while using them in your code.\n\nThis JavaScript tutorial video covers everything in depth about how let and const are hoisted and how let in js is different from var and const in JS. We will also see what happens behind the scenes in the browser when you use them in code. Another exciting part of the video is the explanation of the difference between Syntax Error, Reference Error, and Type Error in JavaScript.\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Introduction\n00:16 - Hoisting of let & const in JavaScript\n00:53 - Code example of let declaration hoisting in JS\n02:45 - Behind the Scenes of let & const hoisting in browser\n05:29 - Temporal Dead Zone in JavaScript\n07:44 - Reference Error explained in depth\n09:18 - Relation of global object and variables var, let & const\n10:54 - Duplicate redeclaration of let and const variables\n12:39 - Important Difference between let and const \n13:56 - Syntax Error in JavaScript\n14:54 - Type Error in JavaScript\n15:11 - Difference between SyntaxError vs TypeError vs ReferenceError\n17:52 - Difference between var, let or const?\n19:00 - How to avoid Temporal Dead Zone\n20:07 - Interview Question - Hoisting of let & const\n20:24 - Teaser - Diving deep into Block Scope of let & const\n21:07 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BNC6slYCj50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BNC6slYCj50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BNC6slYCj50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BNC6slYCj50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BNC6slYCj50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BNC6slYCj50"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "BNC6slYCj50",
+        "videoPublishedAt": "2020-11-05T07:07:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HtxI0WFPGX713_EXdp-S7p12W-0",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-11-08T06:38:14Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "BLOCK SCOPE & Shadowing in JS 🔥| Namaste JavaScript 🙏 Ep. 9",
+        "description": "Let & const Block Scope in-depth tutorial covers what is a Block, Scope, and Block Scope in JavaScript. With live code examples and detailed explanations, we also will see what is Shadowing in JavaScript. We also talk about Illegal Shadowing and how different variable declarations using var, let and const behave differently when initialized in the Block Scope.\n\nBlock Scope has a lexical behavior and also follows rules of the Lexical Scope chain. This video covers everything that happens under the hood. The video is a little long but I REQUEST YOU  to watch it fully, this concept will help us in later videos. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTopics covered : \n00:00 - Introduction - Block in JavaScript Interview Question\n00:43 - What is a block in JavaScript?\n04:09 - What is a Block Scope and Lexical Scope Chain\n07:59 - What is Shadowing in JavaScript\n14:22 - Illegal Shadowing in JS\n16:46 - Lexical Block Scope with Code Examples\n18:40 - Arrow Functions Scope and the \n19:09 - Teaser of the next Surprise Video\n19:16 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lW_erSjyMeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lW_erSjyMeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lW_erSjyMeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lW_erSjyMeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lW_erSjyMeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lW_erSjyMeM"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "lW_erSjyMeM",
+        "videoPublishedAt": "2020-11-08T07:44:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Sy_7aWX0xYBIYmRio8-RPl76qYw",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2020-11-14T14:20:42Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "QnA - Namaste JavaScript | Diwali Special 🔥 - Akshay Saini",
+        "description": "Answering doubts regarding the Namaste JavaScript Course Schedule, Fees, Target Audience, Frequency of videos, and a lot more. This is not a tutorial video is a non-technical video where I answer popular questions and comments. Below are the timestamps for easier access.\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Teaser of the video\n00:20 - Wishing you a Happy Diwali\n00:39 - How long will it take to finish the Namaste JavaScript Course and how many videos?\n01:42 - Why don't you make videos daily?\n03:32 - Kya aapko hindi aati hai? Aap videos Hindi me kyu nahi banate?\n04:58 - Is Namaste JavaScript beginner friendly?\n05:55 - Is Namaste JavaScript Course enough for studying JavaScript?\n07:01 - How to make the best use of this Video Series?\n09:39 - You teach us JavaScript? Where did you yourself study JavaScript from?\n11:44 - Is your plan to make this a paid course?\n13:46 - Thank you for watching Namaste JavaScript. 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VIJxU2NYG-Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VIJxU2NYG-Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VIJxU2NYG-Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VIJxU2NYG-Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VIJxU2NYG-Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VIJxU2NYG-Y"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "VIJxU2NYG-Y",
+        "videoPublishedAt": "2020-11-14T14:51:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ztUmBgTVw1Caf3VfrtjabHbGAxc",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2020-12-01T05:28:33Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Closures in JS 🔥 | Namaste JavaScript Episode 10",
+        "description": "Closures in JavaScript is the most important topic for interviews. Even many senior frontend developers don't understand this concept properly.  This video will clear all your doubts about closures in js and you will never have to find any other tutorial after this to understand function Closure and Garbage collection. 🔥 \n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTimestamps to Skip the video:\n00:00 - Don't skip anything 🙏 \n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qikxEIxsXco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qikxEIxsXco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qikxEIxsXco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qikxEIxsXco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qikxEIxsXco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qikxEIxsXco"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "qikxEIxsXco",
+        "videoPublishedAt": "2020-12-01T05:45:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "emh1xeGDwk7lkT2XG_LMebfcSLQ",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2020-12-07T13:43:17Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "setTimeout + Closures Interview Question 🔥 | Namaste 🙏 JavaScript Ep. 11",
+        "description": "Check out the most frequently asked (setTimeout + Closures in a loop) hot trending JS Interview question. 🔥This question will strengthen your knowledge and understanding of Closures and will also help you in your frontend/full stack/ web development interview. We will start with an easy JS question and slowly move to the hard and tricky interview question.\n\nIf you are giving web developer interviews actively, there are high chances that you might find this question in your frotend developer interview. Candidates have faced this question in their interviews for Amazon, Facebook, Paypal, Microsoft and many other big tech firms.\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTimestamps:\n00:00 - Introduction - setTimeout & Closures Interview Question\n00:19 - Code Begins - Easy Question\n03:12 - How setTimeout actually works in JS\n04:45 - Most asked Tricky JS Interview Question\n06:58 - Importance of Closures\n10:15 - Solution to the problem\n12:45 - Extension of the interview question\n16:50 - Teaser of the next video\n17:11 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBTBG4nda2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBTBG4nda2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBTBG4nda2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eBTBG4nda2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eBTBG4nda2A"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "eBTBG4nda2A",
+        "videoPublishedAt": "2020-12-07T14:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Wi6T3zZYBA59r7gOC5tMiZcY9vE",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2020-12-11T04:49:20Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "CRAZY JS INTERVIEW 🤯ft. Closures | Namaste 🙏 JavaScript Ep. 12",
+        "description": "A JavaScript Interview covering in-depth QnA of closures, Data Hiding, Encapsulation, Function Constructors, Garbage Collector, Memory Leaks, Data Privacy with nitty-gritty details along with advantages, and disadvantages of Closure with a lot of code examples.\n\nThis is basically the third part of the videos covering the Closures topic in-depth end to end. \nThe previous 2 videos already released are: \n0. Closures in JS - Namaste JavaScript Episode 10\n1. Most asked setTimeout + Closures Interview question - Episode 11\n2. This video above ☝🏽- Episode 12\n\nThese 3 videos will build a strong foundation of the Closures topic in your head, for a LIFETIME.\n\nThe only request is to watch this Episode of Namaste JavaScript with the utmost attention. 🙏\n\nTopics Covered:\n00:00 - Teaser - The Crazy Interview\n00:26 - What is a Closure in JavaScript?\n01:34 - Can you give an example of a Closure in JS?\n03:29 - Use of double parenthesis  ()() in JS\n05:25 - Are Let declarations closed over?\n06:15 - Are function parameters closed over?\n07:45 - Relation of Scope Chain and Closures\n10:25 - Conflicting name Global variables in JS\n13:25 - Advantages of Closure\n14:24 - Data Hiding & Encapsulation in JavaScript?\n14:59 - Example of Data Privacy using Closures\n21:10 - Function Constructor in JavaScript\n25:02 - Disadvantages of Closures?\n26:02 - What is a Garbage Collector in JavaScript?\n27:25 - Relation between Garbage Collection, Memory Leaks, and Closures?\n29:42 - Example of Smart Garbage collection by V8 JS Engine in Chrome\n32:00 - Result of the Crazy JS Interview\n32:10 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/t1nFAMws5FI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/t1nFAMws5FI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/t1nFAMws5FI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/t1nFAMws5FI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "t1nFAMws5FI"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "t1nFAMws5FI",
+        "videoPublishedAt": "2020-12-11T05:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "s7zsJoE8J_PVBiUoWhFNiR3CtKY",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-07-03T19:35:29Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "50000 Subscribers Party ft. Trump, Snoop Dogg & Bilal Göregen - Cat Vibing",
+        "description": "Thank you from the bottom of my heart, this would not have been possible without you. ❤️ 50k subscribers is a great responsibility. Love you all !! 😘Here's a little fun video to celebrate the moment. 🥳\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nStay Connected:\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\n\n..\nCopyright Disclaimer : \nUnder Section 107 of the Copyright Act 1976, allowance is made for 'Fair Use' for purposes such as criticism, comment, news reporting, teaching, scholarship, and research, Fair use is a permitted by copyright statute that might otherwise be infringing, Non-profit, educational or personal use tips the balance in favor of fair use.\n\n#CatVibingMeme  #AkshaySaini #LevanPolka #CatVibing #CatVibingToMusic",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OJfz6ZHxqZ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OJfz6ZHxqZ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OJfz6ZHxqZ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OJfz6ZHxqZ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "OJfz6ZHxqZ8"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "OJfz6ZHxqZ8",
+        "videoPublishedAt": "2020-12-12T08:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C83QkjfWiSYYEQ4i6JW6682GK-s",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2020-12-15T05:21:46Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "FIRST CLASS FUNCTIONS 🔥ft. Anonymous Functions | Namaste JavaScript Ep. 13",
+        "description": "Functions in JS are first-class Citizens, what does that mean? What is the difference between Function Statements and Function Expressions? What are Anonymous Functions? What are First Class Functions? What is the difference between Function Parameter and Function Arguments?\n\nThese are just `Jargons` which are very popular in the JS community, so don't worry let's study everything in sweet and short 20 minutes power-packed JS tutorial video. I've also shared my interview experience and how the interviewer asked me these questions. So, watch this exciting video, I bet you'll love it. ❤️\n \nIf you are giving web developer interviews actively, there are high chances that you might find these questions in your front-end developer interview. Candidates have faced these questions in their interviews for Amazon, Facebook, Paypal, Microsoft, and many other big tech firms.\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTimestamps:\n00:00 - Introduction - My Interview Experience\n02:00 - What is a Function Statement in JS\n02:42 - What is a Function Expression\n04:04 - Difference between Function Statment and Function Expression\n06:00 - What is a  Function Declaration\n06:18 - What is an Anonymous Function in JavaScript\n06:29 - Syntax Error & Anonymous functions\n07:32 - Use/ Advantages of Anonymous Functions\n09:28 - What are Named Function Expressions in JS\n10:10 - Corner Case Gotcha using Named Function Expression\n12:03 - What is the difference between Parameters & Arguments?\n16:13 - First-Class Functions in JavaScript\n17:27 - Functions are First-Class Citizens\n19:58 - Info about Arrow Functions\n21:46 - Teaser of the next video\n21:58 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SHINoHxvTso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SHINoHxvTso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SHINoHxvTso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SHINoHxvTso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SHINoHxvTso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SHINoHxvTso"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "SHINoHxvTso",
+        "videoPublishedAt": "2020-12-15T05:37:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tJ0u4km1pfgHPTBrAq3qAVkZR5Q",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-12-20T04:00:46Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Callback Functions in JS ft. Event Listeners 🔥| Namaste JavaScript Ep. 14",
+        "description": "What are Callback Functions in JavaScript? How does Event Listeners work? What does Blocking the Main thread means? This tutorial video answers all your doubts about Callbacks with proper code examples and demo using the developer tools in the browser.\n\nThis video covers in depth about Callbacks, Advantages of using Callback functions. This knowledge will be very helpful for understanding the Event Loop and how JavaScripts works asynchronously.\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\nTimestamps:\n00:00 - Introduction\n00:55 - What is a Callback Function in JavaScript?\n01:20 - Advantages of Callback\n06:21 - Callback  - dev tools  Demo in browser\n08:18 - Blocking Main Thread in JavaScript\n10:18 - Creating an Event Listeners in JavaScript\n13:30 - Closures along with Event Listeners\n19:25 - Garbage Collection & remove Event Listeners\n21:59 - Teaser of the next video\n22:43 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/btj35dh3_U8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/btj35dh3_U8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/btj35dh3_U8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/btj35dh3_U8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/btj35dh3_U8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "btj35dh3_U8"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "btj35dh3_U8",
+        "videoPublishedAt": "2020-12-20T04:25:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gok5yWfKqQXiAeKoIZGIJhUoODI",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2020-12-27T03:28:57Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Asynchronous JavaScript & EVENT LOOP from scratch 🔥 | Namaste JavaScript Ep.15",
+        "description": "In-depth explanation of Event Loop, Web APIs, MicroTask Callback Queue, and how JavaScript works asynchronously in the web browser. Understand how setTimeout works behind the scenes along with fetch and event listeners. \n\nYou'll also find a lot of code examples along with a deep-dive explanation of the web APIs and how JavaScript code is executed asynchronously.\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nIt took a lot of effort to create this video, do comment down and let me know if you find it helpful.\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Introduction\n00:40 - How JS Engine Executes the Code using Call Stack\n03:25 - Main Job of the Call Stack\n03:51 - How does JavaScript perform async tasks\n04:36 - Behind the Scenes in Browser\n07:35 - Web APIs in JS\n12:03 - How setTimeout Works behind the scenes in Browsers\n16:09 - Event Loop & CallBack Queue in JS\n18:59 - How Event Listeners Work in JS\n23:43 - More about Event Loop\n25:02 - Why do we need Event Loop\n27:29 - How fetch() function works\n30:26 - MicroTask Queue in JS\n36:01 - What are MicroTasks in JS?\n38:35 - Starvation of Functions in  Callback Queue\n39:48 - Teaser of the Next Video \n40:53 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8zKuNo4ay8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8zKuNo4ay8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8zKuNo4ay8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8zKuNo4ay8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8zKuNo4ay8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8zKuNo4ay8E"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "8zKuNo4ay8E",
+        "videoPublishedAt": "2020-12-27T03:38:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jqGjVQvm_OaBtDgnknaWjmouNRI",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-01-10T13:07:54Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "JS Engine EXPOSED 🔥 Google's V8 Architecture 🚀 | Namaste JavaScript Ep. 16",
+        "description": "In-depth explanation of JS Engine Architecture, JavaScript Runtime Environment, JIT compilation, Syntax Parsers, Garbage Collector, and how things work behind the scenes in Google's V8 JS Engine and its architecture.\n\nThis is the `Maha-Episode` of the Namaste JavaScript series, after this video, you will understand how the code is executed inside the JS Engine in detail. You'll understand why JS is so popular as a language and a lot of interesting things.\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nIt took a lot of effort to create this video, do comment down and let me know if you find it helpful.\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Introduction\n00:23 - JavaScript Runtime Environment\n01:20 - Browser and Node.js JS Runtime\n04:54 - List of JavaScript Engines\n06:13 - First JS Engine ever created\n06:58 - Myths about JS Engine\n08:05 - JS Engine Architecture\n08:54 - Syntax Parsers and Abstract Syntax Tree\n11:38 - Compilation & Execution of JS Code\n12:04 - Just In Time Compilation\n14:00 - Is JavaScript Interpreted or Compiled Language?\n18:47 - Garbage Collector - Mark & Sweep Algorithm\n21:51 - Fastest JavaScript Engine\n22:45 - Google's V8 JS Engine Architecture\n24:32 - Quick Revision of JSRE & JS Engine\n27:11 - Teaser of the Next Video \n27:45 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2WJL19wDH68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2WJL19wDH68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2WJL19wDH68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2WJL19wDH68/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2WJL19wDH68/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2WJL19wDH68"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "2WJL19wDH68",
+        "videoPublishedAt": "2021-01-10T13:27:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KSggpmHF5-szqKw4t6pcQblEksU",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-01-18T05:44:19Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "TRUST ISSUES with setTimeout() | Namaste JavaScript Ep.17",
+        "description": "This BONUS video covers the fundamentals of setTimeout, how it works behind the scenes. We also discover that setTimeout does not guarantee that the callback method will be executed exactly after a certain delay. Hence, there are trust issues with setTimeout. 😅\n\nMoreover, we will also cover the case of setTimeout with 0 delay. It's a very famous Interview question and confuses a lot of new developers. \n\nTowards the end, I also show the demo of how you can set up exactly the same playground to write code, just like I do in these videos. Check that out and I highly recommend you to set up a similar playground and experiment a lot with code while watching Namaste JavaScript 🙏\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. \n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Introduction\n00:38 - Why we have trust issues with setTimeout?\n06:52 - Code demonstration of the setTimeout delay\n15:35 - Discussion about setTimeout(0)\n20:27 - Set up practice playground on the local system\n25:02 - Teaser of the Next Video \n25:36 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nqsPmuicJJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nqsPmuicJJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nqsPmuicJJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nqsPmuicJJc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nqsPmuicJJc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nqsPmuicJJc"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "nqsPmuicJJc",
+        "videoPublishedAt": "2021-01-18T07:26:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DHIrojCIwcuA724HgaMtpAC3Uas",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-06-08T06:52:51Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Higher-Order Functions ft. Functional Programming | Namaste JavaScript Ep. 18",
+        "description": "Functional Programming is powered by Higher-Order Functions in JavaScript. And all this is possible because functions are first-class citizens in JS. This episode covers everything about Higher-Order functions and how they can be leveraged to do functional programming. ❤️\n\nIn this episode,  we will also write a Polyfill for the famous map function. And not just this, we will also see what MISTAKE developers do in a Coding Interview and how you can avoid those mistakes. I'll take code examples and show you how to write optimized code in the Coding Round and impress the interviewer! 🔥\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Introduction\n00:34 - What is Higher Order Functions?\n00:57 - Code demonstration of Higher-Order Function\n01:48 - Introduction to Functional Programming\n06:20 - Mistakes people make in a Coding Interview\n07:06 - DRY Principle - Don't Repeat Yourself\n07:56 - How to optimize our code\n14:07 - Beauty of Functional Programming\n16:24 - Pollyfil for map function in JavaScript\n21:51 - Recap of the episode\n22:47 - Teaser of the Next Video \n23:25 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this video series, NOT BY MONEY, but by sharing it with your friends. 🙏\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nIf you are active on Social Media, \nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HkWxvB1RJq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HkWxvB1RJq0"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "HkWxvB1RJq0",
+        "videoPublishedAt": "2021-06-08T14:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zFTqHeUzkRfghOkRGmqxDaAqrwk",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-07-21T03:15:01Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "map, filter & reduce 🙏 Namaste JavaScript Ep. 19 🔥",
+        "description": "Map, filter & reduce Array functions are the most popular Higher-Order Functions in JavaScript.  This episode covers map(), filter() & reduce() along with 11 detailed code examples from easy to tricky ones(The last example is the Best). You'll also find homework towards the end of this episode. ❤️\n\nThe only request is to watch this Episode of Namaste JavaScript with full attention. 🙏\n\nMy tech gear I use every day - http://google.peek.link/2pba\n\n00:00 - Introduction\n00:40 - Array.map() function in JavaScript\n01:39 - Example 1 - map\n03:23 - Example 2 - map\n04:01 - Example 3 - map\n06:43 - Array.filter() function in JavaScript\n07:03 - Example 4 - filter\n09:00 - Example 5 - filter\n09:26 - Example 6 - filter\n11:36 - Array.reduce() function in JavaScript\n12:18 - Example 7 - reduce\n18:41 - Example 8 - reduce\n23:07 - Example 9 - tricky map()\n25:40 - Example 10 - tricky reduce()\n31:49 - Example 11 - Chaining map, filter & reduce\n35:31 - Homework - Challenge\n36:30 - Teaser of the Next Video \n37:14 - Thank you for watching Namaste JavaScript 🙏\n\nSupport this web series, NOT BY MONEY, but by sharing it on social media.\nplease give a shoutout to Namaste JavaScript and help me reach more people. 🙏\n\nI'll give my best to come up with great content and everything absolutely for free on YouTube. 😊\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nWould love to Stay Connected with you ❤️\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\n\n#NamasteJS #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdp0zrpKzIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdp0zrpKzIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdp0zrpKzIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zdp0zrpKzIE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zdp0zrpKzIE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zdp0zrpKzIE"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "zdp0zrpKzIE",
+        "videoPublishedAt": "2021-07-21T04:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J4h94NNnnCBTpRtNFenzo7izs_0",
+      "id": "UExsYXNYZXU4NUU5Y1EzMmdMQ3ZBdnI5dk5hVWNjUFZOUC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-07-02T15:21:11Z",
+        "channelId": "UC3N9i_KvKZYP4F84FPIzgPQ",
+        "title": "Life Update | Silver Play Button | 200k Subscribers",
+        "description": "My Instagram: https://instagram.com/akshaymarch7\nA BIG SURPRISE is coming next week, stay tuned!\n\nCheers, \nAkshay Saini\nhttp://akshaysaini.in\n\nStay Connected:\nLinkedIn - https://www.linkedin.com/in/akshaymarch7\nFacebook - https://www.facebook.com/akshaymarch7\nInstagram - https://www.instagram.com/akshaymarch7\nTwitter - https://twitter.com/akshaymarch7\n\n#Javascript #JavascriptInterviewQuestions #AkshaySaini",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/scnY0YKVs9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/scnY0YKVs9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/scnY0YKVs9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/scnY0YKVs9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/scnY0YKVs9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Akshay Saini",
+        "playlistId": "PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "scnY0YKVs9I"
+        },
+        "videoOwnerChannelTitle": "Akshay Saini",
+        "videoOwnerChannelId": "UC3N9i_KvKZYP4F84FPIzgPQ"
+      },
+      "contentDetails": {
+        "videoId": "scnY0YKVs9I",
+        "videoPublishedAt": "2022-07-02T15:49:59Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 23,
+    "resultsPerPage": 50
+  }
+}
