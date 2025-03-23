@@ -1,0 +1,724 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "wROr1NAKxkKGNNM1OH1YrpMMj98",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jysefI8hEbgDz2_3zDYU0rc3H3M",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-11-17T14:47:57Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "JavaScript Full Course ❤️ | Variables & Data Types | Lecture 1",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nSlides/Notes : https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\n\n0:00 :- Introduction To Javascript\n01:15 :- What Is javascript\n07:26 :- Setting Up VsCode\n10:27 :- Our 1st JS Code\n23:15 :- Variables In Js\n39:09 :- Variable Rules\n46:22 :- Let, const and Var\n56:57 :- DataTypes in Js\n1:12:48 :- Practice Questions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ajdRvxDWH4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ajdRvxDWH4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ajdRvxDWH4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ajdRvxDWH4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ajdRvxDWH4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ajdRvxDWH4w"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "ajdRvxDWH4w",
+        "videoPublishedAt": "2023-11-17T15:09:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O-MbvGGI-1_FIm_foM8j6VHhOSU",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-11-18T14:01:26Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 2 : Operators and Conditional Statements | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\n\n00:00:- Introduction\n00:31:- Comments in JS\n06:55:- Arithmetic Operators\n15:03:- Unary Operators\n20:33:- Assignment Operators\n23:37:- Comparison Operators\n30:27:- Logical Operators\n54:31:- Ternary Operators\n38:08:- Conditional Statements (if)\n43:31:- if-else Statement\n49:06:- else-if Statement\n58:30:- MDN Docs\n01:03:00:- Let's Practice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zg4-uSjxosE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zg4-uSjxosE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zg4-uSjxosE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zg4-uSjxosE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zg4-uSjxosE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zg4-uSjxosE"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "Zg4-uSjxosE",
+        "videoPublishedAt": "2023-11-18T15:00:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EPOfTAGAOIRvjBi0fXJh8nsVXyE",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-11-19T14:57:02Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 3: Loops and Strings | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\n\nTimeStamps\n0:00 Introduction\n3:40 for Loop\n22:20 while Loop\n24:13 do-while Loop\n26:45 for-of Loop\n31:30 for - in Loop\n34:10 Let's Practice \n44:00 Strings in JS\n48:57 Template Literals \n57:50 String Methods in JS\n1:15:49 Let's Practice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UmRtFFSDSFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UmRtFFSDSFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UmRtFFSDSFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UmRtFFSDSFo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UmRtFFSDSFo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UmRtFFSDSFo"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "UmRtFFSDSFo",
+        "videoPublishedAt": "2023-11-19T15:03:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hNZeERPQ_SOMYfV3lADPZTrgijk",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-11-20T14:48:25Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 4: Arrays | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\n00:00 INTRO\n01:03 ARRAYS\n11:02 ARRAYS INDICES\n14:58 LOOPING OVER ARRAYS\n22:38 PRACTICE QS\n34:32 ARRAY METHODS \n56:26 PRACTICE QS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gFWhbjzowrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gFWhbjzowrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gFWhbjzowrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gFWhbjzowrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gFWhbjzowrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gFWhbjzowrM"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "gFWhbjzowrM",
+        "videoPublishedAt": "2023-11-20T14:58:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LUBFCBAq540Oftqq-Xuf5t-Eqzc",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-11-21T12:27:30Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 5: Functions & Methods | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0XMXqDGttU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0XMXqDGttU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0XMXqDGttU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P0XMXqDGttU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P0XMXqDGttU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "P0XMXqDGttU"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "P0XMXqDGttU",
+        "videoPublishedAt": "2023-11-21T15:17:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g2bele6KiO0JM8a7GLksKwIBC3g",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-11-23T14:36:43Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 6 : DOM - Document Object Model | JavaScript Full Course | Part 1",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7zcXPCt8Ck0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7zcXPCt8Ck0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7zcXPCt8Ck0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7zcXPCt8Ck0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7zcXPCt8Ck0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7zcXPCt8Ck0"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "7zcXPCt8Ck0",
+        "videoPublishedAt": "2023-11-23T15:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wqoHQ4Aqit07OAa-i4wd4ChKfRs",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-11-24T13:37:45Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 7 : DOM (Part 2) | Document Object Model | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\n\n00:00  Introduction\n00:50 DOM Manipulation\n00:53 Attributes\n05:34  Style\n10:28 Insert Elements\n17:47  Delete Element\n18:15  Let's Practice",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXAGTOZ25H8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXAGTOZ25H8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXAGTOZ25H8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fXAGTOZ25H8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fXAGTOZ25H8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fXAGTOZ25H8"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "fXAGTOZ25H8",
+        "videoPublishedAt": "2023-11-24T15:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mw5M2SFgOQ58YCneuACKfseZQcs",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-12-07T07:34:41Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 8 : Events in JavaScript | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_i-uLJAh79U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_i-uLJAh79U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_i-uLJAh79U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_i-uLJAh79U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_i-uLJAh79U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_i-uLJAh79U"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "_i-uLJAh79U",
+        "videoPublishedAt": "2023-11-25T15:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QtsWsbvtn2cTOv0fakddTGTvrSg",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-11-30T12:04:26Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Imp Update : JavaScript YouTube Course | Shradha Ma'am",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3rlEe1sP6N4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3rlEe1sP6N4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3rlEe1sP6N4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3rlEe1sP6N4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3rlEe1sP6N4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3rlEe1sP6N4"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "3rlEe1sP6N4",
+        "videoPublishedAt": "2023-11-30T12:07:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "L3zTZCYT5qVv02yfUKL5N4GUKnw",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-12-06T16:41:45Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 9 : Tic Tac Toe Game in JavaScript | JS Project | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nCode available here : https://github.com/shradha-khapra/JavaScriptSeries/tree/main/TicTacToe",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SqrppLEljkY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SqrppLEljkY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SqrppLEljkY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SqrppLEljkY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SqrppLEljkY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SqrppLEljkY"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "SqrppLEljkY",
+        "videoPublishedAt": "2023-12-06T17:09:50Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JNCoObFK0vIXusewioZHII9mSCw",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-12-08T14:58:34Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 10 : MiniProject - Stone, Paper & Scissors Game | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nCode & Images : https://github.com/shradha-khapra/JavaScriptSeries/tree/main/StonePaperScissors",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_V33HCZWLDQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_V33HCZWLDQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_V33HCZWLDQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_V33HCZWLDQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_V33HCZWLDQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_V33HCZWLDQ"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "_V33HCZWLDQ",
+        "videoPublishedAt": "2023-12-08T15:03:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Gz476-qLjRYm5D3du-ZsDy6J37A",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-12-10T14:41:29Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 11 : Classes & Objects | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes available at :  https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N-O4w6PynGY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N-O4w6PynGY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N-O4w6PynGY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N-O4w6PynGY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N-O4w6PynGY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N-O4w6PynGY"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "N-O4w6PynGY",
+        "videoPublishedAt": "2023-12-10T15:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vKvlcQqCtyUaMvlbV6ttUv-ewzI",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-12-13T15:03:37Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Lecture 12 : Callbacks, Promises & Async Await | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes : https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d3jXofmQm44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d3jXofmQm44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d3jXofmQm44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d3jXofmQm44/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d3jXofmQm44/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "d3jXofmQm44"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "d3jXofmQm44",
+        "videoPublishedAt": "2023-12-13T15:29:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hNffokAIlMz-R8jVcQPw_rP_Ag0",
+      "id": "UExHanBsTkVRMWl0X29UdnVMUk5xWGZ6X3ZfMHBxNnVuVy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-12-15T16:01:34Z",
+        "channelId": "UC1XBh-m27kkgwLAwu_SRJBg",
+        "title": "Last Lecture : Fetch API with Project | JavaScript Full Course",
+        "description": "⭐️ Instagram : https://www.instagram.com/shradhakhapra/\n⭐️ LinkedIn : https://www.linkedin.com/in/shradha-khapra/\n\nNotes : https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\nCode : https://github.com/shradha-khapra/JavaScriptSeries/tree/main/CurrencyConverter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CyGodpqcid4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CyGodpqcid4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CyGodpqcid4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CyGodpqcid4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CyGodpqcid4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Shradha Khapra",
+        "playlistId": "PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CyGodpqcid4"
+        },
+        "videoOwnerChannelTitle": "Shradha Khapra",
+        "videoOwnerChannelId": "UC1XBh-m27kkgwLAwu_SRJBg"
+      },
+      "contentDetails": {
+        "videoId": "CyGodpqcid4",
+        "videoPublishedAt": "2023-12-15T16:12:37Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 14,
+    "resultsPerPage": 50
+  }
+}
