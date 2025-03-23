@@ -1,0 +1,2561 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "18fcNFp3ipu3b6EIOQ1di9qlRTs",
+  "nextPageToken": "EAAaHlBUOkNESWlFRGswT1VOQlFVVTVPRU14TURGQ05UQQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pWKSTG8fPncGkX6VkLLr3LUnjC8",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-09-18T20:10:30Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial Hindi #1 Introduction |  What is React JS",
+        "description": "Inst id:  @code.steps\n\nLearn React JS from scratch in Hindi!\n\nHey there, developers! In this video, we're diving deep into the world of React JS, a powerful JavaScript library for building user interfaces. Whether you're a beginner or looking to enhance your React skills, this tutorial is for you.\n\nWe'll cover:\nWhat is React JS? A clear understanding of its core concepts and how it differs from other libraries.\nWhy use React JS? Discover the benefits and advantages of using React for building web applications.\nGetting started with React JS: A step-by-step guide on setting up your development environment.\nBasic components and props: Learn how to create and use components in React.\nWhy should you this series\nWhy we shoudl learn react js \nReact js prerequisites\nInterview Question \nWhether you're a beginner or looking to enhance your React skills, this tutorial will provide you with a solid foundation.\n\nSubscribe to our channel for more React JS tutorials and web development content.\n\n#ReactJS #HindiTutorial #WebDevelopment #Programming #LearnToCode",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_cl4gIpfjq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_cl4gIpfjq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_cl4gIpfjq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_cl4gIpfjq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_cl4gIpfjq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_cl4gIpfjq0"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "_cl4gIpfjq0",
+        "videoPublishedAt": "2024-10-07T14:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qksLhnFn1oHypT1f2tMKNo8xEdM",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-09-26T19:05:58Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #2 Setup React Environment | Install React  project in Windows",
+        "description": "Inst id:  @code.steps\nLearn how to set up your development environment for React JS 19 in this Hindi tutorial. We'll guide you through the step-by-step process of installing Node.js and creating a new React project using the create-react-app tool. By the end of this video, you'll have a solid foundation to start building amazing React applications.\n\nKey Topics Covered:\n\nInstalling Node.js: Download and install the latest Node.js version for Windows.\nCreating a New React Project: Use the create-react-app command to generate a new React project structure.\nUnderstanding Project Structure: Explore the different files and folders created in your React project.\nRunning the Development Server: Start your React application in development mode for testing and debugging.\nSubscribe to our channel for more React JS tutorials and coding tips!\n\n#ReactJS #ReactTutorial #ReactHindi #ReactDevelopment #NodeJS #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZSBvgVuiz8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZSBvgVuiz8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZSBvgVuiz8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZSBvgVuiz8s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZSBvgVuiz8s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZSBvgVuiz8s"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "ZSBvgVuiz8s",
+        "videoPublishedAt": "2024-10-08T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kpHzhQprIlobrdoAF8tjOOCeldA",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-09-23T11:25:32Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial Hindi #3 Install React in macOS |  React.Js setup in macOS",
+        "description": "Inst id:  @code.steps\n\nIn this third part of our React.js 19 tutorial series, we'll guide you through the process of setting up React development environment on your macOS. Learn how to install Node.js and npm, create a new React project using VITE, and run your first React application.\n\nKey points covered in this video:\n\nInstalling Node.js and npm\nCreating a new React project using VITE\nRunning your first React application\nInstall VS code editor\nInstall Vite\nMake React app\nInterview Question\nWhether you're a beginner or an experienced developer, this video will help you get started with React development on macOS. Don't forget to subscribe for more React tutorials and updates!\n\n#ReactJS #ReactTutorial #macOS #NodeJS #npm #CreateReactApp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gDce7X_8Uys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gDce7X_8Uys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gDce7X_8Uys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gDce7X_8Uys/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gDce7X_8Uys/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gDce7X_8Uys"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "gDce7X_8Uys",
+        "videoPublishedAt": "2024-10-09T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JBdGc3kqZKL7HK_K4N6mU4kCMRo",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-09-23T17:56:06Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #4 Use and Learn React without Install | Vite code editor",
+        "description": "Inst id:  @code.steps\n\nIn this third part of our React.js 19 tutorial series, we will learn how to learn and use react js without setup and installation with Vite code editor  \n\nStackblitz:\n\nFeatures:\nFull-featured React development environment\nReal-time code editing and preview\nBuilt-in Vite support\nIntegration with popular libraries and frameworks\nURL: https://stackblitz.com/\n\n\n#ReactJS #ReactTutorial #macOS #NodeJS #npm #CreateReactApp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iYyUYEmMo7Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iYyUYEmMo7Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iYyUYEmMo7Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iYyUYEmMo7Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iYyUYEmMo7Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "iYyUYEmMo7Y"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "iYyUYEmMo7Y",
+        "videoPublishedAt": "2024-10-11T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rd6A5ndD8swZZjhoxb72A2pFTQs",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2024-09-26T21:27:27Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #5 Hello World | React js app Code Flow",
+        "description": "Instagram Id @code.steps\nLearn how to create your first React component in Hindi! In this tutorial, we'll dive into the fundamentals of building a simple \"Hello World\" component using React JS 19.\n\nKey points covered in this video:\n\nUnderstanding the concept of components in React\nCreating a basic component structure\nRendering the component to the DOM\nAdding dynamic content to the component\nWhether you're a beginner or looking to refresh your React skills, this tutorial will provide a solid foundation for your React JS journey.\n\nDon't forget to like, share, and subscribe for more React JS tutorials in Hindi!\n\n#ReactJS #HindiTutorial #HelloWorld #React19 #Programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lNCo0Q9cKOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lNCo0Q9cKOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lNCo0Q9cKOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lNCo0Q9cKOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lNCo0Q9cKOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lNCo0Q9cKOY"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "lNCo0Q9cKOY",
+        "videoPublishedAt": "2024-10-14T15:25:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6raYxIe0s4N83v6iwr2k_Y6MT7A",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-09-29T20:21:51Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #6 File and Folder structure",
+        "description": "Insta @code.steps\nHey there, developers! In this fifth episode of our React JS 19 tutorial series, we're diving deep into the crucial aspect of file and folder structure. Understanding how to organize your project files effectively is essential for maintainability, scalability, and collaboration.\n\nIn this video, we'll cover:\n\nBest practices for structuring React projects\nCommon folder conventions used in the industry\nCreating a well-organized project structure from scratch\nUnderstanding the role of components and their placement\nTips for keeping your code clean and readable\nWhether you're a beginner or an experienced developer, this video will provide you with valuable insights into creating efficient and organized React projects. Don't forget to subscribe to our channel for more React tutorials and updates!\nMost Important Files\nConfig Files\nFolder structure\nWhere to write code\nInterview Question\nFile and Folder Structure of React App\n\nKeywords: React JS 19, tutorial, Hindi, file structure, folder structure, best practices, components, project organization, code cleanliness, maintainability, scalability.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I5OPml3MzX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I5OPml3MzX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I5OPml3MzX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I5OPml3MzX4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I5OPml3MzX4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I5OPml3MzX4"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "I5OPml3MzX4",
+        "videoPublishedAt": "2024-10-15T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IiD8NAau3F74cmP73Y20YwF_x00",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-10-04T19:10:06Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #7 Make First Component",
+        "description": "Inst id:  @code.steps\n\nIn this video, we'll dive deeper into creating your first React component. We'll explore how to define a component, pass props to it, and render its content. You'll learn about the basic structure of a component and how to use it effectively in your React applications.\n\nKey points covered:\nWhat a component?\nHow to use component ?\nWhat role components play in a React application?\nHow to write your first React component\nDifference between component and function\nInterview Question\nComponent's general example ?\nComponent in React ?\nEverything is component in React when building UI\n\n#ReactJS #ReactTutorial #HindiTutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DXCI60Bbuow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DXCI60Bbuow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DXCI60Bbuow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DXCI60Bbuow/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DXCI60Bbuow/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DXCI60Bbuow"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "DXCI60Bbuow",
+        "videoPublishedAt": "2024-10-16T14:45:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "c8hL33pgXSKfbritppdZuvoJlc8",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2024-10-08T09:10:53Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #8 Importing and Exporting Components",
+        "description": "Inst id:  @code.steps\nLearn how to effectively manage your React components in this tutorial! In this video, we'll delve into the essential concepts of importing and exporting components. Discover the different techniques to structure your code for better organization and reusability.\n\nKey topics covered:\n\nUnderstanding the purpose of importing and exporting components\nDifferent methods for importing components (default, named)\nExporting components as default or named exports\nBest practices for component organization\nReal-world examples to illustrate the concepts\nWhether you're a beginner or an experienced React developer, this video will provide valuable insights to enhance your coding skills.\n\n#ReactJS #ReactTutorial #HindiTutorial #ComponentImportExport\n\nSubscribe to our channel for more React tutorials and programming tips!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BjU-Y2cRsMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BjU-Y2cRsMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BjU-Y2cRsMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BjU-Y2cRsMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BjU-Y2cRsMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BjU-Y2cRsMQ"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "BjU-Y2cRsMQ",
+        "videoPublishedAt": "2024-10-18T14:05:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N9hgtljFXmnBDHujyjj5RkYxciU",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2024-10-08T14:08:38Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #9 Writing Markup with JSX",
+        "description": "Inst id:  @code.steps\nLearn to create dynamic and interactive web interfaces with React JS! In this tutorial, we'll dive deep into JSX, a syntax extension for JavaScript that makes it easier to write HTML-like structures within your JavaScript code.\n\nKey Topics Covered:\n\nUnderstanding JSX elements and components\nCreating JSX expressions\nRendering JSX elements to the DOM\nUsing JSX attributes and children\nWriting conditional logic and loops within JSX\nWhether you're a beginner or an experienced developer, this tutorial will help you master the fundamentals of JSX and build amazing React applications.\n\nDon't forget to subscribe for more React JS tutorials and coding tips!\n\n#ReactJS #JSX #Tutorial #Hindi #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jtmcml3U_Kw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jtmcml3U_Kw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jtmcml3U_Kw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Jtmcml3U_Kw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Jtmcml3U_Kw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Jtmcml3U_Kw"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "Jtmcml3U_Kw",
+        "videoPublishedAt": "2024-10-19T17:22:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kzPCI-EN80MqstHnRb7bq0TYNfc",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2024-10-09T11:15:51Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #10 JSX exercise",
+        "description": "Inst id:  @code.steps\nLearn to create dynamic and interactive web interfaces with React JS! In this tutorial, there is a excerise for you to convert JS and html code to JSX \n\nKey Topics Covered:\n\nUnderstanding JSX elements and components\nCreating JSX expressions\nRendering JSX elements to the DOM\nUsing JSX attributes and children\nWriting conditional logic and loops within JSX\nWhether you're a beginner or an experienced developer, this tutorial will help you master the fundamentals of JSX and build amazing React applications.\n\nDon't forget to subscribe for more React JS tutorials and coding tips!\n\n#ReactJS #JSX #Tutorial #Hindi #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Hl776qRdpYY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Hl776qRdpYY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Hl776qRdpYY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Hl776qRdpYY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Hl776qRdpYY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Hl776qRdpYY"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "Hl776qRdpYY",
+        "videoPublishedAt": "2024-10-09T11:21:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4QtfoHLPl1WRvlrj3pIVKeGq_1g",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-10-09T13:06:56Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #11 jsx exercise implementation",
+        "description": "Inst id:  @code.steps\nLearn to create dynamic and interactive web interfaces with React JS! In this tutorial, there is a excerise for you to convert JS and html code to JSX \n\nKey Topics Covered:\n\nMake New File and Component\nAdd HTML with function\nExport and Import component\nTest Code\nInterview Question\nDon't forget to subscribe for more React JS tutorials and coding tips!\n\n#ReactJS #JSX #Tutorial #Hindi #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ZhNU_TQtkc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ZhNU_TQtkc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZhNU_TQtkc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9ZhNU_TQtkc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9ZhNU_TQtkc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9ZhNU_TQtkc"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "9ZhNU_TQtkc",
+        "videoPublishedAt": "2024-10-21T13:57:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AYuOLxH80PGv1DP9j3MkqQ4ydO0",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2024-10-10T10:36:16Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #12 JavaScript in JSX with Curly Braces",
+        "description": "Insta id:  @code.steps\n\nWelcome to another exciting episode of our React JS 19 tutorial series in Hindi! In this video, we'll delve deeper into the power of JSX by exploring how to seamlessly incorporate JavaScript code within your React components using curly braces.\n\nKey takeaways:\n\nUnderstanding curly braces: Learn how curly braces act as a bridge between JSX and JavaScript, allowing you to dynamically render content based on variables, expressions, and functions.\nUsing variables: Discover how to embed variables directly into JSX elements, creating personalized and interactive user interfaces.\nConditional rendering: Explore techniques for conditionally rendering different components or elements based on logical conditions, making your applications more dynamic and responsive.\nHandling events: Learn how to attach event handlers to JSX elements using curly braces, enabling user interaction and dynamic behavior.\nBest practices: Get valuable tips on writing clean, efficient, and maintainable JSX code that leverages the power of JavaScript integration.\nBy the end of this video, you'll have a solid understanding of how to effectively utilize JavaScript within JSX, empowering you to build more complex and engaging React applications.\n\nDon't miss out! Subscribe to our channel and hit the notification bell to stay updated with the latest React JS tutorials.\n\n#ReactJS #HindiTutorial #JSX #JavaScript #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v68_r1lIY3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v68_r1lIY3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v68_r1lIY3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v68_r1lIY3Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v68_r1lIY3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v68_r1lIY3Q"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "v68_r1lIY3Q",
+        "videoPublishedAt": "2024-10-22T15:00:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r2xXq9UgubyvvZceU8G-vfy_6zw",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2024-10-10T13:06:28Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #13 React js click event and function call",
+        "description": "Inst id:  @code.steps\n\nIn this tutorial, we'll dive deeper into the world of React JS and explore how to handle user interactions using click events. We'll learn how to create functions within React components and effectively bind them to click events, enabling dynamic behavior and responsive user interfaces.\n\nKey Topics Covered:\n\nCreating Functions: Learn how to define functions within React components.\nBinding Functions: Understand the importance of binding functions to the component's context.\nHandling Click Events: Explore the onClick event handler and its usage in React components.\nPassing Data to Functions: Learn how to pass data from the component to the function.\nUpdating State: Discover how to modify the component's state based on click events.\nWhether you're a beginner or an experienced developer, this tutorial will provide you with a solid understanding of click events and function calls in React JS.\n\nDon't forget to subscribe to our channel for more React JS tutorials and programming tips!\n\n#ReactJS #ReactTutorial #HindiTutorial #ClickEvents #FunctionCalls",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Z35NIJFEnw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Z35NIJFEnw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Z35NIJFEnw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5Z35NIJFEnw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5Z35NIJFEnw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5Z35NIJFEnw"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "5Z35NIJFEnw",
+        "videoPublishedAt": "2024-10-23T14:42:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "DmyIWeTAeELpG7Q341MpcXcmx4E",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2024-10-14T15:20:30Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #14 Upgrade React 19 Version",
+        "description": "Learn how to seamlessly upgrade your React project to the latest version 19 in this Hindi tutorial.\n\nIn this comprehensive guide, we'll walk you through the step-by-step process of upgrading your React project to version 19. We'll cover essential topics like:\n\nUnderstanding React 19's new features: Discover the exciting enhancements and improvements introduced in React 19.\nMigration strategies: Learn about different approaches to upgrade your project, including manual migration and using automated tools.\nPotential compatibility issues: Address common challenges you might encounter during the upgrade process and find effective solutions.\nBest practices for smooth migration: Gain valuable insights on how to minimize disruptions and ensure a successful upgrade.\nWhether you're a beginner or an experienced React developer, this tutorial will equip you with the knowledge and skills to effortlessly upgrade your project to React 19. Don't miss out on the latest features and performance improvements!\n\nSubscribe to our channel for more React tutorials and stay updated with the latest trends in web development.\n\nKeywords: React 19 upgrade, React tutorial Hindi, React migration, React new features, React best practices.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jD15MWESC3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jD15MWESC3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jD15MWESC3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jD15MWESC3I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jD15MWESC3I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jD15MWESC3I"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "jD15MWESC3I",
+        "videoPublishedAt": "2024-10-25T14:12:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F-2dg0unnmIATe8GLRQHi-7xuj8",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2024-10-15T13:08:27Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #15 State in react JS",
+        "description": "Instagram Id @code.steps\nIn this video, we'll dive deep into the fundamental concept of State in React JS. State is the heart of React components, allowing them to store and manage data that can change over time.\n\nKey topics covered:\n\nUnderstanding State: Learn what State is and why it's crucial in React components.\nCreating State: Discover different ways to initialize State in a React component.\nUpdating State: Explore the setState() method and its importance in modifying State values.\nState and Rendering: Understand how changes in State trigger re-renders of components.\nBest Practices: Learn tips and tricks for effectively using State in your React applications.\nJoin us as we break down these concepts with clear explanations, practical examples, and coding demonstrations. By the end of this video, you'll have a solid understanding of State and be able to use it effectively in your React projects.\n\nhttps://www.youtube.com/watch?v=oo-BZwqlg4M\nhttps://www.youtube.com/watch?v=_TTy2hvLEv4\n\n#ReactJS #ReactTutorial #HindiTutorial #State #ReactState #Programming #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rG_D49Uwdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rG_D49Uwdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rG_D49Uwdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_rG_D49Uwdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_rG_D49Uwdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_rG_D49Uwdg"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "_rG_D49Uwdg",
+        "videoPublishedAt": "2024-10-26T14:32:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "RDGX2k-8oSz6yY0vEc8us_2VtDI",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2024-10-16T10:45:12Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #16 Toggle or Hide Show",
+        "description": "Instagram Id @code.steps\nIn this tutorial, we'll dive into the world of React JS and learn how to create dynamic and interactive user interfaces. We'll explore the concept of toggling or hiding and showing elements in your React components.\n\nKey points covered:\n\nUnderstanding the useState hook for managing state in React.\nCreating a toggle function to switch between showing and hiding elements.\nUsing conditional rendering to display elements based on the state.\nStyling elements using CSS to enhance the visual appearance.\nWhether you're a beginner or have some experience with React, this tutorial will provide you with valuable insights and practical examples.\n\nDon't forget to subscribe to our channel for more React JS tutorials and programming tips!\n\n#ReactJS #HindiTutorial #Toggle #ShowHide #Programming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77rHpl3fVIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77rHpl3fVIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77rHpl3fVIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/77rHpl3fVIU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/77rHpl3fVIU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "77rHpl3fVIU"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "77rHpl3fVIU",
+        "videoPublishedAt": "2024-10-27T15:38:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YBb9MkO8Oe-76HUXMMCfcd3HIVc",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2024-10-16T18:46:27Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #17 Multiple Conditions or Else If",
+        "description": "Instagram Id @code.steps\n\nHey there, React learners! In this tutorial, we'll dive deeper into conditional rendering in React JS 19. We'll explore how to handle multiple conditions using the if-else and else if statements.\n\nKey points covered in this video:\n\nUnderstanding the if-else syntax in React\nUsing else if for multiple conditions\nBest practices for writing clean and efficient conditional logic\nReal-world examples of using conditional rendering in React components\nWhether you're a beginner or an intermediate React developer, this video will help you master conditional rendering and create more dynamic and responsive React applications.\n\nDon't forget to like, share, and subscribe for more React tutorials!\n\n#ReactJS #ReactTutorial #HindiTutorial #ConditionalRendering #Programming #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EKMMjBRiSJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EKMMjBRiSJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EKMMjBRiSJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EKMMjBRiSJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EKMMjBRiSJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EKMMjBRiSJw"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "EKMMjBRiSJw",
+        "videoPublishedAt": "2024-10-28T14:33:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Uy3Ob5lOnNrYzp88bqAPUImt5sk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2024-10-17T09:58:22Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #18: Props in React JS | Pass data between component",
+        "description": "Instagram Id @code.steps\n\nHey there, React learners! Welcome to the 17th episode of our React JS 19 tutorial series in Hindi. In this video, we'll dive deep into the concept of props in React.\n\nWhat will you learn?\n\nUnderstanding the fundamental role of props in React components\nPassing props from parent to child components\nUsing props to create dynamic and reusable components\nBest practices for working with props effectively\nJoin us as we explore:\n\nDifferent ways to pass props (e.g., static values, expressions, and destructuring)\nHow to handle prop types for better code validation\nReal-world examples of using props in React applications\nWhether you're a beginner or have some experience with React, this video will help you master the concept of props and take your React development skills to the next level.\n\nDon't forget to:\n\nSubscribe to our channel for more React tutorials\nLike and share this video with your friends\nLeave a comment below with your questions or feedback\nHappy coding!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ui9m1k-2jVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ui9m1k-2jVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ui9m1k-2jVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ui9m1k-2jVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ui9m1k-2jVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ui9m1k-2jVQ"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "ui9m1k-2jVQ",
+        "videoPublishedAt": "2024-10-29T17:27:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ayjtMOi2DLkbmmiTnrp6hPfN7P8",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2024-10-19T20:54:59Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #19 Pass JSX with Props | Default props",
+        "description": "Instagram Id @code.steps\nIn this tutorial, we'll dive deeper into the power of React components by learning how to pass JSX elements as props and set default prop values. Understand how to create reusable and dynamic components by passing complex structures as props. We'll also explore the concept of default props to provide fallback values when props are not explicitly defined.\n\nKey points covered in this tutorial:\n\nPassing JSX elements as props\nUnderstanding the concept of default props\nCreating reusable and dynamic components\nBest practices for using props effectively\nJoin us as we explore the exciting world of React JS and learn how to build efficient and scalable web applications.\n\n#ReactJS #ReactTutorial #HindiTutorial #WebDevelopment #Programming #JSX #Props #DefaultProps",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cH3uFRPE1pg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cH3uFRPE1pg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cH3uFRPE1pg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cH3uFRPE1pg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cH3uFRPE1pg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cH3uFRPE1pg"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "cH3uFRPE1pg",
+        "videoPublishedAt": "2024-11-02T13:09:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VRbTBGR79RhuskDRjuvPJ8JDym0",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2024-10-20T18:34:06Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #20 Get Input Field Value | On change event",
+        "description": "Instagram Id @code.steps\nIn this React JS 19 tutorial in Hindi, we'll learn how to effectively retrieve the value entered in an input field. We'll explore different methods and techniques to capture user input and utilize it within your React applications.\n\nKey points covered in this tutorial:\nUsing the onChange event handler to capture input changes\nAccessing the input value within the component's state\nUpdating component state based on input value changes\nDisplaying the entered value in the UI\nBy the end of this tutorial, you'll have a solid understanding of how to handle input fields in React and effectively interact with user input.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w4aT4m_WiZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w4aT4m_WiZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w4aT4m_WiZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w4aT4m_WiZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w4aT4m_WiZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w4aT4m_WiZc"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "w4aT4m_WiZc",
+        "videoPublishedAt": "2024-11-04T13:27:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HpAN4PbstgwXVTIj1g7EQ6FkVtg",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2024-10-22T11:35:28Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #21 Controlled Component",
+        "description": "In this video, we'll delve into the concept of controlled components in React JS 19. Controlled components are those where the input's value is managed by the parent component, ensuring a more predictable and interactive user experience.\n\nKey Topics Covered:\n\nUnderstanding controlled components\nImplementing controlled components using state and event handlers\nBenefits of using controlled components\nReal-world examples and use cases\nWhether you're a beginner or an experienced React developer, this video will help you master controlled components and create more robust and user-friendly applications.\n\nDon't forget to like, share, and subscribe for more React JS tutorials!\n\n#ReactJS #ReactTutorial #ControlledComponents #HindiTutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgnAi9yh2zY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgnAi9yh2zY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgnAi9yh2zY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zgnAi9yh2zY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zgnAi9yh2zY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zgnAi9yh2zY"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "zgnAi9yh2zY",
+        "videoPublishedAt": "2024-11-05T14:51:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uYicgexibsQ_xYq_EPAcrd2NMyw",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2024-10-22T15:20:14Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #22: Handle Checkbox in React",
+        "description": "Instagram id:  @code.steps\nLearn how to effectively manage checkbox inputs in your React applications. In this comprehensive tutorial, we'll dive deep into the best practices for handling checkbox state, updating values, and controlling form submissions.\n\nKey Topics Covered:\nCreating and rendering checkbox components\nManaging checkbox state using React hooks\nHandling checkbox value changes and updates\nControlling form submissions based on checkbox state\nBest practices for checkbox accessibility and usability\nWhether you're a beginner or an experienced React developer, this tutorial will provide you with the knowledge and skills to implement checkboxes in your projects with ease.\n\nDon't miss out! Subscribe to our channel for more React JS tutorials and coding tips.\n\n#ReactJS #ReactTutorial #HindiTutorial #Checkbox #ReactHooks #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XRk2UG9TkSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XRk2UG9TkSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XRk2UG9TkSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XRk2UG9TkSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XRk2UG9TkSY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XRk2UG9TkSY"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "XRk2UG9TkSY",
+        "videoPublishedAt": "2024-11-07T15:01:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "56r3h4PZXhGbyJOxmdbwmjaApyk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2024-10-24T13:42:47Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #23 Handle Radio Button and Dropdown",
+        "description": "Instagram id:  @code.steps\nIn this tutorial, we'll dive deep into handling radio buttons and dropdowns using React JS 19. Learn how to create interactive and user-friendly forms by effectively managing these input elements.\n\nKey topics covered:\n\nCreating and styling radio buttons\nManaging radio button states and selections\nImplementing dropdowns with controlled and uncontrolled components\nHandling dropdown value changes and updates\nWhether you're a beginner or an experienced React developer, this tutorial will provide you with valuable insights and practical examples to enhance your form-building skills.\n\nDon't miss out! Subscribe to our channel for more React JS tutorials and coding tips.\n\n#ReactJS #ReactTutorial #HindiTutorial #RadioButton #Dropdown #FormHandling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yp8B-tpbYCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yp8B-tpbYCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yp8B-tpbYCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yp8B-tpbYCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yp8B-tpbYCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yp8B-tpbYCo"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "Yp8B-tpbYCo",
+        "videoPublishedAt": "2024-11-10T14:18:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JlvuQ3sGh2cxcQYTwMiaWnZSS-A",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2024-10-24T19:51:58Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #24 Loop in JSX with Map Function",
+        "description": "Instagram id:  @code.steps\nIn this video, we'll dive deeper into the power of React JS by exploring how to loop through data and dynamically render elements using the map function within JSX.\n\nKey topics covered:\n\nUnderstanding the map function and its purpose in React\nIterating over arrays and objects to create dynamic components\nUsing the map function within JSX for efficient rendering\nBest practices for writing clean and reusable code using map\nWhether you're a beginner or an experienced React developer, this tutorial will help you master the map function and elevate your React JS projects.\n\nDon't forget to:\n\nSubscribe to our channel for more React JS tutorials and tips\nLike and share this video to help others learn\nLeave a comment below with any questions or suggestions\nHappy coding!\n\n#ReactJS #Tutorial #Hindi #JavaScript #Programming #WebDevelopment #MapFunction #LoopingInJSX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/naKNA88jkTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/naKNA88jkTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/naKNA88jkTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/naKNA88jkTs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/naKNA88jkTs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "naKNA88jkTs"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "naKNA88jkTs",
+        "videoPublishedAt": "2024-11-12T06:56:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2MTKAg4mc_cIbBwX6yM3Dk0wam4",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2024-10-26T15:14:33Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #25 Reuse Component in loop",
+        "description": "Instagram Id @code.steps\n\nLearn how to efficiently reuse components in React JS using the powerful map function!\n\nIn this tutorial, we'll dive deep into the concept of reusing components within loops in your React applications. By leveraging the map function, you can dynamically generate multiple instances of a component, making your code more concise and maintainable.\n\nKey Topics Covered:\n\nUnderstanding the map function in JavaScript\nUsing map to iterate over arrays in JSX\nPassing props to components within the map function\nBest practices for using map in React\nCommon pitfalls to avoid when using map\nWhether you're a beginner or an intermediate React developer, this tutorial will provide you with valuable insights and practical tips to enhance your React skills.\n\nMake Component.\nApply Map for loop in JSX.\nRender Component in Loop.\nPass data in component inside loop.\nAdd Style.\nInterview Question\n\nJoin us as we explore this essential technique and take your React projects to the next level!\n\n#ReactJS #ReactTutorial #HindiTutorial #WebDevelopment #JavaScript #Programming #MapFunction #ComponentReuse",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/04NQhp9iXrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/04NQhp9iXrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/04NQhp9iXrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/04NQhp9iXrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/04NQhp9iXrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "04NQhp9iXrs"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "04NQhp9iXrs",
+        "videoPublishedAt": "2024-11-12T14:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xF_ocf3Xeg19haktvd4X8dgSIvk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2024-10-20T14:51:08Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #25 Props Task for You",
+        "description": "Instagram Id @code.steps\nIn this tutorial, we'll dive deeper into the power of React components by learning how to use Props.\n\nKey points covered in this tutorial:\n\nPassing JSX elements as props\nUnderstanding the concept of default props\nCreating reusable and dynamic components\nBest practices for using props effectively\nJoin us as we explore the exciting world of React JS and learn how to build efficient and scalable web applications.\n\n#ReactJS #ReactTutorial #HindiTutorial #WebDevelopment #Programming #JSX #Props #DefaultProps",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pgtjCsYxBCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pgtjCsYxBCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pgtjCsYxBCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pgtjCsYxBCg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pgtjCsYxBCg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pgtjCsYxBCg"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "pgtjCsYxBCg",
+        "videoPublishedAt": "2024-11-06T14:32:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b9mCehZkh3lT9N8D0GtTHNc_H8k",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2024-10-27T17:06:07Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #26 Array Nested Looping with component",
+        "description": "Instagram Id @code.steps\nLearn how to create dynamic and complex UI structures in React JS using nested loops!\n\nIn this tutorial, we'll delve into the world of nested loops within React JSX. We'll explore:\n\nWhy and when to use nested loops in React JSX\nHow to efficiently iterate over multiple arrays or objects\nBest practices for writing clean and maintainable nested loop code\nCommon pitfalls and how to avoid them\nBy the end of this video, you'll be able to create intricate and reusable components with ease.\n\nKey Topics Covered:\n\nUnderstanding the basics of JSX\nIterating over arrays using the map() method\nNesting map() methods to create complex structures\nHandling keys in nested loops for performance optimization\nConditional rendering within nested loops\nStyling nested elements\nUnderstand array structure for nested looping\nMake outer loop \nMake inner loop\nMake component for outer loop\nMake component for inner loop\nInterview Question\nJoin us as we break down the process step-by-step and provide practical examples.\n\n#ReactJS #ReactTutorial #HindiTutorial #NestedLoops #JSX #WebDevelopment\n\nDon't forget to like, share, and subscribe for more React JS tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55udOvyKtus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55udOvyKtus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55udOvyKtus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/55udOvyKtus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/55udOvyKtus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "55udOvyKtus"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "55udOvyKtus",
+        "videoPublishedAt": "2024-11-09T14:57:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Hfm7mqSe23clVluuNT49vajG56Q",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2024-11-04T12:53:35Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #27 what are hooks in react js",
+        "description": "Instagram Id @code.steps\nIn this video, we will learn about hooks in React.js. Hooks are a new feature in React that allow you to manage state and side effects without using classes. We will cover the following topics in this video:\n\nWhat are hooks?\nWhy we need hooks\nHistory of hooks\nSome hooks name\nHow to identify hooks\nInterview Question\n\nHooks are simpler to use than classes.\nHooks are more flexible than classes.\nHooks can help you write more readable and maintainable code.\nI hope you find this video helpful!\n\nHere are some additional things you can add to your video description:\nIn Old React Version, we were using class base component.\nNow class based component are not much used in React.\nSo to achieve State, life cycle , other feature in functional component we use hooks\n\nImportant hooks \nuseState\nuseEffect\nuseContext\nuseRef\nuseReducer\netc\nI hope this helps!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Fg1z8rxRGG0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Fg1z8rxRGG0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Fg1z8rxRGG0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Fg1z8rxRGG0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Fg1z8rxRGG0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Fg1z8rxRGG0"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "Fg1z8rxRGG0",
+        "videoPublishedAt": "2024-11-13T06:25:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "uPzSoVBCmMSoqin9hufBrw6n32c",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2024-11-05T17:44:04Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #28 use of useEffect hook in react js",
+        "description": "Instagram Id @code.steps\n\nIn this React JS tutorial, we'll dive deep into the powerful useEffect hook.\nKey Topics Covered:\nUnderstanding the useEffect Hook:\nWhat is the useEffect hook?\nWhen and why to use it\nBasic Usage of useEffect:\nPerforming side effects like data fetching, subscriptions, and DOM manipulations\nCleaning Up Side Effects:\nHow to clean up side effects to prevent memory leaks\nDependency Array:\nControlling when the useEffect hook runs\nOptimizing performance with the dependency array\nAdvanced Usage:\nUsing useEffect for complex scenarios\nCommon pitfalls and best practices\nBy the end of this tutorial, you'll be able to:\n\nEffectively use the useEffect hook to manage side effects in your React components\nOptimize your React applications for performance\nWrite clean and efficient React code\nDon't miss this essential tutorial to level up your React skills!\n\n#ReactJS #useEffectHook #ReactTutorial #HindiTutorial #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U9pPuoNBrf4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U9pPuoNBrf4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9pPuoNBrf4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U9pPuoNBrf4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U9pPuoNBrf4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U9pPuoNBrf4"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "U9pPuoNBrf4",
+        "videoPublishedAt": "2024-11-13T14:47:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "px5Y8E4L5JW_uMpczUDO5YtOfdk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4zMUEyMkQwOTk0NTg4MDgw",
+      "snippet": {
+        "publishedAt": "2024-11-14T15:09:57Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #29 Handle Props Side Effect with useEffect in component",
+        "description": "Instagram Id @code.steps\n\nIn this video, we will learn how to handle props side effects with useEffect in React JS 19. We will also learn about the useEffect hook and how it can be used to perform side effects in React components.\n\nTopics covered in this video:\n\nWhat are props side effects?\nWhat is the useEffect hook?\nHow to use useEffect to handle props side effects\nHow to use useEffect to perform other side effects in React components\nHere are some of the benefits of using useEffect to handle props side effects:\n\nIt can help to prevent bugs and errors in your React components.\nIt can make your React components more efficient.\nIt can help to improve the user experience of your React application.\nI hope you find this video helpful!\n\nPlease subscribe to my channel for more React JS tutorials.\n\nHere are some additional points that you may want to include in your description:\n\nThe length of the video\nThe date the video was published\nThe target audience of the video\nAny other relevant keywords\nYou can also add a call to action to your description, such as asking viewers to like, comment, and share the video.\n\n#ReactJS #useEffectHook #ReactTutorial #HindiTutorial #WebDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8LMZK5MWVF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8LMZK5MWVF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8LMZK5MWVF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8LMZK5MWVF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8LMZK5MWVF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8LMZK5MWVF4"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "8LMZK5MWVF4",
+        "videoPublishedAt": "2024-11-14T15:09:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pe-MXkVIZ72uRhuf7aDwlENVyf4",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2024-11-08T09:51:47Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #30 Use Effect Hook for Life Cycle Methods in React",
+        "description": "In this video, we will learn how to use the useEffect hook in React to manage side effects in your components. We will also learn about the different lifecycle methods that React provides, and how to use useEffect to perform actions at different stages of the component lifecycle.\n\nTopics covered in this video:\n\nWhat is the useEffect hook?\nHow to use useEffect to manage side effects in React\nThe different lifecycle methods that React provides\nHow to use useEffect to perform actions at different stages of the component lifecycle\nExamples of how to use useEffect in React\nHere are some of the benefits of using the useEffect hook:\n\nIt makes your code more modular and easier to read\nIt helps you to avoid common React pitfalls\nIt can be used to create powerful and interactive components\nI hope you find this video helpful!\n\nPlease subscribe to my channel for more React tutorials.\n\nHere are some additional resources that you may find helpful:\n\nReact documentation on useEffect: https://reactjs.org/docs/hooks-effect.html\nReact lifecycle methods: [invalid URL removed]\nReact hooks tutorial: https://reactjs.org/docs/hooks-intro.html\nThanks for watching!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uVjvJPAFKyw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uVjvJPAFKyw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uVjvJPAFKyw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uVjvJPAFKyw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uVjvJPAFKyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uVjvJPAFKyw"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "uVjvJPAFKyw",
+        "videoPublishedAt": "2024-11-15T17:36:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kUAPxJaNXxErciJ2tF9F6391ws8",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS41OURENDc2NEM1MDI5Mjky",
+      "snippet": {
+        "publishedAt": "2024-11-16T15:12:58Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #31 Styling in React JS",
+        "description": "Instagram Id @code.steps\nIn this 31st tutorial of our React JS series, we'll dive deep into the world of styling in React. We'll explore various techniques to make your React applications visually appealing and user-friendly.\nKey Topics Covered:\n\nInline Styles:\nDirectly applying styles to components using the style prop.\nPros and cons of inline styles.\nCSS Modules:\nEncapsulating styles within modules to avoid naming conflicts.\nUsing CSS Modules in React components.\nStyled Components:\nA CSS-in-JS library for writing styled components in JavaScript.\nCreating styled components and using them in React.\nMaterial-UI:\nA popular UI framework for building beautiful React applications.\nUsing Material-UI components and themes.\nBy the end of this video, you'll be able to:\n\nApply styles to React components using different techniques.\nCreate visually appealing and responsive user interfaces.\nUtilize CSS Modules to organize your styles effectively.\nLeverage Styled Components for a more concise and expressive approach.\nImplement Material-UI to accelerate your development process.\nDon't forget to like, share, and subscribe for more React JS tutorials!\n\n#ReactJS #ReactTutorial #ReactHindi #WebDevelopment #FrontendDevelopment #JavaScript\n\nClear and Concise Language: Use simple language and avoid technical jargon.\nVisual Explanations: Use clear visuals and code examples to illustrate concepts.\nEngaging Presentation: Keep your video interesting and engaging with a dynamic presentation style.\nPractical Examples: Show real-world examples of how to use styling techniques.\nCall to Action: Encourage viewers to like, share, and subscribe.\nBy following these guidelines, you can create a high-quality YouTube video that helps your audience learn React JS effectively.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bHwZFixqaPM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bHwZFixqaPM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHwZFixqaPM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bHwZFixqaPM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bHwZFixqaPM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "bHwZFixqaPM"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "bHwZFixqaPM",
+        "videoPublishedAt": "2024-11-16T15:12:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M827UmYPwZG9hChxXfB4TI4loIE",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2024-11-10T10:39:13Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #32 Inline Style in React",
+        "description": "Instagram Id @code.steps\n\nIn this tutorial, we will learn how to use inline styles in React. Inline styles are a great way to add custom styles to your React components.\n\nWe will cover the following topics in this tutorial:\n\nWhat are inline styles?\nHow to use inline styles in React\nBest practices for using inline styles\nTopics Covered in this Video:\n\nWhat are inline styles?\nHow to use inline styles in React\nBest practices for using inline styles\nAdditional Resources:\n\nReact JS Official Website\nReact JS Tutorial [invalid URL removed]\nReact JS Inline Style [invalid URL removed]\nI hope you enjoy this tutorial!\n\nPlease let me know if you have any questions.\n\nHere are some keywords that you can use to optimize your video for search:\n\nReact JS\nReact JS tutorial\nReact JS inline style\nReact JS 19 tutorial\nReact JS in Hindi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCfmoksLQ1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCfmoksLQ1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCfmoksLQ1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCfmoksLQ1k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCfmoksLQ1k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCfmoksLQ1k"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "PCfmoksLQ1k",
+        "videoPublishedAt": "2024-11-17T17:20:40Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1vFZvEGuzuwOGgLxViB17Yv-NP0",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4zMEQ1MEIyRTFGNzhDQzFB",
+      "snippet": {
+        "publishedAt": "2024-11-10T12:42:13Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #33 Dynamic and Conditional Inline Style",
+        "description": "Instagram : code.steps\nIn this tutorial, we will learn how to use dynamic and conditional inline styles in React. We will also learn how to use the useMemo hook to optimize our code.\n\nTopics covered in this tutorial:\n\nDynamic inline styles\nConditional inline styles\nThe useMemo hook\nPrerequisites:\n\nA basic understanding of React\nHere are some of the things we will learn in this tutorial:\n\nHow to use the style prop to add dynamic styles to React components\nHow to use conditional logic to add different styles to React components based on certain conditions\nHow to use the useMemo hook to memoize expensive functions\nI hope you enjoy this tutorial!\n\nHere are some additional points you may want to include in your description:\n\nThe length of the video\nThe target audience\nAny other relevant keywords\nYou may also want to add a call to action at the end of your description, encouraging viewers to subscribe to your channel or watch other videos on your channel.\n\nI hope this helps!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ErMi0qNlxVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ErMi0qNlxVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ErMi0qNlxVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ErMi0qNlxVM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ErMi0qNlxVM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ErMi0qNlxVM"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "ErMi0qNlxVM",
+        "videoPublishedAt": "2024-11-18T14:37:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FQ_Hr7D8Y0FX7QkRKWapPPpm3Sk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS42Qzk5MkEzQjVFQjYwRDA4",
+      "snippet": {
+        "publishedAt": "2024-11-12T21:13:40Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React js 19 tutorial in Hindi #34 External Style | CSS",
+        "description": "Instagram : code.steps\nIn this tutorial, we'll delve into the world of external styles in React JS. We'll explore how to add custom CSS stylesheets to your React components, giving you more flexibility and control over your application's visual appearance.\n\nKey topics covered in this video:\n\nCreating a separate CSS file: Learn how to create a new CSS file to house your styles.\nImporting the CSS file: Discover the different ways to import your CSS file into your React components.\nApplying styles to elements: See how to use CSS selectors to target specific elements and apply styles to them.\nBest practices for styling React components: Learn valuable tips and tricks for writing clean, maintainable, and efficient CSS code.\nBy the end of this tutorial, you'll have a solid understanding of external styles in React JS and be able to create visually appealing and responsive user interfaces.\n\n#ReactJS #ReactTutorial #HindiTutorial #WebDevelopment #CSS #ExternalStyles\n\nDon't forget to like, share, and subscribe for more React JS tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5eML17AtDsE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5eML17AtDsE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5eML17AtDsE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5eML17AtDsE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5eML17AtDsE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5eML17AtDsE"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "5eML17AtDsE",
+        "videoPublishedAt": "2024-11-19T16:54:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tpC0z1-fbFGzmLQCG4aI73DGtxM",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS41NTZEOThBNThFOUVGQkVB",
+      "snippet": {
+        "publishedAt": "2024-11-12T21:25:06Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #35 Style with CSS Modules",
+        "description": "Instagram : code.steps\nIn this tutorial, we'll dive deep into styling your React components using CSS Modules. We'll explore how to:\n\nCreate CSS Modules: Set up CSS Modules in your React project.\nImport and Use CSS Modules: Import CSS Modules into your components and apply styles.\nLocal Scoping: Understand how CSS Modules ensure local scoping of styles.\nDynamic Styling: Learn how to dynamically apply styles based on component props.\nBest Practices: Follow best practices for using CSS Modules in your React projects.\nBy the end of this tutorial, you'll be able to create clean, maintainable, and reusable React components with stylish and efficient CSS.\n\n#ReactJS #ReactTutorial #CSSModules #HindiTutorial #WebDevelopment\n\nAdditional Tips:\n\nClear and Concise: Keep your description concise and easy to understand.\nUse Relevant Keywords: Include relevant keywords to improve search visibility.\nCall to Action: Encourage viewers to subscribe, like, and share the video.\nAdd a Timestamped Table of Contents: This helps viewers quickly find specific sections.\nEngage with Your Audience: Respond to comments and questions to build a community.\nBy following these tips, you can create engaging and informative YouTube videos that attract and retain viewers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eQtWQOSok3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eQtWQOSok3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eQtWQOSok3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eQtWQOSok3k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eQtWQOSok3k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eQtWQOSok3k"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "eQtWQOSok3k",
+        "videoPublishedAt": "2024-11-21T05:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6fForeL_B6VCC1ahVsvzoS5L1Dk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5GNjAwN0Y0QTFGOTVDMEMy",
+      "snippet": {
+        "publishedAt": "2024-11-13T12:34:37Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #36 Styled components",
+        "description": "Instagram : code.steps\nIn this tutorial, we'll dive deep into the world of Styled Components, a powerful CSS-in-JS library that allows you to write CSS directly within your JavaScript components.\n\nKey topics covered:\n\nWhat are Styled Components?\nBasic Usage and Syntax\nTheming with Styled Components\nCreating Reusable Styles\nAdvanced Techniques and Best Practices\nBy the end of this video, you'll be able to:\n\nWrite clean and maintainable CSS within your React components.\nCreate dynamic and responsive UI elements.\nLeverage the power of Styled Components to build beautiful and efficient user interfaces.\nDon't miss this comprehensive guide to Styled Components. Subscribe to our channel for more React JS tutorials!\n\n#ReactJS #StyledComponents #HindiTutorial #WebDevelopment #FrontendDevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CfbYB3msAy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CfbYB3msAy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CfbYB3msAy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CfbYB3msAy8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CfbYB3msAy8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CfbYB3msAy8"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "CfbYB3msAy8",
+        "videoPublishedAt": "2024-11-22T15:24:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FWOuaXa1__Mr10JtClIMJhj7_80",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5CQkEwRDA0MDkwNUM2MDY1",
+      "snippet": {
+        "publishedAt": "2024-11-13T14:27:25Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #37 Add Bootstrap with React js",
+        "description": "Instagram id:  @code.steps\n\nIn this tutorial, we will learn how to add Bootstrap to a React JS application. Bootstrap is a popular CSS framework that makes it easy to create responsive and visually appealing websites.\n\nSteps:\nCreate a new React JS project using the create-react-app command.\nInstall Bootstrap using npm.\nImport Bootstrap into your React JS application.\nUse Bootstrap components in your React JS code.\nTopics covered in this tutorial:\n\nHow to create a new React JS project using the create-react-app command.\nHow to install Bootstrap using npm.\nHow to import Bootstrap into your React JS application.\nHow to use Bootstrap components in your React JS code.\nHow to add Bootstrap to a React JS application.\nAdditional resources:\n\nBootstrap website\nReact JS website\nI hope this tutorial is helpful!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HWqcky6rVkE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HWqcky6rVkE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HWqcky6rVkE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HWqcky6rVkE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HWqcky6rVkE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HWqcky6rVkE"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "HWqcky6rVkE",
+        "videoPublishedAt": "2024-12-02T15:13:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "f6GyuaoMyWTdQfDGBN2V6Cez8DI",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4wNEU1MTI4NkZEMzVBN0JF",
+      "snippet": {
+        "publishedAt": "2024-11-14T10:29:23Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #38 useRef Hook",
+        "description": "In this tutorial, we'll delve into the useRef hook, a powerful tool in React for managing mutable values and DOM elements directly.\n\nKey Topics Covered:\nUnderstanding the useRef Hook:\nHow it differs from the useState hook\nCreating a ref object\nAccessing the current value of the ref\nUsing useRef to Access DOM Elements:\nDirectly manipulating DOM elements\nTriggering events and actions on DOM elements\nPractical Examples:\nCreating a custom hook to track scroll position\nImplementing a focus input on page load\nBuilding a simple animation using useRef\nBy the end of this tutorial, you'll be able to:\n\nEffectively use the useRef hook to manage state in your React components\nDirectly interact with DOM elements to create dynamic and interactive user interfaces\nWrite cleaner and more efficient React code\nDon't miss this in-depth explanation of the useRef hook!\n\n[Insert relevant keywords for SEO, such as React JS, useRef hook, React tutorial, Hindi tutorial, web development]\n\n#ReactJS #useRefHook #ReactTutorial #HindiTutorial #WebDevelopmen",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oCMsejd6ovM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oCMsejd6ovM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oCMsejd6ovM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oCMsejd6ovM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oCMsejd6ovM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oCMsejd6ovM"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "oCMsejd6ovM",
+        "videoPublishedAt": "2024-11-23T14:20:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "djbkwR5dZACtNDd_eip7hMbSbzE",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4wMTYxQzVBRDI1NEVDQUZE",
+      "snippet": {
+        "publishedAt": "2024-11-14T14:58:52Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #39 uncontrolled component",
+        "description": "In this tutorial, we'll delve into the world of uncontrolled components in React JS. Uncontrolled components are a type of component that doesn't directly manage its own state. Instead, they rely on form elements' built-in state to capture user input.\n\nKey Topics Covered:\n\nWhat are uncontrolled components?\nHow to create uncontrolled input fields\nHandling form submission with uncontrolled components\nValidating user input in uncontrolled components\nBest practices for using uncontrolled components\nBy the end of this video, you'll be able to:\n\nUnderstand the difference between controlled and uncontrolled components\nImplement uncontrolled components in your React JS projects\nHandle user input effectively using uncontrolled components\nValidate user input to ensure data integrity\nJoin us as we explore the power of uncontrolled components and elevate your React JS skills!\n\n#ReactJS #ReactTutorial #UncontrolledComponents #HindiTutorial\n\nDon't forget to like, share, and subscribe for more React JS tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4a5Ax7yHLd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4a5Ax7yHLd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4a5Ax7yHLd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4a5Ax7yHLd4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4a5Ax7yHLd4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4a5Ax7yHLd4"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "4a5Ax7yHLd4",
+        "videoPublishedAt": "2024-11-24T15:18:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "QxVPGpG24kWL2-dVWrXDAkSiZkE",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS42QzdBMzlBQzQzRjQ0QkQy",
+      "snippet": {
+        "publishedAt": "2024-11-15T13:41:44Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #40 Pass Function in Component as Props",
+        "description": "Instagram : code.steps\nIn this 40th tutorial of our React JS series in Hindi, we'll delve into a powerful technique to enhance component reusability and dynamic behavior: passing functions as props.\n\nKey Topics Covered:\n\nUnderstanding Props: Recap of what props are and how they're used to pass data from parent to child components.\nPassing Functions as Props: Learn how to pass functions as props to child components and trigger actions within the parent component.\nPractical Example: Build a real-world example to demonstrate the concept, such as creating a custom button component that can perform different actions based on the passed-down function.\nBest Practices: Explore recommended practices for using functions as props, including handling events, managing state, and optimizing performance.\nBy the end of this tutorial, you'll be able to effectively utilize function props to create more flexible and interactive React applications.\n\n#ReactJS #ReactTutorial #HindiTutorial #WebDevelopment #JavaScript #Programming\n\nAdditional Tips:\n\nEngaging Thumbnail: Create a visually appealing thumbnail that clearly conveys the topic of the video.\nClear and Concise Explanations: Break down complex concepts into simple, easy-to-understand steps.\nPractical Examples: Use real-world examples to illustrate the concepts and make the learning process more engaging.\nCode Snippets: Provide clear code snippets with explanations to help viewers follow along.\nStrong Visuals: Use clear and concise visuals, such as diagrams and code editors, to enhance the learning experience.\nCall to Action: Encourage viewers to like, share, and subscribe to your channel for more React JS tutorials.\nBy following these guidelines, you can create high-quality YouTube videos that effectively teach React JS concepts to Hindi-speaking learners.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lbIHvpCGH6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lbIHvpCGH6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lbIHvpCGH6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lbIHvpCGH6A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lbIHvpCGH6A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lbIHvpCGH6A"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "lbIHvpCGH6A",
+        "videoPublishedAt": "2024-11-25T14:37:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_Rwx7Pc5z_utljjFSmAPp1NradM",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4wRjhFM0MxMTU1MEUzQ0VB",
+      "snippet": {
+        "publishedAt": "2024-11-17T06:49:51Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #40 Forward Ref in react 19 | forwardRef",
+        "description": "Instagram : code.steps\nIn this video, we will learn about forwardRef in React JS 19. ForwardRef is a technique that allows us to access a child component's ref even if the child component is not directly rendered by the parent component. This is useful in a number of scenarios, such as when creating higher-order components or when using React.createRef().\n\nIn this tutorial, we will cover the following topics:\n\nWhat is forwardRef?\nHow to use forwardRef\nWhen to use forwardRef\nForwardRef vs. React.createRef()\nI hope you find this tutorial helpful!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eO_B_HMB8XU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eO_B_HMB8XU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eO_B_HMB8XU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eO_B_HMB8XU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eO_B_HMB8XU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eO_B_HMB8XU"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "eO_B_HMB8XU",
+        "videoPublishedAt": "2024-11-26T14:29:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Px-5aT-14nvTqSCe_VVPc6Z6Wd0",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5CNTZFOTNGQzZEODg1RUQx",
+      "snippet": {
+        "publishedAt": "2024-11-18T18:37:47Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #41 useFormStatus Hook in React js",
+        "description": "Instagram code.steps\n\nIn this tutorial, we will learn about the useFormStatus hook in React JS 19. This hook allows us to track the status of our form, including whether it is valid, dirty, and touched. We will also learn how to use the useFormStatus hook to display validation errors and to submit our form.\n\nTopics covered in this tutorial:\n\nWhat is the useFormStatus hook?\nHow to use the useFormStatus hook to track the status of our form\nWhat is useFormStatus\nExample\nMake form\nHandle submit form\nInterview Question\n\nPlease like, share, and subscribe to my channel for more React JS tutorials.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SRAFPQC2zbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SRAFPQC2zbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SRAFPQC2zbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SRAFPQC2zbA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SRAFPQC2zbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SRAFPQC2zbA"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "SRAFPQC2zbA",
+        "videoPublishedAt": "2024-11-29T08:37:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "I6-_0nkgC_0ViPWm_js00WuIXzk",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5ERkUyQTM0MzEwQjZCMTY5",
+      "snippet": {
+        "publishedAt": "2024-11-18T20:33:30Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #42 useTransition Hook in React js",
+        "description": "Instagram : code.steps\n\nIn this video, we will learn about the useTransition hook in React JS. This hook allows us to create transitions between different states of our React components. We will also learn how to use the useTransition hook with the useSpring hook to create more complex transitions.\n\nTopics covered in this video:\n\nWhat is the useTransition hook?\nHow to use the useTransition hook\nHow to use the useTransition hook with the useSpring hook\nExamples of using the useTransition hook\nI hope you enjoy this video and find it helpful!\n\nHere are some additional points to consider when writing your YouTube video description:\n\nUse keywords that people are likely to search for when looking for videos on this topic.\nInclude a call to action, such as asking viewers to subscribe to your channel or leave a comment.\nKeep your description concise and to the point.\nI hope this helps!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2oGKmTPLQ8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2oGKmTPLQ8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2oGKmTPLQ8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u2oGKmTPLQ8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u2oGKmTPLQ8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "u2oGKmTPLQ8"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "u2oGKmTPLQ8",
+        "videoPublishedAt": "2024-12-05T06:22:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U4K2bxF8_YgQpf577QZfMQXrE2I",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5CNTcxMDQ0NThBNzMxODYz",
+      "snippet": {
+        "publishedAt": "2024-11-18T20:25:00Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #43 Keep Your Components Pure in React.js",
+        "description": "Instagram code.steps\n\nIn this tutorial, we will learn how to keep our React components pure. Pure components are a great way to improve the performance of your React applications.\n\nWhat is a pure component?\n\nA pure component is a component that always returns the same output for the same given inputs. This means that if you pass the same props and state to a pure component, it will always render the same thing.\n\nWhy are pure components important?\n\nPure components can help to improve the performance of your React applications in a number of ways. First, they can help to reduce the number of times that your components need to be rendered. Second, they can help to make your code more predictable and easier to debug.\n\nHow to create a pure component\n\nTo create a pure component, you simply need to extend the React.PureComponent class instead of the React.Component class.\n\nIn this tutorial, we will cover the following topics:\n\nWhat is a pure component?\nWhy are pure components important?\nHow to create a pure component\nHow to use pure components effectively\nAdvanced topics on pure components\nI hope you enjoy this tutorial!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUHAhASN93A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUHAhASN93A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUHAhASN93A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JUHAhASN93A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JUHAhASN93A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JUHAhASN93A"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "JUHAhASN93A",
+        "videoPublishedAt": "2024-12-04T09:07:58Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BRpwAT3dQHNxajRnxIx8iqTJUaI",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS42MjYzMTMyQjA0QURCN0JF",
+      "snippet": {
+        "publishedAt": "2024-11-19T11:55:11Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #44 Derived State in React.js",
+        "description": "Instagram : code.steps\nIn this 44th  React JS tutorial in Hindi, we'll delve into the concept of Derived State. We'll explore how to use derived state to calculate values based on other state variables or props. This technique is invaluable for creating dynamic and efficient React applications.\n\nKey Topics Covered:\n\nUnderstanding the concept of Derived State\nHow to use useMemo and useCallback hooks to optimize derived state calculations\nReal-world examples to illustrate the practical applications of derived state\nBest practices for using derived state effectively\nBy the end of this tutorial, you'll be able to:\n\nImplement derived state in your React components\nOptimize your React applications by avoiding unnecessary re-renders\nWrite cleaner and more efficient React code\nDon't forget to like, share, and subscribe for more React JS tutorials!\n\n#ReactJS #ReactTutorial #HindiTutorial #DerivedState #UseMemo #UseCallback",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w15IdGpuy2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w15IdGpuy2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w15IdGpuy2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w15IdGpuy2s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w15IdGpuy2s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w15IdGpuy2s"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "w15IdGpuy2s",
+        "videoPublishedAt": "2024-12-05T15:03:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cIaUC_0dzRTdITBHzDNMofoVmKU",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS42RTNCOEMxREI3Q0VDMjU2",
+      "snippet": {
+        "publishedAt": "2024-11-20T10:56:15Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #45 Lifting State Up in React js",
+        "description": "Instagram : code.steps\nIn this tutorial, we'll delve into a crucial concept in React: Lifting State Up.\n\nKey Topics Covered:\nUnderstanding the need for lifting state\nHow to lift state to a common parent component\nBest practices for effective state management\nPractical examples to solidify your understanding\nBy the end of this video, you'll be able to:\n\nIdentify scenarios where state lifting is necessary\nImplement state lifting techniques in your React applications\nWrite cleaner and more efficient React code\nDon't forget to like, share, and subscribe for more React JS tutorials!\n\n#ReactJS #ReactTutorial #HindiTutorial #StateManagement #LiftingStateUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o_j17vljfgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o_j17vljfgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o_j17vljfgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o_j17vljfgY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o_j17vljfgY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o_j17vljfgY"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "o_j17vljfgY",
+        "videoPublishedAt": "2024-12-06T16:40:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5RJJQFkc4yzsK2K0P0ajXn_5EiM",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS43QzNCNkZENzIyMDY2MjZB",
+      "snippet": {
+        "publishedAt": "2024-11-20T12:39:08Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #46 Updating Objects in State",
+        "description": "Insta id:  @code.steps\nhttps://www.youtube.com/watch?v=mk7RpyHMUrU\n\nIn this tutorial, we'll dive deep into the intricacies of updating objects within your React state. We'll explore:\n\nThe Immutability Principle: Understanding why direct mutation of state is discouraged and how to maintain data integrity.\nSpread Operator Technique: A concise and effective method for creating new objects with updated values.\nObject.assign() Method: Another powerful tool for merging objects and updating state.\nImmer Library: A library that simplifies state updates by providing a functional approach to mutations.\nPractical Examples: Real-world scenarios to illustrate these techniques and their impact on your React applications.\nBy the end of this tutorial, you'll be confident in handling object state updates, ensuring efficient and predictable behavior in your React components.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C1EctzZQHIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C1EctzZQHIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C1EctzZQHIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C1EctzZQHIQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C1EctzZQHIQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "C1EctzZQHIQ"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "C1EctzZQHIQ",
+        "videoPublishedAt": "2024-12-07T16:23:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9H-anbuKblkUzeQPjMUVGoghkqw",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS5EQkE3RTJCQTJEQkFBQTcz",
+      "snippet": {
+        "publishedAt": "2024-11-21T07:48:30Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #48 useActionState Hook",
+        "description": "Insta id:  @code.stepsIn this tutorial, we'll dive deep into the useActionState hook, a powerful tool for managing state in React applications. We'll explore its key features, benefits, and practical use cases.\n\nKey Topics Covered:\n\nUnderstanding the useActionState Hook\nHow to Use useActionState Effectively\nReal-world Examples and Best Practices\nComparing useActionState with other State Management Solutions\nBy the end of this tutorial, you'll be able to:\n\nImplement complex state management solutions with ease\nWrite cleaner and more efficient React code\nEnhance the performance of your React applications\nJoin us as we unravel the intricacies of useActionState and take your React skills to the next level!\n\n#ReactJS #ReactTutorial #useActionState #ReactStateManagement #HindiTutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23JQJPB8_NE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23JQJPB8_NE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23JQJPB8_NE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/23JQJPB8_NE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/23JQJPB8_NE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "23JQJPB8_NE"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "23JQJPB8_NE",
+        "videoPublishedAt": "2024-12-08T17:47:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AyLV58i0OEG_sqr9EylUHtKhR3s",
+      "id": "UEw4cDJJOUdrbFY0NjNXVUtkVnpVWjE3SURaM1N3b1NUdS4yQzk4QTA5QjkzMTFFOEI1",
+      "snippet": {
+        "publishedAt": "2024-11-21T07:53:53Z",
+        "channelId": "UCvHX2bCZG2m9ddUhwxudKYA",
+        "title": "React JS 19 Tutorial in Hindi #47 Updating Array in State",
+        "description": "Here's a YouTube video description for your React JS tutorial:\n\nVideo Title: React JS 19 Tutorial in Hindi #46 Updating array in State\n\nDescription:\n\nIn this tutorial, we'll delve into the crucial aspect of updating arrays within the state in React JS. We'll explore effective techniques to modify, add, and remove elements from an array state, ensuring seamless data management in your React applications.\n\nKey Topics Covered:\n\nUnderstanding the immutability principle in React\nUsing the map() method to create new arrays\nEmploying the filter() method to remove elements\nLeveraging the concat() and spread operator for adding elements\nImplementing the useState hook to manage array state\nPractical examples to solidify your understanding\nWhether you're a beginner or an intermediate React developer, this tutorial will empower you to confidently handle array state updates in your projects.\n\n#ReactJS #ReactTutorial #HindiTutorial #JavaScript #WebDevelopment #Programming #StateManagement #ArrayManipulation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CZJE-J-CBqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CZJE-J-CBqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CZJE-J-CBqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CZJE-J-CBqg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CZJE-J-CBqg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Code Step By Step",
+        "playlistId": "PL8p2I9GklV463WUKdVzUZ17IDZ3SwoSTu",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CZJE-J-CBqg"
+        },
+        "videoOwnerChannelTitle": "Code Step By Step",
+        "videoOwnerChannelId": "UCvHX2bCZG2m9ddUhwxudKYA"
+      },
+      "contentDetails": {
+        "videoId": "CZJE-J-CBqg",
+        "videoPublishedAt": "2024-12-11T08:11:31Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 113,
+    "resultsPerPage": 50
+  }
+}
