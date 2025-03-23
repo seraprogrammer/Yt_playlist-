@@ -1,0 +1,1030 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "sJb6BcMOh43-23CoIfHjAZloZ-Y",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7y2AwbJBsbYC8lcOeW7b0U-VVYI",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-10-09T17:48:09Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React tutorial for beginners ⚛️",
+        "description": "00:00:00 introduction\n00:01:41 installation\n00:02:48 new project\n00:05:00 how to restart dev server\n00:05:36 project folder explanation\n00:08:13 App component\n00:09:14 new Header component\n00:13:30 new Footer component\n00:16:32 new Food component\n00:19:22 conclusion\n\nNode: https://nodejs.org/en\nVSCode: https://code.visualstudio.com/\nReact docs: https://react.dev/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hn80mWvP-9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hn80mWvP-9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hn80mWvP-9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hn80mWvP-9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hn80mWvP-9g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hn80mWvP-9g"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "hn80mWvP-9g",
+        "videoPublishedAt": "2023-10-09T17:56:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Kut4Y-Cd-YVOMUaqY7ZLDl5jHKU",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-10-14T17:07:34Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React CARD components 🃏",
+        "description": "Card components = typically used to create a reusable and structured UI element for displaying content.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yYiwxYqQ9vg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yYiwxYqQ9vg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yYiwxYqQ9vg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yYiwxYqQ9vg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yYiwxYqQ9vg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yYiwxYqQ9vg"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "yYiwxYqQ9vg",
+        "videoPublishedAt": "2023-10-14T18:06:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xR7QcLbGn4p_CaDL4atakR3hacU",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2023-11-05T16:49:03Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React js how to add CSS styles 🎨",
+        "description": "00:00:00 intro\n00:00:20 Button component\n00:01:32 external CSS\n00:03:25 modular CSS\n00:05:51 inline CSS\n00:07:30 conclusion\n\n// HOW TO STYLE REACT COMPONENTS WITH CSS\n// (not including external frameworks or preprocessors)\n\n// 1. EXTERNAL\n// 2. MODULES\n// 3. INLINE\n\n#reactjs #javascript #tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r3SMd0YTSZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r3SMd0YTSZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r3SMd0YTSZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/r3SMd0YTSZs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/r3SMd0YTSZs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "r3SMd0YTSZs"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "r3SMd0YTSZs",
+        "videoPublishedAt": "2023-11-05T16:59:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D220VmU_s9WTLO6dOr4VpHFsFxI",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-10-15T18:07:04Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "PROPS in React explained 📧",
+        "description": "#React #JavaScript #tutorial \n\n00:00:00 introduction\n00:00:56 props \n00:04:49 index.css \n00:06:28 multiple components\n00:07:49 propType\n00:10:18 defaultProps \n00:11:47 conclusion\n\n// props =  read-only properties that are shared between components.\n//                A parent component can send data to a child component.\n//                key=value\n\n// propTypes = a mechanism that ensures that the passed value\n//                        is of the correct datatype.\n//                       age: PropTypes.number\n\n// defaultProps = default values for props in case they are not\n//                            passed from the parent component\n//                            name: \"Guest\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uvEAvxWvwOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uvEAvxWvwOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uvEAvxWvwOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uvEAvxWvwOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uvEAvxWvwOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uvEAvxWvwOs"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "uvEAvxWvwOs",
+        "videoPublishedAt": "2023-10-15T18:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cWpPgtYv-ygt2FxloJK-7EoFfSg",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2023-10-24T14:08:18Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "How to CONDITIONAL RENDER in React ❓",
+        "description": "Conditional rendering = allows you to control what gets rendered in your application based on certain conditions. (ex. show, hide, or change components)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XvURBpFxdGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XvURBpFxdGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XvURBpFxdGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XvURBpFxdGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XvURBpFxdGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XvURBpFxdGw"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "XvURBpFxdGw",
+        "videoPublishedAt": "2023-10-24T14:19:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yr4P7C2RlDrWwXJdMQtyLjBxD1k",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2023-10-31T18:20:13Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "How to render LISTS in React 📃",
+        "description": "00:00:00 List component setup\n00:00:36 array of strings\n00:03:33 array of objects\n00:05:21 key.id\n00:07:02 sort objects\n00:09:55 filter objects\n00:12:18 resusable List component\n00:16:28 CSS styling\n00:19:43 conditional rendering\n00:21:44 defaultProps\n00:23:19 propTypes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fkl1Kn_QWCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fkl1Kn_QWCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fkl1Kn_QWCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fkl1Kn_QWCI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fkl1Kn_QWCI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fkl1Kn_QWCI"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "fkl1Kn_QWCI",
+        "videoPublishedAt": "2023-10-31T18:32:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gg6IXxzMNviHqLQOh1FqtQvx_xQ",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2023-11-11T18:43:56Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn React Click Events 👆",
+        "description": "00:00:00 intro\n00:00:15 Button component\n00:01:17 onClick attribute\n00:02:18 onClick with parameters \n00:03:49 onClick + conditions\n00:05:50 events\n00:08:02 onDoubleClick\n00:08:28 ProfilePicture component\n00:11:06 Hide an image on click\n00:11:58 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KpiiKuqNlYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KpiiKuqNlYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KpiiKuqNlYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KpiiKuqNlYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KpiiKuqNlYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KpiiKuqNlYw"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "KpiiKuqNlYw",
+        "videoPublishedAt": "2023-11-11T18:45:53Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-ab3FflBIlVMwH5Y_K9jtbwfjkI",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2023-11-20T16:29:28Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React useState() hook introduction 🎣",
+        "description": "#reactjs #course #tutorial \n\n00:00:00 introduction\n00:01:10 setup\n00:01:57 import useState\n00:02:25 update a string\n00:05:38 initial state\n00:05:58 increment a number\n00:07:29 toggle a boolean\n00:09:24 Counter program\n00:13:14 Counter CSS\n00:16:03 conclusion\n\n// React hook = Special function that allows functional components\n//                         to use React features without writing class components \n//                         (useState, useEffect, useContext, useReducer, and more...)                \n\n// useState() = A React hook that allows the creation of a stateful variable\n//                       AND a setter function to update its value in the Virtual DOM.\n//                       [name, setName]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SpDG283b4bw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SpDG283b4bw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SpDG283b4bw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SpDG283b4bw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SpDG283b4bw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SpDG283b4bw"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "SpDG283b4bw",
+        "videoPublishedAt": "2023-11-20T16:37:54Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AOuWnK8YPYIvcJe_jHnNltKaKFY",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2023-11-30T15:23:06Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Learn the React onChange event handler 🚦",
+        "description": "#Reactjs #tutorial #course \n\n// onChange = Event handler used primarily with form elements.\n//                       Triggers a function every time the value of the input changes.\n\n00:00:00 introduction\n00:00:35 input text\n00:02:56 input number\n00:05:00 text area\n00:07:18 select options\n00:10:22 radio buttons\n00:14:07 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JhIbXor84Wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JhIbXor84Wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JhIbXor84Wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JhIbXor84Wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JhIbXor84Wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JhIbXor84Wc"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "JhIbXor84Wc",
+        "videoPublishedAt": "2023-11-30T16:07:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YYC-FQZv-V2wb8N5JXaS5XzEfM8",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2023-12-05T21:39:16Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Build this React Color Picker app in 10 minutes 🖌",
+        "description": "#reactjs #tutorial #course \n\nThis program serves as an exercise to practice using the useState hook and the onChange event handler.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3hCN3dLHV24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3hCN3dLHV24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3hCN3dLHV24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3hCN3dLHV24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3hCN3dLHV24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "3hCN3dLHV24"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "3hCN3dLHV24",
+        "videoPublishedAt": "2023-12-05T21:47:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EikpSCuD1BqkX2jq42AxXRLBANU",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2023-12-08T16:03:57Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "What are React updater functions? 🔄",
+        "description": "#reactjs #tutorial #course\n\n// updater function = A function passed as an argument to setState() usually\n//                                  Allow for safe updates based on the previous state\n//                                  Used with multiple state updates and asynchronous functions\n//                                  Good practice to use updater functions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nbAaUpNDhRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nbAaUpNDhRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nbAaUpNDhRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nbAaUpNDhRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nbAaUpNDhRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nbAaUpNDhRY"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "nbAaUpNDhRY",
+        "videoPublishedAt": "2023-12-08T16:15:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "O-Jz7jcZ-VyL4Ihh2GFNtVuBDYA",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2023-12-09T14:06:17Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React JS how to update OBJECTS in state 🚗",
+        "description": "#reactjs #tutorial #course \n\n\"You can put objects and arrays into state. In React, state is considered read-only, so you should replace it rather than mutate your existing objects. For example, if you have a form object in state, don’t mutate it:\"\n\n Treat any JavaScript object that you put into state as read-only",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YxQlt3n1ZPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YxQlt3n1ZPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YxQlt3n1ZPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YxQlt3n1ZPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YxQlt3n1ZPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YxQlt3n1ZPA"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "YxQlt3n1ZPA",
+        "videoPublishedAt": "2023-12-09T14:22:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q06o5Apu-_4LOoV6RgR6XFomkoc",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2023-12-09T17:08:36Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React JS how to update ARRAYS in state 🍎",
+        "description": "#reactjs #tutorial #course \n\n\"You can put objects and arrays into state. In React, state is considered read-only, so you should replace it rather than mutate your existing objects. For example, if you have a form object in state, don’t mutate it:\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9Bz2YxhAQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9Bz2YxhAQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9Bz2YxhAQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A9Bz2YxhAQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A9Bz2YxhAQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "A9Bz2YxhAQk"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "A9Bz2YxhAQk",
+        "videoPublishedAt": "2023-12-09T17:18:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ebF9jCPR9NLxnXtnZrTaFZMP5L4",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2023-12-10T03:06:50Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React JS update ARRAY of OBJECTS in state 🚘",
+        "description": "#reactjs #tutorial #course \n\n\"You can put objects and arrays into state. In React, state is considered read-only, so you should replace it rather than mutate your existing objects. For example, if you have a form object in state, don’t mutate it:\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y62mbztjmus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y62mbztjmus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y62mbztjmus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y62mbztjmus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y62mbztjmus/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Y62mbztjmus"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "Y62mbztjmus",
+        "videoPublishedAt": "2023-12-10T12:58:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AQTOk-Uckd9sR8xAAIbsOr1n9S4",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2023-12-19T19:09:46Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Build this React To-Do List app in 20 minutes! ☝",
+        "description": "#reactjs #utorial #course \n\nThis is a project you can write using React JS with only using the useState hook. Impress your friends or potential employer!\n\n00:00:00 setup\n00:03:12 HTML\n00:09:26 CSS\n00:16:39 JS functions",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9wiWzu_tRB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9wiWzu_tRB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9wiWzu_tRB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9wiWzu_tRB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9wiWzu_tRB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9wiWzu_tRB0"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "9wiWzu_tRB0",
+        "videoPublishedAt": "2023-12-19T19:13:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u930hxOuQOLL2IWWvVxk9lE9kHY",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2024-01-05T20:59:05Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React useEffect() hook introduction 🌟",
+        "description": "#react #tutorial #course \n\n00:00:00 introduction\n00:02:00 setup\n00:03:25 no dependencies\n00:04:50 empty dependency array\n00:05:51 1 dependency\n00:07:25 multiple dependencies\n00:09:57 why use useEffect()?\n00:11:33 example 2\n00:15:51 return\n00:17:31 multiple useEffect() hooks\n00:18:52 conclusion\n\n// useEffect()\n// React Hook that tells React to DO THIS CODE WHEN:\n// (pick one) \n// This component re-renders\n// This component mounts\n// The state of a value changes\n\n// useEffect(function, [dependencies])\n\n// USES\n// #1 Event Listeners\n// #2 DOM manipulation\n// #3 Subscriptions (real-time updates)\n// #4 Fetching Data from an API\n// #5 Clean up when a component unmounts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L-1sP3Ljhsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L-1sP3Ljhsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L-1sP3Ljhsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L-1sP3Ljhsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L-1sP3Ljhsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "L-1sP3Ljhsg"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "L-1sP3Ljhsg",
+        "videoPublishedAt": "2024-01-06T14:34:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sKjC6Xtwxv_xQPyD6UhDgoPGYmc",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2024-01-07T03:21:14Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Build a DIGITAL CLOCK using React in 15 minutes! 🕒",
+        "description": "#reactjs #tutorial #course \n\nThis is a beginner's project using only useState() and useEffect() to create a clock that you can add to your portfolio.\n\n00:00:00 setup\n00:02:23 CSS\n00:07:22 declarations\n00:07:50 useEffect()\n00:10:06 formatTime()\n00:13:25 padZero()\n00:15:28 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AiQ-V_0qvRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AiQ-V_0qvRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AiQ-V_0qvRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AiQ-V_0qvRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AiQ-V_0qvRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AiQ-V_0qvRI"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "AiQ-V_0qvRI",
+        "videoPublishedAt": "2024-01-07T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0rgVAir_EBmKaP5lm4T3XRE0sxI",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2024-01-09T18:26:19Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React useContext() hook introduction 🧗‍♂️",
+        "description": "#reactjs #tutorial #course \n\n00:00:00 intro\n00:00:13 setup\n00:04:39 props\n00:06:01 prop drilling\n00:06:17 useContext\n00:06:27 Provider Component\n00:08:28 Consumer Components\n00:10:11 multiple consumer components\n00:11:10 conclusion\n\n// useContext() = React Hook that allows you to share values\n//                            between multiple levels of components\n//                            without passing props through each level",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FpNfvbNYPsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FpNfvbNYPsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FpNfvbNYPsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FpNfvbNYPsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FpNfvbNYPsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FpNfvbNYPsg"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "FpNfvbNYPsg",
+        "videoPublishedAt": "2024-01-09T18:27:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tshV0vkRb_KvyL_6PdZr2ZfWceE",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2024-01-11T22:54:55Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "React useRef() hook introduction 🗳️",
+        "description": "#reactjs #tutorial #course \n\n00:00:00 introduction\n00:01:01 setup\n00:03:02 useRef()\n00:05:11 html ref attribute\n00:08:06 multiple useRef()\n00:10:10 useState() vs useRef()\n00:10:28 conclusion\n\n// useState() = Re-renders the component when the state value changes\n// useRef()   = Does not cause re-renders when its value changes.\n//              1. Accessing/Interacting with DOM elements\n//              2. Handling Focus, Animations, and Transitions\n//              3. Managing Timers and Intervals",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AltU-XcGvuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AltU-XcGvuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AltU-XcGvuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AltU-XcGvuo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AltU-XcGvuo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "AltU-XcGvuo"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "AltU-XcGvuo",
+        "videoPublishedAt": "2024-01-12T14:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jAe89dJBADjVFllh_-B6XZbLtC4",
+      "id": "UExaUFpxMHJfUlpPTVFBcnp5STMybVZuZEdCWjNEOTlYUS5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2024-01-13T20:56:21Z",
+        "channelId": "UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "title": "Build a Stopwatch using React in 20 minutes! ⏱",
+        "description": "#reactjs #tutorial #course\n\nThis is a beginner's React project that uses only useState, useEffect, and useRef.\n\n00:00:00 imports/exports\n00:01:17 useState + useRef\n00:02:48 function declarations \n00:03:39 HTML \n00:05:45 CSS\n00:11:45 functions\n00:14:06 useEffect()\n00:16:10 formatTime()\n00:19:19 conclusion",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jPo0mIcNZfM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jPo0mIcNZfM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jPo0mIcNZfM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jPo0mIcNZfM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jPo0mIcNZfM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bro Code",
+        "playlistId": "PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jPo0mIcNZfM"
+        },
+        "videoOwnerChannelTitle": "Bro Code",
+        "videoOwnerChannelId": "UC4SVo0Ue36XCfOyb5Lh1viQ"
+      },
+      "contentDetails": {
+        "videoId": "jPo0mIcNZfM",
+        "videoPublishedAt": "2024-01-14T15:00:35Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 50
+  }
+}
