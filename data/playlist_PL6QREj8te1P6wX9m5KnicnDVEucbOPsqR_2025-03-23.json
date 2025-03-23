@@ -1,0 +1,1795 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "F3_1o3Shbs2UdxPGRbT4OgGfQW0",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mu1lx1aR9f26Cdc-39IVRDLmjIA",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4xMzgwMzBERjQ4NjEzNUE5",
+      "snippet": {
+        "publishedAt": "2024-06-14T11:49:34Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy 3 Modern UI/UX Websites and Get Hired as a Frontend Developer | Full 10-Hour Course",
+        "description": "Build three beautiful UI/UX websites to transform you into a front-end developer ready to be hired! This course covers stylish UI design, mobile-first principles, custom animations, and 3D models, all while improving your React.js, Next.js, and Tailwind CSS skills.\n\n⭐ Hostinger BLACK FRIDAY | Save up to 80% for the Business plan for just $2.95 per month - https://hostinger.com/mastery10, with a 91%  off coupon code: JAVASCRIPTMASTERY\n\n🌟 Sentry - https://bit.ly/4abT6PG\n\nFirst Project (3D Iphone Website)\n📙 Limited-time FREE 218-page Ultimate Next.js eBook - https://resource.jsmastery.pro/nextjs-ebook\n📙 Three.js & GSAP Guide - https://resource.jsmastery.pro/threejs-gsap-guide\n📘 ESLint & Prettier Guide - https://resource.jsmastery.pro/eslint-prettier-guide\n📚 Materials/References:\n→ GSAP Workshop Starter: https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter\n→ GSAP Workshop Final: https://github.com/JavaScript-Mastery-Pro/gsap-crash-course\n→ GitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/iphone\n→ README (assets & code): https://github.com/adrianhajdin/iphone/blob/main/README.md\n→ GLTFs into JSX: https://github.com/pmndrs/gltfjsx\n\nSecond Project (Brainwave Website)\n🎨 Full Brainwave Design: https://ui8.net/ui8/products/brainwave-ai-landing-page-kit?rel=jsm\n🎨 Other UI8 Designs: https://www.ui8.net/?rel=jsm\n📚 Materials/References:\n→ GitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/brainwave\n→ README (assets & code): https://github.com/adrianhajdin/brainwave/blob/main/README.md\n→ Deployed website: https://jsm-brainwave.com/\n\nThird Project (Dev Portfolio)\n🎨 Portfolio Figma Design - https://resource.jsmastery.pro/minimal-portfolio\n📘 Portfolio Best Practices Guide - https://resource.jsmastery.pro/portfolio-best-practices\n🤖 Special Discord Forum - https://resource.jsmastery.pro/portfolio-discord\n📚 Materials/References:\n→ GitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/portfolio\n→ README (assets & code): https://github.com/adrianhajdin/portfolio/blob/main/README.md\n\n🌟 Become a top 1% Next.js 15 developer: https://jsmastery.pro/next15\n🚀 Skyrocket your career in 4 months: https://jsmastery.pro/masterclass\n\n💻 Join our Discord Community: https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://www.instagram.com/javascriptmastery/\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 — Intro\n00:10:20 — GSAP & Three.js Crash Course\n00:48:07 — 3D iPhone Website\n03:57:42 — Brainwave Website \n07:11:38 — Developer Portfolio Website",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RbxHZwFtRT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RbxHZwFtRT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RbxHZwFtRT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RbxHZwFtRT4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RbxHZwFtRT4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RbxHZwFtRT4"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "RbxHZwFtRT4",
+        "videoPublishedAt": "2024-06-14T11:49:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xtyhT6q-UViMahic-dat8ioTENs",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi44QzVGQUU2QjE2NDgxM0M4",
+      "snippet": {
+        "publishedAt": "2024-05-17T13:13:29Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an Amazing Developer Portfolio with Next JS and Framer Motion",
+        "description": "Learn how to build and deploy a modern developer portfolio with animations using Next.js. Perfect for showcasing your web development skills!\n\n⭐ Hostinger BLACK FRIDAY | Save up to 80% for the Business plan for just $2.95 per month - https://hostinger.com/mastery10, with a 91%  off coupon code: JAVASCRIPTMASTERY\n\n🌟 Sentry - https://bit.ly/4abT6PG\n\n📙 Limited-time FREE 218-page Ultimate Next.js eBook - https://resource.jsmastery.pro/nextjs-ebook\n🎨 Portfolio Figma Design - https://resource.jsmastery.pro/minimal-portfolio\n📘 Portfolio Best Practices Guide - https://resource.jsmastery.pro/portfolio-best-practices\n🤖 Special Discord Forum - https://resource.jsmastery.pro/portfolio-discord\n\n🌟 Become a top 1% Next.js 15 developer: https://jsmastery.pro/next15\n🚀 Skyrocket your career in 4 months: https://jsmastery.pro/masterclass\n\n📚 Materials/References:\nGitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/portfolio\nREADME (assets & code): https://github.com/adrianhajdin/portfolio/blob/main/README.md\n\n💻 Join our Discord Community - https://discord.com/invite/n6EdbFJ\n🐦 Follow us on Twitter: http://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: http://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 — Intro\n00:05:40 — Project Setup\n00:14:48 — Hero Section\n00:40:30 — Bento Grid\n01:23:18 — Recent Projects\n01:43:40 — Sentry\n01:52:56 — Testimonials\n02:06:00 — Work Experience\n02:14:18 — My Approach Section\n02:26:24 — Footer\n02:35:13 — Fixing Bugs\n02:39:19 — Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTH6Dn3AyIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTH6Dn3AyIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTH6Dn3AyIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FTH6Dn3AyIQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FTH6Dn3AyIQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FTH6Dn3AyIQ"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "FTH6Dn3AyIQ",
+        "videoPublishedAt": "2024-05-17T13:13:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GVVcKwc8XhZetDlmDyRCDvO7Vkw",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2024-03-19T15:59:31Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Figma Clone",
+        "description": "Build a Figma clone with real-world features like live collaboration through cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using Next.js 14, Fabric.js, and Liveblocks.\n\n⭐ Liveblocks: https://liveblocks.io\n\n🌟 Become a top 1% Next.js 15 developer in only one course: https://jsmastery.pro/next15\n📙 Limited-time FREE 218-page Ultimate Next.js eBook - https://resource.jsmastery.pro/nextjs-ebook\n\n📚 Materials/References:\nGitHub Repository (give it a star ⭐): https://github.com/adrianhajdin/figma_clone\nREADME (assets & code): https://github.com/adrianhajdin/figma_clone/blob/main/README.md\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 - Intro\n00:04:39 - Setup\n00:09:13 - Liveblocks\n00:16:07 - File Structure & Shadcn\n00:25:17 - Live Cursors\n01:03:46 - Reactions\n01:27:46 - Active Users\n01:47:00 - Sidebars\n01:49:37 - Canvas\n01:58:03 - Toolbar & Shapes Menu\n02:08:09 - Real-Time Feature\n02:33:03 - History Feature\n02:35:00 - Undo & Redo\n02:41:42 - Images\n02:48:23 - Right Sidebar\n02:59:46 - Dimensions Settings\n03:07:48 - Text Settings\n03:10:15 - Color Settings\n03:13:49 - Export to PDF\n03:16:16 - Comments Bubble\n03:38:47 - Custom Context Menu\n03:48:17 - Free Drawing Fix\n03:50:38 - TypeScript Types Fix\n03:54:04 - Dev Tool\n03:55:47 - Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oKIThIihv60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oKIThIihv60"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "oKIThIihv60",
+        "videoPublishedAt": "2024-02-02T11:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dOGxH0BZbFzccoVS-83ndmmQJeQ",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2024-03-19T15:59:31Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a React Admin Dashboard With Real time Data, Charts, Events, Kanban, CRM, and More",
+        "description": "Build an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for companies with CRUD and search, and a Kanban board with real-time synchronization using Refine Framework.\n\n⭐ Refine: https://github.com/refinedev/refine\n‎💻 App Source Code and Readme (code snippets at the bottom): https://github.com/refinedev/refine/tree/master/examples/app-crm-minimal\n\n📙 Limited-time FREE 218-page Ultimate Next.js eBook - https://resource.jsmastery.pro/nextjs-ebook\n🌟 Become a top 1% Next.js 15 developer in only one course: https://jsmastery.pro/next15\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 — Intro\n00:04:33 — Create Refine Project\n00:07:39 — Refine Dev Tools\n00:09:48 — Remove unnecessary files\n00:10:45 — Data provider setup\n00:29:44 — Auth provider\n00:34:02 — Workflow setup\n00:36:41 — Initial routes demo\n00:40:39 — Update login\n00:42:49 — App routes and layout setup\n01:33:04 — Home deals and upcoming events\n02:15:49 — Latest activities and total count cards\n02:52:53 — Company list page\n03:12:24 — Create company\n03:29:25 — Company edit\n03:47:34 — Kanban board\n05:11:04 — Kanban task create\n05:18:45 — Kanban task edit\n05:28:26 — Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6a3Dz8gwjdg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6a3Dz8gwjdg"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "6a3Dz8gwjdg",
+        "videoPublishedAt": "2024-01-19T13:34:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A78Zbl8-LexJtQhDSdPsFXvOZJM",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2023-10-27T10:08:54Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query",
+        "description": "Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.\n\n⭐ Appwrite: https://apwr.dev/JSMastery\n\n🌟 Become a top 1% Next.js 15 developer in only one course: https://jsmastery.pro/next15\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/social_media_app\nGitHub Gist (Assets + code): https://gist.github.com/adrianhajdin/4d2500bf5af601bbd9f4f596298d33ac\nActive Lessons: https://www.jsmastery.pro/blog\n\nThere is an editing error in the YouTube video at 3:13:28. I discuss the useCreate mutation hook before it's made at 3:19:28. Just follow along and implement the hook at 3:19:28; it'll work fine.\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 - Intro\n00:05:56 - Setup\n00:15:50 - Routing\n00:18:51 - File & Folder Structure\n00:23:49 - Auth Pages\n00:51:16 - Auth Functionality - Appwrite\n01:02:39 - Storage & Database Design\n01:31:21 - TanStack Query\n02:15:48 - HomePage\n02:48:27 - Create Post\n03:39:48 - Post Card\n04:32:53 - Post CRUD\n04:49:44 - Post Details\n05:02:03 - Explore Page\n05:29:03 - Search Results\n05:39:22 - Active Lesson\n05:45:58 - Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_W3R2VwRyF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_W3R2VwRyF4"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "_W3R2VwRyF4",
+        "videoPublishedAt": "2023-10-27T10:08:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Ama2BLu9jF1O2pQ_4lM5TFL-Ns",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2023-03-03T11:04:36Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an Amazing 3D Web Developer Portfolio in React JS | Beginner Three.js Tutorial",
+        "description": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! \n\n📁 Video Kit | Guide, Design, Repository, Readme, and more - https://beta.jsmastery.pro/video-kit/d8d459a8-d572-44ee-b699-41e4df96f443\n\n⭐ Hostinger BLACK FRIDAY | Save up to 80% for the Business plan for just $2.95 per month - https://hostinger.com/mastery10, with a 91%  off coupon code: JAVASCRIPTMASTERY\n\nIn this course, you'll learn the following:\n- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model\n- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React\n- TailwindCSS - a popular utility-first CSS styling framework\n- Framer Motion - the most popular library used to bring your React website to life with animations\nYou'll also learn how to:\n- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.\n- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices\n- Implement sending emails through a form on the website\n- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.\n\n💻 Join JSM on Discord - https://discord.gg/n6EdbFJ\n🐦 Follow JSM on Twitter - https://twitter.com/jsmasterypro\n🖼️ Follow JSM on Instagram - https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\n👇 Time Stamps:\n00:17:55 Layout\n00:21:07 Navigation bar\n00:40:57 Hero Section\n01:07:41 About Section\n01:17:09 Higher Order Component\n01:23:28 Experience Section\n01:44:33 Projects Section\n02:01:01 Testimonials\n02:13:15 Contact\n02:32:09 3D Stars\n02:49:09 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0fYi8SGA20k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0fYi8SGA20k"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "0fYi8SGA20k",
+        "videoPublishedAt": "2023-03-03T11:04:36Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5Zxqlgqa_KGhw6iEwqDBoXXr_f0",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2022-10-14T10:44:41Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications",
+        "description": "Welcome to the ultimate course, which will help you become a master of Modern Web Development by Building Real Industry Applications. In this compilation of videos, you'll build social media applications, eCommerce applications, a professional development portfolio, and more!\n\n💻 Build Apps with Professional Mentors - https://resource.jsmastery.pro/masterclass\n✅ JSM Masterclass Experience - https://www.jsmastery.pro/full-stack-web-development-bootcamp\n\n⭐ Sanity JSM Subscriber Special - https://www.sanity.io/javascriptmastery\n⭐ Get help with Sanity on their Slack Channel - https://slack.sanity.io\n\nThis video may contain code snippets or concepts specific to a previous version of Sanity Studio. In most cases, you can find the information needed to adapt the material to the latest Studio version by exploring Sanity docs: https://www.sanity.io/docs/migrating-from-v2\n\nShowcase your dev skills with practical experience and land the coding career of your dreams:\n💻 JS Mastery Pro - https://jsmastery.pro/youtube\n✅ A unique YOUTUBE discount code is automatically applied!\n\nIn this compilation of videos, you'll learn the following:\n- Advanced React Best Practices, such as folder & file structure, hooks, and refs\n- Advanced State Management of the entire application using React Context API\n- Next.js best practices, such as static generation and server-side rendering\n- You’ll learn how to create Modern User Interfaces using Tailwind CSS\n- You’ll learn how to integrate OAuth to log in and register users using Google\n- You’ll learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process\n- You’ll also learn TypeScript\n- And most importantly, you’ll learn how to manage the entire content of your applications using Sanity. Sanity is a unified content platform that’ll make the making of our entire applications possible.\n\nDeploy the apps to the internet and get a unique domain name for each by using the following links:\n⭐ Hostinger - http://hostinger.com/javascriptmastery\n⭐ Discount Code - JAVASCRIPTMASTERY\n\n💻 Join JSM on Discord - https://discord.gg/n6EdbFJ\n🐦 Follow JSM on Twitter - https://twitter.com/jsmasterypro\n🖼️ Follow JSM Instagram - https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\n💻First Project: Modern Full Stack Social Media App\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_shareme_social_media\nStyles & Other Code: https://gist.github.com/adrianhajdin/a53fdfe71225af2f550b853ae983f0d0\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_shareme_social_media/tree/main/frontend_sanity/src/assets\nGoogle Console - https://www.console.cloud.google.com \nTailwind: https://tailwindcss.com/docs/guides/create-react-app\n\n💻 Second Project: ECommerce React Application \nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/ecommerce_sanity_stripe\nStyles & Other Code: https://gist.github.com/adrianhajdin/55e019f0ec6a48c0ca6d933d3cf0181c\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/ecommerce_sanity_stripe/tree/main/public/assets\n\n💻 Third Project:  Fullstack Responsive Portfolio\nContinue watching here: https://youtu.be/3HNyXCPDQ7Q?t=13580\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_professional_portfolio\nSanity Schemas: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_professional_portfolio/tree/master/backend_sanity_portfolio/schemas\nStyles & Other Code: https://gist.github.com/adrianhajdin/52b513f1d8a8189747595a587c3132e4\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_professional_portfolio/tree/master/src/assets\nCSS BEM Methodology: https://www.devbridge.com/articles/implementing-clean-css-bem-method\n\n💻 Fourth Project: TikTok Clone Application\nContinue watching here https://youtu.be/CcBHZ0t2Qwc\n\n\r👇 Time Stamps\n00:00:00 - Intro\n00:04:58 - First Application\n04:43:17 - Second Application\n08:14:29 - Third Application\n11:59:06  - Fourth Application",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XxXyfkrP298/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XxXyfkrP298"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "XxXyfkrP298",
+        "videoPublishedAt": "2022-10-14T10:44:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "THNUSLLYbkksS6Aa5laNXAfZSN4",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2022-09-23T11:43:33Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Better Spotify 2.0 Clone Music App with React 18! (Tailwind, Redux, RapidAPI)",
+        "description": "Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more, this is the best music application you can currently find on YouTube.\n\n⭐RapidAPI Extension - https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n⭐RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n⭐RapidAPI Shazam Core API- https://rapidapi.com/tipsters/api/shazam-core?utm_source=youtube.com/JavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n\n💻 Build Apps with Professional Mentors - https://resource.jsmastery.pro/masterclass\n✅ JSM Masterclass Experience - https://www.jsmastery.pro/full-stack-web-development-bootcamp\n\nShowcase your dev skills with practical experience and land the coding career of your dreams:\n💻 JS Mastery Pro - https://jsmastery.pro/youtube\n✅ A unique YOUTUBE discount code is automatically applied!\n\n📚 Materials/References:\nStarter Code: https://drive.google.com/file/d/1iTlXIZ4T3BBKjgLMsDpQn-Eux1B3ZyXO/view?usp=sharing\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_music_player\n\nIn this course, you'll learn:\n- React functional components and their reusability\n- React file and folder structure\n- We'll use Redux Toolkit to manage the state of our application\n- You'll achieve mastery using Tailwind and make the app responsive on all devices\n- You'll learn how to fetch data from unlimited sources using RapidAPI.\n\n💻 Join JSM on Discord - https://discord.gg/n6EdbFJ\n🐦 Follow JSM on Twitter - https://twitter.com/jsmasterypro\n🖼️ Follow JSM Instagram - https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\n👇 Time Stamps\n00:00:00 - Intro\n00:06:31 - Setup\n00:12:38 - Discover Section\n00:23:50 - Rapid API Music Fetching\n00:39:16 - Loader Component\n00:40:50 - Error Component\n00:41:50 - Song Card Component\n00:59:48 - Play/Pause Functionality\n01:05:38 - Sidebar\n01:19:00 - Top Play Section\n01:28:03 - Top Chart Card \n01:30:57 - Top Artist - Swiper Component\n01:42:50 - Song Details Page\n02:12:53 - Artist Details Page\n02:20:50 - Around You, Top Charts & Artists\n02:36:31 - Search\n2:52:48 - Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I1cpb0tYV74/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I1cpb0tYV74"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "I1cpb0tYV74",
+        "videoPublishedAt": "2022-09-23T11:43:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1DfSEWOp-D8VyWYAmTDcQwN0aZY",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2022-08-26T12:02:28Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5 | RapidAPI",
+        "description": "Master modern web development by building a responsive React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from your YouTube Clone App!\n\n⭐RapidAPI Extension - https://marketplace.visualstudio.com/items?itemName=RapidAPI.vscode-rapidapi-client&utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n⭐RapidAPI YouTube v3 - https://rapidapi.com/ytdlfree/api/youtube-v31?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n⭐RapidAPI - https://rapidapi.com/?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n\n📙 Get the ultimate free resources, guides, and eBooks: https://www.jsmastery.pro/resources\n\nShowcase your dev skills with practical experience and land the coding career of your dreams:\n💻 JS Mastery Pro - https://jsmastery.pro/youtube\n✅ A unique YOUTUBE discount code is automatically applied!\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_youtube_clone\nGitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/9725da94fa1f08c9668d856d3c94dd47\nHosting - http://hostinger.com/javascriptmastery\n\nReact.js, Material UI, and just a couple of other dependencies, you'll build everything else from scratch!\r\n\nIn this course, you'll learn:\n- React functional components and their reusability\n- React file and folder structure\n- You'll achieve mastery using Material UI (version 5)\n- Perfectly placed media queries for satisfactory responsiveness on all devices\n- And most importantly, fetching data from unlimited sources using RapidAPI.\n\n💻 Join JSM on Discord - https://discord.gg/n6EdbFJ\n🐦 Follow JSM on Twitter - https://twitter.com/jsmasterypro\n🖼️ Follow JSM Instagram - https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\n👇 Time Stamps\n00:14:55 - Layout\n00:24:25 - Navbar\n00:36:06 - Feed & Sidebar\n00:50:02 - API Data fetching\n01:04:00 - Videos\n01:31:07 - Profile page\n01:51:30 - Search\n01:57:29 - Video Details\n02:17:30 - Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FHTbsZEJspU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FHTbsZEJspU"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "FHTbsZEJspU",
+        "videoPublishedAt": "2022-08-26T12:02:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6fvZa9Ti7Y6oehNSFig9miGCBLA",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2022-07-02T16:32:11Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack TikTok Clone Application and Master TypeScript | Full Course (Part 1)",
+        "description": "Every web developer needs to know how to build a Social Media Website. Learn to build the best and most modern one using React, Next.js, and TypeScript simply by watching this course. \n\nOur TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design, and much more.\n\n⭐Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery\n⭐Get help with Sanity on their Slack Channel - https://slack.sanity.io\n\nThis video may contain code snippets or concepts specific to a previous version of Sanity Studio. In most cases, you can find the information needed to adapt the material to the latest Studio version by exploring Sanity docs: https://www.sanity.io/docs/migrating-from-v2\n\n🌴Nomadawhat's Remote Freedom System - https://go.nomadawhat.com/theremotefreedomsystem\n🌴Nomadawhat - https://nomadawhat.com/\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_tiktik\nGitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/a844254aa10510d62ecafc21d0c3714c\nUtils Folder: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_tiktik/tree/main/utils\nGoogle Console - https://console.cloud.google.com/\n\nIn this course, you'll learn:\n- TypeScript - one of the most in-demand languages today\n- Advanced State Management of the entire React application \n- Next.js Best Practices such as file-based routing and data using server-side rendering and static generation\n- You’ll learn how to integrate OAuth to log in and register users using Google\n- You'll learn how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible\n\n📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://taplink.cc/javascriptmastery/p/7fb4d6\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00 Intro\n00:19:35 Setup\n00:39:06 Sidebar\n00:54:34 Discover\n01:09:09 Main Video View\n01:55:24 Google Auth\n02:06:11 Creating User Store\n02:30:05 Upload Video Functionality\n03:10:43 Part two coming soon!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CcBHZ0t2Qwc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CcBHZ0t2Qwc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CcBHZ0t2Qwc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CcBHZ0t2Qwc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CcBHZ0t2Qwc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CcBHZ0t2Qwc"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "CcBHZ0t2Qwc",
+        "videoPublishedAt": "2022-07-02T16:32:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XG7hwXPLEfm3vTCUfZE3-5OyiEM",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2022-06-11T12:18:06Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern React 18 Fitness Exercises App With APIs | RapidAPI",
+        "description": "Every web developer needs to know how to use APIs in their applications. Learn how to create the best and most modern Fitness Exercises App using two separate APIs!\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n⭐RapidAPI ExerciseDB - https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb?utm_source=youtube.com/JavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n⭐RapidAPI YouTube Search - https://rapidapi.com/h0p3rwe/api/youtube-search-and-download?utm_source=youtube.com/JavaScriptMastery&utm_medium=referral&utm_campaign=DevRel\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_fitness_app\nStyles & Other Code: https://gist.github.com/adrianhajdin/65d0f830036fd72b22f2d921ae3e29ad\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_fitness_app/tree/main/src/assets\n\nWith the functionality to choose exercise categories and specific muscle groups, browse more than one thousand exercises with practical examples, pagination, exercise details, pull related videos from youtube, display similar exercises, and much more, Golds Gym is the best React Fitness App that you can currently find on YouTube and on the entire internet.\n\nAlongside building this phenomenal project that you can put on your portfolio, In this video, you'll learn:\n\n- Advanced React Best Practices such as file structure and hooks\n- Creating a Beautiful User Interface using the Material UI (version 5)\n- Fetching data from unlimited sources using RapidAPI\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 Intro\n00:04:05 Setup\n00:10:32 File & Folder Structure\n00:16:24 Navbar\n00:26:21 Hero Banner\n00:36:36 Search Exercises\n00:48:48 Fetch Data\n00:36:36 Search Exercises\n01:00:00 Horizontal Scrollbar\n01:06:00 Body Part Component\n01:16:20 Exercises Component\n01:22:34 Exercises Card Component\n01:39:16 Exercises Detail\n01:46:39 Detail Component\n02:01:55 Exercise Videos\n02:15:12 Similar Exercises\n02:17:45 Loader\n02:19:21 Fixing Bugs\n02:23:33 Footer\n02:27:49 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KBpoBc98BwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KBpoBc98BwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KBpoBc98BwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KBpoBc98BwM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KBpoBc98BwM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KBpoBc98BwM"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "KBpoBc98BwM",
+        "videoPublishedAt": "2022-06-11T12:20:39Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YSwm4hE1ogh-b0zoAxUFvxYCEoE",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2022-05-20T10:01:36Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More",
+        "description": "Every web developer needs to build a React Admin Dashboard Application. Learn how to create the best and most modern one simply by watching this course. This Admin Panel includes one Dashboard, Three Pages, Four Apps, and Seven fully functional charts!\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐Syncfusion Components: https://bit.ly/39pzH3R\n⭐Syncfusion React Components: https://bit.ly/3lhzpyB\n\nIf you want to get a finished, highly customizable Material UI version of a similar dashboard, check out Flexy React Material Dashboard - https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_syncfusion_dashboard\nStyles & Other Code: https://gist.github.com/adrianhajdin/7d0eea1cbab4ab21a69dc8c2faf9b831\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_syncfusion_dashboard/tree/main/src/data\n\nYou'll learn how to build a fully functional calendar, a kanban board, a WYSIWYG editor, and a color picker, as well as seven different charts!\n\nAlongside building this phenomenal application, in this video, you'll learn:\n- Advanced React Best Practices such as folder and file structure, hooks, and refs\n- Advanced State Management of the entire application using React Context API\n- And most importantly you’ll learn how to use Syncfusion - World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the unique promo code \"YOUTUBE\" on checkout to save $60!\n\n📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://taplink.cc/javascriptmastery/p/7fb4d6\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 Intro\n00:08:16 Setup\n00:51:38 Sidebar\n01:06:21 Context API\n01:15:25 Navbar\n01:39:45 Homepage\n01:54:44 Revenue Section\n02:17:36 Data Tables\n02:36:10 Calendar\n02:44:02 Kanban\n02:49:21 WYSWYG Editor\n02:53:49 Color Picker\n02:59:13 Theme Fixes\n03:33:10 Charts\n03:51:18 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jx5hdo50a2M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jx5hdo50a2M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jx5hdo50a2M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jx5hdo50a2M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jx5hdo50a2M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jx5hdo50a2M"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "jx5hdo50a2M",
+        "videoPublishedAt": "2022-05-20T10:01:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AURKn5RBEnqCzdMMZLauqMWdkno",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2022-04-22T11:23:47Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern Full Stack ECommerce React Application with Stripe",
+        "description": "Every web developer needs to know how to build an ECommerce website using React. Learn how to build the best and most modern one simply by watching this course. Our e-commerce application will include modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\nBuild even more comprehensive, modern applications such as an AI-Powered Movie App and an NFT Marketplace application - Check it out now - https://www.jsmastery.pro 🔥\n\n⭐Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery\n⭐Sanity Content Platform - https://www.sanity.io\n⭐Get help with Sanity on their Slack Channel - https://slack.sanity.io\n\nThis video may contain code snippets or concepts specific to a previous version of Sanity Studio. In most cases, you can find the information needed to adapt the material to the latest Studio version by exploring Sanity docs: https://www.sanity.io/docs/migrating-from-v2\n\n📙Ultimate Frontend Development Roadmap - https://resource.jsmastery.pro/frontend-roadmap\n📙Ultimate Backend Development Roadmap - https://resource.jsmastery.pro/backend-roadmap\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/ecommerce_sanity_stripe\nStyles & Other Code: https://gist.github.com/adrianhajdin/55e019f0ec6a48c0ca6d933d3cf0181c\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/ecommerce_sanity_stripe/tree/main/public/assets\n\nIn this course, you'll learn:\n- Advanced React Best Practices such as folder and file structure, hooks, and refs\n- Advanced State Management of the entire application using React Context API\n- Next.js Best Practices such as file-based routing and data using server-side rendering and static generation\n- You’ll learn how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process\nMost importantly, you’ll learn how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the unique promo code \"YOUTUBE\" on checkout to save $60!\n\n📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://taplink.cc/javascriptmastery/p/7fb4d6\n\n💻 Join our Discord Community - https://discord.gg/n6EdbFJ\n🐦 Follow us on Twitter: https://twitter.com/jsmasterypro\n🖼️ Follow us on Instagram: https://instagram.com/javascriptmastery\n\n💼 Business Inquiries: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 Intro & Setup\n00:10:20 Sanity Setup\n00:24:33 Homepage\n00:40:37 Hook up Sanity\n00:54:13 Products\n01:06:33 Layout\n01:16:24 Product Details\n01:42:10 Context Logic\n02:02:52 Cart Logic\n02:36:52 Stripe\n03:09:48 Success Page\n03:26:36 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4mOkFXyxfsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4mOkFXyxfsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4mOkFXyxfsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4mOkFXyxfsU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4mOkFXyxfsU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4mOkFXyxfsU"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "4mOkFXyxfsU",
+        "videoPublishedAt": "2022-04-22T11:26:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "r96Gw7GPnocO_8spa823XE1rC9U",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2022-03-04T11:06:58Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "React JS Full Course | Build an App and Master React in 1 Hour",
+        "description": "After building this simple, half-hour movie application, imagine what a long and comprehensive 20-hour Next.js course would look like! Check it out now - jsmastery.pro/next15\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n📙 Limited-time FREE 218-page Ultimate Next.js eBook - https://resource.jsmastery.pro/nextjs-ebook\n\n📚 Materials/References:\nUltimate React Roadmap - https://resource.jsmastery.pro/reactjs-guide\nJS Mastery PRO - https://resource.jsmastery.pro/pro\nMovie App Code - https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1\n2022 Web Dev Roadmap - https://youtu.be/xORdz1Hi9Gc\nJavaScript Course: https://www.completepathtojavascriptmastery.com/\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\nLearning JavaScript libraries and frameworks can be overwhelming. There are many libraries to choose from, and no proper step-by-step guides that’ll teach you how to use these libraries to their fullest potential. That’s why, in this video, you’ll learn the most popular JavaScript library, used by hundreds of thousands of developers worldwide - React.js.\n\nIf you want to learn everything from the essential JSX syntax all the way to more advanced React topics, like state, hooks, data fetching, and more, you’ve come to the right place. Most importantly, I’ll teach you how to build a React.js application so that you can actively internalize and independently apply everything you’ve learned in this beginner-friendly React Crash Course video. \n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00 Overview\n00:13:10 React in Practice\n00:41:08 Developing a Project",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b9eMGE7QtTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b9eMGE7QtTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b9eMGE7QtTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b9eMGE7QtTk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b9eMGE7QtTk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b9eMGE7QtTk"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "b9eMGE7QtTk",
+        "videoPublishedAt": "2022-03-04T11:06:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dXz7D9j9xefJD7gJEG-HWgSNPgI",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2022-01-14T11:01:09Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI",
+        "description": "Welcome to the ultimate course, which will help you become a master of APIs by Building Real Industry Applications. In this compilation of videos, you'll build a Travel Companion App, a Cryptocurrency App, a Real Estate App, a  Google Clone App, as well as create your own API!\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\nAlong the way, you'll learn:\n- Advanced React Best Practices, such as folder & file structure, hooks, and refs\n- Next.js best practices, static generation, and server-side rendering\n- Creating User Interfaces using Material UI / Chakra UI / Ant Design and Tailwind CSS\n- Working with Google Maps API,  Redux Toolkit, Charts\n- And most importantly, fetching data from unlimited sources using RapidAPI\n\n⭐ RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n📧 JSM Mailing List https://resource.jsmastery.pro/newsletter 🔥\n\n📚 Materials/References:\nFirst Application - Travel Companion App:\n⭐ Travel Advisor API - https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Open Weather Map API - https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_travel_advisor\nStyles & Other Code: https://gist.github.com/adrianhajdin/ede527249054b7abbdf4e3a9fac95b5e\nIf you get: \"This page can't load Google Maps correctly.\" and \"For development purposes only.\" that means that you have to enter your billing details. Google requires that to verify your identity and distinguish actual people from robots. You'll be getting free $200 worth of API requests indefinitely, and you will NOT be charged.\n\nAPIs Crash Course:\n⭐ RapidAPI Learn - https://rapidapi.com/learn/rest-apis/introduction?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Paw - https://paw.app\nTurn an API into a Startup?! Build & Sell an API with JavaScript: https://youtu.be/be9sHQ7xqo0\nAPI Cheatsheet: https://resource.jsmastery.pro/api-cheatsheet\n\nSecond Application - Cryptocurrency App:\n⭐ CoinRanking API - https://rapidapi.com/Coinranking/api/coinranking1?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Bing News Search - https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_cryptoverse\nStyles & Other Code: https://gist.github.com/adrianhajdin/1008c664fe7896b316f5efbff8d97935\ncryptocurrency.png: https://i.ibb.co/Z11pcGG/cryptocurrency.png\nnews image URL: https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News\nSince the 1st of January 2022, you'll have to make the following changes to the code:\n1. Change the api v1 to v2 on RapidAPI\n2. In new version, to access the exchanges endpoint you'll need a premium plan\n3. Change the coin price history endpoint to the following - `coin/${coinId}/history?timeperiod=${timeperiod}`\n4. Change coin id to coin uuid in cryptocurrencies.jsx file\n5. In cryptoDetails.jsx file make sure to match the stats and genericStats values\n\nThird Application - Real Estate App:\n⭐ Bayut API - https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\nGitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/projects_realestate\nMentioned Code - https://gist.github.com/adrianhajdin/2fb91c8b6e7b2e64671c85ea4c05cbc9\n\nFourth Application - Build Your Own API:\nURLs and Finished Code - https://gist.github.com/adrianhajdin/13a69e174448b112785523128d34139c\nScraperAPI - https://www.scraperapi.com?_go=jsmastery\n\nFifth Application - Google Clone App:\n⭐ Google Search API - https://rapidapi.com/apigeek/api/google-search3?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\nVSC Extensions - https://resource.jsmastery.pro/vsc-extensions\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_google_clone\n\n💻 Discord - https://discord.gg/n6EdbFJ\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 Intro\n00:03:27 First Application\n02:14:42 APIs Crash Course\n02:50:11 Second Application\n05:04:09 Third Application\n05:40:21 Fourth Application\n07:49:01 Fifth Application",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GDa8kZLNhJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GDa8kZLNhJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GDa8kZLNhJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GDa8kZLNhJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GDa8kZLNhJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GDa8kZLNhJ4"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "GDa8kZLNhJ4",
+        "videoPublishedAt": "2022-01-14T11:01:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "iAFkBgtnrOdyZ4PTdlOXS5voPF8",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-12-21T10:34:02Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern Full Stack Social Media App | FULL COURSE",
+        "description": "With all advanced Social Media features, such as Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more, ShareMe is the best Image Sharing Social Media App that you can currently find on YouTube and on the entire internet.\n\nYou'll also learn how to work with Sanity. Sanity.io is the platform for structured content. It allows you to manage text, images, and all other data using APIs.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\nBuild even more comprehensive, modern applications such as an AI-Powered Movie App and an NFT Marketplace application. Become a professional developer today - https://www.jsmastery.pro 🔥\n\n⭐Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmastery \n⭐Sanity - https://www.sanity.io\n\nThis video may contain code snippets or concepts specific to a previous version of Sanity Studio. In most cases, you can find the information needed to adapt the material to the latest Studio version by exploring Sanity docs: https://www.sanity.io/docs/migrating-from-v2\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_shareme_social_media\nStyles & Other Code: https://gist.github.com/adrianhajdin/a53fdfe71225af2f550b853ae983f0d0\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_shareme_social_media/tree/main/frontend_sanity/src/assets\nGoogle Console - https://www.console.cloud.google.com \nTailwind: https://tailwindcss.com/docs/guides/create-react-app\n\nIn this video, you'll learn advanced #ReactJS Best Practices, Google Authentication, #Tailwind CSS, and most importantly, you'll learn how to manage the content of your entire app using Sanity. \n\n📧 Join our exclusive JavaScript Mastery Newsletter on Web Development, JavaScript & React to get complete programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n🌐 My personal recommendation for hosting services: https://www.hostinger.com/javascriptmastery\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\nTime Stamps 👇\n00:00 Intro\n00:04:43 Project Setup\n00:24:28 Frontend Setup\n00:39:58 Auth - Login/Register\n01:08:26 Home, Sidebar & Navbar\n01:59:16 Feed View\n02:24:30 Pin Component\n02:58:34 Create Pin\n03:30:18 Pin Details\n04:02:13 User Profile\n04:20:17 Search & Categories\n04:30:52 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1RHDhtbqo94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1RHDhtbqo94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1RHDhtbqo94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1RHDhtbqo94/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1RHDhtbqo94/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1RHDhtbqo94"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "1RHDhtbqo94",
+        "videoPublishedAt": "2021-12-21T10:34:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ORyHOIw-v25nW0SV2_3d1u2kB3w",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-11-26T11:00:44Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Modern Real Estate App | React Website Tutorial",
+        "description": "This video is perfect for you if you want to improve your #ReactJS and #NextJS skills by building Realtor - an amazing Real Estate Application. With rental homes and for-sale properties, advanced property filtering, property details page with an image carousel, and much more, Realtor is the best Real Estate App that you can currently find on YouTube.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐ RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Bayut API - https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/projects_realestate\nMentioned Code - https://gist.github.com/adrianhajdin/2fb91c8b6e7b2e64671c85ea4c05cbc9\n\n📧 Join our exclusive JavaScript Mastery Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n⭐Hostinger is my personal recommendation for hosting - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\nBy the end of this video, you'll learn:\n- React Best Practices\n- Next.js best practices, static generation, and server-side rendering\n- Creating a User Interface using #ChakraUI\n- And most importantly fetching data from unlimited sources using RapidAPI\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 Intro\n00:08:34 File & Folder Structure\n00:31:22 Real Estate Properties\n00:52:44 Nav & Footer\n01:02:11 Search Page\n01:23:03 Search Filters\n01:34:09 Property Details\n02:05:47 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y47gYvXchXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y47gYvXchXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y47gYvXchXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y47gYvXchXM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y47gYvXchXM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y47gYvXchXM"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "y47gYvXchXM",
+        "videoPublishedAt": "2021-11-26T11:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZFcaaOYWf4m_7eNWBAmxSowOV-I",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-12-01T10:26:10Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a React Cryptocurrency App and Master Redux Toolkit in One Video",
+        "description": "Learn advanced React best practices, State Management using Redux Toolkit, UI Creation using Ant Design, creating charts using Chart.js, and fetching data from multiple sources using RapidAPI while building the best Cryptocurrency App on YouTube - Cryptoverse.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐ RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ CoinRanking API - https://rapidapi.com/Coinranking/api/coinranking1?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Bing News Search - https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n\nSince the 1st of January 2022 you'll have to make the following changes to the code:\n1. Change the api v1 to v2 on RapidAPI\n2. In new version, to access the exchanges endpoint you'll need a premium plan\n3. Change the coin price history endpoint to the following - `coin/${coinId}/history?timeperiod=${timeperiod}`\n4. Change coin id to coin uuid in cryptocurrencies.jsx file\n5. In cryptoDetails.jsx file make sure to match the stats and genericStats values\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_cryptoverse\nStyles & Other Code: https://gist.github.com/adrianhajdin/1008c664fe7896b316f5efbff8d97935\ncryptocurrency.png: https://i.ibb.co/Z11pcGG/cryptocurrency.png\nnews image URL: https://www.bing.com/th?id=OVFT.mpzuVZnv8dwIMRfQGPbOPC&pid=News\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n⭐Hostinger is my personal recommendation for hosting - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\nTime Stamps 👇\n00:00:00 Intro\n00:02:06 RapidAPI\n00:03:25 Layout\n00:32:59 Homepage \n00:36:31 Redux Toolkit & API Dev\n00:53:32 Cryptocurrencies\n01:11:28 Crypto News\n01:32:02 Crypto Details\n01:56:24 Chart\n02:01:37 Mobile navigation\n02:06:22 Challenge",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9DDX3US3kss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9DDX3US3kss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9DDX3US3kss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9DDX3US3kss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9DDX3US3kss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9DDX3US3kss"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "9DDX3US3kss",
+        "videoPublishedAt": "2021-09-18T15:54:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dEISbPuo9j__vXlJSp_a4e8Spik",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-08-06T12:24:49Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Google Maps Travel Companion Application | React.js",
+        "description": "Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering are just some features that make this Travel Advisor App the best Maps Application that you can currently find on YouTube 🔥\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐ RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Travel Advisor API - https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Open Weather Map API - https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n\nIf you get: \"This page can't load Google Maps correctly.\" and \"For development purposes only.\" that means that you have to enter your billing details. Google requires that to verify your identity and distinguish actual people from robots. You'll be getting free $200 worth of API requests indefinitely and you will NOT be charged.\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_travel_advisor\nStyles & Other Code: https://gist.github.com/adrianhajdin/ede527249054b7abbdf4e3a9fac95b5e\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n⭐Hostinger is my personal recommendation for hosting - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\nIn this video, you'll learn:\n- Advanced React Best Practices, such as folder & file structure, hooks, and refs\n- Creating a User Interface using Material UI\n- Working with Google Maps API\n- fetching data from unlimited sources using RapidAPI\n\nProject created in collaboration with Enyel Sequeira - https://www.enyelsequeira.com\nWant me to cover the project you've created? Send me an e-mail 👌\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\nTime Stamps 👇\n00:00:00 Intro\n00:02:10 Setup\n00:03:32 Demo\n00:07:09 Project Setup\n00:13:02 Folder Structure\n00:19:19 Header\n00:27:40 Map\n00:35:42 List\n00:45:51 Working with APIs\n01:05:08 Place Card\n01:20:39 Display Places on the Map\n01:27:53 Scroll Places & Filters\n01:46:39 Places Search\n01:57:24 Weather API\n02:04:18 Change Map Styles\n02:06:08 ENV\n02:10:06 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UKdQjQX1Pko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UKdQjQX1Pko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UKdQjQX1Pko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UKdQjQX1Pko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UKdQjQX1Pko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UKdQjQX1Pko"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "UKdQjQX1Pko",
+        "videoPublishedAt": "2021-08-06T12:24:49Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FjS6KwgQ2rjWmhcfrPKXPifrl4Q",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-01-29T12:05:31Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Chat Application using React JS - Build and Deploy a Chat App in 1 Hour (Microsoft Teams)",
+        "description": "LEARN: Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!\n\nThis course breaks down everything you need to know to create a React Chat App. With online statuses, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, and much more, this chat app is like no other that you can currently find on YouTube.\n\nBackend is hosted by https://chatengine.io \nComponents are made by https://npmjs.com/package/react-chat-engine \n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter🔥\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐)  - https://github.com/adrianhajdin/chat_application\nStyles - https://gist.github.com/adrianhajdin/c3a3195dd091359f3402a572961abb98\n\n⭐Hostinger is my personal recommendation for hosting - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\n💼 Business Inquiries: javascriptmastery00@gmail.com\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\n\n#socketio #chatapp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jcOKU9f86XE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jcOKU9f86XE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jcOKU9f86XE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jcOKU9f86XE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jcOKU9f86XE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jcOKU9f86XE"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "jcOKU9f86XE",
+        "videoPublishedAt": "2021-01-29T12:05:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GPCv-HCpw22Ya0zVX02vtMZpx_Q",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2020-04-07T11:05:24Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Realtime Chat Application - Socket.io, Node.js, and React.js",
+        "description": "In this video, we will create a full Realtime Chat Application. We're going to use  React on the front end, with NodeJS + Socket.io web socket library on the back end. \n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter🔥\n\nBy the end of this video, you will have a strong understanding of how to send and receive messages using web sockets and Socket.io to make any real-time application.\n\nIf you have troubles with create-react-app, make sure to run it as 'npx create-react-app', they've changed it since I posted this video.\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐)  - https://github.com/adrianhajdin/project_chat_application\nReact Hooks Video - http://bit.ly/react_hooks\nIcon 1: http://bit.ly/firstIcon\nIcon 2: http://bit.ly/secondIcon\n\n💼 Business Inquiries: javascriptmastery00@gmail.com\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\n\n#socketio #javascript #react",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZwFA3YMfkoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZwFA3YMfkoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZwFA3YMfkoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZwFA3YMfkoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZwFA3YMfkoc"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "ZwFA3YMfkoc",
+        "videoPublishedAt": "2019-09-30T17:11:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "18l-QHbRJQ4tXyVJF75Eq1Emalc",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-12-01T10:26:10Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "ECommerce Web Shop - Build & Deploy an Amazing App | React.js, Commerce.js, Stripe",
+        "description": "Learn how to build & deploy a complete eCommerce website. In this video, we're going to build a fully functional eCommerce application using commerce.js. \n\nWhile building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive. \n\nThis video contains a bit of advanced JavaScript, if you're feeling insecure about your knowledge and if you like my style of teaching, I'd definitely recommend my advanced JavaScript course: https://www.completepathtojavascriptmastery.com\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐ Commerce.js \nhttps://commercejs.com\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐)  - https://github.com/adrianhajdin/project_e_commerce\nStyles: https://gist.github.com/adrianhajdin/9867aefce5318f27c95990553f428c6e\nIcon Image: https://i.ibb.co/Qp1SXBw/commerce.png\n\nIf you're experiencing any issues or bugs visit https://commercejs.com/docs/community/faq :)\n\n💼 Business Inquiries: javascriptmastery00@gmail.com\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n⭐Hostinger is my personal recommendation for hosting - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\n🌎 Find Me Here:\nInstagram: https://instagram.com/javascriptmastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\n\nTime Stamps 👇\n00:00 Intro\n04:12 Setup\n09:20 Mock Products\n25:07 Navbar\n35:01 Commerce Products\n52:50 Add to Cart\n01:01:24 Cart Layout\n01:21:17 React Router\n01:29:11 Cart Buttons\n01:38:01 Checkout\n01:49:56 Address Form\n02:04:48 Fetch Countries\n02:23:00 Fetch Subdivisions\n02:42:33 Review\n02:49:38 Payment Form & Stripe\n03:08:49 Integration\n03:18:40 Mobile Responsiveness\n03:20:23 Bug Fixes\n03:21:36 No Credit Card Fix\n03:25:45 Deployment\n\n#ecommerce #react #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/377AQ0y6LPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/377AQ0y6LPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/377AQ0y6LPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/377AQ0y6LPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/377AQ0y6LPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "377AQ0y6LPA"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "377AQ0y6LPA",
+        "videoPublishedAt": "2020-11-28T17:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2TeUY4qm1BSLruoHHTrLD2XP4jU",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2020-04-07T11:02:43Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build a COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)",
+        "description": "In this video, we will create a COVID-19 Tracker/Stats Application. We're going to use React with the addition of Charts.js, Material UI, and many different modules. \n\nBecome a PRO at JavaScript:  https://bit.ly/MasterJavaScript\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter🔥\n\nCorona Virus is, unfortunately, spreading through the entire world. What can we, as developers, do to make the situation better? We can help to spread awareness by visualizing the data. The data is fetched from the API and we'll create cards displaying the statistics as well as Charts. This project/application is created using the most modern JavaScript syntax. Along the way, you'll learn how to use Material UI, Charts.js, React Hooks, API data fetching, all of it in React JS!\n\nThe project is going to fetch the live data from the API using Async/Await syntax. In this video, we also use React Hooks! By the end of this video, you will have a strong understanding of React's workflow; including data fetching, hooks, folder structure, and more.\n\nDisclaimer: The API used in this video stopped displaying the daily values. The whole project still works absolutely fine. If you want to have the daily data (and a corresponding chart), I found the API that offers the daily data for the US and implemented it. All necessary changes that you need to make are in this GitHub commit - http://bit.ly/DailyDataFix. (while you're there feel free to 🌟the repository)\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐)  - https://github.com/adrianhajdin/project_corona_tracker\nImage: https://i.ibb.co/7QpKsCX/image.png\nAPI: https://covid19.mathdro.id/api\n\n💼 Business Inquiries: contact@jsmastery.pro\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\n\n#reactjs #webdev #javascript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/khJlrj3Y6Ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/khJlrj3Y6Ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/khJlrj3Y6Ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/khJlrj3Y6Ls/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/khJlrj3Y6Ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "khJlrj3Y6Ls"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "khJlrj3Y6Ls",
+        "videoPublishedAt": "2020-04-05T13:12:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V6L1nHyNdFEE5wqbRIUhK41ZQZA",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-08-30T11:14:59Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Full Stack Realtime Chat Messaging App with Authentication & SMS Notifications",
+        "description": "With Direct and Group Chats, emojis & Reactions, Built-in Gif support, the ability to edit & delete messages, specialized commands, and much more, this fully responsive Medical Pager is the best Chat App that you can currently find on YouTube.\n\nYou'll also learn how to work with Stream. GetStream.io is the number one Chat Messaging platform that allows you to build scalable and custom chat applications using their APIs. \n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐Stream - https://gstrm.io/js-mastery\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_medical_pager_chat\nStyles & Other Code: https://gist.github.com/adrianhajdin/900fc7bb6cff0db26a5b6fa7106e7b17\nAssets: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_medical_pager_chat/tree/master/client/src/assets\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\nTime Stamps 👇\n00:00:00 Intro\n00:05:40 Setup\n00:11:21 Initial Structure\n00:50:07 Client-Side Auth\n01:08:57 Server-Side Auth\n01:29:32 Client-Server Communication\n01:45:15 Channel Container\n02:01:57 Create Channel and Sidebar\n02:58:22 Edit Channel\n03:06:47 Search\n03:17:43 Twilio SMS Notifications\n03:28:38 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MJzbJQLGehs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MJzbJQLGehs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJzbJQLGehs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MJzbJQLGehs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MJzbJQLGehs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MJzbJQLGehs"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "MJzbJQLGehs",
+        "videoPublishedAt": "2021-08-30T11:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eyWofT62eN9t4HG7tsVCTCYxbas",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2020-05-29T16:14:39Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a React PWA - Why Progressive Web Apps are the Future of the Web",
+        "description": "❗ IMPORTANT:\n\nBecome a PRO at JavaScript:  https://bit.ly/MasterJavaScript\n\n⭐Tabnine - https://www.tabnine.com/now?utm_source=youtube.com&utm_medium=Ins&utm_campaign=JSM\n\nIn this video, you're going to learn how to build a #PWA using #React. After the application is built, I'm going to show you how you can deploy it and also publish it to a special PWA store! We'll create custom service workers and use a JSON Manifest. Stay tuned!\n\nProgressive Web Apps provide you with a unique opportunity to deliver a web experience your users will love. Using the latest web features to bring native-like capabilities and reliability, Progressive Web Apps allow what you build to be installed by anyone, anywhere, on any device with a single codebase. \n\nUnfortunately, as of now, the founders of the PWA store closed their website. You'll still be able to code along with this video and do everything just fine! 😊 \n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter🔥\n\n📚  Materials/References:\nGitHub Code (feel free to give it a star ⭐)  - https://github.com/adrianhajdin/project_weather_pwa\nAll materials (API link, API key, image src link, offline.htm, App.css): https://gist.github.com/adrianhajdin/fd4a0db480ee827f11756bdae0597f0d\nLogo.png: https://ibb.co/Y3yyW93\nbg.jpg: https://ibb.co/7XgmzCw\n\n💼 Business Inquiries: contact@jsmastery.pro\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IaJqMcOMuDM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IaJqMcOMuDM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IaJqMcOMuDM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IaJqMcOMuDM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IaJqMcOMuDM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "IaJqMcOMuDM"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "IaJqMcOMuDM",
+        "videoPublishedAt": "2020-05-29T16:52:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JLgyey3PHuKYzZVzAyQHYGu2mng",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-05-28T13:07:57Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build a BETTER Facebook Messenger Chat Application | React JS, Firebase, Chat Engine",
+        "description": "LEARN: Routing, Firebase Social Login, Firebase Google Login, Firebase Facebook Login, React Context API, Chat Engine, REST API's, environment variables, and more!\n\nIn this project video, you'll build a full-fledged Firebase Chat Application. With social authentication including Google and Facebook using Firebase, online statuses, great design, and functionality, image support, sound notifications, the ability to create multiple rooms, and much more, this chat app is even better than the first chat application video I've created. I've listened to every single one of your comments and added all the features that you've requested.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n📚 Materials/References:\nStarter & Code - https://github.com/adrianhajdin/unichat-course\nChat Engine - https://chatengine.io\nFirebase - https://firebase.google.com\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n⭐Hostinger is my personal recommendation for hosting - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\n\nTime Stamps 👇\n00:00 Intro\n00:01:25 Demo & Setup\n00:10:35 Firebase\n00:20:57 Context\n00:39:36 Create Users API\n00:52:19 ENV\n00:55:00 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bv9Js3QLOLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bv9Js3QLOLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bv9Js3QLOLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bv9Js3QLOLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bv9Js3QLOLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Bv9Js3QLOLY"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "Bv9Js3QLOLY",
+        "videoPublishedAt": "2021-05-28T13:07:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZhW8Ri35AxNgDGlfUHdulzc7N8o",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-11-12T12:33:44Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Fully Responsive Modern UI/UX Website in React JS",
+        "description": "This video is perfect for you if you want to learn how to transform a Figma design into a fully functioning website, improve your CSS skills, and create modern and responsive #ReactJS websites.\n\nBuild even more comprehensive, modern applications such as an AI-Powered Movie App and an NFT Marketplace application - Check it out now - https://www.jsmastery.pro 🔥\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\r\n\n⭐Hostinger - https://www.hostinger.com/javascriptmastery\nUse the code JAVASCRIPTMASTERY to save up to 91% on all yearly hosting plans.\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐) - https://github.com/adrianhajdin/project_modern_ui_ux_gpt3\nAssets - https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/adrianhajdin/project_modern_ui_ux_gpt3/tree/main/src/assets\nStyles - https://gist.github.com/adrianhajdin/f944d6e74d2ce1922efebe55c908d0d8\nFigma Design - https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3\nAR Shakir's Designs - https://www.arshakir.com\nBEM Guide - https://sparkbox.com/foundry/bem_by_example\n\nBy the end of this video, you'll learn:\n- React functional components and their reusability\n- React file and folder structure\n- Fundamental #CSS properties to master flex & grid\n- Fundamentals of the CSS BEM Model\n- From soft and pleasant animations to complex gradients\n- Perfectly placed media queries for satisfactory responsiveness covering almost all devices\n- And at the end, you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.\n\n📧 Join our exclusive JavaScript Mastery Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmastery.pro/newsletter 🔥\n\n💻 Discord - https://discord.gg/n6EdbFJ\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com/\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: contact@jsmastery.pro\n\nTime Stamps 👇\n00:00:00 Intro\n00:13:29 File & Folder Structure\n00:28:58 Navigation Bar\n01:05:23 Header\n01:33:14 Brands Section\n01:37:49 What is GP3 Section\n01:58:54 Future is Now Section\n02:04:16 Features\n02:16:33 CTA \n02:33:05 Blog Section\n02:55:06 Footer\n03:16:34 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LMagNcngvcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LMagNcngvcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LMagNcngvcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LMagNcngvcU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LMagNcngvcU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LMagNcngvcU"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "LMagNcngvcU",
+        "videoPublishedAt": "2021-11-12T12:33:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "M3H0wUNG91vTLLTT6OgrO6F3Jcg",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-02-28T15:22:23Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Learn Material UI in One Hour - React Material UI Project Tutorial [2022]",
+        "description": "Are you new to Material UI? Have you heard about it but never actually tried it out? Maybe you dived into it but it felt overwhelming? It's easy to learn if you know where to start! This video will help you to get started quickly, welcome to a one-hour Material UI Crash Course.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐ Taskade - https://www.taskade.com\nContact - support@taskade.com\n\n📚 Materials/References:\nMaterial UI - https://material-ui.com\n\n💼 Business Inquiries: javascriptmatery00@gmail.com\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmasterypro.com/newsletter 🔥\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xoz31I1FuiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xoz31I1FuiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xoz31I1FuiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xoz31I1FuiY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xoz31I1FuiY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Xoz31I1FuiY"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "Xoz31I1FuiY",
+        "videoPublishedAt": "2021-02-28T15:24:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SBIa09ApuQv9e4y0GbjSOg5WkYc",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-04-02T12:01:18Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "React Video Chat App | WebRTC Video Chat Zoom Clone | Tabnine",
+        "description": "Create a React Video Chat Application using WebRTC.\n\n⭐Tabnine - https://www.tabnine.com/now?utm_source=youtube.com&utm_medium=Ins&utm_campaign=JSM\n\nAs you know,, most of the social and work life moved online; that sparked an evolution in video sharing services like Zoom, Google Meet, and many others. Today, you're going to build an app that allows you to video chat with your friends and colleagues just as well as Zoom does.\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐): https://github.com/adrianhajdin/project_video_chat\nStyles: https://gist.github.com/adrianhajdin/600d9d89c7edbbb006626d6742ad64e0\n\n💼 Business Inquiries: javascriptmastery00@gmail.com\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmasterypro.com/newsletter 🔥\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oxFr7we3LC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oxFr7we3LC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oxFr7we3LC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oxFr7we3LC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oxFr7we3LC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oxFr7we3LC8"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "oxFr7we3LC8",
+        "videoPublishedAt": "2021-04-02T12:01:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FPVP4rXRtFDASEcamZllFOPORJ4",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2020-04-07T11:06:59Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a YouTube Clone Application Using React",
+        "description": "❗ IMPORTANT:\n\nBecome a PRO at JavaScript:  https://bit.ly/MasterJavaScript\nUse the special promo code \"JSM_YT_SQUAD\" on checkout to save $50!\n\nFree JavaScript Cheat Sheet:  https://bit.ly/FreeJsCheatsheet Attain mastery as a developer. Check out this extremely useful tool to help you remember what you learn - https://mem.dev.\n\nIn this video we are going to build a YouTube Clone Application from Scratch using React. This project is great for learning React because is covers a lot of concepts that appear often in reactjs workflow. We're going to mention lifecycle methods, project structure, destructuring, state management, passing props from parent to child components, API calls and much more. \n\nGitHub link (feel free to give it a star ⭐) - https://github.com/adrianhajdin/project_youtube_video_player\n\nAPI Key -  https://console.developers.google.com.\n\nMany of you had requested that I create a patreon, here it is, you get the chance to become one of the first supporters - https://www.patreon.com/javascriptmastery.\n\nIf you found this video educational, a subscribe would mean a lot, a lot of interesting tutorials are coming - https://bit.ly/2ArnMyb.\n\nUpload this project to GitHub - https://youtu.be/XpvA00MRZ0o",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VPVzx1ZOVuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VPVzx1ZOVuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VPVzx1ZOVuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VPVzx1ZOVuw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VPVzx1ZOVuw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VPVzx1ZOVuw"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "VPVzx1ZOVuw",
+        "videoPublishedAt": "2019-08-04T14:59:34Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "GA7C8Y1nvY3jbZTzgovnmdbGkGw",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2020-08-04T16:59:42Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy an ARTIFICIAL INTELLIGENCE React App | Alan AI, JavaScript",
+        "description": "In this video, we're going to build an Artificial Intelligence React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it. We'll do it together in this video and afterward, you'll be able to create your own voice-controlled apps.  \n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\nLive Site: https://voice.alan.app/JSMasteryNewsApp\nAlan AI: https://voice.alan.app/JSMastery1\nAlan GitHub: https://voice.alan.app/JSMasteryGithub\n\n📚 Materials/References:\nPromo Code: JSMASTERY (2500 free interactions!)\nMentioned Materials (styles, info cards, links, images): https://gist.github.com/adrianhajdin/507b59bebcfdfc53e4b9394b2c6b9055\nGitHub Repository (feel free to give it a star ⭐)  https://github.com/adrianhajdin/project_news_alan_ai\nAlan Studio Project Code: https://gist.github.com/adrianhajdin/bab49eac7dcf9c095fce37ae1167dd87\n\nIf you have any problems with the code, reference to the two links above. There you can find the entire code for this project and see what you did wrong. :)\n\n💼 Business Inquiries: contact@jsmastery.net\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\n\n #javascript #reactjs #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rqw3OftE5sA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rqw3OftE5sA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rqw3OftE5sA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rqw3OftE5sA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rqw3OftE5sA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rqw3OftE5sA"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "rqw3OftE5sA",
+        "videoPublishedAt": "2020-08-04T17:03:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "-aK7D75yuIWu_6NZkJe_uXmZciw",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2020-12-20T16:58:42Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Voice Powered React App - Budget Tracker | Context API, Local Storage, Speechly",
+        "description": "In this video, you're going to build a Complex Expense Budget Tracker. While building it, you're going to learn many advanced React & JavaScript topics. Some of them are State Management in React, Context API, Local Storage, Material UI, and how to create a scalable React folder structure. But most importantly, you're going to learn how to add voice capabilities to your applications using Speechly. \n\n⭐ Speechly - https://www.speechly.com/\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐) - https://github.com/adrianhajdin/speechly_expense_tracker_project\nNPM packages: npm i react@16.12.0 react-dom@16.12.0 @material-ui/core @material-ui/icons @material-ui/lab @speechly/react-client @speechly/react-ui chart.js react-chartjs-2 uuid\nSpeechly Dashboard - https://api.speechly.com/dashboard/\nBackground Image - https://pasteboard.co/JHehdEm.png\nStyles - https://gist.github.com/adrianhajdin/58d4454849ab9a602f9800380d935e45\nCategories Constants - https://gist.github.com/adrianhajdin/d6622041e7c21cbc8991bf8638bb5314\nSpeechly Config - https://gist.github.com/adrianhajdin/aa28f5c4928d05fe55aae37d83dc98d2\n\nComplete Path to JavaScript Mastery - https://www.completepathtojavascriptmastery.com\n\n📧 Join our JavaScript Mastery's Newsletter on Web Development, JavaScript & React to get exclusive programming guides, tips & tricks, and entire e-books: https://resource.jsmasterypro.com/newsletter🔥\n\n💼 Business Inquiries: javascriptmastery00@gmail.com\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n#expensetracker #reactjs #reactproject",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NnUFOWR_V4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NnUFOWR_V4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NnUFOWR_V4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NnUFOWR_V4Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NnUFOWR_V4Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NnUFOWR_V4Y"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "NnUFOWR_V4Y",
+        "videoPublishedAt": "2020-12-20T16:58:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CtEE-JEy1awa3TUFEjG5Ew0-SCo",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-12-01T10:26:10Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy a Group Video Chat Application with Messaging, Polls & More",
+        "description": "With screen sharing capabilities, private and group messaging, admin controls, polls, and much more, this video chat app is the best group video conference app that you can currently find on YouTube.\n\nYou'll also learn how to work with Agora. Agora.io is one of the most popular voice and video platforms that allows you to build scalable and custom real-time applications. \n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐Agora -  https://www.agora.io/en/\n⭐Agora App Builder - https://appbuilder.agora.io/\n\n📧 JS Mastery Pro: https://resource.jsmastery.com/pro 🔥\n\n📚 Materials/References:\nCode & Styles - https://gist.github.com/adrianhajdin/5fea42c89bd78da47eee1d30c740bf5a\n\n💻 Master JavaScript: https://www.completepathtojavascriptmastery.com\nUse the special promo code \"YOUTUBE\" on checkout to save $60!\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/jsmasterypro\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\nTime Stamps 👇\n00:00:00 Intro & Setup\n00:11:48 Poll Form\n00:30:15 Implementing Poll\n00:50:53 Implementing Voting\n01:05:01 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Jj__vAh6w0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Jj__vAh6w0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Jj__vAh6w0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Jj__vAh6w0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Jj__vAh6w0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Jj__vAh6w0"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "1Jj__vAh6w0",
+        "videoPublishedAt": "2021-10-05T12:07:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9rSdP21m0o2ZWhuBHuahYg6ZyJQ",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2020-04-07T11:03:20Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Random Quote Generator - React Fetch API Data | Build and Deploy a Real Advice App Project",
+        "description": "❗ IMPORTANT:\n\nBecome a PRO at JavaScript:  https://bit.ly/MasterJavaScript\nUse the special promo code \"JSM_YT_SQUAD\" on checkout to save $50!\n\nFree JavaScript Cheat Sheet:  https://bit.ly/FreeJsCheatsheet \n\nIn this video, we will create an interesting ReactJS API data fetching project from scratch - A React Advice App. We're going to use React on the front end and we'll make get requests to Advice Slip JSON API.\n\nBy the end of this video, you will have a strong understanding of basic React workflow as well as how to make API requests in React Apps. Learn how to fetch API data with React js.\n\nMany of you asked for a way to support my work and request new videos! You now get the chance to become one of the first supporters and buy me a coffee :) http://bit.ly/JSMastery\n\n📚 Materials/References:\nGitHub Code (feel free to give it a star ⭐)  - https://github.com/adrianhajdin/advice_app\nBackground Image -https://raw.githubusercontent.com/adrianhajdin/advice_app/master/src/images/city.jpg\nCSS -https://raw.githubusercontent.com/adrianhajdin/advice_app/master/src/App.css\n\n🌎 Find Me Here:\nSubscribe: https://www.youtube.com/c/JavaScriptMastery\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o5CdCETh8cQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o5CdCETh8cQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o5CdCETh8cQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o5CdCETh8cQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o5CdCETh8cQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o5CdCETh8cQ"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "o5CdCETh8cQ",
+        "videoPublishedAt": "2020-03-22T14:46:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zu48ZA6j4VPfew-5kxvChEFRfDY",
+      "id": "UEw2UVJFajh0ZTFQNndYOW01S25pY25EVkV1Y2JPUHNxUi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-12-01T10:26:10Z",
+        "channelId": "UCmXmlB4-HJytD7wek0Uo97A",
+        "title": "Build and Deploy Google Search 2.0 with React & Tailwind CSS (simple!)",
+        "description": "With the ability to search for up-to-date results, news, images, and videos, modern UI, dark mode, this completely responsive Google Clone is the perfect project you can build to master the use of modern React.js.\n\nYou'll also learn React Best Practices, the creation of modern user interfaces using Tailwind CSS and most importantly, you'll learn how to fetch data from Google Search API using RapidAPI.\n\n💻JS Mastery Pro - https://jsmastery.pro?discount=youtube\n✅ A special YOUTUBE discount code is automatically applied!\n\n⭐ RapidAPI - https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n⭐ Google Search API - https://rapidapi.com/apigeek/api/google-search3?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel\n\n📚 VSC Extensions - https://resource.jsmastery.pro/vsc-extensions\n\n📚 Materials/References:\nGitHub Code (give it a star ⭐): https://github.com/adrianhajdin/project_google_clone\n\n❤️ Support JavaScript Mastery & Suggest Future Videos:\nBuyMeACoffe: https://www.buymeacoffee.com/JSMastery\nPatreon: https://www.patreon.com/javascriptmastery\n\n🌎 Find Me Here:\nDiscord Group: https://discord.gg/n6EdbFJ\nInstagram: https://instagram.com/javascriptmastery\nTwitter: https://twitter.com/JS_Mastery\n\n💼 Business Inquiries:\nE-mail: javascriptmastery00@gmail.com\n\nTimestamps 👇\n00:00 Intro & Setup\n00:11:20 Design & Functionality\n00:55:42 Image section\n01:12:29 Video section\n01:16:34 Navbar\n01:22:33 Search\n01:34:03 Deployment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NDbruK1fzG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NDbruK1fzG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NDbruK1fzG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NDbruK1fzG8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NDbruK1fzG8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JavaScript Mastery",
+        "playlistId": "PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NDbruK1fzG8"
+        },
+        "videoOwnerChannelTitle": "JavaScript Mastery",
+        "videoOwnerChannelId": "UCmXmlB4-HJytD7wek0Uo97A"
+      },
+      "contentDetails": {
+        "videoId": "NDbruK1fzG8",
+        "videoPublishedAt": "2021-10-19T11:00:26Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 35,
+    "resultsPerPage": 50
+  }
+}
