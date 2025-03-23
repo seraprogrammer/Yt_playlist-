@@ -1,0 +1,332 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "wIMfpoOvBTj4DPYteJZdPVCGaVw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZuZjyj7yowvZdMgZHrlZIuUYEBY",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-05-15T10:05:32Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "From Zero to Full Stack: Master JavaScript and Create Dynamic Web Apps",
+        "description": "Embark on an incredible journey of JavaScript mastery, starting from ground zero and culminating in Full Stack expertise! Our comprehensive course covers the entire spectrum, guiding you through JavaScript's core principles, dynamic front-end development with React, robust back-end creation using Node.js and Express, MongoDB integration, GSAP animations, API testing with Postman, and a plethora of hands-on projects and coding challenges.\n\n🚀 What You'll Accomplish 🚀\n\n✅ Begin your coding odyssey with JavaScript's foundational concepts\n✅ Craft immersive user interfaces using React\n✅ Infuse life into your projects with mesmerizing GSAP animations\n✅ Engineer powerful server-side applications using Node.js and Express\n✅ Seamlessly integrate MongoDB and Mongoose for efficient database management\n✅ Master the art of API development and testing using Postman\n✅ Tackle over 60 hands-on coding challenges\n✅ Showcase your skills through 100+ real-world projects\n\nBuild 100+ Projects Using HTML5, CSS3 and JavaScript 🔥\nhttps://www.youtube.com/playlist?list=PLSDeUiTMfxW7lm7P7GZ8qtNFffHAR5d_w\n\nSOURCE CODE 👇\nhttps://github.com/HuXn-WebDev/Zero-To-FullStack-JS-Course\n\nFollow Me On 👇\nInstagram: https://www.instagram.com/huxnshorts/\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\n0:00 1: Introduction\n0:09 2: Course Structure\n9:01 3: JavaScript Overview\n10:25 4: Code Execution\n12:50 5: Dev Environment Setup\n16:15 6: Connect JS to HTML\n23:13 7: Using Console & Comments\n30:42 8: Mastering Variables\n48:22 9: Working with Numbers\n57:50 10: Grasping Booleans\n1:05:21 11: Comparison Operators\n1:20:03 12: Manipulating Strings\n1:41:16 13: Type Conversion\n1:46:28 14: Conditional Statements\n2:02:13 15: Switch Statements\n2:13:10 16: For Loop\n2:23:46 17: While Loop\n2:27:50 18: Do-While Loop\n2:30:42 19: Logical Operations\n2:40:30 20: Arrays Introduction\n2:52:17 21: Array Techniques\n3:06:06 22: JavaScript Objects\n3:20:09 23: Functions Basics\n3:35:05 24: Function Types\n3:39:28 25: Callback Functions\n3:47:48 26: Variable Scope\n3:55:41 27: Object Methods\n3:59:25 28: JSON Handling\n4:06:45 29: Dates & Time\n4:13:34 30: setInterval & setTimeout\n4:19:51 31: Intermediate Setup\n4:21:19 32: Template Strings\n4:32:20 33: Arrow Functions\n4:41:58 34: Enhanced Object Literals\n4:55:02 35: Default Parameters\n5:03:04 36: Spread Operator\n5:17:20 37: Rest Operator\n5:24:15 38: Array Destructuring\n5:38:29 39: Object Destructuring\n5:43:59 40: Advanced Destructuring\n5:49:40 41: Function Destructuring\n5:56:16 42: Nested Destructuring\n5:58:09 43: Destructuring Craziness\n6:03:32 44: Ternary Operator\n6:10:36 45: For-In Loop\n6:14:36 46: For-Of Loop\n6:17:53 47: forEach Method\n6:26:43 48: map Helper\n6:33:01 49: filter Helper\n6:40:23 50: find Helper\n6:47:52 51: every & some Helpers\n6:57:22 52: reduce Helper\n7:14:02 53: Map Data Structure\n7:24:07 54: Sets Data Structure\n7:31:23 55: Symbols in JavaScript\n7:40:10 56: Introduction to DOM\n7:42:37 57: DOM Setup\n7:43:36 58: Accessing DOM Elements\n8:12:22 59: Manipulating Text Content\n8:23:13 60: Managing Classes\n8:30:42 61: Working with Attributes\n8:42:07 62: Navigating Siblings\n8:50:52 63 Modifying Styles\n8:59:23 64: Creating DOM Elements\n9:12:05 65: Removing DOM Elements\n9:14:24 66: DOM Events Intro\n9:28:45 67: Event Handling\n9:39:24 68: Keyboard Events\n9:45:32 69: Working with DOM Events\n9:56:50 70: DOM Project 1\n9:56:49 71: DOM Project 2\n10:03:32 72: DOM Project 3\n10:13:37 73: DOM Project 4\n10:17:27 74: DOM Project 5\n10:23:12 75: DOM Project 6\n10:28:08 76: Introduction to GSAP\n10:28:10 77: GSAP Basics\n10:29:05 78: GSAP Setup\n10:31:29 79: Animation Techniques\n10:39:56 80: Integrating GSAP\n10:41:16 81: GSAP Object Overview\n10:46:14 82: GSAP Set Method\n10:49:52 83: From & FromTo Animation\n10:56:09 84: Staggering Animations\n11:01:49 85: Tween Control\n11:06:24 86: Mastering Timelines\n11:16:49 87: Crafting Unique Animations\n11:28:35 88: Wrapping Up GSAP\n11:28:43 89: OOP Introduction\n11:31:30 90: Demystifying THIS Keyword\n11:46:35 91: Factory Function\n11:57:32 92: Constructor Function\n12:15:32 93: Built-In Constructors\n12:19:48 94: Object.create Method\n12:23:46 95: Prototype Model\n12:41:49 96: Prototypal Inheritance\n12:53:03 97: Introduction to Classes\n13:06:19 98: Modifiers in OOP\n13:21:38 99: Encapsulation\n13:28:14 100: Abstraction\n13:34:51 101: Inheritance\n13:43:03 102: Polymorphism\n13:52:41 103: Sync & Async Programming\n13:56:08 104: Real-World Examples\n14:01:12 105: Callback Hell\n14:16:19 106: Promises\n14:37:30 107: Async Functions\n14:50:27 108: Reading Textual Data\n15:00:41 109: Handling JSON Data\n15:04:32 110: Fetching Data from APIs\n15:18:31 111: Error Handling\n15:22:43 112: Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H3XIJYEPdus/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H3XIJYEPdus/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H3XIJYEPdus/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H3XIJYEPdus/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "H3XIJYEPdus"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "H3XIJYEPdus",
+        "videoPublishedAt": "2023-08-11T13:13:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "d6KGWdb8Aa9HHp_ny2TB8BTlbVo",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-05-15T10:05:55Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "Python for Everyone: From Zero to Hero 6 Hours Complete Course",
+        "description": "Master Python in just 6 hours!  This comprehensive course is designed for complete beginners with no prior programming experience. Learn everything you need to know about Python from the ground up, and take your first steps towards becoming a Python developer.\n\nIn this course, you'll learn:\nThe basics of Python syntax and data types\nHow to control the flow of your programs with loops and conditionals\nHow to work with functions and modules to organize your code\nHow to handle data with lists, dictionaries, and other powerful collections\nHow to build real-world applications with Python\n\nBy the end of this course, you'll be able to:\nWrite your own Python programs\nSolve coding problems\nAutomate tasks\nAnd much more!\nThis course includes:\n\n6 hours of video lectures\nHands-on coding exercises\nQuizzes to test your understanding\nA project to put your new skills to the test\n\nFollow Me On 👇\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\n00:00 - Intro\n2:29 - What you'll learn\n4:18 - Course Setup\n12:13 - Variables In Depth\n17:29 - Identifiers In Depth\n26:05 - Arithmetic Operation\n32:54 - Getting Inputs From The User\n35:54 - Assignment Operators\n39:53 - Strings In Depth\n56:30 - Booleans\n1:06:13 - String Methods\n1:20:49 - Comparisons Operators\n1:28:24 - Logical Operators\n1:35:02 - Conditional Statements\n1:45:39 - For Loop\n1:56:06 - While Loop\n2:03:32 - Lists Intro\n2:10:39 - Accessing Elements From Lists\n2:20:24 - Updating Elements In Lists\n2:24:12 - Removing Elements From Lists\n2:26:28 - 1D, 2D, 3D Dimensions In Lists\n2:35:59 - Lists Built-In Methods\n2:42:14 - Iterating Over Lists\n2:45:51 - In Operator\n2:49:24 - Lists Unpacking\n2:54:28 - Tuples\n3:01:57 - Dictionaries Intro\n3:12:02 - Accessing Elements From Dictionaries\n3:14:59 - Iterating Over Dictionaries\n3:16:50 - Updating Elements In Dictionaries\n3:21:39 - Deleting Elements From Dictionaries\n3:24:34 - Sets Data Structure\n3:32:42 - Functions Intro\n3:33:59 - Creating Simple Function\n3:39:14 - Function Parameters\n3:43:18 - Function Default Parameters Values\n3:47:51 - Function Named Arguments\n3:50:56 - Function Return Statement\n3:55:52 - Nested Function\n3:59:00 - Lambda Functions\n4:04:56 - Scopes\n4:08:22 - Modules Intro\n4:10:54 - User Defined Modules\n4:21:11 - Python Standard Library\n4:22:34 - Using Standard Library\n4:26:38 - Classes In Depth\n4:43:54 - OOP ( Object Oriented Programming ) Intro\n4:45:02 - OOP Inheritance\n4:58:48 - OOP Polymorphism\n5:11:25 - OOP Encapsulation\n5:25:18 - Files & Folder Handling In Python\n5:46:25 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JZDQKj9BOoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JZDQKj9BOoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JZDQKj9BOoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JZDQKj9BOoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JZDQKj9BOoc"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "JZDQKj9BOoc",
+        "videoPublishedAt": "2024-04-24T14:29:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "w5TCwx4cxyO79sAM1kglPbgwFhc",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-05-15T10:06:32Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "Mastering Go: A Comprehensive Guide to Golang Programming",
+        "description": "Unlock the full potential of the Go programming language with our comprehensive course, \"Mastering Go.\" Whether you're a beginner or an experienced developer, this course covers all aspects of Golang, from fundamentals to advanced topics, empowering you to write efficient, scalable, and maintainable code.\n\n🚀 Key Features:\n\nIn-depth coverage of Golang basics, including syntax, data types, and control structures.\nComprehensive exploration of advanced topics like concurrency, channels, and goroutines.\nReal-world examples and hands-on challanges to reinforce your learning.\nExpert insights on best practices and design patterns in Golang development.\nPerformance optimization techniques for writing high-performance code.\n\n🎓 Who Should Take This Course:\n\nBeginners eager to learn Golang from scratch.\nIntermediate developers looking to deepen their understanding of Golang concepts.\nProfessionals seeking to enhance their skill set with Golang for backend development.\nAnyone interested in mastering a powerful and efficient programming language.\n\n🌟 Why Choose \"Mastering Go\":\nOur course goes beyond the basics, providing you with a holistic understanding of Golang.  \"Mastering Go\" equips you with the knowledge and skills needed to excel in the world of Golang programming.\n\nFollow Me On 👇\nInstagram: https://www.instagram.com/huxnshorts/\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\n00:00 - Intro\n00:08 - What Is Golang?\n02:21 - Course Setup\n11:54 - Golang Structure\n17:23 - Variables\n35:53 - Constants\n40:44 - Booleans\n42:44 - Basic Math & Operators\n48:46 - All About Strings\n1:05:09 - Comparison Operators\n1:10:30 - Logical Operators\n1:15:26 - Conditional Statements\n1:24:31 - For Loop\n1:32:36 - While Loop\n1:36:07 - Switch Statements\n1:40:13 - Arrays\n1:48:03 - Slices\n1:57:49 - Maps\n2:03:40 - Structs\n2:12:02 - Functions Basics\n2:23:11 - Function Returns\n2:25:47 - Function Expression\n2:28:21 - Anonymous Function\n2:29:21 - Methods\n2:35:03 - Callback Functions\n2:39:42 - Defer Keyword\n2:41:25 - Scope\n2:47:54 - Pointers\n2:51:44 - Panic Function\n2:53:48 - Interfaces\n3:12:18 - Generics\n3:26:38 - Goroutines\n3:31:58 - Channels\n3:42:38 - waitGroups\n3:48:49 - Select\n3:54:25 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N2GWXuj_IWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N2GWXuj_IWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N2GWXuj_IWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N2GWXuj_IWg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N2GWXuj_IWg"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "N2GWXuj_IWg",
+        "videoPublishedAt": "2023-12-02T15:40:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zu5wXAzQLT6tofgHkp74dNhxwGg",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-05-15T10:06:43Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "TypeScript Pro: A 4-Hour Deep Dive from Basics to Expert Level",
+        "description": "Welcome to the ultimate TypeScript experience! In this power-packed 4-hour course, we take you on a journey from TypeScript basics to expert proficiency. Whether you're a coding newbie or a seasoned developer, get ready for a deep dive into the world of TypeScript mastery.\n\n🔍 What You'll Learn:\n\n* Foundations of TypeScript: Understand the core concepts and syntax that form the backbone of TypeScript.\n\n* Advanced Techniques: Elevate your skills with advanced features, including generics, advance interfaces and more.\n\n* Optimizing for Performance: Learn best practices for writing efficient and performant TypeScript code.\n\n🎓 Who Is This For?\n\nBeginners looking to break into the world of TypeScript.\nIntermediate developers seeking to level up their TypeScript skills.\nAdvanced users wanting to fine-tune their expertise.\n\n🌐 Why Choose This Course?\n\n* Comprehensive Content: Covering everything from the basics to advanced topics in just 4 hours.\n* Practical Learning: Apply theoretical knowledge to real-world scenarios.\n* Expert Guidance: Learn from an experienced TypeScript developer with a passion for teaching.\n\nFollow Me On 👇\nInstagram: https://www.instagram.com/huxnshorts/\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\n00:00 - Intro\n00:07 - What Is TypeScript?\n02:34 - Course Setup\n11:40 - Annotations In Depth\n18:35 - Type Inference\n22:53 - Any Type\n26:11 - Function Parameter Annotations\n31:22 - Default Params Values\n33:27 - Function Return Annotations\n36:19 - Void Functions\n38:05 - Never Keyword In Depth\n42:19 - Arrays Types In Depth\n49:36 - Multi Dimensional Arrays\n52:18 - Objects In Depth\n58:58 - Type Aliases\n1:03:30 - Optional Properties\n1:07:13 - Readonly Property\n1:08:27 - Intersection Types\n1:13:30 - Unions\n1:18:35 - Literal Types\n1:22:44 - Tuples\n1:28:31 - Enums\n1:33:11 - OOP\n1:49:34 - Interfaces\n2:13:44 - Generics\n2:47:00 - Type Narrowing\n2:57:01 - Amazing Setup For TypeScript\n3:11:24 - Declaration Files\n3:14:11 - TypeScript With Axios\n3:22:48 - TypeScript With Express\n03:27:09 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zeCDuo74uzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zeCDuo74uzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zeCDuo74uzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zeCDuo74uzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zeCDuo74uzA"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "zeCDuo74uzA",
+        "videoPublishedAt": "2023-11-22T12:37:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V8QIToS5XNBBNEp2WwNoUaxZwVg",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-05-15T10:06:15Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "MySQL: From Beginner to Monster Level (4-Hour Complete Course)",
+        "description": "Become a MySQL boss in just 4 hours! This comprehensive course takes you on a journey from absolute beginner to confident database master.\n\nIn this action-packed course, you'll gain a solid foundation in MySQL, the world's most popular open-source relational database management system.  Whether you're a web developer, data analyst, or simply looking to unlock the power of your data, this course equips you with the essential skills you need to succeed.\n\nHere's what you'll learn in this complete 4-hour course:\n\n👉 MySQL Fundamentals: Grasp the core concepts of relational databases and understand how MySQL works.\n\n👉 Building Your Database: Learn to create and manage databases, tables, and relationships like a pro.\n\n👉 Mastering Queries: Craft powerful SQL queries to retrieve, manipulate, and analyze your data with ease.\n\n👉 Data Optimization: Discover techniques to optimize your database for speed and efficiency.\n\n\nBy the end of this course, you'll be able to:\n\n✅ Confidently design and build relational databases with MySQL.\n✅ Write effective SQL queries to interact with your data.\n✅ Manage and optimize your database for peak performance.\n✅ Feel empowered to tackle any database task thrown your way.\n This is your fast-track to MySQL mastery! \n\n\nFollow Me On 👇\nInstagram: https://www.instagram.com/huxnshorts/\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\n00:00 - Intro\n1:03 - HuXn 2.0\n1:26 - What is Database\n2:08 - What is DBMS\n3:03 - Difference Between SQL & MySQL\n4:29 - Analogy\n5:08 - Real World Analogy\n6:58 - Amazing Setup\n14:56 - Databases CRUD Theory\n17:26 - Databases CRUD Code\n28:58 - Tables Theory\n30:15 - Datatypes Theory\n33:02 - Tables Code\n38:27 - Default Values\n43:43 - Exploring Datatypes in detail\n47:36 - Detail Datatypes Code\n50:29 - Inserting & Retrieving Data From Table Theory\n53:42 - Inserting & Retrieving Data From Table Code\n1:04:01 - Primary Keys Theory\n1:04:22 - Primary Keys Code\n1:13:06 - WHERE clause Theory\n1:15:03 - WHERE clause Code\n1:19:46 - Updating Columns Theory\n1:22:27 - Updating Columns Code\n1:28:47 - The Power Of WHERE Clause\n1:30:26 - Delete Column From The Table Theory\n1:31:35 - Delete Column Code\n1:32:36 - Delete Everything\n1:33:21 - Datatypes Practice\n1:47:03 - Functions Theory\n1:49:18 - Functions Code\n2:01:59 - Order by & Limit Theory\n2:03:35 - Oder by & Limit Code\n2:07:21 - Like Theory\n2:08:02 - Like Code\n2:11:36 - Aggregate Functions Theory\n2:12:48 - Aggregate Functions Code\n2:16:25 - Group By Theory\n2:16:50 - Group By Code\n2:17:46 - Operators Theory\n2:19:56 - Operators Code\n2:33:20 - Case Statement Theory\n2:34:19 - Case Statement Code\n2:38:14 - Unique Theory\n2:38:33 - Unique Code\n2:41:36 - Check Constraint In Depth\n2:53:17 - Altering Tables Theory\n2:55:18 - Altering Tables Code\n2:59:23 - What is Relationship\n3:01:36 - One To One Relationship\n3:04:09 - Foreign Keys\n3:04:37 - One To Many Relationship Theory\n3:06:42 - One To Many Relationship Code\n3:21:52 - Joins Intro\n3:22:18 - Cross Join\n3:24:49 - Inner Join\n3:29:24 - Left Join\n3:32:03 - Right Join\n3:33:43 - Many To Many Relationship Theory\n3:34:54 - Many To Many Relationship Code\n3:44:36 - Views Theory\n3:45:00 - Views Code\n3:53:10 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h4R-nJbM_ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h4R-nJbM_ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h4R-nJbM_ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h4R-nJbM_ac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h4R-nJbM_ac"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "h4R-nJbM_ac",
+        "videoPublishedAt": "2024-03-21T12:39:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "xNlJSHMMPJ9-8wCTsE5CiGUP3v8",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-05-15T10:10:32Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "Sass Mastery: 6 Real Projects in Just 4 Hours #huxnwebdev",
+        "description": "Welcome To The Brand New Sass Masterclass 🥂🔥\n\nThis course is the second part of my [ HTML  & CSS ] Masterclass.\nAt first, I wanna include it in that course but then I realize that the course will be so long and nobody will watch it, and they're also totally different topics, So I've decided to make a separate course on that, and turns out that this course is almost 5hrs long.\n\nIf you want to learn about the most popular CSS Extension and build modern, beautiful, and real-world websites, then this is the right course for you. The course covers all you need to know about this awesome technology.\n\nWhat is Sass?\nSass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called \"the indented syntax,\" uses a syntax similar to Haml and of course, you'll learn everything in this comprehensive guide.\n\nWhat is Sass used for?\nSass is a CSS pre-processor that lets you use variables, mathematical operations, mixins, loops, functions, imports, and other interesting functionalities that make writing CSS much more powerful.\n\nIs Sass better than CSS?\nSASS offers a galore of features that make it a better tool than CSS for developers. Some of its major highlights are: Compatibility with CSS: One of the major features of SASS is its high compatibility with cascading style sheets, which means SASS provides support for many versions of CSS.\n\nIs Sass a programming language?\nShort answer (No) long answer \"Sass provides a lot of features which is used in programming languages, such as (variables, loops, functions, lists, maps) and a lot more.\n\nIs Sass easier than CSS?\nSass facilitates you to write clean, easy and less CSS in a programming construct. It contains fewer codes so you can write CSS quicker. It is more stable, powerful, and elegant because it is an extension of CSS. So, it is easy for designers and developers to work more efficiently and quickly.\n\nWhy Sass is used instead of CSS?\nWhy Use Sass? Stylesheets are getting larger, more complex, and harder to maintain. This is where a CSS pre-processor can help. Sass lets you use features that do not exist in CSS, like variables, nested rules, mixins, imports, inheritance, built-in functions, and other stuff.\n\nWhat do you need to know before jumping into Sass world?\nThe only prerequisite for this course is a basic understanding of (HTML & CSS) that's all you need to know.\n\nFollow Me On 👇\nInstagram: https://www.instagram.com/huxnshorts/\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\nSo what you'll learn in this course?\nChapters:\n00:00:00 - Intro\n00:00:56 - What Is Sass\n00:05:15 - Course Setup\n00:13:44 - Sass Variables\n00:18:29 - First Project\n00:28:30 - Nesting In Sass\n00:33:25 - Second Project\n00:38:56 - Sass Partials\n00:49:21 - Third Project\n01:18:53 - Sass Mixins\n01:25:42 - Fourth Project\n01:36:23 - Sass Extends\n01:44:26 - Fifth Project\n02:00:39 - Operators\n02:16:50 - Sass Built-in Functions\n02:23:14 - Sass String Functions\n02:28:49 - Sass Color Functions\n02:33:34 - Sass Lists\n02:38:42 - Sass Maps\n02:43:04 - Sass Custom Functions\n02:50:05 - Sass Interpolation\n02:54:11 - Conditional Statements In Sass\n03:15:04 - For Loop In Sass\n03:24:14 - Each Loop In Sass\n03:31:27 - While Loop In Sass\n03:33:30 - Sass Portfolio Project\n04:16:25 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sb4Nnc6VtZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sb4Nnc6VtZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sb4Nnc6VtZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sb4Nnc6VtZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sb4Nnc6VtZI"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "sb4Nnc6VtZI",
+        "videoPublishedAt": "2023-03-01T16:55:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9s6lcH5E8a8_AF6inp8-ba-FCtQ",
+      "id": "UExTRGVVaVRNZnhXN2RVRkFhWnlUR0Z0Y2llQ203UEZkTy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2024-07-13T14:25:12Z",
+        "channelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ",
+        "title": "ALL IN ONE: Data Structures & Algorithms In JavaScript Complete Course 2024 By HuXn",
+        "description": "Whether you're a beginner programmer or looking to level up your skills, this course will teach you how to:\n\nOrganize your data efficiently using essential structures like Arrays, Linked Lists, Stacks, Queues, Trees, Hash Tables, and Graphs.\nSolve coding problems effectively with powerful algorithms for searching, sorting, and more.\nWrite cleaner and more performant JavaScript code.\nThis course offers:\n\nClear and concise explanations with real-world examples to solidify your understanding.\nHands-on coding exercises to apply your knowledge and practice problem-solving.\nUp-to-date content reflecting the latest advancements in JavaScript.\nBy the end of this course, you'll be confident in building efficient and scalable JavaScript applications.\n\nIf You Want To Support My Work 👇\nhttps://www.youtube.com/channel/UCbBt6Ks7M5BZx_GHgGO_UNQ/join\n\nFollow Me On 👇\nInstagram: https://www.instagram.com/huxnshorts/\nYouTube: https://www.youtube.com/@huxnwebdev\nGitHub: https://github.com/huxn-webdev\nTwitter: https://twitter.com/huxnwebdev\n\n00:00 - Intro\n00:42 - What is DSA\n3:53 - Course Requirements\n4:40 - Course Setup\n6:46 - Solving the first problem\n10:07 - Why Should I Care\n10:58 - What is bigO\n13:48 - O(n)\n20:11 - O(1)\n23:48 - O(n^2)\n29:37 - O(log n)\n33:55 - DS Arrays\n34:26 - What is DS Array\n36:05 - Creating Custom Array\n37:42 - Custom Push Method\n41:20 - Custom Get Method\n43:05 - Custom Pop Method\n46:30 - Custom Shift Method\n51:17 - Custom DeleteByIndex Method\n54:35 - Reverse String\n59:31 - Palindromes\n1:02:30 - Reverse Integer\n1:05:57 - Sentence Capitalization\n1:10:23 - FizzBuzz\n1:14:06 - Max Profit \n1:20:41 - Array Chunks\n1:26:18 - Two Sum ( ugly code )\n1:30:01 - What is Linked List\n1:33:01 - How the Linked List Looks Like\n1:36:05 - Creating Our First Linked List\n1:40:01 - Linked List Push Method\n1:45:24 - Linked List Pop Method\n1:52:42 - Linked List Unshift Method\n1:56:51 - Linked List Shift Method\n1:59:44 - Linked List GET FIRST Method\n2:00:53 - Linked List GET LAST Method\n2:03:05 - Linked List GET ELEMENT BY INDEX Method\n2:06:15 - Linked List SET Method\n2:10:33 - Linked List INSERT Method\n2:17:31 - Linked List SIZE Method\n2:19:18 - Linked List CLEAR Method\n2:20:17 - What is Doubly Linked List\n2:21:34 - Create Your First Doubly Linked List\n2:23:06 - Doubly Linked List Push Method\n2:26:43 - Doubly Linked List Pop Method\n2:30:47 - Doubly Linked List Unshift Method\n2:34:43 - Doubly Linked List Shift Method\n2:37:38 - Reverse Linked List\n2:45:32 - Stack & Queues\n2:46:20 - What is a Stack\n2:49:36 - Creating Our First Stack\n2:52:01 - Stack Push Method\n2:55:29 - Stack Pop Method\n2:58:49 - What is Queue\n3:00:38 - Queues Enqueue Method\n3:06:14 - Queues Dequeue Method\n3:09:36 - Queues Min Method\n3:14:22 - isValidParenthesis\n3:19:05 - Reverse String Using Stack\n3:22:08 - Hash Tables\n3:22:21 - What is a Hash Table\n3:23:30 - What is a Hash Function\n3:24:29 - How Hash Table Looks Like\n3:26:11 - Creating Our First Hash Table\n3:29:27 - Hash Table Set Method\n3:34:02 - Hash Table Get Method\n3:38:37 - Get All Keys & Values\n3:43:01 - Word Counter\n3:47:15 - Two Sum ( refactor )\n3:51:06 - What is a Tree\n3:55:36 - BST\n4:00:27 - Creating Our First Binary Search Tree\n4:02:15 - Binary Search Tree Insert Method\n4:08:36 - Binary Search Tree Includes Method\n4:15:42 - What is Recursion\n4:17:11 - Recursion Count Down\n4:20:19 - Recursion Factorial\n4:23:11 - Tree Traversal ( Breath First Search )\n4:31:56 - Tree Traversal ( Depth First Search PreOrder )\n4:41:41 - Tree Traversal ( Depth First Search PostOrder )\n4:50:32 - What is a Graph\n4:55:38 - Creating Our First Graph\n4:56:23 - Add Vertex To Graph\n4:58:36 - Add Edges To Graph\n5:01:21 - Remove Edges From Graph\n5:04:50 - Remove Vertex From Graph\n5:09:33 - What is Bubble Sort\n5:12:03 - Creating Bubble Sort\n5:15:06- What is Selection Sort\n5:19:33 - Creating Selection Sort\n5:22:20 - What is Insertion Sort\n5:24:48 - Creating Insertion Sort\n5:27:18 - What is Merge Sort\n5:29:15 - Creating Merge\n5:35:44 - Creating Merge Sort\n5:38:32 - Outro",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wBtPGnVnA9g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wBtPGnVnA9g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wBtPGnVnA9g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wBtPGnVnA9g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "HuXn WebDev",
+        "playlistId": "PLSDeUiTMfxW7dUFAaZyTGFtcieCm7PFdO",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wBtPGnVnA9g"
+        },
+        "videoOwnerChannelTitle": "HuXn WebDev",
+        "videoOwnerChannelId": "UCbBt6Ks7M5BZx_GHgGO_UNQ"
+      },
+      "contentDetails": {
+        "videoId": "wBtPGnVnA9g",
+        "videoPublishedAt": "2024-07-13T14:15:45Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 7,
+    "resultsPerPage": 50
+  }
+}
