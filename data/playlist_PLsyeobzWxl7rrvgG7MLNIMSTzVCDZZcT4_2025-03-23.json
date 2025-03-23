@@ -1,0 +1,2152 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "v8MA5S2mSGJ3HuokMK3OAQ-Xnm8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "LJGHWkMRytfZ_1TXdayKdMLJ4VM",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2021-05-04T16:07:31Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#0 JavaScript Tutorial for Beginners | Introduction",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nUdemy Courses:\n\nSpring: https://go.telusko.com/udemyteluskospring\nJava:- https://go.telusko.com/udemyteluskojava\nJava Spring:- https://go.telusko.com/Udemyjavaspring\nJava For Programmers:- https://go.telusko.com/javaProgrammers\nPython : https://go.telusko.com/udemyteluskopython\nGit : https://go.telusko.com/udemyteluskogit\nDocker : https://go.telusko.com/udemyteluskodocker\n\nFor More Queries WhatsApp or Call on  :  +919008963671\n\nwebsite : https://courses.telusko.com/\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nTELUSKO Android App : https://bit.ly/TeluskoApp\nDiscord : https://discord.gg/D8hWe9BqfF\n\nJava and Spring Framework For beginners with Spring Boot : - http://bit.ly/3LDMj8D\n\nJava Tutorial for Beginners (2023) :- http://bit.ly/3yARVbN\n\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PlbupGCBV6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PlbupGCBV6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PlbupGCBV6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PlbupGCBV6w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PlbupGCBV6w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PlbupGCBV6w"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "PlbupGCBV6w",
+        "videoPublishedAt": "2021-05-04T15:05:45Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bUxVvIa6wSlDCBucK2loeRuuwWY",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2021-05-06T03:22:45Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#1 Getting Started | JavaScript Tutorial for Beginners",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nUdemy Courses:\n\nSpring: https://go.telusko.com/udemyteluskospring\nJava:- https://go.telusko.com/udemyteluskojava\nJava Spring:- https://go.telusko.com/Udemyjavaspring\nJava For Programmers:- https://go.telusko.com/javaProgrammers\nPython : https://go.telusko.com/udemyteluskopython\nGit : https://go.telusko.com/udemyteluskogit\nDocker : https://go.telusko.com/udemyteluskodocker\n\nFor More Queries WhatsApp or Call on  :  +919008963671\n\nwebsite : https://courses.telusko.com/\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/POPLF-Qc0OU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/POPLF-Qc0OU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/POPLF-Qc0OU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/POPLF-Qc0OU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/POPLF-Qc0OU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "POPLF-Qc0OU"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "POPLF-Qc0OU",
+        "videoPublishedAt": "2021-05-06T03:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Lx7hLFcC6Me_Tnn38Zf4hIO6gr4",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2021-05-06T14:38:33Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#2 NodeJS, VS Code Installation | JavaScript Tutorial",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nUdemy Courses:\n\nSpring: https://go.telusko.com/udemyteluskospring\nJava:- https://go.telusko.com/udemyteluskojava\nJava Spring:- https://go.telusko.com/Udemyjavaspring\nJava For Programmers:- https://go.telusko.com/javaProgrammers\nPython : https://go.telusko.com/udemyteluskopython\nGit : https://go.telusko.com/udemyteluskogit\nDocker : https://go.telusko.com/udemyteluskodocker\n\nFor More Queries WhatsApp or Call on  :  +919008963671\n\nwebsite : https://courses.telusko.com/\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG\n#vscode #nodejs #js\n\nSupport by becoming a Member : https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg/join",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BxZKLKfjaRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BxZKLKfjaRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BxZKLKfjaRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BxZKLKfjaRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BxZKLKfjaRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BxZKLKfjaRg"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "BxZKLKfjaRg",
+        "videoPublishedAt": "2021-05-06T14:42:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IYlXVWakqoCjUzO30RX8iQfLk2M",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2021-05-08T19:07:39Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#3 Variables in JavaScript",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nUdemy Courses:\n\nSpring: https://go.telusko.com/udemyteluskospring\nJava:- https://go.telusko.com/udemyteluskojava\nJava Spring:- https://go.telusko.com/Udemyjavaspring\nJava For Programmers:- https://go.telusko.com/javaProgrammers\nPython : https://go.telusko.com/udemyteluskopython\nGit : https://go.telusko.com/udemyteluskogit\nDocker : https://go.telusko.com/udemyteluskodocker\n\nFor More Queries WhatsApp or Call on  :  +919008963671\n\nwebsite : https://courses.telusko.com/\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOkU5HxES1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOkU5HxES1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOkU5HxES1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TOkU5HxES1o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TOkU5HxES1o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TOkU5HxES1o"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "TOkU5HxES1o",
+        "videoPublishedAt": "2021-05-09T03:03:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "u6kQnmPAVWtqL822qGIPvqnMiRk",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2021-05-09T13:27:20Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#4 Constants in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wsy7nhFnfbM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wsy7nhFnfbM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wsy7nhFnfbM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wsy7nhFnfbM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wsy7nhFnfbM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wsy7nhFnfbM"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "Wsy7nhFnfbM",
+        "videoPublishedAt": "2021-05-09T13:29:51Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2YEZIN7XOkL2zBAgTfs59hQ01RQ",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2021-05-11T19:12:28Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#5 Data Types in JavaScript - 1 | JavaScript Tutorial",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nFor More Queries about Course, WhatsApp or Call:  +919008963671\n\nwebsite : https://www.telusko.com/\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nTELUSKO Android App : https://bit.ly/TeluskoApp\nTELUSKO IOS App : https://apple.co/3SsgmU2\nDiscord : https://discord.gg/D8hWe9BqfF\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCwQY8inRvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCwQY8inRvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCwQY8inRvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nCwQY8inRvU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nCwQY8inRvU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nCwQY8inRvU"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "nCwQY8inRvU",
+        "videoPublishedAt": "2021-05-12T04:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Rs3VPbocMLwenFOj_4xIFbyWAVM",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2021-05-12T16:18:30Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#6 Data Types in JavaScript - 2 | JavaScript Tutorial",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4GXpB9EMLWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4GXpB9EMLWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4GXpB9EMLWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4GXpB9EMLWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4GXpB9EMLWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4GXpB9EMLWM"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "4GXpB9EMLWM",
+        "videoPublishedAt": "2021-05-12T16:22:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OZDMIO57v24gvxDfx25H1cp6If8",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2021-05-15T16:11:24Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "History of JavaScript",
+        "description": "JavaScript was first created by Brendan Eich in just 10 days in May 1995. At the time, Eich was working at Netscape Communications Corporation, which was developing the Netscape Navigator web browser. JavaScript was originally called Mocha, then renamed to LiveScript, and eventually settled on JavaScript due to the popularity of Java.\n\nThe initial idea behind JavaScript was to create a simple scripting language for web designers to add interactivity to their web pages. However, JavaScript quickly grew in popularity as developers realized its potential for building more complex web applications.\n\nIn 1996, Microsoft introduced JScript, a compatible version of JavaScript for its Internet Explorer browser. This led to the standardization of JavaScript by the European Computer Manufacturers Association (ECMA), resulting in the first version of the ECMAScript standard in 1997.\n\nSince then, JavaScript has continued to evolve, with new features and capabilities being added in subsequent versions of the ECMAScript standard. Today, JavaScript is one of the most widely used programming languages in the world, powering web applications, server-side applications, and even mobile and desktop applications through technologies like Node.js and Electron.\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4MsfBokJiSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4MsfBokJiSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4MsfBokJiSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4MsfBokJiSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4MsfBokJiSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4MsfBokJiSs"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "4MsfBokJiSs",
+        "videoPublishedAt": "2021-05-15T16:14:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WqwGl-qDuUyEV3WrzIyO-MAKCgU",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2021-05-19T12:30:25Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#8 Type Conversion & Coercion in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFiVtqe1osM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFiVtqe1osM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFiVtqe1osM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wFiVtqe1osM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wFiVtqe1osM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wFiVtqe1osM"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "wFiVtqe1osM",
+        "videoPublishedAt": "2021-05-19T12:30:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dBczH6mDYJknwD5LoD5e09bP4WE",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2021-05-20T14:34:28Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#9 Arithmetic Operators in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/otYwi_wW9Hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/otYwi_wW9Hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/otYwi_wW9Hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/otYwi_wW9Hk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/otYwi_wW9Hk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "otYwi_wW9Hk"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "otYwi_wW9Hk",
+        "videoPublishedAt": "2021-05-20T14:34:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZCmCJDlRSTvbXL7gnhJr9_VAbZE",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2021-05-22T04:57:29Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#10 Relational operators in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gG0ynX_Sfx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gG0ynX_Sfx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gG0ynX_Sfx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gG0ynX_Sfx4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gG0ynX_Sfx4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gG0ynX_Sfx4"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "gG0ynX_Sfx4",
+        "videoPublishedAt": "2021-05-22T04:58:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ofpwMETQiqZpaBffuzgiqc5_m0Y",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2021-05-24T16:17:26Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#11 Logical Operators in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uuRJ1aCj8Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uuRJ1aCj8Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uuRJ1aCj8Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uuRJ1aCj8Ro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uuRJ1aCj8Ro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uuRJ1aCj8Ro"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "uuRJ1aCj8Ro",
+        "videoPublishedAt": "2021-05-24T16:18:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6x3tSEe3XTLZamAuwKZFWthJyP4",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2021-05-25T16:52:05Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#12 Conditional Statements If Else in JavaScript",
+        "description": "If else \nelse if\nelse\n\n\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o_iO9WuoWaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o_iO9WuoWaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o_iO9WuoWaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o_iO9WuoWaM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o_iO9WuoWaM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o_iO9WuoWaM"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "o_iO9WuoWaM",
+        "videoPublishedAt": "2021-05-25T16:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "55rjMNy6QZj5n1mrtwDu1TlYz6s",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2021-05-26T15:59:38Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#13 Ternary Operator in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VBCOx4CqBz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VBCOx4CqBz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VBCOx4CqBz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VBCOx4CqBz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VBCOx4CqBz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VBCOx4CqBz0"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "VBCOx4CqBz0",
+        "videoPublishedAt": "2021-05-26T16:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OfzTczEPy3Yqeya_FrtksCDu0_8",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2021-05-27T06:29:15Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#14 Switch Statement in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SJPsOFfvEQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SJPsOFfvEQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SJPsOFfvEQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SJPsOFfvEQA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SJPsOFfvEQA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SJPsOFfvEQA"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "SJPsOFfvEQA",
+        "videoPublishedAt": "2021-05-27T06:36:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Y0bDgrf3pwYZqWXHHREsZbKHdm8",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2021-05-28T10:43:50Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#15 Template Literal in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K4Kh5gw4PRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K4Kh5gw4PRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K4Kh5gw4PRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K4Kh5gw4PRE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K4Kh5gw4PRE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K4Kh5gw4PRE"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "K4Kh5gw4PRE",
+        "videoPublishedAt": "2021-05-28T10:45:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qycRuEs9pI_vQAhdE3HRaO_NqtM",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2021-05-30T12:02:56Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#16 While loop in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h84MlHv6g4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h84MlHv6g4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h84MlHv6g4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h84MlHv6g4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h84MlHv6g4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "h84MlHv6g4Q"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "h84MlHv6g4Q",
+        "videoPublishedAt": "2021-05-30T12:07:10Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "P5I9ofgNsn2R0POnwt9o-Ebokr0",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2021-06-02T18:04:35Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#17 For Loop in JavaScript",
+        "description": "For loop\nNested Loop\nInfinite loop\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jcwTB9fBzP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jcwTB9fBzP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jcwTB9fBzP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jcwTB9fBzP0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jcwTB9fBzP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jcwTB9fBzP0"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "jcwTB9fBzP0",
+        "videoPublishedAt": "2021-06-02T18:04:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pDyhU_L3QMwwQ9psPN0F8bfOSNg",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2021-06-03T12:35:14Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#18 While vs For Loop | Which to use and When?",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EBHOo-6xn4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EBHOo-6xn4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBHOo-6xn4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EBHOo-6xn4A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EBHOo-6xn4A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "EBHOo-6xn4A"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "EBHOo-6xn4A",
+        "videoPublishedAt": "2021-06-03T12:36:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8gfHpXL8A9GpOIqjcG3wxziQsvs",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2021-06-04T05:20:31Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#19 Objects in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1dWe3f2zm0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1dWe3f2zm0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1dWe3f2zm0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S1dWe3f2zm0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S1dWe3f2zm0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S1dWe3f2zm0"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "S1dWe3f2zm0",
+        "videoPublishedAt": "2021-06-04T05:40:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wcdcot5u-I-itBT3Ep_KhqkWsFQ",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2021-06-06T09:22:43Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#20 Complex Object, Delete Property in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/weEDSjNYzv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/weEDSjNYzv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/weEDSjNYzv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/weEDSjNYzv4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/weEDSjNYzv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "weEDSjNYzv4"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "weEDSjNYzv4",
+        "videoPublishedAt": "2021-06-06T09:22:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9AchF0raTmih3J6diUND9eRtpCc",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2021-06-07T16:42:22Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#21 For in loop in JavaScript",
+        "description": "Iterating over properties of an Object\n\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-PVcUUj_ke4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-PVcUUj_ke4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PVcUUj_ke4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-PVcUUj_ke4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-PVcUUj_ke4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-PVcUUj_ke4"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "-PVcUUj_ke4",
+        "videoPublishedAt": "2021-06-07T16:42:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1F7PLf6xyyZhw22XO8u-UYRn8U0",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2021-06-08T14:24:11Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#22 Functions in JavaScript",
+        "description": "What are functions?\nFunction Definition, calling\n \n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jwOW-qlJtxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jwOW-qlJtxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jwOW-qlJtxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jwOW-qlJtxg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jwOW-qlJtxg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jwOW-qlJtxg"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "jwOW-qlJtxg",
+        "videoPublishedAt": "2021-06-08T14:25:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "NDPzFDnGa4pkMQmDJ7ZrJV9dyU8",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2021-06-09T02:23:03Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#23 Function return and passing",
+        "description": "How to return a value from a function in JavaScript?\nHow to pass a value to a function in JavaScript?\n\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pCU7vicLCgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pCU7vicLCgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pCU7vicLCgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pCU7vicLCgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pCU7vicLCgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pCU7vicLCgA"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "pCU7vicLCgA",
+        "videoPublishedAt": "2021-06-09T02:23:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2gxLBiyIqVe-gi4MfqUjVaO4P8E",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2021-06-09T15:39:56Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#24 Function Expression in JavaScript",
+        "description": "Anonymous Function\n\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/37ly8tCGFWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/37ly8tCGFWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/37ly8tCGFWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/37ly8tCGFWA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/37ly8tCGFWA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "37ly8tCGFWA"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "37ly8tCGFWA",
+        "videoPublishedAt": "2021-06-09T15:40:47Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jB5uQKOAwy-SyW61fQYAJSw7lVY",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2021-06-10T16:15:32Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#25 Local-Global Variable | Default Value in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nnAU1dLY7gY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nnAU1dLY7gY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nnAU1dLY7gY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nnAU1dLY7gY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nnAU1dLY7gY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nnAU1dLY7gY"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "nnAU1dLY7gY",
+        "videoPublishedAt": "2021-06-10T16:16:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8eQL9fKzUDTdldVUWe0ySGPiuU0",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2021-06-12T17:32:17Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#26 Arrow function in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tJOJPealurs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tJOJPealurs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tJOJPealurs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tJOJPealurs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tJOJPealurs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tJOJPealurs"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "tJOJPealurs",
+        "videoPublishedAt": "2021-06-12T17:32:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SGDiDrOxoCTMZdaEvGoe5oAWLEQ",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2021-06-15T05:05:04Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#27 What are Methods in JavaScript?",
+        "description": "Defining Function inside the object, It adds behavior to an Object.\n\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4r72b1ScPLY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4r72b1ScPLY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4r72b1ScPLY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4r72b1ScPLY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4r72b1ScPLY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4r72b1ScPLY"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "4r72b1ScPLY",
+        "videoPublishedAt": "2021-06-15T05:05:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "J4B1Sx0_NDsZDUGZyoETMLjKRXI",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2021-06-22T13:29:22Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#28 What is this? | JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kE93zNJBCBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kE93zNJBCBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kE93zNJBCBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kE93zNJBCBw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kE93zNJBCBw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "kE93zNJBCBw"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "kE93zNJBCBw",
+        "videoPublishedAt": "2021-06-22T13:30:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v9qEdkYDjmiCPxu1DNPOyoBGurI",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2021-06-24T06:38:58Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "#29 Why it is called THIS?",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YiqqAAvb16Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YiqqAAvb16Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YiqqAAvb16Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YiqqAAvb16Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YiqqAAvb16Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YiqqAAvb16Q"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "YiqqAAvb16Q",
+        "videoPublishedAt": "2021-06-24T06:39:33Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "SrasBcMBb_H8tu0LV4lRFRLFEkM",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2021-06-27T18:27:46Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Constructor function in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tV7ZqcB9J3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tV7ZqcB9J3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tV7ZqcB9J3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tV7ZqcB9J3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tV7ZqcB9J3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tV7ZqcB9J3Y"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "tV7ZqcB9J3Y",
+        "videoPublishedAt": "2021-06-27T18:28:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W7R-vZuh1fWOmiJGE6SqOyB1zuo",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2021-07-04T05:48:12Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Creating Array and Fetching Elements in JavaScript",
+        "description": "What is Array?\nHow to create Array in JS?\n\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TScHu-37Cqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TScHu-37Cqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TScHu-37Cqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TScHu-37Cqw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TScHu-37Cqw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TScHu-37Cqw"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "TScHu-37Cqw",
+        "videoPublishedAt": "2021-07-04T05:48:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gPyVYTVZAsR96_qiikgI2i4jzFg",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2021-07-04T06:38:11Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Different types of data in Array",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eADCg1R5_sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eADCg1R5_sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eADCg1R5_sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eADCg1R5_sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eADCg1R5_sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eADCg1R5_sk"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "eADCg1R5_sk",
+        "videoPublishedAt": "2021-07-04T06:38:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "47MCdPM-JAc5bsyMcHMj26ihwnI",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2021-07-06T14:43:48Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Array methods in JavaScripts",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yv1h-QKt_KQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yv1h-QKt_KQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yv1h-QKt_KQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Yv1h-QKt_KQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Yv1h-QKt_KQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Yv1h-QKt_KQ"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "Yv1h-QKt_KQ",
+        "videoPublishedAt": "2021-07-06T14:45:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HGsgAvzA-c_rXKvp0KbiNymbKw8",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2021-07-07T17:35:31Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "For of Loop with an Array in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c69Y2GpF6-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c69Y2GpF6-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c69Y2GpF6-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c69Y2GpF6-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c69Y2GpF6-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "c69Y2GpF6-U"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "c69Y2GpF6-U",
+        "videoPublishedAt": "2021-07-07T17:35:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FVowmH_c4hzRvwpiJc-rQk_jwwg",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2021-09-13T06:20:37Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Array Destructuring in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/giNjEgYTd9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/giNjEgYTd9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/giNjEgYTd9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/giNjEgYTd9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/giNjEgYTd9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "giNjEgYTd9E"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "giNjEgYTd9E",
+        "videoPublishedAt": "2021-07-28T17:52:22Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "q6c-qoef8I0j7CX87bO1c4RF66M",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2021-09-22T14:28:19Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Array forEach Method in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hP0Rl5euD_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hP0Rl5euD_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hP0Rl5euD_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hP0Rl5euD_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hP0Rl5euD_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hP0Rl5euD_o"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "hP0Rl5euD_o",
+        "videoPublishedAt": "2021-09-22T14:29:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Zecxc4oKeoQZQ1hZLlWVdaFJBs",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2021-09-24T13:38:24Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Array Method filter map reduce",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQ7Le6SuLNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQ7Le6SuLNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQ7Le6SuLNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oQ7Le6SuLNA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oQ7Le6SuLNA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oQ7Le6SuLNA"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "oQ7Le6SuLNA",
+        "videoPublishedAt": "2021-09-24T13:21:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7SU4zfY_UrsYBgIr8cLG4KIBWSA",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2021-09-26T12:18:59Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Set in JavaScript",
+        "description": "Instagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YiIKUhtqeRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YiIKUhtqeRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YiIKUhtqeRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YiIKUhtqeRM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YiIKUhtqeRM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "YiIKUhtqeRM"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "YiIKUhtqeRM",
+        "videoPublishedAt": "2021-09-26T12:19:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B94Dhx5vMDL0DPVScKyE_rw6zYM",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2021-10-04T04:06:18Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Map in Javascript",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/flveJ5_-iFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/flveJ5_-iFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/flveJ5_-iFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/flveJ5_-iFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/flveJ5_-iFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "flveJ5_-iFA"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "flveJ5_-iFA",
+        "videoPublishedAt": "2021-10-03T12:05:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KoPsvQDLbTDM9QQBsPotmA86L1A",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2021-11-07T12:57:53Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "What is Recursion? | JavaScript",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8NZZSgtTelc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8NZZSgtTelc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8NZZSgtTelc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8NZZSgtTelc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8NZZSgtTelc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8NZZSgtTelc"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "8NZZSgtTelc",
+        "videoPublishedAt": "2021-11-07T12:59:56Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o5zurJTdSF5O2DpYw1xK-3oPxSM",
+      "id": "UExzeWVvYnpXeGw3cnJ2Z0c3TUxOSU1TVHpWQ0RaWmNUNC5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2021-11-08T16:02:23Z",
+        "channelId": "UC59K-uG2A5ogwIrHw4bmlEg",
+        "title": "Factorial using Recursion | JavaScript",
+        "description": "Check out our courses:\n\nJava Full Stack and Spring AI - https://go.telusko.com/JavaSpringAI\nCoupon: TELUSKO10   (10% Discount)\n\nDevOps with AWS: From Basics to Mastery : https://go.telusko.com/DevOpsAWS\nCoupon: TELUSKO10   (10% Discount)\n\nMaster Java Spring Development : https://go.telusko.com/masterjava\nCoupon: TELUSKO20   (20% Discount)\n\nInstagram : https://www.instagram.com/navinreddyofficial/\nLinkedin : https://in.linkedin.com/in/navinreddy20\nDiscord : https://discord.gg/aXPF5hV7\n\nMore Learning :\n\nJava - https://bit.ly/3xleOA2\nPython   :- https://bit.ly/3H0DYHx\nDjango  :- https://bit.ly/3awMaD8\nSpring Boot  :- https://bit.ly/3aucCgB\nSpring Framework :- https://bit.ly/3GRfxwe\n\nServlet & JSP  :- https://bit.ly/3mh5CGz\nHibernate Tutorial :- https://bit.ly/3NWAKah\nRest API | Web Service Tutorial :- https://bit.ly/38RJCiy\n\nGit :- https://bit.ly/3NUHB3V\nJavaScript  :- https://bit.ly/3mkcFys\nKotlin  :- https://bit.ly/3GR2DOG",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rDjSD1vcsRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rDjSD1vcsRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rDjSD1vcsRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rDjSD1vcsRI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rDjSD1vcsRI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Telusko",
+        "playlistId": "PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rDjSD1vcsRI"
+        },
+        "videoOwnerChannelTitle": "Telusko",
+        "videoOwnerChannelId": "UC59K-uG2A5ogwIrHw4bmlEg"
+      },
+      "contentDetails": {
+        "videoId": "rDjSD1vcsRI",
+        "videoPublishedAt": "2021-11-08T16:03:00Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 42,
+    "resultsPerPage": 50
+  }
+}
