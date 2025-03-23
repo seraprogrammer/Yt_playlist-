@@ -1,0 +1,673 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "83bm9n6Iz9hUqLgT7m-MfvIK5Ac",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C06BHlYmruzSV-bPYdyIs-kkHcc",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2024-04-26T15:01:35Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Master GSAP Animations: Basics | Complete GSAP Course - Part 1",
+        "description": "Get started with GSAP animations and learn the basics to bring your web projects to life! 🎨 This is Part 1 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials \n\n\n0:00 Video Introduction \n1:18 What is GSAP?\n5:50 Learn Basics\n9:58 Apply GSAP\n12:41 Box animation\n29:20 Text Animations \n31:17 Stagger\n34:49 Repeat Animation/ yoyo\n37:06 GSAP Timelines\n46:19 How to apply Timeline\n51:19 Navbar Animation",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9C03V1dXxOU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9C03V1dXxOU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9C03V1dXxOU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9C03V1dXxOU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9C03V1dXxOU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9C03V1dXxOU"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "9C03V1dXxOU",
+        "videoPublishedAt": "2024-04-25T06:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "i1t_deDuTWIjwr7uR32IzhtLyhI",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2024-04-26T15:01:35Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Master ScrollTrigger with GSAP | Complete GSAP Course - Part 2",
+        "description": "Learn how to use ScrollTrigger with GSAP to create stunning scroll-based animations! 📜 This is Part 2 of the Complete GSAP Course. \n\nDon’t forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aezzM70lWDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aezzM70lWDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aezzM70lWDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aezzM70lWDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aezzM70lWDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aezzM70lWDo"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "aezzM70lWDo",
+        "videoPublishedAt": "2024-04-26T09:25:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HMHGtyJRgGR_yOR149JoGBBJz8Q",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2024-04-26T15:01:35Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Create Stunning SVG Animations with GSAP | Complete GSAP Course - Part 3",
+        "description": "Learn how to create smooth and stunning SVG animations using GSAP! ✨ This is Part 3 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/asdNfZfHT34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/asdNfZfHT34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/asdNfZfHT34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/asdNfZfHT34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/asdNfZfHT34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "asdNfZfHT34"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "asdNfZfHT34",
+        "videoPublishedAt": "2024-04-27T05:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Pq5Uyj2EgihSR-JTQd8LLR0QF1g",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2024-04-27T14:41:19Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Build a Custom Cursor Animation with GSAP | Complete GSAP Course - Project 1",
+        "description": "Learn to create a custom cursor animation using GSAP for a unique web experience! 🖱️ This is Project 1 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ziv1G994SrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ziv1G994SrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ziv1G994SrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ziv1G994SrM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ziv1G994SrM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ziv1G994SrM"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "Ziv1G994SrM",
+        "videoPublishedAt": "2024-04-28T06:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5nZzhuDU0id7AZ2hOtZf8HP2koc",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2024-04-28T12:17:57Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Create Timeline Animation with GSAP | Complete GSAP Course - Project 2",
+        "description": "Learn how to create a smooth timeline animation using GSAP! ⏳ This is Project 2 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dm3QmM9c4xU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dm3QmM9c4xU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dm3QmM9c4xU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dm3QmM9c4xU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dm3QmM9c4xU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dm3QmM9c4xU"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "dm3QmM9c4xU",
+        "videoPublishedAt": "2024-04-29T05:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Aa3hp9ZIC-nvgyzRD3E0fMFm6mM",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2024-04-30T06:32:11Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Create Stunning Text Animations with GSAP | Complete GSAP Course - Project 3",
+        "description": "Master text animations with GSAP to make your website's text stand out! ✨ This is Project 3 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0tNwWuKRjnk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0tNwWuKRjnk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0tNwWuKRjnk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0tNwWuKRjnk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0tNwWuKRjnk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0tNwWuKRjnk"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "0tNwWuKRjnk",
+        "videoPublishedAt": "2024-04-30T06:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ClhPUWdjXaeDLnPMp30DEHfEJGw",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2024-04-30T14:29:53Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Create Scrolling Text Animations with GSAP | Complete GSAP Course - Project 4",
+        "description": "Learn how to create smooth scrolling text animations with GSAP to enhance your web designs! 📜 This is Project 4 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tvNKFWkWpho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tvNKFWkWpho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tvNKFWkWpho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tvNKFWkWpho/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tvNKFWkWpho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "tvNKFWkWpho"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "tvNKFWkWpho",
+        "videoPublishedAt": "2024-05-01T05:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pFcn-Z2_IWLQKiBoqICqzo3Rywg",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2024-05-01T15:43:34Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Build an Animated Website with GSAP | Complete GSAP Course - Project 5",
+        "description": "Learn how to build an animated website from scratch using GSAP for dynamic effects! 🌐 This is Project 5 of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\n\nCheck out this design - https://in.pinterest.com/pin/650559108704589980/\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zd8a_yC-_xQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zd8a_yC-_xQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zd8a_yC-_xQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zd8a_yC-_xQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zd8a_yC-_xQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zd8a_yC-_xQ"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "Zd8a_yC-_xQ",
+        "videoPublishedAt": "2024-05-02T05:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hkqMkkx2Tq4bO4f_VQm87aDQumM",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2024-05-02T15:09:50Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "GSAP Animation with ReactJS: A Complete Guide | Complete GSAP Course",
+        "description": "Master GSAP animations within ReactJS and learn how to create smooth, interactive animations in your React projects! 🚀 This is part of the Complete GSAP Course. \n\nDon't forget to 👍 Like, 🔔 Subscribe, and 📢 Share!\n\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UkdJsvosc6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UkdJsvosc6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UkdJsvosc6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UkdJsvosc6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UkdJsvosc6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UkdJsvosc6c"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "UkdJsvosc6c",
+        "videoPublishedAt": "2024-05-03T05:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ttiqWocJ0yXoiyXpeF0dG-NoLJ0",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2024-05-11T15:34:13Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "The FASTEST Way to Learn GSAP Animation from Scratch!",
+        "description": "Re-Imagine: https://reimagine.sheryians.com/\n\nCheck Out Our Amazing Course: https://sheryians.com/courses/courses-details/Front-End%20Domination:%20Create%20Anything%20with%20Code\n\nInstructor in this video: Sarthak Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💼 LinkedIn: https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/sheryians-coding-school-1013855166962864138\nPeace ✌️\n\n\n#webanimation #javascripttutorial #htmlcss #css #cssanimationtutorial #advancedjavascript #webdevelopment #programmingtutorials #javascriptmastery #codingtips #techeducation #frontenddevelopment  #codelearning #javascripttips #webdevtips #codingjourney #learntocode #codenewbie #javascripttricks #programmingskills  #codingcommunity  #javascriptprojects #webdesign #codingtutorials",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sc64ZiW2xPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sc64ZiW2xPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sc64ZiW2xPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Sc64ZiW2xPA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Sc64ZiW2xPA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Sc64ZiW2xPA"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "Sc64ZiW2xPA",
+        "videoPublishedAt": "2024-05-12T14:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "boLxJaJusmk-1jB5W-1PmYd1xbo",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2024-08-25T13:06:13Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "[PROCESS BRAKDOWN] React Three Fiber | Cylinder Work Showcase",
+        "description": "Learn how to create a rotating cylinder with an image texture using React-3 Fiber, 3.js, and GSAP. Perfect for showcasing your work dynamically! Watch the full process breakdown and bring your 3D projects to life",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9qQ8WxF-h8o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9qQ8WxF-h8o"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "9qQ8WxF-h8o",
+        "videoPublishedAt": "2024-08-25T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "MuHnWg3Cib0qPjWCUrzeKYUq5hk",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2024-08-29T16:58:01Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "3D React.js Apple Mac Book Pro Landing Page",
+        "description": "In this project, we’re building a sleek, minimal landing page inspired by Apple’s design aesthetics. As you scroll, watch the 3D model of the MacBook Pro come to life, opening up to reveal the screen. This clean and modern page features smooth animations and a stylish gradient on the text, creating an experience just as polished as Apple’s own designs.\n\nModel & texture : https://drive.google.com/file/d/1I87xbiFwwGxiL-UAMeSzvw7gy3fJxHKo/view?usp=drive_link",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yItOSReV_f0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yItOSReV_f0"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "yItOSReV_f0",
+        "videoPublishedAt": "2024-08-30T13:30:38Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KrV2F4MjuKRW4A1GdEAk2tmYABk",
+      "id": "UExidEkzX01BckRPbklJSnhCNnhGdHBuaE0wd1R3ejB4Ni4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2025-01-31T15:33:20Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "Framer Motion Tutorial – Master React Animations (Beginner to Advanced)",
+        "description": "Want to add smooth, powerful animations to your React apps? In this tutorial, I’ll guide you through Framer Motion, the best animation library for React! Whether you're a beginner or looking to level up, this video covers everything from basics to advanced animations.\n\n📌 What You'll Learn:\n✅ Basics of Framer Motion\n✅ Animating components effortlessly\n✅ Gestures, Keyframes, and Transitions\n✅ Scroll Based Animations\n✅ Advanced animations & real-world examples\n\n🔹 React.js Full Course: https://www.youtube.com/watch?v=E6tAtRi82QY\n🔹 GSAP Animations in React: https://www.youtube.com/watch?v=UkdJsvosc6c\n🔹 Visit My Website: https://sheryians.com/\n\n🔔 Don't forget to LIKE, SUBSCRIBE, and TURN ON NOTIFICATIONS for more amazing web dev content! 🎬\n\nInstructor in this video: Sarthak Sharma ❤️\n\nOur Website - https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://in.linkedin.com/company/the-sheryians-coding-school\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace out ✌\n\n#sheryianscodingschool #sheryians #code #coding #jobs #reactjs  #mernstack #mern #web #reactjscourse #tutorial  #creativewebdevelopment #webdevelopment #functionalwebdevelopment #thebasics #mernstack #jslogic #javascriptlogics #FramerMotion #ReactJS #WebDevelopment #ReactAnimations #JavaScriptAnimations #UIUX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JALCoY9MQg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JALCoY9MQg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JALCoY9MQg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JALCoY9MQg8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JALCoY9MQg8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JALCoY9MQg8"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "JALCoY9MQg8",
+        "videoPublishedAt": "2025-01-31T15:41:08Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 13,
+    "resultsPerPage": 50
+  }
+}
