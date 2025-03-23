@@ -1,0 +1,1642 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "7iS07uydvmogb31Waj8Kdfigc4M",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V0NB1poeUmXzVEGGa_WAWZwZnSU",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-11-05T07:51:45Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Introduction to JavaScript",
+        "description": "Hey Everyone, In this video we are going to understand what is Javascript and how we can use Javascript in our HTML web document.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nJavascript Tutorial For Beginners\nJavascript Tutorial in Hindi\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5hqLNHCq_l8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5hqLNHCq_l8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5hqLNHCq_l8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5hqLNHCq_l8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5hqLNHCq_l8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "5hqLNHCq_l8"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "5hqLNHCq_l8",
+        "videoPublishedAt": "2022-11-05T12:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "dsoWpr37Ft1DZqQObAd1Fj2RwAw",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-11-06T07:17:31Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Variables in Javascript",
+        "description": "Hey Everyone, In this video, we will learn about variables in Javascript. We will see all three ways to declare variables in javascript i.e var, let, and const.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nVariables in Javascript\nHow to declare variables in Javascript? \n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S_WSNrzzpLo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S_WSNrzzpLo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_WSNrzzpLo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/S_WSNrzzpLo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/S_WSNrzzpLo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "S_WSNrzzpLo"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "S_WSNrzzpLo",
+        "videoPublishedAt": "2022-11-06T12:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "j42-DzmNuoFrcC89SdsUDt6dBsQ",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-11-07T05:43:22Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Data Types and Operators in Javascript",
+        "description": "Hey Everyone, In this video, we will learn about Data Types and Operators in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nData Types and Operators in Javascript\nWhat are Data Types in Javascript?\nOperators in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qbAi_IapO8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qbAi_IapO8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qbAi_IapO8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qbAi_IapO8k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qbAi_IapO8k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qbAi_IapO8k"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "qbAi_IapO8k",
+        "videoPublishedAt": "2022-11-07T12:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "b4HyoXO1YcX5mDlUe-iivIr10Ic",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-11-07T07:56:46Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Conditional Statements and Switch Case in Javascript",
+        "description": "Hey Everyone, In this video, we are going to understand if and else statements in javascript and switch cases use in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nJavascript Tutorial For Beginners\nJavascript Tutorial in Hindi\nIf Else in Javascript\nSwitch Case in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B8j99uQ9p60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B8j99uQ9p60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B8j99uQ9p60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B8j99uQ9p60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B8j99uQ9p60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B8j99uQ9p60"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "B8j99uQ9p60",
+        "videoPublishedAt": "2022-11-08T12:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Oo1LLW1p5dFdbUCZpBtBU81A3SE",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-11-09T11:05:58Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Logical Operators In Javascript",
+        "description": "Hey Everyone, In this video we are going to see logical operators i.e AND, OR and NOT in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nJavascript Tutorial For Beginners\nJavascript Tutorial in Hindi\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/69VEqDe5Cts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/69VEqDe5Cts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/69VEqDe5Cts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/69VEqDe5Cts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/69VEqDe5Cts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "69VEqDe5Cts"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "69VEqDe5Cts",
+        "videoPublishedAt": "2022-11-09T12:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hs3ma0cWoF0AWgWFhmoF2pHJN2M",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-11-10T08:31:06Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Loops in Javascript",
+        "description": "Hey Everyone, In this video we are going to see loops in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nJavascript Tutorial For Beginners\nJavascript Tutorial in Hindi\nLoops in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uADL3coqh_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uADL3coqh_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uADL3coqh_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uADL3coqh_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uADL3coqh_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uADL3coqh_M"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "uADL3coqh_M",
+        "videoPublishedAt": "2022-11-10T12:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ivrv8rx1xnV-YDxjMtfbtbGuiUI",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-11-11T08:34:48Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Functions in Javascript",
+        "description": "Hey Everyone, In this video we are going to understand functions in Javascript. How you can create functions and different types of functions in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nFunctions in Javascript\nJavascript Tutorial for begineers\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ci_ootkeDcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ci_ootkeDcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ci_ootkeDcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ci_ootkeDcg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ci_ootkeDcg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ci_ootkeDcg"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "ci_ootkeDcg",
+        "videoPublishedAt": "2022-11-11T12:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "5it2O0dk63eWAKkGB9G3cXl4uQ0",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-11-12T07:27:15Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Arrow Functions in Javascript",
+        "description": "Hey Everyone, In this video we are going to understand arrow functions in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nArrow Functions in Javascript\nArrow Functions Javascript Tutorial for begineers\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev #arrowfunction",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q9IsqhYZ4ck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q9IsqhYZ4ck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q9IsqhYZ4ck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q9IsqhYZ4ck/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q9IsqhYZ4ck/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q9IsqhYZ4ck"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "q9IsqhYZ4ck",
+        "videoPublishedAt": "2022-11-12T12:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "v4RpATMslFC9j-j2Jsp8Hx45H2s",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-11-14T07:11:48Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "High Order Functions and Callbacks in Javascript",
+        "description": "Hey Everyone, In this video we are going to understand High Order Functions in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nHigh Order Functions in Javascript\nCallbacks in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev #arrowfunction",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/03lLCa3KbuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/03lLCa3KbuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/03lLCa3KbuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/03lLCa3KbuI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/03lLCa3KbuI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "03lLCa3KbuI"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "03lLCa3KbuI",
+        "videoPublishedAt": "2022-11-14T12:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BUuf9TKBng3OEZ3DrXiErVtPoB4",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-11-15T07:22:03Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Arrays in Javascript",
+        "description": "Hey Everyone, In this video we are going to understand the basics of arrays in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nArrays in Javascript\nJavascript Arrays\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7lHwMYMLCD0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7lHwMYMLCD0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7lHwMYMLCD0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7lHwMYMLCD0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7lHwMYMLCD0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7lHwMYMLCD0"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "7lHwMYMLCD0",
+        "videoPublishedAt": "2022-11-15T12:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Om0sKGTAZKOEBT3Jl8oAdYGaneA",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-11-16T11:26:39Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Arrays High Order Functions in Javascript",
+        "description": "Hey Everyone, In this video, we are going to understand some of the most used HOC functions for arrays in Javascript.\n\nWe are going to study:\n.forEach()\n.map()\n.filter()\n.find()\n.findIndex()\n.slice()\n.splice()\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nArrays in Javascript\nJavascript Arrays\nArrays functions\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DhP6aPL8ZVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DhP6aPL8ZVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DhP6aPL8ZVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DhP6aPL8ZVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DhP6aPL8ZVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DhP6aPL8ZVY"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "DhP6aPL8ZVY",
+        "videoPublishedAt": "2022-11-16T12:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7WSqUoRKfu0W5cNJQNROeMXEJnw",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-11-17T06:19:47Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Introduction to DOM in Javascript",
+        "description": "Hey Everyone, In this video, we are going to take an introduction on DOM - Document Object Model in Javascript\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is DOM?\nDOM in Javascript\nDOM Manipulation in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BUdm059S_b0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BUdm059S_b0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BUdm059S_b0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BUdm059S_b0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BUdm059S_b0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BUdm059S_b0"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "BUdm059S_b0",
+        "videoPublishedAt": "2022-11-17T12:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oNLQEbqjKYsCsSlvK_UVYZRdSpA",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-11-18T04:51:30Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Query Selector in Javascript - DOM Manipulation Tutorial",
+        "description": "Hey Everyone, In this video, we are going learn DOM Manipulation using querySelector in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is DOM?\nDOM in Javascript\nDOM Manipulation in Javascript\nQuery Selector in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZdqO-my7FSA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZdqO-my7FSA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZdqO-my7FSA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZdqO-my7FSA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZdqO-my7FSA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZdqO-my7FSA"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "ZdqO-my7FSA",
+        "videoPublishedAt": "2022-11-18T12:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6iWmWNA3zL3IKxsR5b9IbQr8uFI",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-11-19T06:20:47Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Select Element By Id in Javascript - DOM Manipulation Tutorial",
+        "description": "Hey Everyone, In this video, we are going learn DOM Manipulation using getElementById in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is DOM?\nDOM in Javascript\nDOM Manipulation in Javascript\nQuery Selector in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZcTZkLWzMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZcTZkLWzMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZcTZkLWzMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QZcTZkLWzMY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QZcTZkLWzMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QZcTZkLWzMY"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "QZcTZkLWzMY",
+        "videoPublishedAt": "2022-11-19T12:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZxwdNlA-nU-z2kVJmxLrwu9rTAU",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-11-20T04:45:46Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Get Elements By Class Name in Javascript - DOM Manipulation",
+        "description": "Hey Everyone, In this video, we are going learn DOM Manipulation using getElementsByClassName in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is DOM?\nDOM in Javascript\nDOM Manipulation in Javascript\nQuery Selector in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2tbl2eY_WB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2tbl2eY_WB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2tbl2eY_WB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2tbl2eY_WB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2tbl2eY_WB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2tbl2eY_WB4"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "2tbl2eY_WB4",
+        "videoPublishedAt": "2022-11-21T12:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PPkwyvRNJYpzjuFnHosJk-f5QS8",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2022-11-21T06:13:38Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "What are Event Listeners in Javascript? - DOM Manipulation Tutorial",
+        "description": "Hey Everyone, In this video, we are going learn DOM Manipulation and Event Listners in Javascript\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is DOM?\nDOM in Javascript\nDOM Manipulation in Javascript\nEvent Listners Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TA5tQ92Hetk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TA5tQ92Hetk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TA5tQ92Hetk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TA5tQ92Hetk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TA5tQ92Hetk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TA5tQ92Hetk"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "TA5tQ92Hetk",
+        "videoPublishedAt": "2022-11-22T12:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bzX_NBltgcvCMcn4cl21aRX4Efk",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2022-11-24T07:06:42Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Create Elements dynamically in Javascript - DOM Manipulation Tutorial",
+        "description": "Hey Everyone, In this video, we are going learn DOM Manipulation and Creating Elements dynamically in JavaScript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is DOM?\nDOM in Javascript\nDOM Manipulation in Javascript\nEvent Listners Javascript\nDocument Create Element Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LUYbwrjfYFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LUYbwrjfYFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LUYbwrjfYFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LUYbwrjfYFo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LUYbwrjfYFo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LUYbwrjfYFo"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "LUYbwrjfYFo",
+        "videoPublishedAt": "2022-11-24T12:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nhAP3PZ59arCpS7aOk7xOI4NS40",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-12-03T11:56:17Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Promises in Javascript",
+        "description": "Hey Everyone, In this video, we are going learn about promises in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is Promise?\nAsync in Javascript\nAwait in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VLiE5tyfko4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VLiE5tyfko4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VLiE5tyfko4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VLiE5tyfko4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VLiE5tyfko4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VLiE5tyfko4"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "VLiE5tyfko4",
+        "videoPublishedAt": "2022-12-03T14:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PID8rrZ6rgBImtENIDlM8cQDyR0",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-12-04T06:38:51Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "API Calling in Javascript",
+        "description": "Weather API: https://www.weatherapi.com/\n\nHey Everyone, In this video, we are going learn about API Calling in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is Promise?\nAsync in Javascript\nAwait in Javascript\nAPI Calling in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev #api #apicall",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vouhkAfCtFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vouhkAfCtFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vouhkAfCtFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vouhkAfCtFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vouhkAfCtFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "vouhkAfCtFY"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "vouhkAfCtFY",
+        "videoPublishedAt": "2022-12-04T12:30:25Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "js4CNdZgS0RGvTh44InX-YuybGI",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-12-05T07:17:32Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Local Storage in Javascript",
+        "description": "Hey Everyone, In this video, we are going learn about Local Storage in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is LocalStorage?\nHow to use LocalStorage in Javascript?\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCwhTWT3yhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCwhTWT3yhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCwhTWT3yhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCwhTWT3yhI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCwhTWT3yhI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCwhTWT3yhI"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "PCwhTWT3yhI",
+        "videoPublishedAt": "2022-12-05T12:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gMYB5ppF-4uhfaUj-LoWWZdhgzU",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-12-06T07:57:52Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Getting Current Location in Javascript",
+        "description": "Hey Everyone, In this video, we will learn how to get the user's current location.\n\nWeather API: https://www.weatherapi.com/\nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nWhat is Promise?\nAsync in Javascript\nAwait in Javascript\nAPI Calling in Javascript\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev #api #apicall",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LoPmb58smwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LoPmb58smwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LoPmb58smwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LoPmb58smwQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LoPmb58smwQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LoPmb58smwQ"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "LoPmb58smwQ",
+        "videoPublishedAt": "2022-12-06T12:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "o702n89MCdNok_nZgPAeQtBzq68",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-12-07T08:22:38Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Creating Clock in Javascript | Set Interval and Timeouts",
+        "description": "Hey Everyone, In this video, we will learn how to use the setInterval function in JavaScript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Javascript?\nHow to use setInterval in Javascript?\nWhat is setTimeout in Javascript?\n\nHashtags\n#javascript #fullstackdevelopers #javascriptinhindi  #frontenddeveloper #frontend #js #webdevelopment #webdesign #webdev #api #apicall",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zyy3LrN7VOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zyy3LrN7VOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zyy3LrN7VOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zyy3LrN7VOY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zyy3LrN7VOY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Zyy3LrN7VOY"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "Zyy3LrN7VOY",
+        "videoPublishedAt": "2022-12-07T14:01:59Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "C0nGUmmA1IR-jjEErptbyelHqPI",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-12-12T05:13:41Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Closure in Javascript",
+        "description": "I will show you how to use closure in Javascript in this video. \nThe closure is a powerful concept in programming that allows you to create functions that have access to variables from the scope outside of the function.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat are closures in Javascript?\nJavascript Lexical Scoping\nJavascript closures\n\nHashtags\n#javascript #closure #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WxYmFqHrf5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WxYmFqHrf5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WxYmFqHrf5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WxYmFqHrf5o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WxYmFqHrf5o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WxYmFqHrf5o"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "WxYmFqHrf5o",
+        "videoPublishedAt": "2022-12-12T12:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Qy4tg9TdhGClzSlA3_Gm29ZC1B0",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-12-13T06:11:14Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Currying in Javascript | JS Interview Questions",
+        "description": "Closure in Javascript: https://youtu.be/WxYmFqHrf5o\n\nIn this video, we'll explore the concept of currying in Javascript. We'll start by looking at the basics of what currying is and why it's useful. Then we'll look at how to use it in a few different ways.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is currying in Javascript?\nJavascript Curry\nJavascript Currying Functions\n\nHashtags\n#javascript #closure #currying #javascriptcurry #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VK36OsyPeUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VK36OsyPeUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VK36OsyPeUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VK36OsyPeUw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VK36OsyPeUw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VK36OsyPeUw"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "VK36OsyPeUw",
+        "videoPublishedAt": "2022-12-13T12:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UYd2GZ6M7Nb3wKGI55R5aBNU-pA",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2022-12-15T05:06:03Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Composition in Javascript | Javascript Interview Questions",
+        "description": "Closure in Javascript: https://youtu.be/WxYmFqHrf5o\nCurrying in Javascript: https://youtu.be/VK36OsyPeUw\n\nIn this video, we'll explore the concept of composition function in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is currying in Javascript?\nJavascript Composition\nJavascript Composition Functions\nJavascript Interview Questions\n\nHashtags\n#javascript #closure #currying #javascriptcurry #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #webdevelopment #javascriptinhindi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DKce5yj2ADM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DKce5yj2ADM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DKce5yj2ADM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DKce5yj2ADM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DKce5yj2ADM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DKce5yj2ADM"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "DKce5yj2ADM",
+        "videoPublishedAt": "2022-12-15T12:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fX2J8_4lGduyvj5K__TbAdX8yQQ",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2022-12-17T06:47:41Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Connect Bluetooth Devices using Javascript",
+        "description": "Blog Link: https://developer.chrome.com/articles/bluetooth\n\nHey Everyone, Welcome back, and In this video, we will see how you can connect your device to a webpage using Javascript and Bluetooth.\nClosure in Javascript: https://youtu.be/WxYmFqHrf5o\nCurrying in Javascript: https://youtu.be/VK36OsyPeUw\n\nIn this video, we'll explore the concept of composition function in Javascript.\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nBluetooth in Javascript\nJavascript Advance Topics\nJavascript Bluetooth Connection\n\nTags\n#javascript #bluetooth #javascriptbluetooth #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #webdevelopment #javascriptinhindi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XWfkchrBztc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XWfkchrBztc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWfkchrBztc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XWfkchrBztc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XWfkchrBztc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XWfkchrBztc"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "XWfkchrBztc",
+        "videoPublishedAt": "2022-12-17T11:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zxB6O7Tl-PY-pWB38vMxmz7HyzA",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2022-12-20T06:32:01Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "What is IIFE in Javascript? Javascript Interview Questions",
+        "description": "In this video, I'm going to show you what IIFE is and how it can be used in Javascript. We'll also go over some of the most common questions about IIFEs that you might be asked in a job interview.\n\nWatch Next\n► Closure in Javascript: https://youtu.be/WxYmFqHrf5o\n► Currying in Javascript: https://youtu.be/VK36OsyPeUw\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is IIFE?\nIIFE in Javascript?\nWhat is an immediately invoked function in javascript?\nJavascript Interview Questions\n\nTags\n#javascript #iife #javascript_iife #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #webdevelopment #javascriptinhindi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UfaXa7kkJRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UfaXa7kkJRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UfaXa7kkJRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UfaXa7kkJRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UfaXa7kkJRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "UfaXa7kkJRo"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "UfaXa7kkJRo",
+        "videoPublishedAt": "2022-12-20T12:31:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "U5Zbpqpu7sHbHzavzLj6AMVwxnk",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2022-12-22T06:25:16Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "What are Generator Functions in Javascript? | Javascript Interview Questions",
+        "description": "► Full Javascript Playlist: https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv\n\nIn this video, I will show you what generator functions are in Javascript and how they work. I'll also show examples of how they can be used in your code.\n\nQuick Links\n► MDN Docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators#:~:text=Generator%20functions%20provide%20a%20powerful,not%20initially%20execute%20their%20code.\n\nWatch Next\n► Closure in Javascript: https://youtu.be/WxYmFqHrf5o\n► Currying in Javascript: https://youtu.be/VK36OsyPeUw\n\nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nMore Playlists\n► Complete ReactJS Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCHqHtgbjg1lSYgWebm1dyI\n► Complete Firebase & React Tutorial Series - https://youtube.com/playlist?list=PLinedj3B30sCw8Qjrct1DRglx4hWQx83C\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nWhat is Iterator Pattern in Javascript?\nWhat is the Generator function in Javascript?\nWhat is the yield keyword in Javascript?\nJavascript Interview Questions\n\nTags\n#javascript #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #webdevelopment #javascriptinhindi",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xC6-kXz8D8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xC6-kXz8D8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xC6-kXz8D8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xC6-kXz8D8I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xC6-kXz8D8I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xC6-kXz8D8I"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "xC6-kXz8D8I",
+        "videoPublishedAt": "2022-12-22T11:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "6SMO7Pggs3OJato7Ineexi1JAyE",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2022-12-24T06:23:40Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Promisification in JavaScript: Javascript Interview Questions",
+        "description": "► Full Javascript Playlist: https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv\n\nIn this video, we will learn what promisification is and how to use it in JavaScript. Promisification is the process of converting a callback-based function into a promise-based one.\n\nQuick Links\n► Blog Post: https://javascript.info/promisify\n\nWatch Next\n► Closure in Javascript: https://youtu.be/WxYmFqHrf5o\n► Currying in Javascript: https://youtu.be/VK36OsyPeUw\n\nTimestamps\n00:00 - Introduction\n00:35 - Understanding the Problem\n01:12 - Load Script Function using Callbacks\n03:08 - Testing Our Load Script Function\n05:05 - Getting Started with Promisification\n05:54 - Writing our own promisification function\n08:40 - Testing our new function\n11:33 - Recap on Promisification\n12:15 - Outro\n \nConnect With Me: https://bio.link/piyushgargdev\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Anker USB Hub: https://amzn.to/3GhZSr0\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nConverting Callbacks to Promises in JavaScript\nPromisifying Async Functions in JavaScript\nHow to Use Promisification in Your Code\nPromisification for Beginners: A JavaScript Tutorial\n\nHashtags\n#javascript #promises #callbacks #programming #webdevelopment #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #programming #technology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rg2CwRwM13A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rg2CwRwM13A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rg2CwRwM13A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rg2CwRwM13A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rg2CwRwM13A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rg2CwRwM13A"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "rg2CwRwM13A",
+        "videoPublishedAt": "2022-12-24T11:30:14Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BQEltD8FzTipKhTg3MnDpS-5aC8",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2022-12-26T09:04:25Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Tic Tac Toe Game in JavaScript | JavaScript Projects",
+        "description": "Source Code: https://www.piyushgarg.dev/projects/tic-tac-toe\n\nIn this video, we are going to learn how to create a classic Tic Tac Toe game using JavaScript in this tutorial video. Follow along as we walk through the code and explain the logic behind each step. we would understand how to build boards and render X and O on screen. We would also understand the logic of choosing the winner in-game.\n\n► Full Javascript Playlist: https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv\n\nWatch Next\n► Closure in Javascript: https://youtu.be/WxYmFqHrf5o\n► Currying in Javascript: https://youtu.be/VK36OsyPeUw\n\nTimestamps\n00:00 - Intro\n00:20 - Designing UI\n03:45 - Understanding the Logic of Tic Tac Toe\n04:55 - Writing X and O Render Logic In Javascript\n11:50 - Winner Logic\n19:45 - Draw Logic\n21:00 - Outro\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Anker USB Hub: https://amzn.to/3GhZSr0\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nTic Tac Toe in Javascript\nJavascript Projects\nGame Development Javascript\n\nTags\n#javascript #javascriptgame  #javascriptprojects  #programming #webdevelopment #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #programming #technology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lKe57l8sttw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lKe57l8sttw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lKe57l8sttw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lKe57l8sttw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lKe57l8sttw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lKe57l8sttw"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "lKe57l8sttw",
+        "videoPublishedAt": "2022-12-26T12:30:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YYV5xTv4d44iVfSGrbb9IYokzwY",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2022-12-28T06:40:05Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Guess The Colour Game Javascript | Javascript Projects",
+        "description": "Source Code: https://www.piyushgarg.dev/projects/guess-color-javascript\n\nHey Everyone, In this video, we walk through the process of building a fun and interactive color-guessing game using JavaScript. We start by setting up the HTML and CSS for our game and then dive into the JavaScript code that powers the game mechanics. You'll learn how to generate random colors, check the user's guesses against the target color, and provide feedback to the player.\n\n► Full Javascript Playlist: https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv\n\nVisit My Website: https://www.piyushgarg.dev\n\nTimestamps\n00:00 - Introduction\n00:20 - Let's Code UI\n00:30 - Javascript Logic\n06:50 - Rendering Game to Screen\n12:30 - Validating Correct Guess\n14:30 - Adding Score Logic\n20:30 - Adding Some Grid and Styles\n22:35 - Outro\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Anker USB Hub: https://amzn.to/3GhZSr0\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nGuess The Color Game - Javascript\nJavascript Game Development\nJavascript For Beginners \nJavascript In Hindi\nJavascript Tutorial In Hindi\n\nTags\n#javascript #javascriptgame #gamedevelopment #html #css  #javascriptprojects  #programming #webdevelopment #webdev #webdeveloper #javascriptinhindi #javascriptinterviewquestions #programming #technology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SEd4R5N6YDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SEd4R5N6YDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SEd4R5N6YDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SEd4R5N6YDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SEd4R5N6YDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SEd4R5N6YDY"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "SEd4R5N6YDY",
+        "videoPublishedAt": "2022-12-28T11:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "n1rQgjnykvQuQkm3mSBsi0mlzzU",
+      "id": "UExpbmVkajNCMzBzREZSZGdQWXZqbkJzMkpzRGRIUElNdi41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2022-12-30T06:32:57Z",
+        "channelId": "UCf9T51_FmMlfhiGpoes0yFA",
+        "title": "Build A Calculator With JavaScript Tutorial",
+        "description": "Source Code: https://www.piyushgarg.dev/projects/calculator-javascript\n\nHey Everyone, In this Video, we will build a Calculator App in Javascript. Project building is the best way to learn and understand how things work.\n\n► Full Javascript Playlist: https://www.youtube.com/playlist?list=PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv\n\nWatch Next\n► Closure in Javascript: https://youtu.be/WxYmFqHrf5o\n► Currying in Javascript: https://youtu.be/VK36OsyPeUw\n\nMy Gears\n► My Girlfriend: https://amzn.to/3WD6FRp\n► Apple MacBook Laptop: https://amzn.to/3WBJgQn\n► Anker USB Hub: https://amzn.to/3GhZSr0\n► Blue Yeti Microphone: https://amzn.to/3YKZ9FT\n► External 27” Monitor: https://amzn.to/3Vp3xaO\n► Logitech MK295 Wireless Keyboard and Mouse: https://amzn.to/3DuL1bB\n► Seagate Expansion 1TB External HDD: https://amzn.to/3QMm5Q8\n► Tripod: https://amzn.to/3S4OwK4\n► Ring Light: https://amzn.to/3YLf8DR\n\nDisclaimer: All the links above are affiliate links.\n\nSocial Links\n► Twitter - https://twitter.com/piyushgarg_dev\n► LinkedIn - https://www.linkedin.com/in/piyushgarg195\n\nVideo Titles\nCalculator With JavaScript Tutorial\nJavascript Projects\nJavascript Tutorial in Hindi\nJavascript For Beginners\n\nTags\n#javascript #javascriptinhindi #webdev #javascriptinterviewquestions #javascriptprojects #programming #coding #webdevelopment #html #css #technology",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hK6pVaeVGUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hK6pVaeVGUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hK6pVaeVGUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hK6pVaeVGUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hK6pVaeVGUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Piyush Garg",
+        "playlistId": "PLinedj3B30sDFRdgPYvjnBs2JsDdHPIMv",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hK6pVaeVGUc"
+        },
+        "videoOwnerChannelTitle": "Piyush Garg",
+        "videoOwnerChannelId": "UCf9T51_FmMlfhiGpoes0yFA"
+      },
+      "contentDetails": {
+        "videoId": "hK6pVaeVGUc",
+        "videoPublishedAt": "2022-12-30T11:30:10Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 32,
+    "resultsPerPage": 50
+  }
+}
