@@ -1,0 +1,571 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "RaWK4uOQYXd4qV1chHP5jBWSKMQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_HSzWbbFfFE8LElxD8iiBBzcQA4",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2025-01-06T13:55:18Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "Jumping Into React From JavaScript: Why to Learn React?",
+        "description": "- 👉 Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nReact এ হাতেখড়ি শুরু। আজ প্রথম ভিডিও দিলাম। মন দিয়ে দেখবেন। 🫶\n\nএই ভিডিওতে আমরা শিখবো ReactJS শেখার জন্যও mindset. আপনি যদি একজন beginner হন তাহলে এই ভিডিওটা অত্যন্ত গুরুত্বপূর্ণ।\n\nTimecodes\n0:00 - What Will You Learn from Playlist?\n07:04 - Expectations From Playlist\n12:58 - Why React?\n32:10 - JavaScript vs React with Code\n44:34 - React History\n\n## Join tapaScript DiscordDiscord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist\n## The First Website: https://info.cern.ch/hypertext/WWW/TheProject.html\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, Tech enthusiast, Writer, YouTuber, and Open Source projects maintainer/contributor. He is a full-stack developer with vast experience in building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JSLTS3dfHKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JSLTS3dfHKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JSLTS3dfHKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JSLTS3dfHKU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JSLTS3dfHKU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JSLTS3dfHKU"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "JSLTS3dfHKU",
+        "videoPublishedAt": "2025-01-06T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3QUyIievChLyNQjFH_ZdA3p_GwU",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2025-01-09T14:18:25Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "React Code Environment - What You Need to Know NOW",
+        "description": "- 👉 Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nReact এ হাতেখড়ি শুরু। আজ দ্বিতীয় ভিডিও দিলাম। মন দিয়ে দেখবেন। 🫶\n\nএই ভিডিওতে আমরা শিখবো ReactJS শেখার জন্যও কোড environment and React Code internals. এইটা একটি ডীপ dive video যাতে অনেক basics cover করা হয়েছে। সময় নিয়ে দেখেন।\n\nTimecodes\n0:00 - What Will You Learn?\n02:07 - VS Code Extensions\n08:18 - How React Gets Transpiled?\n14:24 - Vite and React App\n21:34 - React Project Anatomy\n50:12 - Integrating TailwindCSS\n57:35 - First Component\n01:04:48 - Code and Task\n\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n## Links Mentioned\n- My Favorite VS Code Extensions: https://www.youtube.com/shorts/jF_e1qualY8\n- Vite Guide: https://vite.dev/guide/\n- Node.js Download: https://nodejs.org/en\n- What To Learn Before React: https://www.youtube.com/shorts/mYiqxTBRzcM\n- Learn JavaScript Modules: https://www.youtube.com/watch?v=l50gnBWHmdA\n- Function Crash Course: https://www.youtube.com/watch?v=PHEoUYWcKMc\n- TailWindCSS Install Doc: https://tailwindcss.com/docs/installation/framework-guides\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, Tech enthusiast, Writer, YouTuber, and Open Source projects maintainer/contributor. He is a full-stack developer with vast experience in building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment #vite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9PZ4uymTAz0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9PZ4uymTAz0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9PZ4uymTAz0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9PZ4uymTAz0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9PZ4uymTAz0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9PZ4uymTAz0"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "9PZ4uymTAz0",
+        "videoPublishedAt": "2025-01-09T14:48:24Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "rFyn261ULTBYTvJ6BquaXN0MAHg",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2025-01-13T14:58:40Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "Thinking In React: Master Components Like A Pro",
+        "description": "- 👉 Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nToday we will start learning the most fundamental mindset, \"Thinking In React\". In this video, we will cover \"Components\" in depth so that you will be a pro to create Components from a UX Design in Figma. মন দিয়ে দেখবেন। 🫶\n\nTimecodes\n0:00 - What Will You Learn?\n04:21 - Figma to Component\n15:25 - Component Hierarchy Diagram\n20:00 - Create A React Project\n23:16 - Project From Hierarchy\n36:30 - React Developer Tools\n38:50 - Data Handling With Props\n58:53 - Styling React App\n01:05:23 - Recap\n01:10:04 - Code and Task\n\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n## Links Mentioned\n- Create A React Project from here: https://github.com/atapas/code-in-react-19\n- Object Destructuring In-Depth: https://www.youtube.com/watch?v=J8zlaJWn_ig\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, Tech enthusiast, Writer, YouTuber, and Open Source projects maintainer/contributor. He is a full-stack developer with vast experience in building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Byy41AxCK88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Byy41AxCK88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Byy41AxCK88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Byy41AxCK88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Byy41AxCK88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Byy41AxCK88"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "Byy41AxCK88",
+        "videoPublishedAt": "2025-01-13T15:16:42Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "N5RB2jB_0k-nk9OY43egliPpipU",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2025-01-17T12:37:43Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "How To Identify State and Props in Your React App Like A Pro",
+        "description": "- 👉 SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nToday we will learn about states and props in-depth. We will learn many design patterns to make things work for us in the best possible ways. If you can complete this video and do the tasks according to it, you will learn React like never before. 🫶\n\nTimecodes\n0:00 - What Will You Learn?\n02:55 - State & Props\n09:58 - Identify State and Props\n16:52 - Where to Keep the State?\n27:22 - Implement Search Books\n57:11 - Recap So Far\n59:27 - Implement Featured Books\n01:14:15 - Code and Task\n\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, a Tech enthusiast, Writer, YouTuber, and maintainer/contributor of open-source projects. He is a full-stack developer with vast experience building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oB2qBjMiDpE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oB2qBjMiDpE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oB2qBjMiDpE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oB2qBjMiDpE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oB2qBjMiDpE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "oB2qBjMiDpE"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "oB2qBjMiDpE",
+        "videoPublishedAt": "2025-01-17T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "V38JVAXYLr0xbXRiU0ERnHq7bXE",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2025-01-21T07:41:09Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "Mastering JSX in React With Code and Use cases",
+        "description": "- 👉 SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nIt is the time for JSX. You need to master JSX to feel comfortable with React. In this video, you will learn the usages and use cases in-depth with a lot of code examples. 🫶\n\nTimecodes\n0:00 - What Will You Learn?\n01:53 - Rules of JSX\n15:35 - Expressions in JSX\n28:50 - Handling Lists and Keys\n44:05 - Fragments\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, a Tech enthusiast, Writer, YouTuber, and maintainer/contributor of open-source projects. He is a full-stack developer with vast experience building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fPBW7Pn6O38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fPBW7Pn6O38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fPBW7Pn6O38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fPBW7Pn6O38/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fPBW7Pn6O38/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fPBW7Pn6O38"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "fPBW7Pn6O38",
+        "videoPublishedAt": "2025-01-21T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HugXfTqIHcvP586SNqeMkMQs4jc",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2025-01-23T04:22:20Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "Why Props Are ReadOnly in React? Learn With Patterns",
+        "description": "Learn why props are read-only in React with a deep dive into React's fundamental design patterns. সম্পূর্ণ দেখন, শিখুন, আর Practice করুন।\n\n- 👉 Don't forget to SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nআশা রাখছি এই ভিডিওটা আপনার হেল্পফুল হবে, এবং আপনি অনেক কিছু নুতুন করে শিখতে পারবেন! আপনার ভালবাসা আর সাপোর্ট দুটোই চাই। 🫶\n\nTimecodes\n0:00 - What Will You Learn?\n01:14 - Component, State, Props\n13:46 - Changing Props Directly\n19:00 - Changing Props From Handler\n22:04 - Props to State\n24:14 - Lifting the State Up\n\n## Source Code Repository: https://github.com/tapascript/props-readonly\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, Tech enthusiast, Writer, YouTuber, and Open Source projects maintainer/contributor. He is a full-stack developer with vast experience in building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hMeay764V-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hMeay764V-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hMeay764V-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hMeay764V-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hMeay764V-Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hMeay764V-Q"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "hMeay764V-Q",
+        "videoPublishedAt": "2024-11-04T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2trCDNoccnd_iHeHXnM4D1SbaiI",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2025-01-25T11:19:20Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "How to Install, Upgrade, and Use Tailwind CSS 4.0 With React",
+        "description": "- 👉 SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nTailwind CSS 4.0 is out. Let us also upgrade our code. In this short video, you will learn, how to install Tailwind CSS 4.0 with React and Vite. We will also learn to upgrade it. I hope you like this one. 🫶\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n## Links Mentioned\n- https://tailwindcss.com/docs/installation/using-vite\n- https://tailwindcss.com/docs/upgrade-guide\n- https://github.com/atapas/code-in-react-19\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, a Tech enthusiast, Writer, YouTuber, and maintainer/contributor of open-source projects. He is a full-stack developer with vast experience building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#tailwindcss \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X07QLNsm1kE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X07QLNsm1kE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X07QLNsm1kE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X07QLNsm1kE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X07QLNsm1kE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "X07QLNsm1kE"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "X07QLNsm1kE",
+        "videoPublishedAt": "2025-01-25T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FAneKmXycBNf6RcIyFFiXiW1BTY",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2025-01-23T07:02:55Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "Interview Questions You Must Know as a Beginner To React",
+        "description": "Alright, React এ হাতেখড়ি সিরিজের ৬ টা ভিডিও শেষ, ৪ টা টাস্ক শেষ। আমরা আলোচনা করেছি, \n\n- Why React\n- Thinking in React\n- Components\n- State\n- Props\n- JSX\n\nএইবারে আপনাদের সাথে থাকবে লাইভ যেখানে আমরা আলোচনা করবো এই বিষয়গুলোর উপড়ে Interview Questions and Preparations. তার পাশাপাশী আপনিও আমাকে প্রশ্ন করতে পারেন।\n\nচলুন দেখা হবে, এই রবিবার, ২৬ এ জানুয়ারী, সন্ধ্যা ৮ টা IST/৮:৩০ Bangladesh time এ।\n\nPlease put the Notifications ON.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q-vuInloJvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q-vuInloJvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q-vuInloJvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/q-vuInloJvQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/q-vuInloJvQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "q-vuInloJvQ"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "q-vuInloJvQ",
+        "videoPublishedAt": "2025-01-27T03:43:15Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3Ii-_OT50W3GwY5iasVLTZajFuE",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2025-02-07T12:20:35Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "MASTERING Event Handling in React With Examples",
+        "description": "- 👉 SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nEvent Handling is tricky especially if you are unaware of the internals and fundamentals. In this video, we will take a deep dive into Event handling in React. Understanding various use cases will make you incredibly stronger in this subject. Let's GO 🫶\n\nTimecodes\n0:00 - What Will You Learn?\n02:27 - Event and Synthetic Event\n09:42 - Simple Event Handler Usages\n18:59 - Passing Props to Event Handlers\n26:44 - Evenet Handlers & Closures\n31:58 - Passing Event Handlers as Props\n40:41 - Preventing Default Behaviours\n45:56 - Handling Event Bubbling\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, a Tech enthusiast, Writer, YouTuber, and maintainer/contributor of open-source projects. He is a full-stack developer with vast experience building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vitel \n#eventhandling",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MHxltS0XXlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MHxltS0XXlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MHxltS0XXlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MHxltS0XXlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MHxltS0XXlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MHxltS0XXlU"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "MHxltS0XXlU",
+        "videoPublishedAt": "2025-02-07T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ISAAGEdX1ZUsv_cNKkBT9uRXRVw",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2025-02-17T10:08:52Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "MASTERING Immutable State Update in React With Project",
+        "description": "- 👉 SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nWorking with React becomes far easier when you understand how to handle state immutability. In this video, we will learn about immutability with Object and Array Data Structure, and post that we will work on a project together from scratch. Let's GO 🫶\n\nTimecodes\n0:00 - About this video\n03:25 - React and Immutability\n07:25 - Understand With Code\n33:58 - The Movie Watch Project\n35:14 - The Component Structure\n44:21 - The Project Code Analysis\n01:28:27 - Task for You!\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, a Tech enthusiast, Writer, YouTuber, and maintainer/contributor of open-source projects. He is a full-stack developer with vast experience building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vitel \n#eventhandling \n#reactprojects",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOk1NqAOEJ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOk1NqAOEJ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOk1NqAOEJ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOk1NqAOEJ4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOk1NqAOEJ4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BOk1NqAOEJ4"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "BOk1NqAOEJ4",
+        "videoPublishedAt": "2025-02-17T14:17:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "AyjZZbt-C24aS5zCNB28Aihfulw",
+      "id": "UExSRmNqVzZEcTI4bTk1a2VTbU9kR3h2UXFGdktzTndyaS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2025-02-28T12:37:36Z",
+        "channelId": "UCKaF0yTK_-SIAgOzgjdsOXw",
+        "title": "MASTER React useEffect Hook With Examples and Usages",
+        "description": "- 👉 SUBSCRIBE: https://www.youtube.com/@tapascript-bangla\n- 👉 Subscribe to tapaScript English: https://www.youtube.com/tapasadhikary\n- 👉 Follow tapaScript FB: https://www.facebook.com/tapascript\n- 👉 Follow tapaScript GitHub: https://github.com/tapascript\n\nLet us learn to handle side effects using the useEffect Hook. In this video, we will learn about the basics of useEffect with all the practical use cases. Let's GO 🫶\n\nTimecodes\n0:00 - What is a Side Effect?\n06:46 - useEffect with Example\n11:49 - Running the Effect Once\n17:24 - Running the Effect on State Change\n23:42 - Running the Effect on Props Change\n27:05 - Cleaning up Effect\n30:30 - Best Practices and Common Mistakes\n\n## Join tapaScript Discord: https://discord.gg/HHwdF8r28m\n## Source Code Repository: https://github.com/tapascript/react-playlist (Please give the repository a STAR)\n\n\n## 🤝 My Links to Follow:\n- Blog: https://blog.greenroots.info/\n- Follow on X(Twitter):  https://twitter.com/tapasadhikary\n- Connect on LinkedIn: https://www.linkedin.com/in/tapasadhikary/  \n- Follow My Work on GitHub: https://github.com/tapascript\n- Follow on Facebook:   https://www.facebook.com/tapasadhi\n\n## 👋 Like my work? Thank You. You can sponsor me from here:\n- Sponsor Me: https://github.com/sponsors/atapas\n- Sponsor my Blog: https://blog.greenroots.info/sponsor\n\n## About Me:\nTapas Adhikary is an Educator at tapaScript, a Tech enthusiast, Writer, YouTuber, and maintainer/contributor of open-source projects. He is a full-stack developer with vast experience building SaaS solutions. He is the founder of the ReactPlay platform, which is driven by open-source projects and a fast-growing community.\n\nYou can find more about him at https://tapasadhikary.com.\n\n\n#react \n#reactjs \n#reactjsinterview \n#thinkinginreact\n#reactjsforbeginners \n#reactjstutorialforbeginners \n#reactjsinterviewquestions \n#learnreact \n#learnreactjs \n#webdevelopment \n#vitel \n#useeffect \n#reactprojects",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WgwL4NLAxEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WgwL4NLAxEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WgwL4NLAxEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WgwL4NLAxEg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WgwL4NLAxEg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "tapaScript Bangla",
+        "playlistId": "PLRFcjW6Dq28m95keSmOdGxvQqFvKsNwri",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WgwL4NLAxEg"
+        },
+        "videoOwnerChannelTitle": "tapaScript Bangla",
+        "videoOwnerChannelId": "UCKaF0yTK_-SIAgOzgjdsOXw"
+      },
+      "contentDetails": {
+        "videoId": "WgwL4NLAxEg",
+        "videoPublishedAt": "2025-02-28T14:17:00Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 11,
+    "resultsPerPage": 50
+  }
+}
