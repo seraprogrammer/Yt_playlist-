@@ -1,0 +1,163 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "O9pj-xvu-kQ3nNWHaI2d_4XTOQ8",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fPoiEl9UIS8dspFOai9LoQEn9Do",
+      "id": "UExidEkzX01BckRPa1NFSWpqT3pYY0lPbmpodG1oaVJZRy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2023-09-07T11:54:14Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🔥 JS Practice 1: Master JavaScript Essentials with Fun Mini Projects! 💡",
+        "description": "Bible of JS (book link) - https://sheryians.com/download/bibleofjs_by_sheryians\nFeedback Form - https://forms.gle/LkMbrvuG2dXJSsS88\n\nIn this episode 1 of the \"JS Warmup\" series, we're diving headfirst into the world of JavaScript! 🚀 Join us as we explore the essential building blocks of JavaScript through a series of fun and interactive mini projects. Whether you're a complete beginner or looking to refresh your skills, this video is the perfect starting point for mastering JavaScript.\n\nWhat You'll Learn from this Series:\n\n◽Practical coding exercises to reinforce your learning.\n◽How to create exciting web effects using JavaScript.\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#javascriptprojects #javascripttutorial #javascript #webdevelopment #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aw_SmcpEOdY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOkSEIjjOzXcIOnjhtmhiRYG",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aw_SmcpEOdY"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "Aw_SmcpEOdY",
+        "videoPublishedAt": "2023-09-07T12:30:11Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7SKs71yeioYQmmD2Dv8GlcEwt-U",
+      "id": "UExidEkzX01BckRPa1NFSWpqT3pYY0lPbmpodG1oaVJZRy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2023-09-08T14:15:05Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🚀 JS Practice 2: Elevate Your JavaScript Skills with Exciting Projects! 💡",
+        "description": "Bible of JS (book link) - https://sheryians.com/download/bibleofjs_by_sheryians\nFeedback Form - https://forms.gle/LkMbrvuG2dXJSsS88\n\nWelcome back to the \"JS Practice\" series! 🚀 In this episode 2, we're taking your JavaScript skills to the next level with even more exciting projects. Whether you're new to coding or looking to strengthen your JavaScript abilities, this video is designed to help you learn by doing.\n\nWhat You'll Learn from this Series:\n\n◽Practical coding exercises to reinforce your learning.\n◽How to create exciting web effects using JavaScript.\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#javascriptprojects #javascripttutorial #javascript #webdevelopment #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Ub83KGbDZzw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOkSEIjjOzXcIOnjhtmhiRYG",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Ub83KGbDZzw"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "Ub83KGbDZzw",
+        "videoPublishedAt": "2023-09-08T14:45:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "E1hubH6sjq7sGgxySbFoT6JpMWg",
+      "id": "UExidEkzX01BckRPa1NFSWpqT3pYY0lPbmpodG1oaVJZRy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2023-09-13T09:32:24Z",
+        "channelId": "UCc7gpqMnnOSbU_F2-5MVVZw",
+        "title": "🚀 JS Practice 3: Elevate Your JavaScript Skills with Exciting Projects! 💡",
+        "description": "Bible of JS (book link) - https://sheryians.com/download/bibleofjs_by_sheryians\nFeedback Form - https://forms.gle/LkMbrvuG2dXJSsS88\n\nWelcome back to the \"JS Practice\" series! 🚀 In this episode 3, we're taking your JavaScript skills to the next level with even more exciting projects. Whether you're new to coding or looking to strengthen your JavaScript abilities, this video is designed to help you learn by doing.\n\nWhat You'll Learn from this Series:\n\n◽Practical coding exercises to reinforce your learning.\n◽How to create exciting web effects using JavaScript.\n\nInstructor in this video: Harsh Sharma\n\n🌐 Website: https://sheryians.com/\n\nSocials:\n📷 Instagram:  https://www.instagram.com/sheryians_coding_school/\n📘 Facebook: https://www.facebook.com/sheryians.community\n💌 Telegram: https://t.me/sheryiansCommunity\n💼 LinkedIn:  https://www.linkedin.com/company/the-sheryians-coding-school/\n🎮 Discord: https://discord.gg/Au3TquBarQ\nPeace ✌️\n\n#javascriptprojects #javascripttutorial #javascript #webdevelopment #coding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BNqf1bsbeqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sheryians Coding School",
+        "playlistId": "PLbtI3_MArDOkSEIjjOzXcIOnjhtmhiRYG",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BNqf1bsbeqU"
+        },
+        "videoOwnerChannelTitle": "Sheryians Coding School",
+        "videoOwnerChannelId": "UCc7gpqMnnOSbU_F2-5MVVZw"
+      },
+      "contentDetails": {
+        "videoId": "BNqf1bsbeqU",
+        "videoPublishedAt": "2023-09-13T14:00:07Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 3,
+    "resultsPerPage": 50
+  }
+}
