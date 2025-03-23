@@ -1,0 +1,2551 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "6bPOnr1GgVs3wDu4GbXlcncBUPU",
+  "nextPageToken": "EAAaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CEe5E2CWY7KcDxiiZN1nH1UE1xQ",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "01. JavaScript Tutorial For Beginners Part 1 || What Is JavaScript Bangla",
+        "description": "01. JavaScript Tutorial For Beginners Part 1 || What Is JavaScript Bangla\n\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f9UVOEs6s30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f9UVOEs6s30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f9UVOEs6s30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f9UVOEs6s30/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f9UVOEs6s30/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "f9UVOEs6s30"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "f9UVOEs6s30",
+        "videoPublishedAt": "2021-07-19T05:17:55Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PoLZZu5ld4cnXEavY6wQ2S0KvJ0",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "02. First JavaScript Program Part 2 ||  Setting up the JavaScript Environment",
+        "description": "02. First JavaScript Program Part 2 ||  Setting up the JavaScript Environment \nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1IlVrL2sxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1IlVrL2sxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1IlVrL2sxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K1IlVrL2sxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K1IlVrL2sxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K1IlVrL2sxk"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "K1IlVrL2sxk",
+        "videoPublishedAt": "2021-07-19T13:59:35Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0L8nUcrTRaBpXpzWxdAEp9yhEa8",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "03. JavaScript Variables || How To Declare A Variable In Javascript Bangla",
+        "description": "JavaScript Variables Part 3 || How To Declare A Variable JS  || JavaScript For Web Development\nhttps://www.fiverr.com/share/pjVlkN\nThere are 3 ways to declare a JavaScript variable:\nUsing var\nUsing let\nUsing const\nThis chapter uses var.\n\n109. JavaScript Ternary Operator  Part 28 ||  JavaScript Bangla Tutorial  \n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2_hA3j7ovco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2_hA3j7ovco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2_hA3j7ovco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2_hA3j7ovco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2_hA3j7ovco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2_hA3j7ovco"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "2_hA3j7ovco",
+        "videoPublishedAt": "2021-07-20T04:18:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "PaFjhdt_20ho9jeXhcYNU_9TVh4",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "04.JavaScript Data Types | JavaScript String Type Variable || what is javascript string",
+        "description": "04.JavaScript Data Types | JavaScript String Type Variable || what is javascript string\n\nA JavaScript string stores a series of characters like \"John Doe\". A string can be any text inside double or single quotes: var carName1 = \"Volvo XC60\"; var carName2 = 'Volvo XC60'; String indexes are zero-based: The first character is in position 0, the second in 1, and so on.\n\n\n109. JavaScript Ternary Operator  Part 28 ||  JavaScript Bangla Tutorial  \n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4m_RQsYpCo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4m_RQsYpCo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4m_RQsYpCo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4m_RQsYpCo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4m_RQsYpCo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "4m_RQsYpCo4"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "4m_RQsYpCo4",
+        "videoPublishedAt": "2021-07-22T14:26:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "baMC6Do_eHY9xWgwhyDAZzzOhGc",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "05. JavaScript Data Types | JavaScript Numbers Types Variable Bangla",
+        "description": "JavaScript Data Types Part 5 || JavaScript Numbers Types Variable || JavaScript For Web Development\n\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/loWt5dGmFAk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/loWt5dGmFAk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/loWt5dGmFAk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/loWt5dGmFAk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/loWt5dGmFAk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "loWt5dGmFAk"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "loWt5dGmFAk",
+        "videoPublishedAt": "2021-07-23T14:28:29Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "sYKwG0I0krOb5mo4qmI4eZqPIdc",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "06. JavaScript Data Types | JavaScript Boolean Types Variable Bangla",
+        "description": "JavaScript Data Types Part 6 || JavaScript Boolean Types Variable || JavaScript For Web Development \n\nBoolean is a datatype that returns either of two values i.e. true or false. In JavaScript, Boolean is used as a function to get the value of a variable, object, conditions, expressions, etc. in terms of true or false.\n\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sXv2bH3MN5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sXv2bH3MN5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sXv2bH3MN5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sXv2bH3MN5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sXv2bH3MN5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sXv2bH3MN5M"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "sXv2bH3MN5M",
+        "videoPublishedAt": "2021-07-24T13:35:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mIY2NslCHV_L0tOTXc80cFhVi7E",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "07. JavaScript Reserved Words |  javascript bangla tutorial",
+        "description": "JavaScript Reserved Words  Part 7 ||  javascript bangla tutorial  || JavaScript For Web Development \n\nIn any programming language, a reserved word or a reserved identifier is a word that cannot be used as an identifier, such as the name of a variable, function, or label. Thus, it is reserved and cannot be used for defining any of these. This is a syntactic definition, and a reserved word may have no meaning. In this article, we will discuss some of the JavaScript reserved words and their description.\nabstract\n\nAbstract is a non-access modifier which is applicable for classes, methods but not variables.\n\nArgument is an array-like object lists the arguments and a few other properties.\n\nawait The keyword Await makes JavaScript wait until the promise returns a result.\n\nBoolean is used as a function to get the value of a variable, object, conditions, expressions, etc. in terms of true or false.\n\nbreak It breaks the loop and continues executing the code after the loop.\n\nbyte This uses the javascript typeof() operator to detect what kind of type is variable x and y.\ncase The switch statement evaluates an expression. The value of the expression is then compared with the values of each case in the structure.\n\ncatch This statement allows you to define a block of code to be executed if an error occurs in the try block.\n\nchar The char keyword is a data type that is used to store a single character.\nclass Classes are another way of writing constructor functions which can be used in order to create a new object using the new keyword.\n\nconst The const keyword is used to declare the constant in the function scope.\nAnd Many More ..\nhttps://www.edureka.co/blog/javascript-reserved-words/\n\nGot a question for us? Please mention it in the comments section of “JavaScript Reserved Keywords” and we will get back to you.\n\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9fuvpgcW-oQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9fuvpgcW-oQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9fuvpgcW-oQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9fuvpgcW-oQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9fuvpgcW-oQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9fuvpgcW-oQ"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "9fuvpgcW-oQ",
+        "videoPublishedAt": "2021-07-26T14:28:43Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "9mO_qrPNCMYyZM1FDuuiyd1FmiY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "08. JavaScript toUpperCase() and toLowerCase() Method | toUpperCase() and toLowerCase() JS",
+        "description": "JavaScript toUpperCase() and toLowerCase() Method Part 8 ||toUpperCase() and toLowerCase() Method JS\n\nTopic: JS toUppercase & toLowercase Method\n\n\nThe toLowerCase() method converts a string to lowercase letters.\nThe toLowerCase() method does not change the original string.\n\n\nThe toUpperCase() method converts a string to uppercase letters.\nThe toUpperCase() method does not change the original string.\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sq9VFIrSg5M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sq9VFIrSg5M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sq9VFIrSg5M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sq9VFIrSg5M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sq9VFIrSg5M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "sq9VFIrSg5M"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "sq9VFIrSg5M",
+        "videoPublishedAt": "2021-08-05T04:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qTAesQR2kDtcuGDHq2nqRkERRFw",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "09. JavaScript IndexOf() & Split() Method || JavaScript For Web Development",
+        "description": "87. JavaScript IndexOf() & Split() Method part 9 || JavaScript For Web Development\n\n\n\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FNgI6i4lkc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FNgI6i4lkc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FNgI6i4lkc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FNgI6i4lkc0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FNgI6i4lkc0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FNgI6i4lkc0"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "FNgI6i4lkc0",
+        "videoPublishedAt": "2021-08-05T14:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JvxdNQsRjdksCJZiHqH-CJgMfdY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5GNjNDRDREMDQxOThCMDQ2",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "10.  parseFloat() & parseInt() || JavaScript For Web Development || Javascript Tutorial Bangla",
+        "description": "10.  parseFloat() & parseInt() || JavaScript For Web Development || Javascript Tutorial Bangla  \n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\n\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mWLD5TQlozo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mWLD5TQlozo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mWLD5TQlozo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mWLD5TQlozo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mWLD5TQlozo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "mWLD5TQlozo"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "mWLD5TQlozo",
+        "videoPublishedAt": "2021-08-06T04:43:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4Bj9T8-IwlQcOqfV19L0ipi1f4A",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "11. JavaScript Operators || Javascript Bangla Tutorial",
+        "description": "92.JavaScript For Web Development Part 11 || Javascript Tutorial Bangla || JavaScript Operators",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WekIrh4fI-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WekIrh4fI-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WekIrh4fI-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WekIrh4fI-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WekIrh4fI-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "WekIrh4fI-w"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "WekIrh4fI-w",
+        "videoPublishedAt": "2021-08-07T04:32:27Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XMxzDALbuqlMGORaxty90kUCsJI",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5EMEEwRUY5M0RDRTU3NDJC",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "12. JavaScript Predefined Function || JavaScript Bangla Tutorial  || JavaScript For Web Dev",
+        "description": "93. JavaScript Predefined Function Part 12 || JavaScript Bangla Tutorial  || JavaScript For Web Dev",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rd6v7V5B0PA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rd6v7V5B0PA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rd6v7V5B0PA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rd6v7V5B0PA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rd6v7V5B0PA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rd6v7V5B0PA"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "rd6v7V5B0PA",
+        "videoPublishedAt": "2021-08-07T14:35:37Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "bhrMwnFJq0csezPrdQlECrLv3Ns",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy45ODRDNTg0QjA4NkFBNkQy",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "13. JavaScript For Web Development  || JavaScript 1st Assignment || JavaScript Bangla Tutorial",
+        "description": "94.JavaScript For Web Development Part 13 || JavaScript 1st Assignment || JavaScript Bangla Tutorial\nAssignment:  https://github.com/Hablu-Programmer/1stAssignmentJS.git",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/etw50Aara2U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/etw50Aara2U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/etw50Aara2U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/etw50Aara2U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/etw50Aara2U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "etw50Aara2U"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "etw50Aara2U",
+        "videoPublishedAt": "2021-08-08T04:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A2AP3mb5jtGWxIPjTL5VWDUueNY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4zMDg5MkQ5MEVDMEM1NTg2",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "14. JavaScript Conditional Statements  || javascript logical and condition",
+        "description": "JavaScript Conditional Statements Part 14 || javascript logical and condition ||  Logical Operators\n\nConditional Statements\nVery often when you write code, you want to perform different actions for different decisions.\n\nYou can use conditional statements in your code to do this.\n\nIn JavaScript we have the following conditional statements:\n\n1. Use \" if \" to specify a block of code to be executed, if a specified condition is true\n2.Use \"else \"to specify a block of code to be executed if the same condition is false\n3. Use \" else if\" to specify a new condition to test, if the first condition is false\n4. Use  \" switch \" to specify many alternative blocks of code to be executed",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yDd5DoyLK8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yDd5DoyLK8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yDd5DoyLK8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yDd5DoyLK8E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yDd5DoyLK8E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "yDd5DoyLK8E"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "yDd5DoyLK8E",
+        "videoPublishedAt": "2021-08-13T14:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Nm1B1468NDW98BtC4rcD40GxXEw",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41Mzk2QTAxMTkzNDk4MDhF",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "15.  JavaScript If Statement || JavaScript For Web Development",
+        "description": "96. JavaScript If Statement Part 15 || JavaScript For Web Development \nUse the if statement to specify a block of JavaScript code to be executed if a condition is true.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fSxtyJjWm4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fSxtyJjWm4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fSxtyJjWm4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fSxtyJjWm4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fSxtyJjWm4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fSxtyJjWm4E"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "fSxtyJjWm4E",
+        "videoPublishedAt": "2021-08-14T14:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "p0bbnr9z2gRkcN-Lj4rh47spCzw",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5EQUE1NTFDRjcwMDg0NEMz",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "16. JavaScript Bangla Tutorial  ||  else Statement In JavaScript",
+        "description": "JavaScript Bangla Tutorial Part 16 ||  else Statement In JavaScript",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B6Oso-hhO2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B6Oso-hhO2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B6Oso-hhO2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B6Oso-hhO2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B6Oso-hhO2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "B6Oso-hhO2A"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "B6Oso-hhO2A",
+        "videoPublishedAt": "2021-08-17T06:22:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vmBdbVmoVLfhIEY18Dm-kylENnk",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41QTY1Q0UxMTVCODczNThE",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "17. JavaScript Else If Statement  || JavaScript Bangla Tutorial",
+        "description": "17. JavaScript Else If Statement  || JavaScript Bangla Tutorial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QsDiZUifqpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QsDiZUifqpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QsDiZUifqpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QsDiZUifqpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QsDiZUifqpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "QsDiZUifqpg"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "QsDiZUifqpg",
+        "videoPublishedAt": "2021-08-18T04:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Uy9ln6aqzKvbufowGlap_HZd4KY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4yMUQyQTQzMjRDNzMyQTMy",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "18. JavaScript Switch Statement ||  JavaScript Tutorial For Beginners",
+        "description": "18. JavaScript Switch Statement ||  JavaScript Tutorial For Beginners",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VsVY7lSOqDU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VsVY7lSOqDU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VsVY7lSOqDU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VsVY7lSOqDU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VsVY7lSOqDU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VsVY7lSOqDU"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "VsVY7lSOqDU",
+        "videoPublishedAt": "2021-08-20T04:50:20Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TcawGBiOaJS6g45Cchth-hntBGo",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy45RTgxNDRBMzUwRjQ0MDhC",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "19. JavaScript Date Objects || JavaScript Tutorial Bangla",
+        "description": "19. JavaScript Date Objects || JavaScript Tutorial Bangla\n\nReference: \n\nContents of this video:\n00:00 - Intro\n00:32 - Lets Go\n\n\n\n\nDiscord: \nhttps://discord.gg/S85s26RwNn\nTelegram: \nhttps://t.me/habluprogrammer\n\nTutul Vai: \nhttps://www.facebook.com/tutul.qcsc/\nAhad Vai:\nhttps://www.facebook.com/profile.php?id=100070230852970\n\n\nAsk a Question:\nOn FB Page: https://m.facebook.com/hablu420\nOn FB Group: https://m.facebook.com/groups/1775241322637982/\nOn E-mail: habluprogrammer@gmail.com\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\n\n\nFacebook: m.facebook.com/hablu420\nGitHub: https://github.com/Hablu-Programmer\nWebsite: https://www.habluprogrammer.com\n\n#hablu\n#javascriptdateobjects\n#learnjavascript\nKeyword :\njavascript date objects +  javascript date time  +  JavaScript Tutorial Bangla +  javascript date  + date and time + hablu programmer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Aay6XJucHkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Aay6XJucHkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Aay6XJucHkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Aay6XJucHkU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Aay6XJucHkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Aay6XJucHkU"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "Aay6XJucHkU",
+        "videoPublishedAt": "2021-08-22T04:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "kvymB3MfY-cOOodOlkdLVw1t0t4",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5ENDU4Q0M4RDExNzM1Mjcy",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "20. JavaScript Array ||  JavaScript Tutorial For Beginners",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Array ||  JavaScript Tutorial For Beginners\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dp-4gJg6_0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dp-4gJg6_0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dp-4gJg6_0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dp-4gJg6_0A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dp-4gJg6_0A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dp-4gJg6_0A"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "dp-4gJg6_0A",
+        "videoPublishedAt": "2021-08-28T05:09:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "00_PA2U6DlRZgb3JJqhEvISRlww",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4yMDhBMkNBNjRDMjQxQTg1",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "21. JavaScript Array Push() pop() shift() unshift() Method  ||  JavaScript Tutorial Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Array Push() pop() shift() unshift() Method  ||  JavaScript Tutorial Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j4gJnmtpLOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j4gJnmtpLOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j4gJnmtpLOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/j4gJnmtpLOg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/j4gJnmtpLOg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "j4gJnmtpLOg"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "j4gJnmtpLOg",
+        "videoPublishedAt": "2021-08-29T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W94zNJOiFu-sdD7-E6LcK3xICrM",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5GM0Q3M0MzMzY5NTJFNTdE",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "22. JavaScript slice() and splice()  Method ||  JavaScript Tutorial Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript slice() and splice()  Method ||  JavaScript Tutorial Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/17yCByWk0hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/17yCByWk0hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/17yCByWk0hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/17yCByWk0hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/17yCByWk0hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "17yCByWk0hg"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "17yCByWk0hg",
+        "videoPublishedAt": "2021-09-01T04:29:46Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tnyy-W6DQZJFkVDLC9cQpgA6580",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4zRjM0MkVCRTg0MkYyQTM0",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "23. JavaScript Loops || JavaScript For Loop Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Loops || JavaScript For Loop Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2b1-mlK8ev0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2b1-mlK8ev0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2b1-mlK8ev0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2b1-mlK8ev0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2b1-mlK8ev0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2b1-mlK8ev0"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "2b1-mlK8ev0",
+        "videoPublishedAt": "2021-09-01T14:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "TmjzxHBsY9xuobbv4EPOhCRQa9s",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy45NzUwQkI1M0UxNThBMkU0",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "24. JavaScript While Loop  || JavaScript Tutorial For Beginners",
+        "description": "105. JavaScript While Loop Part 24 || JavaScript Tutorial For Beginners \n\nFor Loop VS While Loop : \nwhile — loops through a block of code once; then the condition is evaluated. If the condition is true, the statement is repeated as long as the specified condition is true. for — loops through a block of code until the counter reaches a specified number. for…in — loops through the properties of an object.\n\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2Hy3r778kxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2Hy3r778kxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2Hy3r778kxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2Hy3r778kxs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2Hy3r778kxs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2Hy3r778kxs"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "2Hy3r778kxs",
+        "videoPublishedAt": "2021-09-03T14:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7TPmJjsYghFhyUyEWO_aFdQS81A",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5DNzE1RjZEMUZCMjA0RDBB",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "25. JavaScript Function || Javascript Function Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Function || Javascript Function Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VmunXMiFCLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VmunXMiFCLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VmunXMiFCLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VmunXMiFCLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VmunXMiFCLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VmunXMiFCLw"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "VmunXMiFCLw",
+        "videoPublishedAt": "2021-09-06T10:30:09Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Va_KOpn3ZnJqRWcvkA2_jxmf-ZE",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy43MTI1NDIwOTMwQjIxMzNG",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "26. JavaScript Object || JavaScript Object Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Object || JavaScript Object Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o0ytsRiRFxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o0ytsRiRFxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o0ytsRiRFxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o0ytsRiRFxk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o0ytsRiRFxk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o0ytsRiRFxk"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "o0ytsRiRFxk",
+        "videoPublishedAt": "2021-09-08T06:08:41Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "fOd7ydZY5vDZKaQ-AxSx4B7heCQ",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "27. JavaScript Comment || Javascript Bangla tutorial For Beginners",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Comment || Javascript Bangla tutorial For Beginners\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e3Fg4FMe7RA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e3Fg4FMe7RA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e3Fg4FMe7RA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e3Fg4FMe7RA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e3Fg4FMe7RA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e3Fg4FMe7RA"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "e3Fg4FMe7RA",
+        "videoPublishedAt": "2021-09-11T04:29:31Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "CSaUKCrNCKcAg0gVSsIbe_obl34",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4yQUE2Q0JEMTk4NTM3RTZC",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "28. JavaScript Ternary Operator  ||  JavaScript Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Ternary Operator  ||  JavaScript Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TayS46a4hfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TayS46a4hfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TayS46a4hfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TayS46a4hfA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TayS46a4hfA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TayS46a4hfA"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "TayS46a4hfA",
+        "videoPublishedAt": "2021-09-14T06:37:48Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "laPlu-5ommEXkTdJxyhaASgRrxw",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5DMkU4NTY1QUFGQTYwMDE3",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "29. Javascript continue statement Javascript break statement || Javascript  Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about Javascript continue statement Javascript break statement || Javascript  Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/inhGs2_kGTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/inhGs2_kGTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/inhGs2_kGTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/inhGs2_kGTA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "inhGs2_kGTA"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "inhGs2_kGTA",
+        "videoPublishedAt": "2021-10-19T12:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FBv3A8fMe98FP-n3lGOm-RX4fj0",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy44Mjc5REFBRUE2MTdFRDU0",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "30. Differences Between Var, Let, and Const In Javascript- আর নয় Confusion",
+        "description": "Hello My Friends, In This Video I Will Teach You about Differences Between Var, Let, and Const In Javascript- আর নয় Confusion\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b1bLgaPdSuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b1bLgaPdSuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b1bLgaPdSuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/b1bLgaPdSuY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/b1bLgaPdSuY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "b1bLgaPdSuY"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "b1bLgaPdSuY",
+        "videoPublishedAt": "2021-10-24T13:44:44Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "4pHZWYBM0Zv-WTtX8YvRYF0orm8",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy43NDhFRTgwOTRERTU4Rjg3",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "31. Javascript Scope In Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about Javascript Scope In Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R9K_-dW8aEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R9K_-dW8aEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R9K_-dW8aEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R9K_-dW8aEU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R9K_-dW8aEU"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "R9K_-dW8aEU",
+        "videoPublishedAt": "2021-11-25T12:47:05Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tkYYzLEbbpRNMIudxAUgV8bO3BY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41QUZGQTY5OTE4QTREQUU4",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "32. JavaScript Hoisting Explained Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript Hoisting Explained Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rsIInabhd2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rsIInabhd2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rsIInabhd2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rsIInabhd2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rsIInabhd2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "rsIInabhd2E"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "rsIInabhd2E",
+        "videoPublishedAt": "2022-01-07T04:11:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HH6eaa3KtrzZb9GyQDktVhrJYck",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4zRDBDOEZDOUM0MDY5NEEz",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "33. Function Expression In Javascript Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about Function Expression In Javascript Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8llCBZ3ymwg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8llCBZ3ymwg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8llCBZ3ymwg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8llCBZ3ymwg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8llCBZ3ymwg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8llCBZ3ymwg"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "8llCBZ3ymwg",
+        "videoPublishedAt": "2022-01-07T10:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vGRZQklbjzS61JIFotthuHIF5jc",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5CMEQ2Mjk5NTc3NDZFRUNB",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "34. Inner Function In Javascript Bangla",
+        "description": "Hello My Friends, In This Video I Will Teach You about Inner Function In Javascript Bangla\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GvX7hhyLhvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GvX7hhyLhvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GvX7hhyLhvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GvX7hhyLhvo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GvX7hhyLhvo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GvX7hhyLhvo"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "GvX7hhyLhvo",
+        "videoPublishedAt": "2022-01-07T13:44:52Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "hMOOkgDEVIndxyvNEFeTLJ3DnKY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy42MTI4Njc2QjM1RjU1MjlG",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "35. Simple Project Javascript Bangla Tutorial  || Learn Javascript Simple Way",
+        "description": "Hello My Friends, In This Video I Will Teach You about Simple Project Javascript Bangla Tutorial  || Learn Javascript Simple Way\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HyODBevBzRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HyODBevBzRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HyODBevBzRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HyODBevBzRs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HyODBevBzRs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "HyODBevBzRs"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "HyODBevBzRs",
+        "videoPublishedAt": "2022-01-15T04:07:07Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "R2zlQ1RkKcQhhO-j6CVXKO9-wl0",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy45RjNFMDhGQ0Q2RkFCQTc1",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "Es6 শিখুন মাতৃভাষায় | Modern Javascript Bangla Tutorial",
+        "description": "JavaScript ES6, Es7, ES8-12 All Version Full Course Bangla | Es6 Tutorial For Beginners  #es6 #javascript #bangla #tutorial  This course will teach you the most modern features of JavaScript, also known as ES6+. JavaScript is one of the most popular programming languages in the world. It’s used almost everywhere: from large-scale web applications to complex servers to mobile and IoT devices\n\nWikipedia Documentation :  https://en.wikipedia.org/wiki/ECMAScript\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTDCThaWqX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTDCThaWqX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTDCThaWqX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xTDCThaWqX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xTDCThaWqX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "xTDCThaWqX0"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "xTDCThaWqX0",
+        "videoPublishedAt": "2022-04-10T09:30:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tL4ScBtv0y2c0qg4g_gN54dNyEA",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy40QTA3NTU2RkM1QzlCMzYx",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "1. Differences Between Var, Let, and Const ES6 Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about Differences Between Var, Let, and Const ES6 Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/znY_TZXqmCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/znY_TZXqmCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/znY_TZXqmCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/znY_TZXqmCo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/znY_TZXqmCo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "znY_TZXqmCo"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "znY_TZXqmCo",
+        "videoPublishedAt": "2022-04-17T10:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "A922HToHfRH2uVdp3gA-trw-Mhs",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5BRjJDODk5REM0NjkzMUIy",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "2. Default Function Parameters ES6 Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about Default Function Parameters ES6 Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y-AZQhvA5Wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y-AZQhvA5Wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y-AZQhvA5Wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/y-AZQhvA5Wk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/y-AZQhvA5Wk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "y-AZQhvA5Wk"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "y-AZQhvA5Wk",
+        "videoPublishedAt": "2022-04-18T11:05:57Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VAWXdvNKa9wBcVxzI4yrWvKYlSM",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4xOTEzQzhBQzU3MDNDNjcz",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "3. Rest Parameters in ES6 -JavaScript Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about Rest Parameters in ES6 -JavaScript Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LlTUJpBvzLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LlTUJpBvzLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LlTUJpBvzLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LlTUJpBvzLM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LlTUJpBvzLM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "LlTUJpBvzLM"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "LlTUJpBvzLM",
+        "videoPublishedAt": "2022-04-19T10:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3hJXCCgss8r5KgOozr4luj3DJ7s",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5GNDg1Njc1QzZERjlFRjE5",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "4. Spread Operator Modern JavaScript Syntaxes in Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about Spread Operator Modern JavaScript Syntaxes in Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2H_3-lxP7-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2H_3-lxP7-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2H_3-lxP7-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2H_3-lxP7-s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2H_3-lxP7-s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2H_3-lxP7-s"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "2H_3-lxP7-s",
+        "videoPublishedAt": "2022-04-20T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zTBUgykaaxgM5b1BRKXPxDZvDwY",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4zQzFBN0RGNzNFREFCMjBE",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "5. Advance JavaScript Object Literals Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about Advance JavaScript Object Literals Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R8CB2XFB0mA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R8CB2XFB0mA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R8CB2XFB0mA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/R8CB2XFB0mA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/R8CB2XFB0mA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "R8CB2XFB0mA"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "R8CB2XFB0mA",
+        "videoPublishedAt": "2022-04-21T10:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yZ7ZYnuw8Nb9DmlUBpGXLdlx3oA",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy45NkVENTkxRDdCQUFBMDY4",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "6. ES6 For of Loop &  For in Loop Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 For of Loop &  For in Loop Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8ZTq78ggLZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8ZTq78ggLZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8ZTq78ggLZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8ZTq78ggLZk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8ZTq78ggLZk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8ZTq78ggLZk"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "8ZTq78ggLZk",
+        "videoPublishedAt": "2022-04-22T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D8VM6xyNRj8dwmnhPeCQG0665v8",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5DNkMwRUI2MkI4QkI4NDFG",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "7. ES6 Template literals (Template strings) in ES6 JavaScript Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 Template literals (Template strings) in ES6 JavaScript Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gnIaxr_Dixk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gnIaxr_Dixk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gnIaxr_Dixk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gnIaxr_Dixk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gnIaxr_Dixk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gnIaxr_Dixk"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "gnIaxr_Dixk",
+        "videoPublishedAt": "2022-04-23T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "_j4ZdZbDe3IEgskidOAOA2-ik24",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5DRUQwODMxQzUyRTlGRkY3",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "8. ES6 Array Destructuring ES6 in JavaScript  Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 Array Destructuring ES6 in JavaScript  Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ep3IrPvtYes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ep3IrPvtYes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ep3IrPvtYes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ep3IrPvtYes/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ep3IrPvtYes/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ep3IrPvtYes"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "ep3IrPvtYes",
+        "videoPublishedAt": "2022-04-24T10:30:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "pdXIg2d4UFWJKrQwZdcxPHQuqrQ",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41MzY4MzcwOUFFRUU3QzEx",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "9. ES6 Object Destructuring JavaScript In Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 Object Destructuring JavaScript In Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eKezCc5lczg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eKezCc5lczg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eKezCc5lczg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eKezCc5lczg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eKezCc5lczg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eKezCc5lczg"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "eKezCc5lczg",
+        "videoPublishedAt": "2022-04-26T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cBmb9IH4QNKUfNmHlHGkf1Y15oE",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4yQjZFRkExQjFGODk3RUFD",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "10. JavaScript ES6 Modules Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript ES6 Modules Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_YPb0f7yF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_YPb0f7yF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_YPb0f7yF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n_YPb0f7yF0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n_YPb0f7yF0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "n_YPb0f7yF0"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "n_YPb0f7yF0",
+        "videoPublishedAt": "2022-04-29T10:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yhrJe1GH5jcfnUFoeTSTe-F0J40",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy4yQUJFNUVCMzVDNjcxRTlF",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "11. ES6 Class Constructor Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 Class Constructor Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VECvy45rW3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VECvy45rW3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VECvy45rW3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VECvy45rW3Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VECvy45rW3Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VECvy45rW3Y"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "VECvy45rW3Y",
+        "videoPublishedAt": "2022-04-30T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "g68rcHlyVYsEdWKkSQ_Xkh5C1vM",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy40QzRDOEU0QUYwNUIxN0M1",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "12. ES6 Class Expression Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 Class Expression Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VpyNZFn644k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VpyNZFn644k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VpyNZFn644k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VpyNZFn644k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VpyNZFn644k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VpyNZFn644k"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "VpyNZFn644k",
+        "videoPublishedAt": "2022-05-01T10:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "gTTL7vMiwABd977ua9M8PwMeDqA",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy41RTNBREYwMkI5QzU3RkY2",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "13. JavaScript ES6  Static Methods Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about JavaScript ES6  Static Methods Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K34J8KMRLUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K34J8KMRLUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K34J8KMRLUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K34J8KMRLUY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K34J8KMRLUY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "K34J8KMRLUY"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "K34J8KMRLUY",
+        "videoPublishedAt": "2022-05-06T10:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "evW-WPI2n2H1mYSSSQWEZ1A_pwI",
+      "id": "UExOTW5BRXFMQndtb2RVTTBIbEV4eHRZRVJOUzJZQVJoVy5ENjI1QUI0MDI5NEQzODFE",
+      "snippet": {
+        "publishedAt": "2022-05-01T16:21:12Z",
+        "channelId": "UCpGQisjfG8w-E21cG4ScEOA",
+        "title": "14. ES6 Inheritance & Super Bangla Tutorial",
+        "description": "Hello My Friends, In This Video I Will Teach You about ES6 Inheritance & Super Bangla Tutorial\n\nfor business inquiries: habluprogrammer@gmail.com  \n\nআমাদের চ্যানেলের অন্যান্য ভিডিও গুলো দেখতে ভিজিট করুন এই প্লে লিস্ট গুলোঃ  \n1. HTML5 Tutorial For Beginners: https://cutt.ly/qG3IqD7\n\n2. CSS3 Bangla Tutorial: https://cutt.ly/bG3Itz7\n\n3. Git & Github Bangla Tutorial: https://cutt.ly/qG3Iuth\n\n4. Visual Studio Code Bangla Tutorial: https://cutt.ly/BG3Iog8\n\n5. Bootstrap 5 Bangla Tutorials: https://cutt.ly/aG3IpfF\n\n6. Javascript Tutorial For Beginners: https://cutt.ly/UG3IpKe\n\n7. Es6 Bangla Tutorial | Modern Javascript:  https://cutt.ly/wG3Iac9\n\n8. Javascript DOM & BOM Bangla Tutorial:  https://cutt.ly/sG3IaMT\n\n9. Javascript Projects For Beginners : https://cutt.ly/GG3IsRz\n\n10. Chrome DevTools Bangla Tutorial:  https://cutt.ly/RG3Is70\n\n11. Tailwind CSS Tutorial (Bangla): https://cutt.ly/VG3IfxP\n\n12. React JS Bangla Tutorial : https://cutt.ly/xG3Igbt\n\n13. React Material UI Tutorial (Bangla): https://cutt.ly/jG3Iha6\n\n14. Typescript Bangla Tutorial: https://cutt.ly/rG3IjL8\n\n15. PSD TO HTML Bangla Tutorial: https://cutt.ly/AG3IkvZ\n\n16. Figma To HTML Bangla Tutorial: https://cutt.ly/sG3Ik7x\n\n17. AI To HTML Bangla Tutorial: https://cutt.ly/2G3IlEz\n \n18. XD TO HTML : https://cutt.ly/CG3Izxn\n\n19. Sketch To HTML Bangla Tutorial: https://cutt.ly/VG3Ixql\n\n20. Frontend Development: https://cutt.ly/gG3IxTe\n\n21. Web Development Full Course: https://cutt.ly/1G3Icgc\n\nআপনি যদি একজন Frontend Developer হতে চান তাহলে এখনি শেখা শুরু করে দিন। আর হ্যাঁ আপনার বন্ধু এবং পরিবারকে শেয়ার করতে ভুলবেন না।\nধন্যবাদ। ভালোবাসা নিবেন সবাই ❤\n\n\nRegards:\nHablu Programmer Team\nYoutube: https://m.youtube.com/habluprogrammer1\nFB Page: https://www.facebook.com/habluprogrammer \nFB Group: https://www.facebook.com/groups/habluprogrammer\nDiscord:  https://discord.gg/S85s26RwNn\nTelegram:  https://t.me/habluprogrammer\nOn E-mail: habluprogrammer@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pYtLFLdC-C8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pYtLFLdC-C8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pYtLFLdC-C8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pYtLFLdC-C8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pYtLFLdC-C8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hablu Programmer",
+        "playlistId": "PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pYtLFLdC-C8"
+        },
+        "videoOwnerChannelTitle": "Hablu Programmer",
+        "videoOwnerChannelId": "UCpGQisjfG8w-E21cG4ScEOA"
+      },
+      "contentDetails": {
+        "videoId": "pYtLFLdC-C8",
+        "videoPublishedAt": "2022-05-07T10:00:33Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 104,
+    "resultsPerPage": 50
+  }
+}
